@@ -1,0 +1,3141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="01_BAG_2020">
+  <provenance>
+    <derived_from_file>01_BAG_2020.md</derived_from_file>
+    <derived_from_sha256>9a38ee9f1ca1ecf68f1296a2de752d50ae2cf8296e78fee5037436b3ab8bea8b</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_BAG  2020 con toma de razon(1).pdf</original_pdf>
+    <extraction_method>Capa de texto original del PDF</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>12</ocr_corrections_applied>
+      <ocr_corrections_rejected>0</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Bases Administrativas Generales para los Instrumentos de la Corporación de Fomento de la Producción (2020)]]></title>
+  <summary><![CDATA[Resolución que aprueba las Bases Administrativas Generales de CORFO para instrumentos de subsidio y financiamiento de proyectos. Establece procedimientos desde orientación hasta término de proyectos, define requisitos de admisibilidad, criterios de evaluación, garantías y obligaciones de beneficiarios e intermediarios.]]></summary>
+  <index entries="47" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Referencia a Ley N°6.640, DFL N°211/1960, Reglamento Supremo N°360/1945, Ley N°19.880, DS 93/2019 del Ministerio de Economía, Resoluciones 7 y 8/2019 de Contraloría]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[Resolución (A) N°87/2014 de CORFO que delegó facultades al Vicepresidente Ejecutivo para aprobar y modificar Bases Administrativas Generales aplicables a múltiples Gerencias]]></about>
+    </entry>
+    <entry type="resuelvo" page="1">
+      <heading><![CDATA[RESUELVO - Numeral 1°]]></heading>
+      <about><![CDATA[Apruébase el texto de las Bases Administrativas Generales para los instrumentos de subsidio de CORFO]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[1. ASPECTOS GENERALES]]></heading>
+      <about><![CDATA[Alcance general de las BAG, aplicabilidad a postulantes, intermediarios, definición de plazos y facultad interpretativa de CORFO]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[1.1 Alcance]]></heading>
+      <about><![CDATA[Regulan procesos desde orientación hasta término del proyecto y obligaciones entre CORFO, beneficiario e intermediarios]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[1.4 Plazos]]></heading>
+      <about><![CDATA[Todos los plazos son máximos, hábiles administrativos, contados desde el día siguiente a la notificación]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[2. ORIENTACIÓN DE POSTULANTES]]></heading>
+      <about><![CDATA[Acceso a orientación general, limitaciones en modalidad concurso, derivación a intermediarios]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[3. NOTIFICACIONES]]></heading>
+      <about><![CDATA[Notificaciones según Ley 19.880, opción de notificación electrónica con efectos al día siguiente hábil]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[4. POSTULACIÓN]]></heading>
+      <about><![CDATA[Modalidades de postulación (permanente y concurso), publicidad, focalización, medio de postulación en línea]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[4.1 Modalidades]]></heading>
+      <about><![CDATA[Postulación permanente o concurso con plazos determinados, únicos o recurrentes]]></about>
+    </entry>
+    <entry type="numeral" page="4">
+      <heading><![CDATA[4.2 Publicidad de la apertura]]></heading>
+      <about><![CDATA[Aviso en diario de circulación nacional/regional con identificación, modalidad, fechas y lugar de bases]]></about>
+    </entry>
+    <entry type="numeral" page="4">
+      <heading><![CDATA[4.3 Focalización]]></heading>
+      <about><![CDATA[Concentración temática o territorial de instrumentos, transferencia a Gobiernos Regionales]]></about>
+    </entry>
+    <entry type="numeral" page="6">
+      <heading><![CDATA[4.6 Contenido de postulación]]></heading>
+      <about><![CDATA[Descripción de proyecto, objetivos, presupuesto coherente con objetivos del instrumento]]></about>
+    </entry>
+    <entry type="numeral" page="6">
+      <heading><![CDATA[4.6.1 Presupuesto y cuentas presupuestarias]]></heading>
+      <about><![CDATA[Definición de cuentas: recursos humanos, gastos de operación, capacitación, inversión, administración, administración overhead]]></about>
+    </entry>
+    <entry type="numeral" page="9">
+      <heading><![CDATA[4.6.2 Participantes en el proyecto]]></heading>
+      <about><![CDATA[Categorías de participación: beneficiario directo, beneficiario atendido, asociado, coejecutor, consultor experto]]></about>
+    </entry>
+    <entry type="articulo" page="11">
+      <heading><![CDATA[4.7 PROYECTOS AGENCIADOS]]></heading>
+      <about><![CDATA[Operación a través de Agentes Operadores Intermediarios (A01) o Entidades Gestoras, selección mediante concurso público]]></about>
+    </entry>
+    <entry type="articulo" page="13">
+      <heading><![CDATA[5. ADMISIBILIDAD DE LAS POSTULACIONES]]></heading>
+      <about><![CDATA[Análisis de admisibilidad de participantes y proyectos, requisitos verificables, plazos de 20 días]]></about>
+    </entry>
+    <entry type="numeral" page="13">
+      <heading><![CDATA[5.1 Admisibilidad de los participantes]]></heading>
+      <about><![CDATA[Verificación de requisitos específicos según instrumento, responsabilidad del intermediario en proyectos agenciados]]></about>
+    </entry>
+    <entry type="numeral" page="13">
+      <heading><![CDATA[5.2 Admisibilidad del proyecto]]></heading>
+      <about><![CDATA[Verificación de formulario completo, coherencia de objetivos, cofinanciamiento, plazos, focalización, otros requisitos]]></about>
+    </entry>
+    <entry type="articulo" page="14">
+      <heading><![CDATA[6. PROCESO DE EVALUACIÓN]]></heading>
+      <about><![CDATA[Evaluación por CORFO con personal interno/externo, análisis de duplicidad, solicitud de información adicional]]></about>
+    </entry>
+    <entry type="articulo" page="15">
+      <heading><![CDATA[7. DECISIÓN Y ADJUDICACIÓN]]></heading>
+      <about><![CDATA[Presentación a autoridad o órgano competente, decisión fundamentada, ranking en modalidad concurso, establecimiento de condiciones]]></about>
+    </entry>
+    <entry type="articulo" page="16">
+      <heading><![CDATA[8. FORMALIZACIÓN DEL PROYECTO]]></heading>
+      <about><![CDATA[Firma de convenio/contrato de subsidio entre CORFO y beneficiario, entrega de antecedentes legales y técnicos]]></about>
+    </entry>
+    <entry type="numeral" page="17">
+      <heading><![CDATA[8.1 Antecedentes de formalización]]></heading>
+      <about><![CDATA[Documentos legales requeridos por naturaleza de beneficiario (persona jurídica o natural), plazo de 10 días prorrogable a 5 días]]></about>
+    </entry>
+    <entry type="numeral" page="17">
+      <heading><![CDATA[8.1.1 Antecedentes legales de beneficiarios]]></heading>
+      <about><![CDATA[Instrumentos de constitución, inscripción, certificado de vigencia no mayor a 90 días, poderes de representante]]></about>
+    </entry>
+    <entry type="numeral" page="18">
+      <heading><![CDATA[8.1.2 Antecedentes técnicos]]></heading>
+      <about><![CDATA[Definidos en bases particulares del instrumento, plazo de 10 días para entregar, prorrogable a 5 días por situaciones calificadas]]></about>
+    </entry>
+    <entry type="numeral" page="19">
+      <heading><![CDATA[8.2 Redacción y envío del convenio]]></heading>
+      <about><![CDATA[Plazo de 7 días (o 10 con múltiples beneficiarios) desde recepción de antecedentes conformes para envío de convenio]]></about>
+    </entry>
+    <entry type="numeral" page="19">
+      <heading><![CDATA[8.3 Selección del intermediario]]></heading>
+      <about><![CDATA[Proceso de selección de A01/Entidades Gestoras con apertura en sistema, comisión evaluadora, plazo mínimo 5 días hábiles]]></about>
+    </entry>
+    <entry type="numeral" page="20">
+      <heading><![CDATA[8.4 Entrega del aporte CORFO]]></heading>
+      <about><![CDATA[Modalidades de anticipo y reembolso, condiciones de entrega, documentos de garantía requeridos]]></about>
+    </entry>
+    <entry type="numeral" page="20">
+      <heading><![CDATA[8.4.1 Modalidades]]></heading>
+      <about><![CDATA[Recursos en una o más cuotas, a título de anticipo o contra rendición de informes, máximo porcentaje por cuota]]></about>
+    </entry>
+    <entry type="numeral" page="20">
+      <heading><![CDATA[8.4.2 Condiciones]]></heading>
+      <about><![CDATA[Tramitación de acto administrativo, entrega de garantías, estar al día en cotizaciones de seguridad social e impuestos]]></about>
+    </entry>
+    <entry type="numeral" page="21">
+      <heading><![CDATA[8.4.3 Documentos de Garantía]]></heading>
+      <about><![CDATA[Garantía por anticipos (3 meses mínimo de vigencia) y garantía por fiel cumplimiento (3% del monto total), plazo de 30 días para entregar]]></about>
+    </entry>
+    <entry type="articulo" page="23">
+      <heading><![CDATA[9. VERSIÓN VIGENTE DEL PROYECTO]]></heading>
+      <about><![CDATA[Versión que contiene decisión del órgano competente, condiciones de adjudicación, presupuesto diferenciado por fuente]]></about>
+    </entry>
+    <entry type="articulo" page="23">
+      <heading><![CDATA[10. INICIO DE LOS PROYECTOS]]></heading>
+      <about><![CDATA[Fecha de inicio es la de tramitación del acto aprobatorio, o la indicada en convenio si es posterior]]></about>
+    </entry>
+    <entry type="articulo" page="23">
+      <heading><![CDATA[11. SEGUIMIENTO DE LOS PROYECTOS]]></heading>
+      <about><![CDATA[CORFO puede hacer seguimiento sin aviso previo, beneficiario es responsable de ejecución, no asume CORFO codirección]]></about>
+    </entry>
+    <entry type="numeral" page="23">
+      <heading><![CDATA[11.1 Disponibilidad y entrega de información]]></heading>
+      <about><![CDATA[CORFO puede hacer revisiones y visitas en terreno, beneficiario debe llevar contabilidad separada, conservar documentos 3 años]]></about>
+    </entry>
+    <entry type="numeral" page="24">
+      <heading><![CDATA[11.2 Informes]]></heading>
+      <about><![CDATA[Informe final dentro de 1 mes desde vencimiento de plazo de ejecución, informes de avance según calendario, CORFO aprueba en 30 días]]></about>
+    </entry>
+    <entry type="numeral" page="26">
+      <heading><![CDATA[11.3 Acciones correctivas]]></heading>
+      <about><![CDATA[CORFO puede suspender entrega de recursos, ordenar abstención de gastos, aplicar medidas correctivas o dar término anticipado]]></about>
+    </entry>
+    <entry type="numeral" page="26">
+      <heading><![CDATA[11.4 Rendiciones]]></heading>
+      <about><![CDATA[Rendición según Resolución 30/2015 de Contraloría, base de costos reales respaldados, verificación de pertinencia técnica]]></about>
+    </entry>
+    <entry type="numeral" page="27">
+      <heading><![CDATA[11.4.1 Gastos anticipados]]></heading>
+      <about><![CDATA[Gastos aceptables solo después de tramitación, casos calificados pueden incluir desde comunicación de aprobación]]></about>
+    </entry>
+    <entry type="numeral" page="27">
+      <heading><![CDATA[11.4.2 Costo total efectivo y regla de proporcionalidad]]></heading>
+      <about><![CDATA[Si costo efectivo excede presupuesto, beneficiario asume diferencia; si es menor, debe restituir subsidio en exceso]]></about>
+    </entry>
+    <entry type="numeral" page="27">
+      <heading><![CDATA[11.4.3 Restricciones y limitaciones a gastos]]></heading>
+      <about><![CDATA[No financiables: inversiones en Mercado de Capitales, impuestos recuperados, bienes no determinantes, indemnizaciones]]></about>
+    </entry>
+    <entry type="numeral" page="27">
+      <heading><![CDATA[11.5 Adquisiciones y contrataciones]]></heading>
+      <about><![CDATA[Procedimientos de adquisición según normativa vigente de contratación pública]]></about>
+    </entry>
+    <entry type="anexo" page="41">
+      <heading><![CDATA[ANEXO N° 1]]></heading>
+      <about><![CDATA[Declaración Jurada de estar al día en obligaciones de seguridad social, cotizaciones de desempleo e impuestos]]></about>
+    </entry>
+    <entry type="anexo" page="41">
+      <heading><![CDATA[ANEXO N° 2]]></heading>
+      <about><![CDATA[Convenio de coejecución entre beneficiario y coejecutor (referencia, no reprodujido en línea)]]></about>
+    </entry>
+    <entry type="anexo" page="47">
+      <heading><![CDATA[ANEXO N° 3]]></heading>
+      <about><![CDATA[Declaración Jurada de persona jurídica respecto a cumplimiento de Decreto Ley 211/1973 sobre defensa de libre competencia]]></about>
+    </entry>
+    <entry type="anexo" page="48">
+      <heading><![CDATA[Declaración Jurada - Persona Natural]]></heading>
+      <about><![CDATA[Declaración Jurada de persona natural respecto a cumplimiento de DL 211/1973 y conocimiento de artículo 470 N°8 CP]]></about>
+    </entry>
+    <entry type="resuelvo" page="49">
+      <heading><![CDATA[RESUELVO - Numerales 2° y 3°]]></heading>
+      <about><![CDATA[Vigencia de BAG, publicación en web de CORFO, instrucción de anotar y tomar razón]]></about>
+    </entry>
+  </index>
+  <key_points count="27">
+    <point type="plazo" page="2">
+      <text><![CDATA[Se entenderá que todos los plazos señalados en las presentes bases son máximos, y se contarán desde el día siguiente a aquél en que se notifique el respectivo acto.]]></text>
+      <why><![CDATA[Define el inicio de conteo de todos los plazos del proceso]]></why>
+    </point>
+    <point type="plazo" page="14">
+      <text><![CDATA[El plazo para realizar el análisis de admisibilidad de los proyectos postulados directamente por los beneficiarios será de 20 días]]></text>
+      <why><![CDATA[Plazo máximo para análisis de admisibilidad en postulación permanente]]></why>
+    </point>
+    <point type="plazo" page="15">
+      <text><![CDATA[El plazo para presentar las propuestas a decisión no podrá exceder de 50 días en instrumentos puestos a disposición en la modalidad de postulación permanente]]></text>
+      <why><![CDATA[Plazo máximo para presentar propuestas a decisión en modalidad permanente]]></why>
+    </point>
+    <point type="plazo" page="15">
+      <text><![CDATA[70 días en la modalidad de concurso, contados desde la realización del análisis de admisibilidad de la totalidad de los proyectos presentados]]></text>
+      <why><![CDATA[Plazo máximo para decisión en modalidad concurso]]></why>
+    </point>
+    <point type="plazo" page="16">
+      <text><![CDATA[En ambos casos, dentro del plazo de 5 días, contados desde la emisión de la resolución antes señalada, CORFO comunicará de manera fundada y completa la decisión al postulante]]></text>
+      <why><![CDATA[Plazo para notificación de decisión de aprobación o rechazo]]></why>
+    </point>
+    <point type="plazo" page="17">
+      <text><![CDATA[El plazo para la entrega de los antecedentes legales y técnicos por parte del beneficiario será de 10 días, contados desde la Comunicación formal de aprobación del proyecto. Este plazo podrá prorrogarse hasta por un máximo de 5 días]]></text>
+      <why><![CDATA[Plazo para entrega de documentos de formalización]]></why>
+    </point>
+    <point type="plazo" page="19">
+      <text><![CDATA[se redactará el convenio o contrato de subsidio a celebrarse, el que será enviado al beneficiario para su firma, dentro de un plazo de 7 días contados desde la recepción conforme de dichos antecedentes. Este plazo se ampliará a 10 días cuando fueren 2 o más los beneficiarios]]></text>
+      <why><![CDATA[Plazo para redacción y envío de convenio de subsidio]]></why>
+    </point>
+    <point type="plazo" page="19">
+      <text><![CDATA[El beneficiario tendrá un plazo máximo de 10 días, contados desde la fecha de envío del convenio, para firmarlo electrónicamente, o remitir firmados a CORFO]]></text>
+      <why><![CDATA[Plazo para firma de convenio por beneficiario]]></why>
+    </point>
+    <point type="plazo" page="20">
+      <text><![CDATA[En caso alguno el plazo de postulación podrá ser inferior a 5 días hábiles]]></text>
+      <why><![CDATA[Plazo mínimo de postulación para selección de intermediarios]]></why>
+    </point>
+    <point type="garantia" page="22">
+      <text><![CDATA[Los documentos de garantía — por anticipo y/o fiel cumplimiento del contrato o convenio - deberán entregarse dentro del plazo de 30 días, contados desde su requerimiento por parte de CORFO]]></text>
+      <why><![CDATA[Plazo límite para presentación de garantías]]></why>
+    </point>
+    <point type="garantia" page="21">
+      <text><![CDATA[una caución de igual naturaleza para garantizar el fiel cumplimiento del convenio o contrato de subsidio por un valor equivalente al 3% del monto total del subsidio]]></text>
+      <why><![CDATA[Monto de garantía por fiel cumplimiento es 3% del total]]></why>
+    </point>
+    <point type="garantia" page="21">
+      <text><![CDATA[se deberá entregar-por el beneficiario o el intermediario, cauciones consistentes, ya sea en vales vista, boletas de garantía bancaria pagadera a la vista, depósitos a plazo, pólizas de seguro de ejecución inmediata o a primer requerimiento, o Certificados de Fianza]]></text>
+      <why><![CDATA[Tipos de instrumentos aceptados como garantía]]></why>
+    </point>
+    <point type="garantia" page="21">
+      <text><![CDATA[debiendo tener una vigencia de por lo menos 3 (tres) meses sobre la fecha de entrega del informe de avance y/o final]]></text>
+      <why><![CDATA[Vigencia mínima de garantía por anticipos es 3 meses]]></why>
+    </point>
+    <point type="requisito" page="21">
+      <text><![CDATA[La glosa de dicho instrumento de garantía deberá expresar que su objetivo consiste en 'garantizar el correcto uso del anticipo otorgado por CORFO/ Comité (...), para la ejecución del proyecto']]></text>
+      <why><![CDATA[Contenido obligatorio de la glosa de garantías]]></why>
+    </point>
+    <point type="requisito" page="20">
+      <text><![CDATA[Se deberá presentar una declaración jurada utilizando el formato del Anexo N° 1 que indique que se está al día en el cumplimiento de las obligaciones antes señaladas]]></text>
+      <why><![CDATA[Condición de estar al día en impuestos y seguridad social]]></why>
+    </point>
+    <point type="plazo" page="24">
+      <text><![CDATA[El beneficiario, y los coejecutores en su caso, deberán mantener conservada la información y documentación de respaldo, a lo menos, durante los tres años siguientes al término del proyecto]]></text>
+      <why><![CDATA[Período de conservación de documentación es 3 años post-proyecto]]></why>
+    </point>
+    <point type="plazo" page="25">
+      <text><![CDATA[el beneficiario deberá cumplir tal requerimiento dentro de los 10 días siguientes]]></text>
+      <why><![CDATA[Plazo para cumplimiento de requerimientos de información]]></why>
+    </point>
+    <point type="plazo" page="25">
+      <text><![CDATA[CORFO dará su aprobación o formulará observaciones a los informes en el plazo de 30 días, contados desde su recepción]]></text>
+      <why><![CDATA[Plazo para revisión de informes por CORFO]]></why>
+    </point>
+    <point type="plazo" page="25">
+      <text><![CDATA[Una vez que se hayan entregado por el beneficiario, todos los antecedentes, modificaciones o complementaciones solicitadas, CORFO resolverá en definitiva dentro del plazo de 45 días]]></text>
+      <why><![CDATA[Plazo máximo para resolución final después de aclaraciones]]></why>
+    </point>
+    <point type="plazo" page="24">
+      <text><![CDATA[el beneficiario deberá ser presentado a CORFO dentro del mes siguiente al vencimiento del plazo de ejecución del proyecto]]></text>
+      <why><![CDATA[Plazo para entrega de informe final es 1 mes post-ejecución]]></why>
+    </point>
+    <point type="porcentaje" page="27">
+      <text><![CDATA[reasignaciones no excedan del 30% del costo total del proyecto]]></text>
+      <why><![CDATA[Límite de reasignación presupuestaria es 30%]]></why>
+    </point>
+    <point type="sancion" page="22">
+      <text><![CDATA[Si transcurridos los plazos señalados o su prórroga, no se ha presentado cualquiera de los documentos de garantía, debiendo hacerlo, CORFO tendrá por desistida la postulación, o pondrá término anticipado al convenio]]></text>
+      <why><![CDATA[Consecuencia de no presentar garantías a tiempo]]></why>
+    </point>
+    <point type="sancion" page="25">
+      <text><![CDATA[El incumplimiento reiterado en la entrega oportuna de los informes facultará a CORFO para ejecutar la garantía de fiel cumplimiento]]></text>
+      <why><![CDATA[Ejecución de garantía por incumplimiento en entrega de informes]]></why>
+    </point>
+    <point type="requisito" page="10">
+      <text><![CDATA[Se entenderá que existe conflicto de interés, cuando algún miembro del Consultor Experto o Entidad Consultora del proyecto es, a su vez, gerente/a, administrador/a, representante, director/a o socio/a dueño de más del 10% del capital del intermediario]]></text>
+      <why><![CDATA[Define conflicto de interés por participación accionaria mayor a 10%]]></why>
+    </point>
+    <point type="requisito" page="11">
+      <text><![CDATA[el Gerente/Coordinador del Proyecto tenga un vínculo de cónyuge, hijo/a, adoptado/a o pariente hasta el segundo grado de consanguinidad o afinidad con socio/a dueño/a de más del 50% del capital del intermediario]]></text>
+      <why><![CDATA[Conflicto de interés por relaciones familiares con socios mayoritarios]]></why>
+    </point>
+    <point type="definicion" page="7">
+      <text><![CDATA[Aporte nuevo o pecuniario: aquel que tiene su causa en la ejecución del proyecto y que, de no haberse iniciado éste, no se hubiese incurrido en él]]></text>
+      <why><![CDATA[Define recursos nuevos que sí cuentan como aporte cofinanciador]]></why>
+    </point>
+    <point type="definicion" page="7">
+      <text><![CDATA[Aporte preexistente o valorizado: el aporte de uso de insumos, equipamiento, infraestructura, destinación de recurso humano, entre otros, ya existentes en el participante aportante]]></text>
+      <why><![CDATA[Define recursos valorizados que pueden contar como aportes]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="2" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure page="22">
+      <as_read><![CDATA[deberá tener una vigencia de, por lo menos, rmeses sobre la fecha de presentación del informe final]]></as_read>
+      <problem><![CDATA['rmeses' contiene la letra 'r' seguida de 'meses', probablemente debería ser un número de meses seguido de la palabra (ej: '6 meses' o '12 meses')]]></problem>
+    </figure>
+    <figure page="22">
+      <as_read><![CDATA[Antes dé la fecha de vencimiento de este plazo]]></as_read>
+      <problem><![CDATA['dé' tiene tilde diacrítica cuando debería ser preposición 'de' sin tilde]]></problem>
+    </figure>
+  </figures_to_check>
+  <pages count="49" declared_in_source="49">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOP
+VICEPRESIDENCIA EJECUTIVA
+NFA
+JMDAD JURIDICA
+II CRM•
+J
+E
+C BEEtCLUDIÓN AF CTA
+OFICINA DE PARTES
+08.04.2 0 tlf11128 •
+SANTIAGO
+APRUEBA BASES ADMINISTRATIVAS
+GENERALES PARA LOS INSTRUMENTOS DE
+LA CORPORACIÓN DE FOMENTO DE LA
+PRODUCCIÓN.
+VISTO:
+La.  Ley N°6.640, que crea la Corporación de Fomento de la Producción; el Decréto
+con Fuerza de Ley N°211, de 1960, del Ministerio de Hacienda, que Fija Normas
+que Regirán a la Corporación de Fomento de la Producción; el Reglamento de la
+Corporación, aprobado por Decreto Supremo N° 360, de 1945, del Ministerio de
+Economía; la Ley N° 19.880, que Establece Bases de los Procedimientos
+Administrativos que Rigen los Actos de los Órganos de la Administración del
+Estado; el Decreto Supremo N° 93, de 10 de septiembre de 2019, del Ministerio de
+Economía, Fomento y Turismo que nombra en el cargo de Vicepresidente
+Ejecutivo de Corro; y lo establecido en las Resoluciones N° 7 y N° 8, de 2019,
+ambas de la Contralorla General de la República, que fija normas sobre exención
+del trámite de toma de razón y determina los montos a partir de los cuales los actos
+quedarán sujetos á toma de razón y a controles de reemplazo cuando corresponda,
+respectivamente.
+,
+CONSIDERANDO:
+La Resolución (A) N° 87, de 2014, de Corro, que ejecutó el Acuerdo de Consejo
+N° 2.839, de 2014, que estableció al continuador de la Subdirección de
+Transferencia Tecnológica del Comité InnovaChile, y delegó facultades en los
+órganos y autoridades de la Corporación, y que, en el numeral 3° de la parte
+resolutiva, numeral cuarto, facultó al Vicepresidente Ejecutivo de Corto para
+aprobar y modificar Bases Administrativas Generales aplicables a más de una
+Gerencia de Corto pudiendo para dicho efecto, además, modificar Bases
+Administrativas vigentes.
+Que, se ha estimado necesario y conveniente contar con un texto de Bases
+Administrativas Generales que se aplique a los instrumentos de subsidio que las
+distintas Gerencias de la Corporación implementan y administran.
+RESUELVO:
+1° APRUÉBASE el texto de las Bases Administrativas Generales para los
+instrumentos de subsidio ,de la Corporación de Fomento de la Producción, cuyo
+tenor es el siguiente:
+CO
+ONTRALOR,
+LA REPÚBLICA
+1
+77 ABR 2020
+CONTRALOR REGIONAL (S)
+II CONTRALORÍA REGIONAL
+METROPOLITANA DE SANTIAGO
+Lity2_y
+gr.
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+_•
+'1. ASPECTOS GENERALES
+.1.1 Alcance
+1.2
+Las presentes Bases Administrativas Generales, en adelante e indistintamente'
+las bales" o "GAG", regulan los procesos y trámites que deberán cumplirse
+desde la etapa de orientación de los postulantes, preparación y/o la postulación
+misma, hasta el término del proyecto y, cuando corresponda, de la relación
+contractual - y de todas las obligaciones que ésta origine entre Corto y el
+beneficiario y/o Intermediario (Agentes Operadores Intermediarios, Entidades
+Gestoras, u otros). Lo anterior, sin perjuicio de la aprobación de bases
+administrativas especiales de instrumentos específicos.
+Los Comités ae Corto podrán utilizar estas bases, si así lo dispusiere su Director
+Ejecutivo.
+1.3 Alcance
+Las presentes Bases Administrativas Generales se aplicarán a los instrumentos
+de financiamiento de Corto, total o parcial para la ejecución de proyectos o
+programas, cuyas bases particulares o bases del instrumento expresamente lo
+dispongan.
+1.4 Plazos
+Se entenderá que todos los plazos señalados en las presentes bases son
+máximos, y se contarán desde el día siguiente a-aquél en que se notifique el
+respectivo acto. Si se refieren a días, se entenderán como hábiles
+administrativos, a 'menos que se señale lo contrario. Son días inhábiles los
+sábados, domingos, feriados y festivos en Chile Continental. Cuando el último
+día del plazo recaiga en un día inhábil en ese territorio, éste se entenderá
+prorrogado al primer día hábil siguiente.
+Los plazos establecidos en estas bases podrán ser modificados en las bases
+particulares, atendida su naturaleza específica.
+1.5 Interpretación
+Corto se reserva la facultad de resolver toda controversia o duda en cuanto al
+correcto sentido y alcance, forma y oportunidad de aplicación, y todo otro
+conflicto interpretativo que pudiese surgir de la aplicación de estas bases. Lo
+anterior, sin perjuicio de los recursos establecidos-en la ley.
+2
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+•••
+CORF 00
+La referencia a órganos colegiados, autoridades o unidades operativas de
+\
+Corlo, se entenderá efectuada también a aquellos que los sustituyan o
+reemplacen en el cumplimiento de la función respectiva,
+ORIENTACION DE POSTULANTES
+Los interesados en postular a los instrumentos de financiamiento y/o cofinanciamiento
+de Corto podrán solicitar orientación general respecto de su iniciativa, la que en caso
+alguno consistirá en la formulación del proyecto o programa..
+Adicionalmente, y para el caso de los instrumentos puestos a disposición a través de
+la modalidad concurso, y una vez cámunicada su apertura, durante el proceso de
+formulación los potenciales postulantes podrán comunicar a Codo que se encuentran
+en dicho proceso, y solicitar orientación general respecto de su iniciativa, para lo cual
+Corlo dispondrá al efecto de personal idóneo, con las limitaciónes ya señaladas.
+En el caso de instrumentos Intermediados, Corfq podriderivar las consultas a los
+intermediarios respectivos.
+En ningún caso la orierttación de los postulantes implicará la realización de.una pre-
+evaluación o juicio alguno en relación a los proyectos, ni obstará a su postulación, la
+cual será evaluada en conformidad a los criterios que se establecen en las bases
+particulares del instrumento.
+NOTIFICACIONES
+Las notificaciones se realizarán en la forma establecida en 'la Lási N° 19.880.
+Asimismo, y en virtud de lo dispuesto en el artículo 30, letra a).  y artículo 19, inciso
+primero de esa misma Ley, el beneficiario o intermediario, podrá autorizar y consentir
+expresamente para que los actos administrativos dictados por Corto relacionados con
+el proyecto le sean notificados mediante el envío de una copia, al correo electrónico
+informado en su postulación. En estos casos, la notificación surtirá efectos a partir del
+día siguiente hábil a su envío. El beneficiario o intermediario se obliga a mantener
+actualizado el correo electrónico informado y, cualquier cambio de éste, deberá ser
+comunicado a Corto.
+Una vez que entre en' vigor la modificación incorporada a la ley N° 19.880, por la ley
+N°21.180, las notificaciones electrónicas se realizarán en la forma establecida en el
+artículo 46 del primero de esos cuerpos legales.
+4. POSTULACIÓN
+4.1 Modalidades de postulación
+Los instrumentos de financiamiento y/o cofinanciamiento podrán ser puestos a
+disposición de los interesados, a través de las siguientes modalidades:
+, a) Postulación permánente: permite postular cualquier día del año mientras
+"su apertura se encuentre vigente.
+3
+L
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+b) Concurso: permite postular durante un plazo determinado, pudiendo ser un
+llamado único o llamados recurrentes.
+4.2 Publicidad de la apertura para las postulaciones
+La comunicación sobre la apertura de las postulaciones se realizará mediante un
+aviso publicado en un diario de circulación nacional y/o regional, según la
+territorialidad del llamado y contendrá, al menos, la siguiente información:
+identificación del instrumento, su modalidad de postulación, fecha y lugar en que se
+encontrarán disponibles las bases particulares, dla y hora de inicio de las
+postulaciones y cierre de las mismas, correo electrónico para las consultas y el
+medio de postulación, información que, además, será publicada en el sitio web de
+Corfo.
+En caso de la modalidad concurso, el llamado, sea éste único o recurrente, señalará,
+además, la fecha y hora de vencimiento del plazo para las postulaciones,
+'
+En ambas modalidades, Corto podrá, adicionalmente, informar de la apertura de las
+postulaciones o el respectivo llamado, en cualquier otro medio de comunicadón.que
+asegure su adecuada difusión.
+Si la fecha de apertura no se informara expresamente, ésta será aquella de la
+publicación del avilo.
+4.3 Focalización,
+La apertura de postulaciones a los instrumentos de financiamiento y/o
+cofinanciamiento, cualquiera sea la modalidad, podrán ser totalizados temática y/o
+territorialmente, lo que será comunicado en el respectivo aviso.
+La focalización es la decisión administrativa de concentrar o dirigir un instrumento a
+un territorio determinado y/o temática.
+Temática: las postulaciones podrán estar acotadas a área(s) o sector(es)
+productivo(s)/económico(s) y/o desafío(s) específicos y, en tal caso, éstas
+podrán ser desarrolladas en un documento complementario que será
+puesto a disposición de los postulantes en el sitio web de Corto.
+.Territorial: territorio geográfico, en conformidad I la división polftico —
+:
+administrativa del país. •
+4.3.1. Instrumentos cuya focalización ha sido transferida a los Gobiernos
+Regionales
+Tratándose de concursos o ventanilla abierta de instrumentos financiados con
+recursos presupuestarios de la Corporación y/o sus Comités, cuya focalización
+haya sido transferida a los Gobiernos Regionales, deberá estarse a la
+determinación que realice ese órgano de la Administración del Estado.
+No se comprenderá en el párrafo anerior los recursos presupuestarios
+originados en transferencias 'realizadas por Ministerios, salvo que dichos
+
+---
+
+]]></content>
+    </page>
+    <page number="5">
+      <source_delimiter><![CDATA[<!-- página PDF 5 -->
+## Página 5
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+órganos autoricen la localización territorial o temática realizada por el Gobierno
+Regional o consientan en aplicarla.
+1. Oportunidad:
+El proceso de localización será anual, y deberá realizarse, a más tardar,
+durante el tercer trimestre de cada año.
+El gobierno regional notificará a Corlo y/o a los Comités de su dependencia
+que administren- los instrumentos, el acto administrativo que ejecute el
+acuerdo del Consejo Regional por el cual se realice la localización, dentro de
+los 10 días siguientes a la fecha de su dictadón. Dicha notificación deberá.
+realizarse hasta el 31 de diciembre del año anterior al que deba aplicarse la
+localización.
+•.
+Corlo velará para que el proceso de localización se ejecute en concordancia
+con los objetivos de los instgmentos en los que recae, prestando su
+colaboración y apoyo técnico á gobierno regional que así lo requiera, en la
+forma que ambos órganos acuerden.
+II. Conceptos:
+Para los efectos de la competencia de Corto transferida a los Gobiernos
+Regionales, se entenderá por
+Focalización temática: sector productivo o económico, población o materia
+determinado, sobre el cual podrá recaer la focafización.
+-
+Focahzación territorial: Se refiere al territorio geográfico, en conformidad a la
+división político — administrativa del país, de competencia de cada Gobierno
+'Regional, objeto de, localización.
+ni.
+Oportunidad para éjercer la competencia transferida por el OoMerno
+Regional.
+El Gobierno Regional respectivo deberá ejercer la facultad dé localizar en las
+siguientes oportunidades: •
+•
+a) Deberá informar, notificando el acto administrativo que ejecute el acuerdo
+adoptado por el Consejo Regional que realice la localización, dentro del
+mes de diciembre de cada año, a Corto y/o a los Comités, la localización
+temática,y/o territorial que dará a los instrumentos de la Corporación
+respecto de los cuales se transfirió la competencia.
+Si, vencido el plazo antes otorgado, el Gobierno Regional no hubiere
+comunicado su decisión a Corto y/o a sus Comités, se podrá localizar el
+o los instrumentos respecto de los cuales se hubiere transferido la
+competencia, según las definiciones de la Corporación y sus Comités, y
+por quien tenga las facultades para ello.
+Sin perjuicio de lo señalado en la letra a) precedente, en el caso en que
+la modalidad de postulación al instrumento fuere concurso o de llamado
+recurrente, según lo indicado en el numeral 4.1 anterior, y el Gobierno
+Regional comunicare su decisión de localizar después de vencido el plazo
+otorgado precedentemente, Corlo deberá darle cumplimiento a ésta, en
+los llamados que realicen con posterioridad a dicha comunicación.
+1/4
+b)
+
+---
+
+]]></content>
+    </page>
+    <page number="6">
+      <source_delimiter><![CDATA[<!-- página PDF 6 -->
+## Página 6
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+4.4 Medio de Postulación
+Los proyectos, junto con los antecedentes solicitados, deberán ingresarse a través
+del sistema de postulación 'en línea que Corfo ponga a disposición para estos
+efectos.
+4.5 Forma de presentación de los proyectos y/o de realización del
+seguimiento y control
+Postulación y seguimiento directo: El interesado postula el proyecto y, una
+vez adjudicado, celebra un convenio o contrato con Corto, en el que se
+regulan las condiciones para la ejecución de la iniciativa y entrega del aporte.
+Postulación y/o seguimiento agenciados: El interesado directamente o con el
+apoyo de un intermediario, según se regule en las bases particulares o
+Reglamento, elabora y postula el proyecto, sea éste individual o colectivo.
+Si se contemplare la participación del intermediario desde la postulación,
+será éste quien deberá realizar el séguimiento y control de la ejecución, salvo
+que el órgano colegiado competente, excepcionalmente, determinare que la
+administración, supervisión y seguimiento de estos proyectos sea ejecutada
+directamente por la Corporación.
+-
+Si la participación del intermediario se contemplare una vez adjudicado el
+proyecto — habiéndose postulado directamente la iniciativa -, éste será el
+encargado del seguimiento y control, previa celebración de un contrato con
+el intermediario, el que asumirá la administración, supervisión y seguimiento
+del proyecto.
+Preparación de iniciativas por Codo: esta situación ocurrirá en los casos de
+instrumentos que operan desde la-oferta. En estos casos es Corto la que,
+desde alguna de sus unidades administrativas, prepara un proyecto y lo
+presenta para el conocimiento y decisión de un órgano colegiado o autoridad,
+determinando en las bases particulares o reglamentos de los instrumentos si
+la ejecución y administración será agenciada o directa.
+4.6 Contenido de la postulación
+La postulación deberá contener la descripciÚn del proyecto para cuya ejecución se
+solicita financiamiento, identificándose con claridad sus objetivos y presupuesto, los
+cuales deberán ser coherentes con aquellos objetivos definidos para el instrumento
+de financiamiento parciál o total al Cual se postula; c6n la envergadura y complejidad
+técnica de las actividades a realizar; con el plazo en que éstas se lleven a cabo y la
+capacidad financiera del postulante, si ello correspondiere, lo que será evaluado por.
+Corto en la etapa pertinente.
+El proyecto deberá formularse de,acuertlo Con los contenidos que se establezcan
+en las bases particulares. Asimismo, deberá contener un presupuesto e identificar a
+los participantes, según las normas que siguen:,
+4.6.1 Presupuesto y cuentas presupuestarias
+Las bases particulares determinarán qué actividades y/o gastos pueden ser
+financiados - con el subsidio y/o aportes de terceros participantes - durante el plazo
+6
+
+---
+
+]]></content>
+    </page>
+    <page number="7">
+      <source_delimiter><![CDATA[<!-- página PDF 7 -->
+## Página 7
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+de ejecución del proyecto. Dichas actividades y/o gastos deberán ser
+presupuestados utilizando las cuentas que se definen más adelante, debiendo
+indicarse, en cada caso, la fuente de financiamiento, es decir, si se financian con
+subsidio de Corto y/o con aporte de los-participantes, identificándose la naturaleza
+de estos últimos aportes.
+El aporte de los participantes puede ser "aporte nuevo o pecuniario" y/o "aporte
+preexistente o valorizado", de acuerdo con los mínimos y condiciones que se
+establezcan en las bases particulares. Se entiende por
+Aporte nuevo o pecuniario: aquel que tiene su causa en la ejecución del
+proyecto y que, de no haberse iniciado éste, no se hubiese incurrido en él.
+En otras palabras, no corresponde a este -concepto la utilización de
+instalaciones, infraestructura, recursos humanos, y otros, ya existentes en
+el participante aportante y/o en los demás participantes, al momento de la
+postulación.
+•• Aporte preexistente o valorizado: el aporte de uso de insumos
+equipamiento, infraestructura, destinación de recurso humano, entre otros,
+ya existentes en el participante aportante y/o en los demás participantes, al
+momento de la postulación.
+Las cuentas presupuestarias son las siguientes:
+Recursos humanos: corresponde a las remuneraciones y/u honorarios por
+servicios personales (personas naturales), del personal técnico y
+profesional (equipo de trabajo) vinculado directamente a la ejecución' de
+actividades del proyecto.
+En esta Puenta se deberán presupuestar, además, las obligaciones legales
+(no voluntarias) de seguridad social, y de seguro de desempleo que sean
+de cargo del trabajador.
+Atendida la obligación de resguardo y buen uso de los recursos públicos,
+Corto adoptará las medidas tendientes a que el pago de las
+remuneraciones Y/u honorarios del equipo de trabajo se adecue a valores
+de mercado, esté justificado y sea coherente con la dedicación requerida
+para la ejecución de las actividades del proyecto.
+Gastos de operación: Se deberá presupuestar en esta cuenta los aastos
+directos asociados a la ejecución del proyecto. Según las actividades y/o
+gastos financiables que se determinen en las bases particulares, en esta
+cuenta se podrán presupuestar, por ejemplo: compra de bienes no •
+inventariables; materiales e insumos; arrendamiento de espacio físico;
+transporte y arrendamiento de vehículos; compra de pasajes nacionales e
+internacionales; gastos de alojamiento y alimentación; pago de honorarios
+a expositores; costo de las gafantlas entregadas a Corlo para caucionar el
+convenio o contrato de subsidio y/o el anticipo otorgado (salvo que éste
+deba ser financiado con cargo al Overhead); primas de seguros; gastos
+asociados a actividades de difusión, capacitación y/o entrenamiento
+(desarrollo de seminarios/talleres/charlas, participación en ferias, mesas de
+trabajo) —si es que las bases particulares no contemplan el uso de la cuenta
+de capacitaciones-, gastos de certificación e implementación de normas de
+calidad, entre otros.
+\
+•
+
+---
+
+]]></content>
+    </page>
+    <page number="8">
+      <source_delimiter><![CDATA[<!-- página PDF 8 -->
+## Página 8
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+Asimismo, se deberá presupuestar en esta cuenta, las actividades
+extemalizadas, esto es, aquellas cuya ejecución se contrata a terceros, las
+cuales deberán ser identificadas en la postulación.
+Gastos
+de
+Capacitación: Corresponde a gastos asociados
+exclusivamente a actividades de capacitación, previamente contempladas
+en el proyecto, tales como contratación depursos, talleres de capacitación,
+traída de expertos, seminarios, entre otras. Se deberá utilizar sólo en los •
+casos en que las bases particulares contemplen el uso de esta cuenta
+presupuestaria.
+Gastos de Inversión: Se deberán presupuestar en esta cuenta los gastos
+en adquisición de bienes de capital u otros bienes del activo fijo y/o mejoras
+o adecuaciones de bienes inventariables destinados a la ejecución de
+actividades necesarias para lograr los objetivos del proyecto.
+Para efectos de los gastos que se imputen en esta cuenta, te deberá tener
+en consideración lo dispuesto en la letra ti) del subnumeral 11.4.3 de estas
+bases, que dispone, como regla general, que sólo podrán presupuestarse
+dichos gastos (con cargo al subsidio y/o aportes) en forma proporcional al
+uso que de ellos se contemple eh el proyecto. •
+Además, corresponden a inversión los ,gastos en capital de trabajo,
+consistentes en insumos y recursos humanos asociados directamente al
+proyecto de inversión, siempre que, según las normas contables y
+tributarias aplicables, éstas deban ser incorporadas en el valor del bien.
+Gastos de administración: Se deberán presupuestar en esta cuenta los
+gastos indirectos asociados a la ejecución del proyecto, tales como
+servicios básicos (electricidad, agua, gas, apeo, intemet, telefonía y
+telefonía móvil), servicios de contabilidad y personal administrativo de
+apoyo.
+•
+•
+Gastos de administración (overhead): En los instrumentos
+intermediados, esta cuenta contempla en pago por la promoción, captación,
+evaluación, supervisión, Seguimiento, administración y ejecución de los
+proyectos o programas, siempre que las bases particulares contemplen la
+participación de estas entidades, entre las qué se encuentran - sin que la
+enumeración sea taxativa-, Incubadoras, Patrocinadores de Capital
+Semilla, Redes de Capitalistas Ángeles, Entidades Gestoras, Agentes
+Operadores Intermediarios (A01), se deberá presupuestar en esta cuenta
+los montos que Corto pague a dichas entidades, por concepto de
+promoción, captación . de interesados, evaluación, supervisión,
+seguimiento, administración y/o ejecución de proyectos, incluyéndose
+gastos tales como los asociados al apoyo y seguimiento de actividades y
+financiero; apoyo a la gestión estratégica del negocio; apoyo en la
+búsqueda e socios potenciales, entre otros, de conformidad a lo que
+dispongan las bases particulares del instrumento de financiamiento..
+El presupuesto del proyecto deberá calcularse sobre la base de costos reales
+demostrables y ser coherente con la envergadura y complejidad técnica de las
+actividades y/o gastos a realizar, y con el plazo en que éstas se lleven a cabo,»
+que será evaluado por Codo en la etapa correspondiente.
+De acuerdo con las características del instrumento específico, Codo podrá, en
+sus bases particulares, precisar el contenido de las cuentas presupuestarias, y/o
+
+---
+
+]]></content>
+    </page>
+    <page number="9">
+      <source_delimiter><![CDATA[<!-- página PDF 9 -->
+## Página 9
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+establecer topes globales, de aporte o de subsidio para cada una de ellas y/o
+para algunos de sus componentes.
+4.6.2 Participantes en el proyecto
+El proyecto podrá considerar las categorías ,de participación que a
+continuación se señalan, sin perjuicio que las bases particulares del
+instrumento consideren otras categorías, subcategortas y/o
+denominaciones.
+Asimismo, las referidas bases particulares determinarán los requisitos
+jurídicos x/o técnicoade la o las entidades y/o personas para cada una de
+las categorías.
+Beneficiarlo o ejecutor directo: Es el participante que se beneficia con el
+otorgamiento del subsidio para lá ejecución de un proyecto. En el caso que
+su proyecto sea adjudicado, será el receptor del subsidio, el responsable
+por la ejecución del proyecto ante Corto, y será sujeto activo y pasivo de
+todos los derechos y obligaciones que se estáblézcan en el convenio o
+contrato de subsidio, incluyendo la entrega de informes detallados de los
+gastos y actividades, realizados por éste, otros participantes y terceros. En
+conformidad con las bases particulares o reglamento, los beneficiarios
+podrán ser uno o más, en cuyo caso uno de ellos podrá asumir la calidad
+de beneficiario mandatario.
+Beneficiario atendido: Es la entidad o persoria cuya participación da
+pertinencia al proyecto y/o se beneficia directa o indirectamente de los
+resultados de éste.
+Asociado: Es el participante que, de existir, puede cofinanciar la ejecución
+del proyecto, mediante, aportes nuevos o pecuniarios y/o preexistentes
+valorizados, según se exija en las bases particulares del instrumento.
+ecutor ES el participante que posee capacidades técnicas necesarias
+y complementarias para .1a efecución de actividades consideradas como
+esenciales para lograr los resultados del proyecto y deben financiar su
+ejecución mediante aportes pecuniarios y/o valorizado, según se
+establezca en las bases particulares del instrumento.
+El beneficiario podrá transferir parte del subsidio de Corto al coejecutor para
+financiar actividades de este último, y la relación entre estos participantes
+se formalizará a través de un "convenio de coejecución". Para esta
+categoría de participación deberán observarse las instrucciones y requisitos
+que se establacen en el Anexo N° 2
+Además, de los participantes antes definidos, en los proyectos agenciados - que
+se definen en el numeral siguiente - participan:
+a)
+Consultor Experto o Entidad Consultora: es la persona natúral o jurídica,
+que ejecuta total o parcialmente un conjunto de acciones que contribuyen
+a alcanzar el objetivo general del proyecto.
+Sus principales obligaciones son las siguiehtes:
+9
+
+---
+
+]]></content>
+    </page>
+    <page number="10">
+      <source_delimiter><![CDATA[<!-- página PDF 10 -->
+## Página 10
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+Entregar un servicio de caridad a los beneficiarios, asegurando altos
+estándares en su ejecución y asumir la responsabilidad por el servicio
+entregado.
+fi. Desarrollar las actividades comprometidas en los términos de
+referencia, ajustándose a la ética profesional y mantener la
+confidencialidad de la información proporcionada por los beneficiarios
+.
+y la generada durante la ejecución de la consultoría, salvo aquella que
+- Corlo expresamente le faculte.
+Cumplir fielmenté los contratos, informando oportunamente a Corlo o
+al intermediario, según corresponda, sobre dificultades o desviaciones
+que se produzcan.
+Entregar al intermediario o Corto, según corresponda, los informes
+acordados en el contrato, los cuales podrán ser aprobados,
+observados o rechazados por -ras empresas beneficiarias, el
+intermediario y/o Codo, conforme lo determinen las bases particulares.
+Emitir los documentos tributarios correspondientes que acrediten el
+pago de los servicios prestados.
+.
+Participar de las actividades relacionadas con el seguimiento, control y
+evaluación de los resultados.
+Participar de las instancias de • trabajo que convoque Corto o el
+intermediario, en el marco de las actividades de cada Proyecto.
+Comunicar si tuvieren incorripatibilidades o conflicto de interés en el
+desempeño de sus funciones. Se entenderá que existe conflicto de
+interés, cuando algún miembro del Consultor Experto o Entidad
+Consultora del proyecto es, a su vez, gerente/a,' administrador/a,
+representante, director/a o socio/a dueño de más del 10% del capital
+del intermediario; o que entre los gerentes/as, administradores/as,
+representantes/as, directores/as o socios/as dueños/as de más del
+10% del capital de éstos, exista un vínculo de Cónyuge, hijo/a,
+adoptado/a o pariente hasta el segundo grado de consanguinidad 43
+afinidad, inclusive; así como la existencia de cualquier otra
+circunstancia que les reste imparcialidad en la ejecución, desarrollo o
+supervisión de los proyectos.
+b) GerentetaiGestor/a o Coordinador/a del proyecto
+Persona natural cuyo rol consiste en implementar el o los Planes de Trabajo
+diseñados
+por
+la
+Entidad
+Consultora
+o
+Consultor
+Experto/Corto/intermediario, a través de asistencia técnica, capacitación,
+consultorías y otro tipo de actividades.
+Deberá tener experiencia y habilidades en el ámbito de las actividades y
+funciones a realizar en el proyecto. Asimismo, será función del/de la
+Gerente/a contribuir y promover el compromiso de los beneficiarios para el
+desarrollo colaborativo del proyecto.
+Cuando sea necesaria su contratación a través de un Intermediario, éste
+deberá velar porque dicho proceso resguarde los principios de
+transparencia y publicidad.
+Las principales obligaciones del/la Gerente/a del proyectó son:
+i.
+Entregar un servicio de caridad, asegurando altos estándares en su
+ejecución.
+O. Desarrollar las actividades, ajustándose a la ética profesional y
+mantener la confidencialidad de la información proporcionada por los
+10
+
+---
+
+]]></content>
+    </page>
+    <page number="11">
+      <source_delimiter><![CDATA[<!-- página PDF 11 -->
+## Página 11
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+beneficiados y la generada durante la ejecución del proyecto, salvo
+aquella que Codo expresamente le faculte.
+Ceñirse a la normativa vigente que rige el proyecto y sus casos
+especiales.
+Entregar a Codo o intermediario, según corresponda, los informes
+requeridos por éste, los cuales podrán ser aprobados, observados o
+rechazados por los beneficiarios, el intermediario o Codo, conforme lo
+determinen las bases particulares. •
+Asegurar que los beneficiarios contesten la Encuesta de Resultados
+enviada por 'Codo o A01, según corrbsponda, de acuerdo a los
+procedimientos.  e instrucciones que Codo señale.
+Emitir, los documentos tributados que acrediten el pago de los servicios
+prestados, si correspondiere.
+Comunicar si tuviere incompatibilidades o conflicto de intereses con el
+intermediario, la Entidad Consultora/Consultor Experto o con los
+beneficiarios. Se entenderá que existe conflicto de interés, cuando el
+Gerente/Coordinador del Proyecto tenga un vínculo de cónyuge, hijo/a,
+adoptado/a o pariente hasta' el segundo grado de consanguinidad o
+afinidad, Inclusive; así como la existencia de cualquier otra
+circunstancia que les reste imparcialidad en la ejecución, desarrollo o
+supervisión de los proyectos, con alguno de los/las gerentes/as,
+administradores/as, representantes, directores/as o socios/as
+dueños/as de más del 50% del capital del intermediario y/o un
+•
+beneficiario.
+Codo no será responsable ni adquirirá obligación alguna con la
+contratación del/la Gerente/Coordinador, cuando este hayá sido
+contratado por el intermediario o Entidad Gestora.
+4.7 PROYECTOS AGENCIADOS .
+Los proyectos agenciados son aquállos cuya administración, de acuerdo con lo que
+dispongan las bases del respectivo instrumento de financiamiento, está extemalizada
+en entidades denominadas Agentes Operadores Intermediarios o «Aor o Entidades
+Gestoras, y ambas denominadas "intermediarios".
+Los A01 son personas jurídicas de derecho público o privado, habilitadas para
+suscribir convenios de asignación "de fondos del presupuesto de Codo, para la
+ejecución de programas y pityettos, en el marco de los instrumentos ,cuyos
+reglamentos y/o bases admitan su operación extemalizada. Por su parte, las
+Entidades ,Gestoras son, personas jurídicas, cuya función, capacidades y objeto les
+permite el desarrollo de actividades compatibles con la gestión y administración de
+recursos públicos y privados, para efectuar la supervisión, seguimiento y
+administración de proyectos.
+Los A01 o las Entidades Gestoras, de acuerdo lo dispongan las respectivas bases
+particulares, podrán postular y/o apoyar la postulacián de los proyectos y/o asumir la
+supervisión, seguimiento y administración de los mismos, una vez que éstos hayan
+sido adjudicados. En este último caso, serán los responsables de velar por el
+cumplimiento de las obligaciones técnicas, presupuestarias y de la ejecución de las
+actividades, objetivos y resultados del respectivo proyecto.
+Las condiciones de incorporación de los Agentes Operadores Intermediarios, sus
+derechos y obligaciones, entre otros aspectos, se encuentran regulados en el
+Reglamento que los rige, cuya versión vigente es el aprobado por Resolución (A)
+N°22, de 2018, de Codo.
+11
+
+---
+
+]]></content>
+    </page>
+    <page number="12">
+      <source_delimiter><![CDATA[<!-- página PDF 12 -->
+## Página 12
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+La selección del respectivo A01 se realizará mediante concurso público. Las
+Entidades Gestoras serán seleccionadas de conformidad con las normas de
+contratación pública que resulten aplicables, y celebrarán un convenio en el que se
+establecerán los derechos y obligaciones de, las partes.
+Los intermediarios tienen las siguientes obligaciones:
+i.
+Son los responsables ante Codo del correcto desarrollo y cumplimiento de los
+objetives del proyecto, así como de la correcta utilización de los recursos
+asignados, para lo cual deberá dar cumplimiento a todas y cada una de las
+disposiciones contenidas en la normativa vigente.
+Adoptar las medidas necesarias para que se cumpla con las obligaciones de
+difusión que Codo establezca.
+Di. Dar todas las facilidades necesarias tanto para que Codo, como quien ésta
+designe y/o la Contraloría General de la República, revisen la documentación
+de respaldo de la rendición de cuentas presentada, como también entregar a la
+Corporación los antecedentes que solicite.
+Realizar las contrataciones requeridas en cada proyecto, si la normativa del
+instrumento así lo establece.
+Articular a los' actores públicos, privados y académicos que faciliten la
+concreción de los objetivos de cada proyecto.
+Recaudar los recursos comprometidos por los asedados, a fin de cofinanciar el
+proyecto.
+Mantener la confidencialidad de la información que se genere producto de la
+ejecución del proyecto, salvo la que Codo expresamente le faculte para su
+publicidad. ..
+Mantener actualizados los antecedentes de los proyectos en el sistema de
+información que determine Corto, para la gestión, administración, seguimiento,
+ejecución y evaluación de éstos.
+Realizar el análisis de admisibihdad o elegibilidad de los proyectos.
+Preparar oportuna y periódicamente los informes y rendiciones de- cuentas,
+conforme las instrucciones establecidas por Codo y aquellas que imparta la
+Contraloría General de la República.
+Remitir a Codo toda la documentación emanada del proyecto, dentro de los 6
+meses inmediatos a la aprobación de su último informe.
+d.
+Velar por la ausencia de conflicto de interés en el desempeño de sus funciones.
+Para ello, deberá comunicar si tuvieren incompatibilidades o conflicto de interés.
+Se entenderá que existe conflicto de interés, cuando alguno de los Consultores
+Expertos o Entidad Consultora y/o Gerentes/as del proyecto es, a su vez,
+gerente/i, administrador/a, representante, director/a o sodo/a dueño de más
+del 10% del capital' del intermediario; o que entre los gerentes/as,
+administradores/as, representantet/as, directores/as o socios/as dueños/as de
+más del 10% del capital de éstos, exista un vínculo de cónyuge, hijo/a,
+adoptado/a o pariente hasta el segundo grado de consanguinidad o afinidad,
+inclusive; así como la existencia de cualquier otra circunstancia que les reste
+imparcialidad en la ejecución, desarrollo o supervisión de los proyectos.
+>dii. Asegurar la pronta firma del contrato con el/los beneficiarios y/o Consultor/es
+Experto/s o Entidad Consultora, ingresando esta información y los demás
+antecedentes requeridos en los sistemas informáticos disponibles.
+12
+
+---
+
+]]></content>
+    </page>
+    <page number="13">
+      <source_delimiter><![CDATA[<!-- página PDF 13 -->
+## Página 13
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+Mantener actualizado el registro de proyectos-y sus beneficiarios, en el sistema
+informático disponible.
+•
+Aplicar la Encuesta de Línea Base a los beneficiarios de los proyectos, cuya
+información obtenida deberá ser digitada y consolidada, para su posterior envío
+a Corlo, de acuerdo con los procedimientos e instrucciones se entregue.
+Entregar el documento de garantía que corresponda, por el total de fondos
+anticipados para la administración de los proyectos que le sean adjudicados.
+wii. Solicitar a Corro las modificaciones, suspensión o término anticipado de los
+proyectos, según corresponda.
+5. ADMISIBILIDAD DÉ LAS POSTULACIONES
+Antes de la evaluación, Corro realizará un análisis de admisibilidad de los proyectos,
+de acuerdo con lo señalado en los numerales siguientes:
+5.1 AdmIsibIlidad de los participantes
+'
+•
+En el caso de postulaciones realizadas directamente •por el interesado, Corta
+verificará el cumplimiento de los requisitos de admisibilidad que se establezcan en
+las bases de cada instrumento de financiamiento para determinados participantes, y
+todos aquellos otros requisitos y/o antecedentes que esas mismas bases particulares
+determinen para este análisis.
+•
+Tratándose de postulaciones agenciadas, será el intermediaría quien deberá reunir
+la. documentación requerida para examinar la admisibilidad, debiendo dejar
+constancia de ello en el documento que Corlo le indique.
+•
+Si como resultado del análisis de admisibilidad de los participantes, se concluye que
+la postulación no cumple con todos lo requisitos verificables en este examen, el
+proyecto no avanzará a la siguiente etapa de evaluación.
+En el caso de instrumentos'agenciados, si el instrumento contemplare requisitos de
+nivel de ventas de los beneficiarios, éste será verificado por el intermediario,.
+5.2 Admisibilidad del proyecto
+Corto verificará:
+Que el proyecto sea presentado utilizando el formulario de postulación y las
+planillas y documentos anexos al mismo, disponibles en el sistema de
+postulación de proyectos en línea. En caso de que las planillas y/o anexos
+' al mismo no contengan toda la información, sé entenderá que no se cumple
+con este requisito.
+La coherencia entre el objetivo del proyecto y los objetivos del instrumento ,
+al que postula.
+El cumplimiento de los requisitos de cofinanciamiento de acuerdo con los
+montos y porcentajes, mínimos y/o máximos, que se señalen en las bases
+del instrumento.
+•
+El cumplimiento de los requisitos de plazos de ejecución.
+Para el caso que el instrumento se focance temáticamente o territorialmente,
+que el proyecto esté enmarcado en las temáticas o desafíos o que tenga
+•
+13
+
+---
+
+]]></content>
+    </page>
+    <page number="14">
+      <source_delimiter><![CDATA[<!-- página PDF 14 -->
+## Página 14
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+ámbito de aplicación o ejecución en el territorio establecido para la
+respectiva apertura o llamado.
+Otros requisitos que las bases particulares del instrumento establezcan.
+Si, como resultado del análisis de admisibilidad técnica, se concluye que la
+postulación no cumple con todos los requisitos establecidos para dicho examen, el
+proyecto no avanzará a la siguiente etapa de evaluación.
+Durante el proceso de añálisis de admisibilidad de los participantes y del proyecto,
+Corfo podrá solicitar aclaraciones y/o antecedentes adicionales o complementados,
+los que deberán ser remitidos dentro del plazo de 5 días desde su requerimiento. En
+caso de que no se acompañen los antecedentes mínimos requeridos, o los
+acompañados nb permitan acreditar los requisitos, la propuesta será declarada no
+admisible.
+En ningún caso las aclaraciones y/o antecedentes adicionales o complementados
+podrán significar la modificación del proyecto postulado, rectificar errores de éste y/o
+subsanar el incumplimiento de requisitos legales y/o técnicos.
+Sin perjuicio de lo anterior, Corlo podrá permitir la presentación de antecedentes que
+las bases del instrumento establezcan como materia del análisis de admisibilidad y
+que los postulantes hayan omitido adjuntar al momento de presentar su proyecto,
+siempre que dichos antecedentes se hayan producido o den cuenta de situaciones
+no mutables y anteriores a la referida postulación y que se presenten dentro del plazo
+que señala el párrafo siguiente.
+El plazo para realizar el análisis de admisibilidad de los p.royectos postulados
+directamente por los beneficiarios será de 20 dlas, contados desde la postulación del
+respectivo proyecto, en caso de instrumentos que operen en modalidad de
+postulación permanente, y desde la fecha de término del plazo de las postulaciones,
+para el caso de llamados a instrumentos en la modalidad de concurso. Este plaio de
+20 días incluye el plazo para requerir y remitir aclaraciones y/o antecedentes
+adicionales o complementados.
+En los casos no contemplados en el párrafo final del numeral precedente, si el
+instrumento contemplare requisitos de nivel de ventas de los beneficiarios, éste será
+verificado por Corto, en el caso de proyectos postulados directamente por el
+interesado; y por el intermediario, en el caso de instrumentos agenciados.
+Los resultados serán comunicados a los postulantes dentro del plazo de 5 días de
+declarada la no admisibilidad.
+6. PROCESO DE EVALUACIÓN
+Los proyectos declarados admisibles serán evaluados por Corto, con personal interno
+y/o externo, en una o más etapas, y de acuerdo con la escala de notas y a los criterios
+establecidos en las bases particulares del instrumento, los cuales serán ponderados
+en la forma y porcentajes que las mismas establezcan.
+La evaluación de los proyectos se realizará por medio de una metodología que
+- permita analizar los aspectos relevantes, y que asegure un tratamiento justo y
+equitativo durante el proceso, con el debido resguardo de la confidencialidad. Durante
+este proceso, Corro podrá contratar asesorías externas para un mejor análisis de los
+proyectos.
+14
+
+---
+
+]]></content>
+    </page>
+    <page number="15">
+      <source_delimiter><![CDATA[<!-- página PDF 15 -->
+## Página 15
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+Además, durante el proceso de evaluación, Corto podrá solicitar información a otros
+órganos intégrantes de la Administración del Estado, que sea(n) pertinente(s) en
+relación con los objetivos del proyecto.
+Como parte de la evaluación técnica se realizará 'un análisis de duplicidad con otras
+iniciativas similares ejecutadas o en ejecución.
+Corto podrá solicitar al postulante, durante la evaluación, la información que estime
+necesaria para una adecuada comprensión de los proyectos, no pudiendo alterarse
+la propuesta ni el principio de igualdad entre los postulantes. Los antecedentes
+deberán remitirse a Corlo, dentro del plazo de 10 días, contados desde la
+correspondiente solicitud.
+Además, durante esta etapta Corto podrá solicitar a los poitulantes que realicen una
+o más presentaciones sobre su proyecto, las que podrán ser presenciadas por los
+demás postulantes si así lo dispone Corro. Los lugares, medios, fechas y horas de
+dichas presentaciones serán oportunamente informados por la Corporación, con una
+anticipación 'no inferior a 7 dias hábiles anteriores a la fecha de su realización.
+Asimismo, en dicha oportunidad se indicaránlos requisitos, contenidos y formato de
+la presentación misma. En el caso que el postulante no realice su presentación, o la
+misma no cumpla con las condiciones exigidas, el proyecto se entenderá desistido.
+Con la información contenida en el proyecto y los insumos antes señalados, se
+elaborará un 'informe de evaluación, con la correspondiente recomendación de
+aprobación o rechazo, /tara ser presentado a la instancia de decisión.
+•
+En el laso de instrumentos-puestos a disposición en la modalidad de concurso, como
+resultado de la evaluación, la comisión evaluadora o la unidad o autoridad de Corro
+responsable de la evaluación, según corresponda, además, elaborará un ranking
+preliminar, con la correspondiente propuesta de aprobación o rechazo, el cual será
+presentado a la referida instancia de decisión.
+7. DECISIÓN Y ADJUDICACIÓN
+Una vez concluido el proceso de evaluación, el proyecto será presentado a la
+autoridad unipersonal u órgano colegiado de asignación competente, el cual decidirá,
+en base a la evaluación realizada, acerca de su aprobación y consecuente
+adjudicación de subsidio, o fundadamente sobre su rechazo. La autoridad u órgano
+de asignación podrá establecer condiciones de adjudicación y/o de formalización a
+los proyectos aprobados y, además, establecer las modificaciones técnicas y/o
+presupuestarias que considere pertinentes, siempre que no se altere la naturaleza y
+el objetivo general de éstos. Asimismo, y sin perjuicio de los resultados críticos o hitos
+de continuidad que establezcan las respectivas bases, al momento de la adjudicación,
+la autoridad u órgano competente, podrá establecer uno o más informes y/o hitos de
+continuidad para el proyecto.
+Para el caso de aquellos instrumentos puestos a disposición en la modalidad de
+concurso, la autoridad u órgano de asignación competente determinará el ranking
+definitivo.
+En ambas modalidades, al momento de decidir sobre la aprobación y rechazo de los
+proyectos, deberá tener en consideración la disponibilidad presupuestaria.
+El plazo para presentar las propuestas a decisión no podría exceder de 50 días en
+aquellos instrumentos puestos a disposición en la modalidad de postulación
+permanente, contados desde la realización del análisis de admisibilidad del respectivo
+15
+
+---
+
+]]></content>
+    </page>
+    <page number="16">
+      <source_delimiter><![CDATA[<!-- página PDF 16 -->
+## Página 16
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+proyecto, y 70 días en la modalidad de concurso, contados desde la realización del
+análisis de admisibilidad de la totalidad de los proyectos presentados al respectivo
+llamado.
+En caso de que la decisión y asignación le corresponda a un órgano colegiado, la
+resolución que ejecuta el respectivo acuerd
+o será dictada dentro de los 7 días
+siguientes a la fecha en que se haya emitido el certificado o acuerdo adoptado.
+Si a una autoridad unipersonal le corresponde la decisión y asignación, la resolución
+será dictada, dentro de los 7 días siguientes de la recepción de los resultados de la
+evaluación.
+En ambos casos, dentro del plazo de 5 días, contados desde la emisión de la
+resolución antes señalada, Corlo comunicará de manera fundada y completa la
+decisión al postulante, constituyendo ésta la comunicación (orinal para todos los
+efectos. -
+Sin perjuicio de lo anterior, y en aquellos casos en que la decisión y adjudicación
+corresponda a un órgano colegiado, Corto podrá informar la sola decisión de haberse
+aprobado, rechazado o dejado pendiente el proyecto, dentro del día hábil siguiente a
+la realización de la sesión del referido órgano.
+Las bases del respectivo instrumento podrán establecer, además, que los procesos
+de evaluación y decisión se efectúen en etapas í contemplando instancias de
+evaluación y decisión intermedias.
+8. FORMALIZACIÓN DEL PROYECTO
+Adjudicado por un órgano Colegiado
+En el caso de proyectos postulados por el interesado directamente a Corto, luego de
+la aprobación del proyecto, se inicia la etapa de formalización, que tiene por finalidad
+la firma de un convenio o contrato de subsidio entre Corto y el beneficiario, documento
+en el cual constarán los derechos y obligaciones de las partes con relación a la
+ejecución de la iniciativa.
+En particular, en dicho Instrumento, el beneficiario acepta el subsidio que le fue
+adjudicado y se obliga a ejecutar el proyecto, a utilizar los recursos en las condiciones
+en que su proyecto fue aprobado, observando para aquello lo establecido en la
+normativa aplicable, las bases particulares y en el mismo convenio o contrato de
+subsidio,
+En el caso de un proyecto agenciado, una vez aprobado éste, la autoridad comPetente
+de Corro dictará la resolución que ejecute el acuerdo del órgano de decisión. Dicha
+resolución podrá además ordenar la transferencia de recursos al intermediario,
+cuando se trate de proyectos agenciados desde su postulación, o disponer el llamado
+para la selección del intermediario, en aquellos preparados directamente por Corlo, o
+en aquellos proyectos que serán agenciados una vez adjudicados.
+Adjudicado por una autoridad unipersonal
+En el caso de proyectos postulados por el interesado directamente a Corro, luego de
+la adjudicación del Proyecto, se inicia la etapa de formalización, que tiene por finalidad
+la firma de un convenio de subsidio entre Corro y el beneficiario, en los términos
+señalados en la letra a) precedente.
+16
+
+---
+
+]]></content>
+    </page>
+    <page number="17">
+      <source_delimiter><![CDATA[<!-- página PDF 17 -->
+## Página 17
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+En el caso de proyectos agenciados, la autoridad competente de Corto dictará la
+resolución que adjudique y ordenará la transferencia de recursos al intermediario,
+cuando se trate de proyectos agenciados desde su postulación, o dispondrá el
+llamado para la selección del intermediario, en en 'el caso de aquellos preparados
+directamente por Corto o en proyectos que serán agenciados una vez adjudicados .
+8.1 Antecedentes. de formalización de un convenio o contrato de
+cofinanciamiento
+Si tuviere que celebrarse un convenio o contrato de subsidio, el beneficiario deberá
+presentar, durante la etapa de formalización, antecedentes legales y, eventualmente,
+antecedentes de carácter técnico, en aquellos casos que las bases del instrumento
+asilo requieran.
+El plazo para la entrega de los antecedentes legales y técnicos por. parte del
+beneficiario será de 10 días, contados desde la Comunicación formal de aprobación
+del proyecto. Este plazo podrá prorrogarse hasta por un máximo de 5 días, previa
+solicitud fundada del beneficiario presentada antes del vencimiento del plazo
+original.
+8.1.1 AntecedeMes legales de formalización de los convenios- o
+contratos de subsidio
+Los antecedentes legales que se deberán presentar son los siguientes:
+A.
+Beneficiario Persona jurídica nacional (constituida en Chile):
+Copia simple del instrumento de constitución y. sus modificaciones. Si la
+entidad hubiere sido creada por ley, deberá señalarse su número. ,
+Copia sirnple de la inscripción del extracto de constitución, o del acto que
+le concede personalidad jurldica, con constancia, cuando corresponda, dé
+su publicación.
+c) Certificado de vigencia emitido por la autoridad competente, cuya
+antigüedad no podrá ser mayor a 90 dlas corridos a la fecha de su
+presentación.
+Copia simple del instrumento en donde conste el nombre del (de los)
+representante(s), y sus facultades para suscribir el respectivo; convenio o
+contrato de subsidio con Corto.
+'Convenio(s) de coejecución, para aquellos proyectos que consideren la
+participación de coejecutores (Anexo N° 2). ' -
+Antecedentes que Corto estime pe,rtinentes, de acuerdo a la naturaleza
+jurídica de la entidad, con objeto de dar cumplimiento a lo 'establecido en la
+Ley N* 19.862.
+Presentar la declaración jurada contenida en-Anexo N° 3, relacionada pon
+el Decreto Ley N°211, de 1973, que Fija Normas para la Defensa de la
+Libre Competencia.
+Otros antecedentes que expresamente 'dispongan las bases del
+instrumento.
+Respecto de las personas jurldic,as conatituidas en Chile, que se encuentren
+acogidas al sistema de,  la Ley" N° 20.659, que simplifica el régimen de
+constitución, modificación y disolución de las sociedades Comerciales, y su
+17
+
+---
+
+]]></content>
+    </page>
+    <page number="18">
+      <source_delimiter><![CDATA[<!-- página PDF 18 -->
+## Página 18
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 011
+Reglamento, no será nebesario presentar acylellos antecedentes legales que
+puedan ser obtenidos del "Registro de Empresas Y Sociedades' a que se refiere
+el Título IV de dicha Ley.
+En caso de que los antecedentes hayan sido presentados anteriormente a Corlo,
+sólo deberá actualizar aquellos que hayan sido modificados o que no se•
+encuentren vigentes según los plazos, por ejemplo, en el plazo establecido en el
+literal c) precedente. En consecuencia, deberán presentarse siempre los
+documentos que den cuenta de modificaciones realizadas entre la última
+formalización de un convenio o contrato de subsidio y la formalización de uno
+nuevo, tales como: cambio de representante, razón social o nombre, domicilio,
+transformaciones, entre otros.
+No será necesario presentar el certificado de vigencia de aquellas personas
+jurídicas que tengan convenios vigentes en Codo.
+B.
+Beneficiario persona natural:
+Copia simple, por ambos lados, de la cédula de identidackrigente, o bien,
+copia simple del pasaporte vigente. -
+Convenio(s) de Coejecución (Anexo N° 2).-
+Antecedentes que Corro estime pertinentes, para una correcta
+individualización del beneficiario.
+Otros antecedentes que expresamente dispongan las basés del
+instrumento.
+8.1.2 Antecedentes técnicos de formalización
+Los antecedentes técnicos a presentar para la etapa de formalización, cuando sean
+necesarios, serán definidos en las bases particulares del instrumento, así como la
+consecuencia de su no presentación o de la no verificación de determinadas
+condiciones.
+Una vez recibidos los antecedentes técnicos 'de formalización, Codo realizará su
+análisis, pudiendo solicitar, Mediante correo electrónico, aclaraciones y/o
+antecedentes faltantes, adicionales o complementarios. Estas aclaraciones y/o
+antecedentes deberán ser remitidos á Corlo dentro del.Plazo de 10 días contados
+desde su solicitud. Si tales antecedentes no fueren enviados dentro de los plazos
+señalados precedentemente, se tendrá por desistido el proyecto.
+Concluido, a conformidad de Corto, el análisis de los antecedentes técnicos, los
+antecedentes legales de formalización serán puestos a disposición de los abogados
+aéesores de la respectiva unidad o dependencia de Corto, la cual procederá a su
+análisis, pudiendo solicitar, mediante correo electrónico, aclaraciones y/o
+antecedentes faltantes, adicionales o complementarios. Esta información •
+complementaria deberá ser rémitida a Corro dentro del plazo de 10 días contados
+desde su solicitud, el que podrá prorrogarse hasta por 5 días, cuando concurrieren
+situaciones que asilo ameritaren.
+Si tales antecedentes no fueren enviados dentro del plazo señalado
+precedentemente, se tendrá por desistido el proyecto.
+18
+
+---
+
+]]></content>
+    </page>
+    <page number="19">
+      <source_delimiter><![CDATA[<!-- página PDF 19 -->
+## Página 19
+]]></source_delimiter>
+      <content><![CDATA[
+CÓRFS
+
+8.2 Redacción y envio del convenio de subsidio
+En el caso de proyectos administrados directamente por Corro, si los antecedentes
+legales y técnicos estuvieren conformes, se redactará el convenio o contrato de
+subsidio a celebrarse, el que será enviado al beneficiario para su firma, dentro de un
+plazo de 7 días contados desde la recepción conforme de dichos antecedentes. Este
+plazo se ampliará a 10 días cuando fueren 2 o más los beneficiarios que deben firmar
+el contrato.
+El beneficiario tendrá un plazo máximo de 10 días, contados desde la fecha de envío
+del convenio, para firmarlo electrónicamente, o remitir firmados a Corlo el número de
+ejemplares que se indique en el mismo, según corresponda. Antes del vencimiento
+de este plazo, el beneficiario podrá solicitar a Codo una prórroga de hasta 5 días para
+el envio de los ejemplares debidamente firmados del convenio o contrato.
+Si cumplido este plazo, o su prórroga, Corro no lo(s) hubiese recibido, se tendrá por
+desistido el proyecto.
+8.3 Selección del intermediario
+Tratándose de proyectos que, una vez adjudicados, deban ser intermediados para su
+administración, seguimiento y control, se deberá considerar el proceso de selección'
+de una entidad que cumpla esa función. Este proceso podrá iniciarse una vez
+tramitada la resolución que ordena iniciar el proceso, debiendo realizarse una
+convocatoria a los A01 habilitados y/o interesados, conforme las bases particulares.
+El proceso de selección deberá considerar la apertura de la convocatoria en los
+sistemas dispuestos por Corto para tales efectos, la notificación a los Agentes
+Operadores Intermediarios habilitados — si se contemplare una convocatoria para este
+tipo de intermediados-, la conformación de la Comisión Evaluadora, la evaluación de
+las propuestas y la selección final del intermediario.
+Se deberá solicitar la habilitación de la convocatoria en el Sistema de Gestión de
+Proyectos„ con al menos 2 (dos) días hábiles de anticipación a la fecha de apertura,
+y se deberá coordinar con el área de comunicaciones la publicación de la convocatoria.
+en la web Corto. Luego se deberá enviar una carta de invitación a los Agentes
+Operadores Intermediarios habilitados, mediante correo electrónico, y se deberá
+designar a los miembros de la Comisión Evaluadora, notificándoles Me su
+designación.
+El plazo de postulación podrá cerrarse anticipadamente si todos los A01 habilitados
+hacen llegar sus postulaciones o informan formalmente su voluntad de no postular al
+proceso de selección (en el caso de que la convocatoria sea limitada a A01).
+Cuando la selección de intermediarios sea abierta a otros interesados en cumplir ese
+rol, la apertura se comunicará a través de avisos en diarios digitales, o de circulación
+nacional o regional, conforme el ámbito de la convocatoria.
+En caso alguno el plazo de postulación podrá ser inferior a 5 días hábiles, plazo
+contado desde la recepción del correo invitación.
+La Comisión Evaluadora deberá revisar las propuestas y evaluarlas de acuerdo con
+los criterios y escala de notas definidas en las respectivas bases particulares. La
+autoridad competente dictará la resolución que selecciona al intermediario y dispone
+la transferencia de recursos. Dicho acto deberá ser notificado a la totalidad de los
+postulantes.
+19
+
+---
+
+]]></content>
+    </page>
+    <page number="20">
+      <source_delimiter><![CDATA[<!-- página PDF 20 -->
+## Página 20
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+8.4 Entrega del aporte Corto
+84.1 Modalidades
+Los recursos del subsidio Podrán ser transferidos en una o más cuotas, y a título de
+anticipo y/o contra la rendición de informes de avance y/o final (reembolso):
+Anticipo: Los recursos son entregados anticipadamente para la realización
+de las actividades del proyecto. La rendición de cuentas sobre la inversión de
+estos recursos se realiza con posterioridad, mediante la presentación de
+informe, los cuales podrán ser aprobados, total o parcialmente, o rechazados.
+, Reembolso: El beneficiario y/o coejecutor utiliza sus propios recursos para
+realizar las actividades del proyecto, rinde cuentas, y luego el A01 o Corlo,
+.
+según corresponda (proyecto agenciado. o administrado directamente), le
+reembolsa los recursos correspondientes a gastos que sean aprobados.
+Las bases particulares podrán definir la cantidad de informes 'a presentar y el
+porcentaje máximo o monto de anticipo de recursos'a otorgar por cada cuota.
+8.4.2 Condiciones
+Las condiciones para que Corlo realice la entrega del subsidio serán:
+a)
+La total tramitación del acto o del último acto administrativo que apruebe el
+convenio o contrato de subsidio u ordene la transferencia.
+b) La entrega de los documentos de garantía, si correspondiere.
+c) Acreditar estar al día en el pago de:
+-
+las cotizaciones del Seguro de Cesantía establecidas en la Ley N° 19.728;
+- lasicotizaciones de seguridad social; •
+- el impuesto glóbal complementario o el impuesto único establecido en el
+N° 1°, del artículo 42, de la Ley sobre Impuesto a la Renta, tratándose de
+personas naturales o, del impuesto a que se refieren los números 30, 4° y
+5° del artículo 20, de la Ley de la Renta, en caso de personas jurídicas.
+Para estos efectos, al menos, se deberá presentar una declaración jurada
+utilizando el formpto del Anexo N° 1 que indique que se está al día en el
+cumplimiento de las obligaciones antes señaladas, autorizando a Corto
+para verificar dicha información si fuere necesario.
+d) La certificación de libe el beneficiario, que tenga la calidad de persona
+jurldica, se encuentra inscrito en el Registro de Personas Jurldicas
+Receptoras de Fondos Públicos de Corto, establecido en la Ley N° 19.862,
+cuando corresponda.
+Para la modalidad de entrega del subsidio a título de anticipo, Corto hará
+entrega de la cuota inicial o única cuota, una vez verificadas las condiciones
+señaladas. La entrega de las cuotas siguientes, si correspondiere, se
+encontrará supeditada, al menos, al cumplimiento de las condiciones
+señaladas en las letras b), en su caso, o b), y c) anteriores, y a la aprobación
+de informes de avance que den cuenta de las actividades realizadas y de la
+entrega de la rendición de cuentas de los recursos previamente transferidos.
+20
+
+---
+
+]]></content>
+    </page>
+    <page number="21">
+      <source_delimiter><![CDATA[<!-- página PDF 21 -->
+## Página 21
+]]></source_delimiter>
+      <content><![CDATA[
+C O RE 00
+Para la modalidad de entrega del subsidio a título de reembolso,
+adicionalmente al cumplimiento de las condiciones anteriores, será
+necesaria la aprobación técnica y la presentación de la rendición de cuentas
+de los gastos reportados en el informe correspondiente.
+Por último, la entrega de recursos del subsidio estará siempre supeditada 'a
+la disponibilidad presupuestaria de Corto.
+8.4.3 . Documentos de Garantía
+En el caso que el subsidio se entregue a titulo de anticipo, se deberán entregar los
+siguientes documentos de garantía:
+Garantía por anticipos: Con anterioridad al desembolso del subsidio, o de cada
+cuota de éste, según corresponda, se deberá entregar-por el beneficiario o el
+intermediario, a satisfacción y en favor de Corto o de sus Comités, cauciones
+consistentes, ya sea en, vales vista, boletas de garantía bancaria pagadera a la
+vista, depósitos a plazo, pólizas de seguro de ejecución inmediata o a primer
+requerimiento, o Certificados de Fianza otorgados por Instituciones de Garantía
+Recíproca, con el fin de garantizar el total de los montos de los recursos
+anticipados provenientes del subsidio. La glosa de dicho instrumento de garantía,
+en caso que por su naturaleza la contemple, deberá expresar que su objetivo
+consiste en "garantizar el correcto uso del anticipo otorgado por Ccirfo/ Comité
+(...), para la ejecución del proyecto (señalando la denominación del proyecto y
+su código)", debiendo tener una vigencia de por lo menos 3 (tres) meses sobre la
+fecha de entrega del informe de avance y/o final, de acuerdo al calendario
+establecido en el cohvenio o contrato de subsidio o en los informes trimestrales
+de los Agentes Operadores Intermediarios, según corresponda. Esta garantía
+será devuelta una vez que Corto -o el Comité apruebe el respectivo informe y
+rendición correspondiente. Para la devolución de la garantía correspondiente al
+último o único desembolso, además de la aprobación del Informe Final o de
+Cierre y rendición correspondiente, se requerirá la restitución total de los saldos
+observados, no gastados y no rendidos del subsidio.
+En el caso de proyectos agenciados, los intermediarios podrán mantener vigente
+uno o más documentos de garantía que caucione la totalidad de los recursos
+anticipados a la cartera de proyectos que administren.'
+El correcto uso del anticipo implica, además de la realización de gastos que sean
+pertinentes con los objetivos del proyecto y con las normas que regulan su uso
+(contenidas en las bases particulares y en el convenio de subsidio), la obligación
+de usar el subsidio respetando el porcentaje máximo de cofinanciamiento
+aprobado, de acuerdo con las reglas señaladas en el numeral 11.4.2 siguiente.
+Garantía por fiel cumplimiento del convenio o contrato: Con anterioridad a la
+entrega del subsidio, o de la primera cuota de éste, según corresponda, el
+beneficiario, deberá, además, entregar — en los casos en que las bases del
+instrumento así lo contemplen - una caución de igual naturaleza a las
+anteriormente señaladas para garantizar el fiel cumplimiento del convenio o
+contrato de subsidio por un valor equivalente al 3% del monto total del subsidio.
+La glosa de este instrumento, en cató de que por su naturaleza la contemple,
+deberá expresar que se otorga para 'garantizar el fiel cumplimiento del convenio
+o contrato de subsidio por parte del beneficiario (individualizado), referente al
+proyecto (nombre del proyecto y código)". Esta garantía tendrá por fin cautelar el
+N
+21
+
+---
+
+]]></content>
+    </page>
+    <page number="22">
+      <source_delimiter><![CDATA[<!-- página PDF 22 -->
+## Página 22
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+cumplimiento de las obligaciones establecidas en el convenio o contrato de
+subsidio, y deberá tener una vigencia de, por lo menos, rmeses sobre la fecha
+de presentación del informe final. Esta garantía será devuelta una vez que Corlo
+apruebe dicho informe y se acredite el cumplimiento de todas las obligaciones.
+Las bases del instrumento podrán establecer en relación con la garantía de fiel
+cumplimiento del convenio o contrato, una oportunidad distinta para su entrega;
+otro porcentaje y/o base de cálculo para determinar su cuantía; un plazo de
+vigencia diverso; modificar las condiciones para su devolución y/o prescindir de
+la misma.
+Los documentos de garantía — por anticipo y/o fiel cumplimiento del contrato o
+convenio - deberán entregarse dentro del plazo de 30 días, contados desde su
+requerimiento por parte de CORFO. Antes dé la fecha de vencimiento de este plazo,
+el beneficiario podrá solicitar fundadamente a Corto prórroga de hasta 30 días.
+Si transcurridos los plazos señalados o su prórroga, no se ha presentado
+cualquiera de los documentos de garantía, debiendo hacerlo, Corro tendrá por
+desistida la postulación,' o pondrá término anticipado al convenio, según
+corresponda.
+Asimismo, la no renovación oportuna de cualquiera de las garantías a
+requerimiento de Corro la facultará para ejecutar'aquellas que se encuentren
+vigentes y para poner término anticipado al convenio o contrato. Se entenderá
+que la renovación es "oportuna" cuando los documentos de garantía son
+recibidos a conformidad de Corto, al menos, con 3 días de anticipación al
+vencimiento de aquel/los que obran en poder de la Corporación.
+Los documentos de garantía mencionados podrán ser otorgados, además, por
+terceros, previa aceptación de Corlo, mencionando en la glosa de éstos, si
+correspondiere según su naturaleza, que garantizan al beneficiario (que deberá
+individualizarse) por "el correcto uso del anticipo del subsidio entregado" (en el
+caso de la garantía por anticipos), o por "el fiel cumplimiento del convenio o
+contrato de subsidio" (en el caso de la garantía por fiel cumplimiento).
+Los costos financieros asociados a las garantías señaladas, sean éstas
+otorgadas por terceros o por el beneficiario, podrán ser financiados con subsidio
+y/o aportes, cuando las Bases particulares así lo admitan, debiendo
+presupuestarse en la cuenta Overhead (gastos de administración en proyectos
+intermediados) o Gastos de Operación, según se trate de un proyecto agenciado
+o no, y según lo definido en las Bases particulares o el Reglamento respectivo.
+Si el béneficiario es un órgano integrante de la Administración del Estado, no se
+le exigirá la entrega de garantías. Sin perjuicio de lo anterior, Corro ejercerá las
+acciones administrativas, extrajudiciales y judiciales correspondientes, ante la
+existencia de cualquier saldo requerido,- pendiente de devolución, en el contexto
+de ejecución de un proyecto ante la Corporación.
+9. VERSIÓN VIGENTE DEL PROYECTO
+La versión vigente (o última versión) del proyecto, será aquella que dé cuenta de la
+decisión del órgano o autoridad competente, contenga las condiciones de
+adjudicación y/o formalización establecidas por Corto, y detalle el presupuesto
+aprobado, diferenciado por fuente presupuestaria (subsidio de Corro y/o con aporte
+de los participantes, indicándose la naturaleza de estos últimos).
+22
+
+---
+
+]]></content>
+    </page>
+    <page number="23">
+      <source_delimiter><![CDATA[<!-- página PDF 23 -->
+## Página 23
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+Esta versión del proyecto deberá ser incorporada al Sistema de Gestión de Proyectos
+de Corto (en adelante -SGP") o al que Corro ponga a disposición, en los plazos y de
+acuerdo con las instrucciones operativas que Corro dicte al efebto.
+INICIO DE LOS PROYECTOS
+En el caso de proyectos que exijan la celebración de un convenio o contrato de
+subsidio con Corto, la fecha de inicio del plazo de ejecución de los proyectos
+corresponde a la de total tramitación (notificación) del acto o último acto administrativo
+que apruebe el convenio o contrato de subsidio, o bien, a #la fecha que en el referido
+convenio o contrato se indique, siempre que ésta fuere posterior a la total tramitación
+del o los actos administrativos antes referidos.
+En los proyectos agenciados, la fecha de inicio de los proyectos será aquella que se
+Indique en las bases particulares.
+Las actividades contempladas en los proyectos, así como los gastos con cargo al
+subsidio y aportes, deberán realizarse dentro del plazo de ejecución y de sus
+eventuales prórrogas, cuyos mínimos y/o máximos serán establecidos en las
+respectivas bases del instrumento de financiamiento. Lo señalado, es sin perjuicio de
+lo dispuesto en el subnumeral 11.4.1 siguiente.
+Conforme lo señala el párrafo segundo del artículo 13* de la Resolución N° 30, dé
+2015, de la Contraloría General de la Republica, que fija normas de procedimiento
+sobre rendición de cuentas, en casos calificados, podrán incluirse en la rendición de
+cuentas gastos ejecutados con anterioridad a la total tramitación, siempre que existan
+razones de continuidad o buen servicio, las que deberán constar en el instrumento
+que dispone la entrega de los recursos.
+SEGUIMIENTO DE LOS PROYECTOS
+Corto podrá hacer seguimiento a las actividades del proyecto, ejecutadas por el
+beneficiario, por los demás participantes y por terceros contratados, sin necesidad de
+aviso previo. Para estos efectos, tratándose de contratación de actividades con
+terceros, la facultad de seguimiento y control deberá constar en los contratos que
+suscriba el beneficiario con dichas entidades, siendo responsable de incumplimiento
+de sus obligaciones en caso de omisión, y si de ella se derivan dificultades 'para
+realizar las labores de seguimiento antedichas. No obstante, Corto no asume la
+codirección o coejecución del proyecto, siendo la ejecución del mismo de exclusiva
+responsabilidad del beneficiario._
+Será responsabilidad del funcíonario que realice cada acción de seguimiento el velar
+por la trazabilidad de la misma.
+La administración, supervisión y seguimiento de los proyectos que ha delegado Corfo .
+en los intemiediarios, en caso alguno la releva de su obligación de hacer seguimiento
+de los proyectos y, con mayor razón aun, de la administración que 'lúa a cabo.
+11.1 Disponibilidad y entrega de información
+'
+Corto o quién ésta designe, podrá realizar'revisiones, visitas en terreno y requerir
+toda la información técnica y financiera que estime necesaria para verificar si el
+proyecto se desarrolla conforme a lo estipulado, si las actividades descritas en los
+23
+
+---
+
+]]></content>
+    </page>
+    <page number="24">
+      <source_delimiter><![CDATA[<!-- página PDF 24 -->
+## Página 24
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOt
+
+informes corresponden a la realidad, y para verifica(el correcto uso de los recursos
+del subsidio y la materialización de los aportes comprometidos.
+Para lo anterior, el beneficiario, y los coejecutorts en su caso, deberán ceñirse a lo
+dispuesto en las bases de los instrumentos de financiamiento Correspondiente, a las
+instrucciones operativas-que Corro entregue al respecto, y cumplir con lo siguiente:
+Llevar por separado un centro de costos para la contabilidad del proyecto,
+salvo que en las bases particulares o.  reglamento no se exigiere
+expresamente.
+Entregar la información y documentación de respaldo necesaria, que permita
+hacer las correspondientes verificaciones a Corlo y, .en su caso, a Contraloría
+General de la República. Dicha información y documentación deberá ser
+mantenida y conservada, a lo menos, durante los tres años siguientes al
+término del proyecto.
+e) Entregar la información y realizar las rendiciones requeridas por el medio
+correspondiente.
+d) Otorgar a Corfo, a la entidad o persona que ésta determine y a la Contraloría
+General de la República, todas las facilidades y colaboración necesaria para
+visitar y verificar, en el lugar de ejecución, las actividades desarrolladas y los
+gastos efectuados con cargo al subsidio y a los aportes.
+11.2 Informes
+El beneficiario deberá cumplir con la entrega de informes (de avance y/o final, y otros
+informes que determinen las respectivas bases del instrumento, o aquellos de hito
+técnico de continuidad que se determinen al momento de la adjudicación, según
+corresponda), en conformidad al calendario establecido en el respectivo convenio o
+contrato de subsidio. Estos informes deberán contener, al menos, la -
+individualización de las actividades ejecutadas, los resultados obtenidos y no
+obtenidos, y la rendición de cuentas en el período a informar, debiendo ajustarse a
+lo dispuesto en la Resolución N° 30, de 2015, de la Contraloría General de la
+República, o a las normas que la sustituyan o reemplácen, y a los formatos,
+contenidos y condiciones que Corro disponga al efecto.
+El calendario de informes contemplará, al menos, la entrega de un informe final, el
+que deberá ser presentado a Codo dentro del mes siguiente al vencimiento del plazo
+de ejecución del proyecto. ,
+Además, y de co.  nforrnidad con la naturaleza y/o duración del proyecto, el convenio
+o contrato de subsidio podrá contemplar la entrega de informes de avance, cuyo
+número y calendario será determinado por Corto, tomando en cuenta las
+características de dicho proyecto, las actividades de éste, los resultados y su propia
+disponibilidad presupuestaria.
+El número y calendario de los informes, podrá ser modificado por Corto de oficio o
+previa solicitud fundada del beneficiario o intermediario, remitida antes del
+respectivo vencimiento del plazo de entrega.
+Corro podrá solicitar informes de avance extraordinarios en todo momento, y en los
+períodos que se determine en función del seguimiento de las actividades del
+proyecto, no siendo necesario en este caso, la modificación del convenio o contrato
+de subsidio.
+24
+
+---
+
+]]></content>
+    </page>
+    <page number="25">
+      <source_delimiter><![CDATA[<!-- página PDF 25 -->
+## Página 25
+]]></source_delimiter>
+      <content><![CDATA[
+Cp R F 00
+Codo dará su aprobación o formulará observaciones a los informes en el plazo de
+30 días, contados desde su recepción, o desde la revisión en terreno, según
+corresponda.
+Ante la solicitud de antecedentes, modificación o complementación de los informes
+por parte de Corto, el beneficiario deberá cumplir tal requerimiento dentro de los 10
+días siguientes. Una vez que se hayan entregado por el beneficiario, todos los
+antecedentes, modificaciones o Complernentaciones solicitadas, o bien, se haya
+vencido el último término concedido al efecto, Corto resolverá en definitiva dentro
+del plazo de 45 días.
+Corto exigirá la modificación de la fecha de vencimiento del documento de garantía,
+si el beneficiario entregase el informe fuera de plazo.
+Los informes que no se ajusten a los formatos, contenidos y condiciones que
+disponga Corto y/o no contengan la rendición de cuentas del período a informar, se
+entenderán como no presentados. El incumplimiento reiterado en la entrega
+oportuna de los informes facultará a Corlo para ejecutar la garantía de fiel
+cumplimiento del convenio o contrato que obre en su poder, sin perjuicio de que en
+mérito del retraso producido. Corto decida, previo apercibimiento y fijación de un
+plazo perentorio al beneficiario para la entrega del respectivo Informe, dar término
+anticipado al convenio o proyecto, según corresponda, de acuerdo a las reglas
+establecidas en el subnumeral 14.1.3.2 de estas bases.
+Asimismo, Codo se reserva el derecho de verificar que la información técnica y legal
+declarada y/o presentada por el beneficiario en los informes y/o revisada en mérito
+de sus labores propias de seguimiento, sea efectiva. En el caso de que se verifique
+fundadamente alguna disconformidad grave, además de ejercer acciones
+correctivas, Corto podrá suspender la entrega del subsidio y/o poner término
+anticipado al proyecto, de acuerdo con las reglas establecidas en el subnumeral
+14.1.3.2, y en su caso, denunciará penalmente la eventual configuración de algún
+delito:
+Las funciones que en los párrafos precedentes de este numeral se le entregan a
+Corlo, serán ejecutadas por el A01 en los proyectos agenciados, salvo en lo que
+concierne al término anticipado del proyecto, el cual será solicitado a Corlo, quien
+resolverá conforme a sus facultades.
+Para la revisión de los informes, Corro podrá solicitar a los beneficiarios o al
+intermediario (si el proyecto fuere agenciado y sin perjuicio de la labor que le
+corresponde en este ámbito), que realicen una o más presentaciones sobre los
+resultados reportados en los mismos, las que podrán ser presenciadas por los
+demás beneficiarios si así Corro lo dispone. Los lugares, medios, fechas y horas de
+dichas presentaciones serán oportunamente informados por Corto, con una
+anticipación no inferior a 7 días hábiles anteriores a la fecha de su realización.
+Asimismo, en dicha oportunidad, se indicarán los requisitos, contenidos y formato
+de la presentación misma. En caso de que el beneficiario no realice su presentación,
+o la misma no cumpla con las indicaciones comunicadas, se podrá dar término
+anticipado al convenio.
+Por último, tratándose de órganos de la Administración del Estado, la entrega de
+los informes señalados Precedentemente, es sin perjuicio de la obligación de enviar
+a Corlo los informes mensuales y final de la inversión de los recursos percibidos,
+dentro de los 15 primeros días hábiles administrativos del mes siguiente al que se
+informa, conforme a lo dispuesto en la Resolución N° 30, de 2015, de Contraloría
+General de la República, que fija normas de procedimiento sobre rendición de
+cuentas de fondos públicos.
+25
+
+---
+
+]]></content>
+    </page>
+    <page number="26">
+      <source_delimiter><![CDATA[<!-- página PDF 26 -->
+## Página 26
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+. 11.3 Acciones correctivas, suspensión de pagos y de gastos y deber de
+Información
+El beneficiario y el intermediario, en los casos en que se contemple su participación,
+deberá dar cumplimiento a los objetivos generales y específicos, resultados,
+productos actividades, plazos costos, aportes y presupuestos financieros,
+establecidos en el respectivo proyecto. Será facultad de Corto calificar dicho
+cumplimiento, as( como, determinar y/o aprobar los eventuales cambios o
+modificaciones que experimenten esas circunstancias durante el desarrollo del
+proyecto, en la medida que no se infrinja lo establecido en las respectivas bases del
+instrumento y el objeto del proyecto adjudicado.
+La continuidad en la éntrega de recursos del subsidio quedará sujeta a la evaluación
+que Codo, en mérito de sus labores de seguimiento y control, haga del avance y
+ejecución del proyecto, -del cumplimiento de las obligaciones del beneficiario y/o
+demás participantes y de su disponibilidad presupuestaria.
+Corto, en todo momento, podrá suspender la entrega de recursos del subsidio, si
+constata que el proyecto no se desarrolla satisfactoriamente o que el beneficiario
+y/o participantes han incumplido total o parcialmente sus obligaciones. Del mismo
+modo, Corto podrá ordenar al beneficiario que se abstenga de seguir efectuando
+gastos con cargo al subsidio entregado. En tal caso, se podrán aceptar gastos
+asociados a actividades realizadas, en las condiciones y hasta la fecha indicada en
+la comunicación de dicha orden.
+En estas situaciones, Coito podrá disponer la aplicación de medidas correctivas que
+considere adecuadas y necesarias para corregir las deficiencias que se identifiquen
+durante la ejecución del proyecto, con la finalidad de que éste se desarrolle de
+acuerdo con las condiciones en que fue aprobado y, además, en observancia a lo
+dispuesto en las respectivas bases y demás normativa aplicable. Lo anterior, sin
+perjuicio de ponerle término anticipado al convenio si verifica la configuración de
+alguna(s) de la(s) causal(es) indicadas en los subnumerales 14.1.3.1 y 14.1.3.2 de
+las presentes bases.
+Asimismo, el beneficiario estará obligado a informar a Corlo o al Intermediario, en
+su caso, y proponer oportunamente el término anticipado del convenio, si llegase a
+la convicción de que éste no alcanzará los resultados esperados, no podrá
+ejecutarse dentro de parámetros razonables, o cuando no pueda enterar la parte del
+aporte de su responsabilidad y/o el de los demás participantes en el mismo.
+114 Rendiciones
+Las rendiciones de cuentas se deberán efectuar de conformidad con lo dispuesto en
+la Resolución N°30, de 2015, de la Contraloría General de-la República, que fijó
+normas de procedimiento sobre rendición de cuentas de fondos públicos, o con las
+normas que la sustituyan o reemplacen, y con los formatos, contenidos y
+condiciones establecidos en las instrucciones operativas que Corro disponga al
+efecto.
+Se deberá rendir cuenta sobre la base de costos reales, debidamente respaldados
+con documentos fidedignos, y asimismo, deberá acreditarse el respectivo pago.
+Las actividades y gastos, además de estar correctamente rendidos, requerirán para
+su aprobación, de la correspondiente pertinencia técnica.
+26
+
+---
+
+]]></content>
+    </page>
+    <page number="27">
+      <source_delimiter><![CDATA[<!-- página PDF 27 -->
+## Página 27
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 011
+Se entiende por pertinencia técnica de un gasto o actividad la verificación que realiza
+Corto sobre la relación e idoneidad de lús mismos respecto al cumplimiento de los
+objetivos y resultados del proyecto, verificando, además, que se encuentren
+enmarcados dentro de las actividades financiables y condiciones particulares que
+establezcan las bases del instrumento.
+11.4.1 Gastos anticipados
+En relación con los recursos del subsidio, sólo se acebtarán como parte de la
+rendición de cuentas los deáembolsos efectuados con posterioridad a• la total
+tramitación del último acto administrativo que apruebe el respectivo convenio de
+subsidio, o que ordene la transferencia en el caso de proyectos intermediados, salvo
+que las bases particulares dispongan una fecha de inicio diversa.
+En casos calificados podrá incluirse en la rendición de cuentas, gastos incurridos en
+la ejecución del proyecto desde la fecha de comunicación de la decisión aprobatoria,
+singularizada en el numeral 10, a riesgo del beneficiario, siempre que existan
+razones de continuidad o buen servicio, las que deberán constar en el respectivo
+convenio de subsidio y/o resolución que lo apruebe o que ordene la transferencia.
+Los aportes de los participantes podrán rendirse desde la fecha de comunicación de
+la aprobación del proyecto:
+En ambos casos, la falta de formalización del convenio o contrato de subsidio no
+dará lugar a indemnización ni reembolso alguno.
+11.4.2 Costo total efectivo del proyecto y 'regla de proporcionalidad
+l• Si como resultado dé la revisión de los Informes y sus respectivas rendiciones, el
+costo efectivo del proyecto excediese el costo total de lo presupuestado al momento
+de su aprobación, será de cargo del beneficiario completar la diferencia que se
+produzca, asumiendo el mayor costo que pudiere tener el proyecto respecto de lo
+calculado, en orden a dar cumplimiento a lo establecido en él mismo:
+Asimismo, si ▪  el costo efectivo del proyecto fuere, menor que el costo total
+presupuestado al momento de su aprobación, el beneficiario deberá restituir el '
+monto del subsidio que exceda del porcentaje de cofinanciamiento aprobado por la
+autoridad u órgano decisor, calculado sobre dicho costo efectivo, de manera tal que
+siempre se mantenga constante la relación entre el aporte de los participantes y el
+subsidio.
+11.4.3 Restricciones y limitaciones a gastos del proyecto
+a) Actividades vio ciastós no financiables
+Los recursos del subsidio no podrán utilizarse para financiar: •
+- Inversiones en el Mercado de Capitales:
+Impuestos recuperados por el beneficiario.
+,
+Inversiones en bienes de capital no determinantes, ajuicio de Corlo, para
+el proyecto.
+Pago de indemnizaciones de cualquier naturaleza.
+27
+
+---
+
+]]></content>
+    </page>
+    <page number="28">
+      <source_delimiter><![CDATA[<!-- página PDF 28 -->
+## Página 28
+]]></source_delimiter>
+      <content><![CDATA[
+CORF
+Otros Items específicos que las bases de los' instrumentos de
+financiamiento éstablezcan, atendida la naturaleza y/u objetivos de éstos.
+b) Limitaciones a gastos Vio actividades
+Por regla general, el gasto de uso de instilaciones preexistentes, de las
+cuales los participantes dispongan y pongan a disposición del proyecto' a
+cualquier titulo al momento de la postulación, no podrá ser financiado con
+recursos del subsidio, salvo que las bases del instrumento respectivo
+dispongan expresamente lo contrario.
+En relación con los gastos relativos a la compra de pasajes nacionales e
+internacionales solo podrán financiarse con recursos del subsidio, hasta
+el valor equivalente a clase económica.
+Las adquisiciones de bienes de capital u otros bienes del activo fijo, que
+deben presupuestarse en la cuenta 'Gastos de Inversión' o 'Gastos de
+'Operación", sólo se podrán presupuestar (con cargo al subsidio y/o
+aportes) en forma proporcional al uso que de ellos se contemple en el
+mismo. Para efectos de lo anterior, se utilizará la TABLA DE VIDA ÚTIL
+NORMAL emitida por el Servicio de Impuestos Internos, de los bienes
+físicos del activo, inmovilizado vigente a la fecha de la respectiva
+adquisición. Lo anterior, será de aplicación general, salvo que las bases
+del instrumento particular, en atención a la naturaleza y/u objetivos de
+éste, establezca una regla distinta para el financiamiento de
+adquisiciones.
+Otras limitaciones que las bases particulares establezcan, atendida la
+naturaleza y/u objetivos del instrumento.
+11.5 Adquisiciones y contrataciones
+11.5.1 Procedimiento
+El beneficiario, coejecutor y otros participantes que las respectivas bases del
+instrumento dispongan, deberán utilizar, para todas las adquisiciones y
+contrataciones que efectúen en el contexto de ejecución del proyecto, relativas a
+actividades y/o gastos que por su naturaleza deban presupuestarse en las
+cuentas gastos de operación y gastos de inversión, el procedimiento y límites
+establecidos-en las bases particulares del instrumento o que sean fijados por la
+Gerencia respectiva.
+No se podrán fragmentar las adquisiciones y contrataciones, con el propósito de
+evitar el procedimiento fijado por Corfo. En caso de detectarse fragmentación al
+momento de la revisión respectiva, Corfo rechazará los respectivos gastos.
+Los beneficiarios regidos por la Ley N° 19.886 de Bases sobre Contratos
+Administrativos de Suministro y Prestación de Servicios, aplicarán dicha
+normativa para las adquisiciones y contrataciones.
+Sólo si las bases técnicas lo autorizan expresamente, se podrá contratar a los
+participantes del proyecto.
+Durante la evaluación .y ejecución de los proyectos, Codo tomará los resguardos
+y medidas correctivas tendientes a que el monto de los gastos financiados sea
+razonable y se adecúe a los objetivos planteados y a valores que observen las
+condiciones de mercado.
+28
+
+---
+
+]]></content>
+    </page>
+    <page number="29">
+      <source_delimiter><![CDATA[<!-- página PDF 29 -->
+## Página 29
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+11.5.2 Adquisiciones y contrataciones con personas relacionadas
+A fin de establecer el correcto control, el beneficiario, coejecutor y otros
+participantes que las bases del instrumento determinen, deberán declarar
+expresamente las adquisiciones y contrataciones con personas relacionadas,
+entendiéndose por tales:
+Respecto de participante persOna jurídica: a) Las entidades del grupo
+empresarial al que pertenece la sociedad beneficiaria; b) Las personas jurídicas
+que tengan, respecto del participante, la calidad de matriz,- coligante, filial, o
+coligada, en conformidad a las definiciones contenidas en la Ley N° 18.046, y
+c) Quienes sean directores, gerentes, administradores o liquidadores del
+participante, y slis cónyuges, conviviente civil o sús parientes hasta él segundo
+grado de consanguinidad o afinidad.
+1
+Un grupo empresarial, es un conjunto de personas que presentan vínculos de
+tal naturaleza en su propiedad, administración o responsabilidad crediticia, que
+hacen presumir que la actuación económica y financiera de sus integrantes está
+guiada por los intereses comunes del grupo o subordinada a éstos, o que
+existen riesgos financieros comunes en los créditos que se les otorgan o en la
+adquisición de valores que emiten. De acuerdo con lo anterior, forman parte de
+un mismo grupo empresarial una persona jurídica y su controlador, todas las
+personas jurídicas que tienen un controlador común y este último; y toda
+persona que determine la Superintendencia de Valores y Seguros,
+considerando la concurrencia de una o más de las circunstancias que enumera
+el artículo 96 de la Ley N° 18.045 sobre Mercado de Valores.
+Por su parte, es controlador de una persona jurídica, toda persona o grupo de
+personas con acuerdo de actuación conjunta que, directamente o a través de
+otras personas naturales o jurídicas, participa en su propiedad y tiend poder
+para realizar alguna de las siguientes actuaciones: asegurar la mayoría de votos
+en las juntas de accionistas y elegir a la mayoría de los directores tratándose
+de sociedades anónimas, o asegurar la mayoría de votos en las asambleas o
+reuniones de sus miembros y designar al administrador o representante legal o
+a la mayoría de ellos, en otro tipo de sociedades, o influir decisivamente en la
+administración de la misma.
+Respecto del participante persona natural: a) Su cónyuge, conviviente civil,
+o sus parientes hasta el segundo grado de consanguinidado afinidad y. b) Las
+personas jurídicas respecto de las cuales el participante persona,natural tiene
+la administración, o participa del 10% o más de su capital.
+Esta declaración se deberá presentar en formal previa a la adquisición o
+contratación con la persona relacionada.
+En casd de detectarse, al momento de la revisión respectiva, alguna omisión en
+el cumplimiento de esta obligación de informar, Corfo rechazará el gasto.
+11.6 Modificaciones al proyectó
+El beneficiario o el intermediario podrá solicitar modificaciones al proyecto en
+cualquiera de sus etapas, siempre que éstas no alteren la naturaleza y el
+objetivo general del mismo. Estas modificaciones podrán ser determinadas de
+oficio por Corfo,i o bien, previa solicitud del beneficiario.
+29
+
+---
+
+]]></content>
+    </page>
+    <page number="30">
+      <source_delimiter><![CDATA[<!-- página PDF 30 -->
+## Página 30
+]]></source_delimiter>
+      <content><![CDATA[
+En particular, Corlo podrá exigir modificaciones al proyecto,. conforme a los
+antecedentes con que cuente respecto a su ejecución, siempre que éstas no
+alteren los elementos antes indicados, con el objeta de introducir precisiones o
+rectificaciones que no-fueron previstas en la instancia de adjudicación del
+mismo y/o durante la revisión de informes.
+Previa solicitud fundada del beneficiario, Codo resolverá acerca de la inclusión,
+sustitución o retiro de los participantes del respectivo proyecto. Las bases
+particulares podrán establecer restricciones en esta materia.
+Toda modificación dispuesta o autorizada por Corto, deberá incorporarse al
+SGP o sistema que lo reemplace, actualizándose de esta forma la versión
+vigente del proyecto.
+Ratificación: Al momento de la revisión del respectivo Informe, se podrá
+reconocer aquellas reasignaciones entre cuentas que se efectúen sin previa
+autorización, siempre y cuando se traduzcan en el financiamiento de actividades
+y/o gastos que sean calificadas técnicamente pertinentes por Codo, y dichas
+reasignaciones no excedan del 30% del costo total del proyecto. En caso de no
+contarse con esta validación técnica, Corto objetará el gasto y no lo reconocerá
+para los fines de su rendición.
+11.6.1 Cambios de Integrantes del equipo de trabajo y personal de los
+participantes dedicado al proyecto
+Se deberá dedicar efectivamente a la ejecución del proyecto el personal
+comprometido por los participantes. Se podrá cambiar a los directores de
+proyectos y a los miembros del equipo de trabajo principales identificados como
+tales, siempre que quienes los reemplacen tengan la calidad apropiada para
+realizar tales funciones, pudiendo Codo formular observaciones a, los
+reemplazantes si a su juicio no son idóneos o no tienen la misma formación y/o
+experiencia de aquellos a quien reemplazan. La circunstancia que genera la
+necesidad del reemplazo, conjuntamente a la propuesta del reemplazante,
+deberán ser 'comunicados a Codo, dentro del plazo de 10 días contados desde
+te ocurrencia del hecho. Si Codo rechazase todos o algunos de los
+reemplazantes, se deberá proponer nuevos sustitutos en un plazo de 10 días,
+contados desde la comunicación del rechazo. Si nuevamente todos o algunos
+de los propuestos fueran calificados por Codo como carentes de,la idoneidad,
+formación y/o experiencia necesaria y de esta forma, se determine que el
+proyecto no podrá obtener los resultados esperados o seguir ejecutándose bajo
+parámetros razonables, se ¡Andra término anticipado al proyecto, debiendo
+aplicarse a la devolución del 'subsidio las reglas establecidas en el numeral
+14.1.3.1 de estas bases.
+Para efectos de rendición, se rechazará el gasto incurrido en remuneraciones
+de reemplazantes del personal aludido en el párrafo anterior, si no se cumple
+con la aprobación de Codo.
+11.6.2 Cambios de integrantes del equipo de trabajo y personal del
+intermediario destinado al proyecto
+El intermediario deberá dedicar efectivamenté a la ejecución del proyecto el
+personal comprometido en su propuesta, los que podrán ser reemplazados,
+siempre que quienes se incorporan tengan la calidad apropiada para realizar
+tales funciones, pudiendo Codo formular observaciones a los reemplazantes si a
+
+---
+
+]]></content>
+    </page>
+    <page number="31">
+      <source_delimiter><![CDATA[<!-- página PDF 31 -->
+## Página 31
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+su juicio no son Idóneos. La circunstancia que genera la necesidad del
+reemplazo, conjuntamente a la propuesta del reemplazante, deberán ser
+comunicados a Corto, dentro del plazo de 10 días contados desde la ocurrencia
+del hecho. Si Corlo rechazase todos o algunos de los reemplazantes, se deberá
+proponer nuevos sustitutos en un plazo de 10 días, contados desde la
+comunicación del rechazo. Si nuevamente todos o algunos de los propuestos
+fueran calificados por Corto como carentes de la idoneidad, formación y/o
+experiencia necesaria y de esta forma, se determine que el proyecto no podrá
+obtener los resultados esperados o seguir ejecutándose bajo parámetros
+razonables, se pondrá término a la gestión del intermediario.
+11.7 Modificaciones del convenio de subsidio
+En los proyectos administrados directamente por Corlo, las modificaciones a los
+proyectos que signifiquen un cambio de las cláusulas del convenio de subsidio
+deberán constar en un instrumento modificatorio del mismo, el que deberá ser
+aprobado por Resolución de Corto y seguir la tramitación que corresponda.
+11.8 Suspensión de la ejecución de un Proyecto'
+Corto podrá suspender por periodos determinados, de oficio o a petición del
+intermediario o beneficiario, el plazo de ejecución de las actividada del
+proyecto, en caso de producirse circunstancias graves, de carácter transitorio,
+que impidan su normal desarrollo.
+En caso de solicitud del beneficiario o intermediario, deberán acompañarse los
+antecedentes que la justifican. Corto analizará su pertinencia y se pronunciará
+al respecto comunicando su decisión al beneficiario yo al intermediario, en este
+último caso si el proyedo fuere agenciado, sea que la solicitud la hubiere
+presentado éste o el beneficiario.
+En total, las suspensiones del plazo de ejecución del proyecto no podrán
+exceder de la mitad del plazo originalmente aprobado. De esta manera, un
+proyecto cuya duración sea de 12 meses, podrá s'er suspendido, en total, hasta
+por 6 meses.
+Autorizada la suspensión, Corro, al momento de la rendición, rechazará
+cualquier gasto efectuado con cargo al subsidio durante este período. Si el
+beneficiario realizare gastos con cargo a su aporte, éstos deberán corresponder
+a necesidades ordinarias y que tengan por finalidad el desarrollo normal del
+proyecto.
+En ambos casos, la suspensión del plazo de ejecución se contará desde la
+fecha que indique Corto al comunicar su decisión:
+12.
+PUBLICIDAD Y DIFUSIÓN
+La información que Cono reciba a través de los informes es pública, sin perjuicio de
+las excepciones establecidas en la normativa vigente.
+En los respectivos formularios de postulación y para los informes. Corto podrá
+disponer expresamente que determinados. capítulos o apartados sean de público
+conocimiento desde el momento de su •entrega, siendo responsabilidad de los
+31
+r
+
+---
+
+]]></content>
+    </page>
+    <page number="32">
+      <source_delimiter><![CDATA[<!-- página PDF 32 -->
+## Página 32
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+beneficiarios no incluir información de carácter confidencial, o datos personales o
+sensibles en los referidos campos.
+Sin perjuicio de lo señalado precedentemente, Corto podrá, de conformidad a la
+normativa vigente, poner a disposición del público, todo o parte de la información que
+reciba en la postulación y a través de los informes, mediante los mecanismos idóneos
+que las bases particulares establezcan.
+El beneficiario autoriza a Corfo, desde la postulación del proyecto, a utilizar y distribuir
+material escrito o audiovisual relativo al prbyecto y a los demás participantes de éste •
+para actividades de difusión.
+Además, durante la ejecución del proyecto el beneficiario se obligará a lo siguiente:
+Conocer y aplicar la normativa asociada al proyecto, en especial respecto de
+las actividades financiables, montos de financiamiento, requisitos de
+cofinanciamiento, mecanismos de rendición y seguimiento.
+Cumplir fielmente con el convenio o contrato celebrado con Corto o cón el
+intermediario y con el plan de trabajo comprometido.
+Proporcionar oportunamente a Corto, así corno a la Entidad Consultora o
+Consultor Experto o intermediarios (si se contemplare su participación), toda
+la información y antecedentes que le sean requeridos, para que édtos puedan
+cumplir con el proyecto, su supervisión y control, acerca de las actividades y
+otorgar las facilidades necesarias para dicho objeto.
+Apoyar y participar activamente en los eventos, reuniones y/o talleres
+programados en el*  proyecto que realice Corlo, para promocionar los
+resultados parciales y finales del proyecto.
+Realizar difusión de los resultados de acuerdo con lo establecido en el
+proyecto y de acuerdo con lo requerido por Corro.
+Rotular los documentos oficiales, equipos, bienes de 'capitel, obras y
+construcciones < del proyecto de forma que haga notoria la contribución de
+Corlo a su ejecución, dentro del plazo de 1 mes desde su adquisición o
+realización.
+En toda actividackpública que se efectúe para difundir el proyecto, ya sea a su
+término o durante su ejecución, así como también en medios escritos o
+audiovisuales, deberá señalar expresamente que el proyecto es apoyado por
+Corro. El cumplimiento de esta obligación podrá ser suspendida temporal o
+definitivamente por Corro. •
+Contestar la encuesta de Evaluación del Servicio de la entidad participante, si
+corresponde, y remitir respuestas de encuestas, informes u otra información
+sobre los resultados intermedios o finales cuando sean solicitados por Corto.
+Contestar las encuestas dé Línea Base y Resultados, conforme a las
+instrucciones emanadas por Corto o el intermediario, según corresponda.
+Otorgar las facilidades necesarias y proporcionar información que haya sido
+relevante para el levantamiento de los indicadores del proyecto, 'para que'
+Corto y el intermediario puedan realizar, una vez terminado el proyecto y, por
+el plazo de cinco años, el seguimiento de sus logros y la evaluación de su
+impacto.
+Además, en el caso de proyectos agenciados:
+El beneficiario deberá comunicar al intermediario, por escrito, su aceptación o
+rechazo del trabajo desarrollado por la Entidad Consultora o Consultor Experto
+y/o Gerente/a del Proyecto, si corresponde.
+Comunicar si tuvieren incompatibilidades o conflicto de interés con la Entidad
+Consultora o Consultor Experto o con el intermediario. Se entenderá que
+existe conflicto de interés, cuando alguno de los/las gerentes/as,
+administradores/as, representantes, directores/as o socios/as dueños/as de
+más del 50% del capital de un beneficiario, o el mismo, como persona natural,
+•
+32
+
+---
+
+]]></content>
+    </page>
+    <page number="33">
+      <source_delimiter><![CDATA[<!-- página PDF 33 -->
+## Página 33
+]]></source_delimiter>
+      <content><![CDATA[
+CO RFS
+sea a la vez gerente/a, administrador/a, representante, director/a o socio/a
+dueño/a de más del 50% del capital de la Entidad Consultora o Consultor
+Experto o del intermediario; o que entre los/as gerentes/as,
+administradores/as, representantes, directores/as o socios/as dueños/as de
+más del 50% del capital de éstos, exista un vinculo de cónyuge, hijo/a,
+adoptado/a o pariente hasta el segundo grado de consanguinidad o afinidad,
+inclusive; así como la existencia de cualquier otra circunstancia que les reste
+imparcialidad en la ejecución, desarrollo o suóervisión de los proyectos.
+_
+El incumplimiento grave o,reiterado de cualquiera de estas obligaciones, facultará a
+Corro para desestimar, la continuación del proyecto, poniendo' término anticipado al
+convenio o contrato, de acuerdo con las reglas establecidas en el subnumeral 14.1.3.2
+de estas bases.
+Con posterioridad al término del proyecto, y durante un período de cinco años, el
+beneficiario -se obliga a responder encuestas, remitir informes y proporcionar
+cualouierótra información sobre los resultados intermedios, finales o impactos del
+'proyecto, cuando sea solicitado por Corlo, directamente o a través de un tercero.
+En el caso que el instrumento opere a través de intermediarios, éstos deberán cumplir
+con las obligaciones de información establecidas en los párrafos precedentes,
+recabándola de los participantes que corresponda, sean éstos beneficiarios atendidos
+u otros.
+El beneficiario asume esta obligación por el sólo hecho de haber postulado Y obtenido
+financiamiento de Corlo. Esta información es relevante para la elaboración de
+métricas, y para la evaluación de impacto de los instrumentos, por lo que el
+cumplimiento por, parte del beneficiario de esta obligación podrá ser evaluado,
+constituyendo un indicador dentro de los criterios de evaluación que se establezcan
+en las bases particulares.
+13. TITULARIDAD DE BIENES ADQUIRIDOS VIO GENERADOS, Y PROPIEDAD
+INTELECTUAL E INDUSTRIAL DE LOS RESULTADOS
+El beneficiario y/o coejecutor, en su caso, serán dueños de. los equipos y bienes
+adquiridos mediante recursos del subsidio.
+'
+Los resultados apropiables derivados de la ejecución del proyecto, asl como toda la
+información, inventos, innovaciones tecnológicas, procedimientos, planos y demás
+documentos, pertenecerán al beneficiario y/o a los otros participantes conforme a lo
+que éstos hayan estipulado. En consecuencia, les corresponderá a los beneficiarios
+y demás participantes amparar, en los registros correspondientes las eventuales
+creaciones, invenciones patentables o los derechos propietarios sobre los resultados
+del proyecto. Asimismo, y cuando corresponda, será de su exclusiva responsabilidad
+concentrar la información sensible en los capítulos del informe destinados al efecto.
+Lo dispuesto en el párrafo precedente, será de aplicación general, salvo que las
+respectivas bases, en atención a la naturaleza y/u objetivos del instrumento,
+establezcan una regulaCión específica.
+•
+33
+
+---
+
+]]></content>
+    </page>
+    <page number="34">
+      <source_delimiter><![CDATA[<!-- página PDF 34 -->
+## Página 34
+]]></source_delimiter>
+      <content><![CDATA[
+CO RFS
+14. TÉRMINO DEL PLAZO DE EJECUCIÓN DE ACTIVIDADES; TÉRMINO DEL
+PROYECTO, Y TÉRMINO DEL CONVENIO O CONTRATO DE SUBSIDIO
+14.1 Proyectos con convenio o contrato entre el beneficiarlo y Codo:
+14.1.1. Térrnino del plazo de ejecución de actividades
+La fecha de término del plazo de ejecución de las actividades del proyecto
+corresponderá a aquella que se establezca en el respectivo convenio o contrato de
+subsidio, en el acto de adjudicación o en las bases particulares (si no se hubiere
+adjudicado para ser ejecutado en un plazo menor) y en sus eventuales
+modificaciones, en caso de haberse autorizado una o más prórrogas y/o
+suspensiones.
+De-conformidad a lo indicado en el numeral 10 de estas bases, las actividades
+contempladas en los proyectos, asl como los gastos-con cargo al subsidio y aportes,
+deberán realizarse dentro del plazo de ejecución y de sus eventuales prórrogas. Lo
+señalado, es sin perjuicio de lo dispuesto respecto de gastos anticipados y aquellos
+períodos en que el proyecto haya sido excepcionalmente suspendido..
+14.1.2 Término normal del proyecto
+El término normal de un proyecto se produce en el momento en que, -habiendo
+concluido el plazo de ejecución de las actividades y entregado su informe final, Codo
+resuelve y comunica al beneficiario la aprobación del referido informe y se restituyen
+los recursos observados, no rendidos o no ejecutados.
+14.1.3 Término anticipado del proyecto
+Sin perjuicio de las demás causales señaladas en estas bases, Corro podrá adoptar
+la decisión de dar término anticipado al proyecto, en los siguientes casos, aplicándose
+las consecuencias y sanciones que para cada caso se señala:
+14.1.3.1 'Término anticipado del proyecto por pausa no imputable al
+beneficiario:
+Corlo podrá poner término anticipado, sea por su propia iniciativa o a solicitud del
+beneficiario y/o intermediario, en las siguientes situaciones:
+Inciamplimiento de los resultados críticos o hitos de continuidad establecidos para'
+el proyecto, por causa no imputable a la falta de diligencia del beneficiario,
+calificada debidamente por Corto.
+Por haber llegado a la convicción de que el proyecto no alcanzará los resultados
+esperados, no podrá ejecutarse dentro de parámetros razonables, o que el
+beneficiario y/o asociado no podrá enterar la parte del aporte de su
+responsabilidad, por causa no imputable a su falta de diligencia, calificada
+debidamente por Corto.
+o)
+Otras causas no imputables a la falta de diligencia • del beneficiario en el
+desempeñó de sus actividades relacionadas con el proyecto, calificadas
+debidamente por porto.
+
+---
+
+]]></content>
+    </page>
+    <page number="35">
+      <source_delimiter><![CDATA[<!-- página PDF 35 -->
+## Página 35
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+En caso de solicitarse por el beneficiario y/o intermediario y aceptarse por Corfo, se
+entenderá terminado anticipadamente el proyecto, desde la fecha que se indique en
+el respectivo acto administrativo, la cual no podrá ser anterior a la de la solicitud.
+En caso de efectuarse 'por, iniciativa de Coito, se entenderá terminado
+anticipadamente el proyecto, desde la fecha que se indique en el acto administrativo
+que lo declara, sin perjuicio de lo establecido en el párrafo tercero del numeral 11.3
+precedente.
+En ambos casos, el beneficiario deberá hacer entrega de un informe final de cierre,
+dentro del plazo prudencial que se establezca en la resolución que dé término
+anticipado, el cual no podrá exceder de 30 días, contados desde la total tramitación
+de ésta.
+Una vez revisado este informe, el beneficiario debdrá restituir todo saldo no gastado,
+no rendido u observado del subsidio que tuviere en su poder a la fecha de término
+señalada en la resolución respectiva, en el plazo prudencial que Codo fije, el cual no
+podrá exceder del tercer día hábil anterior al vencimiento de la garantía por anticipas
+que se encuentre en poder de Corto y que se contará desde el requerimiento del saldo
+a devolver.
+Para el cálculo del saldo a devolver, se aplicará, además, el criterio establecido en el
+último párrafo del subnumeral 11.4.2 de estas bases. Codo hará efectiva las garantía
+por anticipas si el beneficiado no realizare la restitución dentro del plazo.
+Para el caso que el subsidio se entregue contra aprobación de informe(s), Codo sólo
+transferirá recursos del subsidio para el pago de los gastos imputables a Codo cuya
+inversión se encuentre técnica y financieramente acreditada, y en los que se haya
+incurrido hasta la fecha de comunicación del término anticipado, aplicándose para su
+determinación lo dispuesto en el referido subnumeral 11.4.2.
+14.1.3.2 Término anticipado del proyecto por hecho o acto imputable al
+beneficiario:
+Corro podrá poner término anticipado al proyecto, concluido o no el plazo de ejecución
+de éste, en caso de que el beneficiario incumpla negligentemente o con falta de la
+diligencia debida sus obligaciones. Constituyen incumplimiento culpable las
+siguientes situaciones:
+Negar o dificultar labores de seguimiento.
+Negligencia en las labores de control financiero y técnico de las actividades.
+No informar el beneficiario oportunamente a Codo, de acuerdo con lo señalado
+en.  el subnumeral 11.3 de estas bases, y proponer el término anticipado del
+proyecto, por haber llegado a la convicción de que el éste no alcanzará los
+resultados esperados; no podrá ejecutarse dentro de parámetros razonables y/o,
+acerca de la imposibilidad de enterar los aportes de su responsabilidad y/o de los
+demás participantes.
+Disconformidad grave entre la información técnica y/o legal declarada, y la
+efectiva.
+Incumplimiento de los resultados críticos o hitos de continuidad establecidos para
+el proyecta, por causa imputable a la falta de diligencia del beneficiario, calificada
+debidamente"por Corto.
+Por haber llegado a la convicción de que el proyecto no alcanzará los resultados
+esperados, no podrá ejecutarse dentro de parámetros razonables, o que el
+beneficiario y/o asociado no _podrá enterar la parte del aporte de su
+35
+
+---
+
+]]></content>
+    </page>
+    <page number="36">
+      <source_delimiter><![CDATA[<!-- página PDF 36 -->
+## Página 36
+]]></source_delimiter>
+      <content><![CDATA[
+CORF OP
+responsabilidad, por causa imputable a la falta de diligencia del beneficiario,
+calificada debidamente por Codo.
+En las rendiciones:
+Duplicidad en la rendición de respaldos de gastos en el mismo proyecto o con
+otros financiados con recursos públicos.
+Simulación de actos o contratos.
+Valoración de gastos por sobre el valor de mercado.
+Documentos contables (tales como facturas, boletas, notas de crédito o
+débito) falsos o adulterados.
+h)
+Otras causas imputables a la falta de diligencia del beneficiario en el desempeño
+de sus actividades relacionadas con el proyecto, calificadas debidamente por
+Codo.
+En este caso, el beneficiario deberá restituir la totalidad del subsidio recibido (valor
+nominal) en el plazo que Codo fije, el cual no podrá exceder del tercer día hábil
+anterior al vencimiento de la garantía por anticipo que se encuentre en poder de la
+Corporación, y que se contará desde el requerimiento de restitución. Se hará efectiva
+la garantía por anticipo entregada, si el beneficiario no realiza la restitución dentro del
+plazo fijado. Sin perjuicio de lo anterior, si correspondiere,' se hará efectiva la garantía
+de fiel cumplimiento, si ésta fuere exigida por las Bases particularet y obre en poder
+de Codo.
+Para el caso que el subsidio se pague contra aprobación de informe(s), Codo
+rechazará la totalidad de los gastos con cargo al subsidio efectuado por el beneficiario
+en el contexto de la ejecución del proyecto, y hará efectiva la garantía de fiel
+cumplimiento del convenio.
+14.1.4 Término del convenio de subsidio
+El convenio o contrato de subsidio se entenderá terminado sólo una vez que el
+beneficiario cumpla con todas las obligaciones pendientes a su respecto, incluida la
+restitución de los recursos del subsidio que corresponda, ya sea resultante de las
+'revisiones de informes, p bien, por haberse dado término anticipado al proyecto y bl
+convenio o contrato.
+14.2 Proyectos agenciados:
+14.2.1 Término del plazo de ejecución de actividades
+La fecha de término del plazo de ejecución de las actividades del proyecto
+corresponderá la fecha de vencimiento del plazo establecido en el acuerdo del órgano
+que lo aprobó o en el convenio o contrato celebrado o en las bases particulares (si no
+se hubiere adjudicado para ser ejecutado en un plazo menor), en el caso que soló se
+encomiende el seguimiento y control a un intermediario, o en sus eventuales
+modificaciones, en caso de haberse autorizado una o más prórrogas y/o
+suspensiones. _
+Do Conformidad a lo indicado en el numeral 10 de estas bases, las actividades
+contempladas en los proyectos, así como los gastos con cargo a los diversos aportes,
+deberán realizarse dentro del plazo de ejecución y de sus eventuales prórrogas. Lo
+señalado, es sin perjuicio de lo dispuesto en relación con gastos anticipados y
+aquellos períodos en que el proyecto haya sido excepcionalmente suspendido.
+36
+
+---
+
+]]></content>
+    </page>
+    <page number="37">
+      <source_delimiter><![CDATA[<!-- página PDF 37 -->
+## Página 37
+]]></source_delimiter>
+      <content><![CDATA[
+CORRA
+14.2.2 Término normal del proyecto
+El térniino normal de un proyecto se produce en el momento en que, thabiendo
+vencido el plazo de ejecución de las actividades otorgado por el órgano que lo aprobó
+o en el contrato celebrado y entregado su informe final y restituidos los recursos
+Observados, no rendidoso no ejecutados, si los hubiere, Corfo resuelve y comunica
+al intermediario la aprobación del referido informe.
+14.2.3 Término anticipado por hecho o acto imputable al beneficiario
+Se aplicarán las causales contempladas en el subnumeral 14.1.3.2
+14.2.4 Término anticipado de la gestión del intermedia. rio
+Sin peludo de las demás causales señaladas en estas bases en caso de
+incumplimiento del beneficiario de un proyecto, Corro podrá adoptar la decisión de
+dar 'término anticipado a la gestión del intermediario, en los siguientes casos,
+aplicándose las consecuencias y sahciones que para cada caso se señala:
+•
+14.2.4.1 Término anticipado por causa no imputable al intermediario
+Se podrá poner término anticipado a la gestión del intermediario, sea por su propia .
+iniciativa o a solicitud del intermediario, en las siguientes situaciones: •
+. a) Incumplimiento de los resultados críticos o hitos de continuidad establecidos en
+el proyecto, por.tausa no imputable e la falta de diligencia del intermediario,
+calificada debidamente por Corfo.
+b) Por haber llegado a la convicción de que el proyecto no alcanzará los resultados
+esperados, no podrá ejecutarse dentro de parámetros razonables, o que el
+Asociado y/o Ejecutor no podrá/ti enterar - la parte del aporte de su
+responsabilidad, por causa no imputable a la falta de su diligencia, calificada
+debidamente por Corfo.
+e) Otras causas no imputables a la falta de diligencia del intermediario en el
+desempeño de sus actividades relacionadas. con el proyecto, calificadas
+debidamente por Corto.
+14.2.4.2 Término anticipado por hecho o acto imputable al intermediario:
+Se podrá poner término anticipado a-la gestión del intermediario en caso de que éste
+incumpla negligentemente o con falta de la diligencia debida sus obligaciones.
+Constituye incumplimiento culpable-del intermediario, las siguientes situaciones:
+Negar o dificultar labores de seguimiento de Corfo.
+Negligencia en las labores de control financiero y técnico de las 'actividades.
+No dar aviso a Corro, en tiempo y forma, acerca de la imposibilidad de enterar los
+aportes de su responsabilidad y/o de los demás participantes.
+dyDisconfomfidad grave entre la inforrnación técnica y/o . legal declarada, y la
+efectiva.
+37
+
+---
+
+]]></content>
+    </page>
+    <page number="38">
+      <source_delimiter><![CDATA[<!-- página PDF 38 -->
+## Página 38
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO,
+Incumplimiento de lo S resultados críticos o hitos de continuidad establecidos en
+el proyecto, por causa imputable a su falta de diligencia, calificada debidamente
+por Corfo.
+Por haber llegado a (a convicción de que el proyecto no alcanzará los resultados
+esperados, o no podrá ejecutarse dentro de parámetros razonables, por causa
+imputable a su falta de diligencia, calificada debidamente por Corto.
+En las rendiciones: duplicidad en la rendición de respaldos de gastos, simulación
+de actos o contratos, valoración de gastos por sobre el valor de mercado,
+documentos contables (tales como facturas, boletas, notas de crédito o débito)
+falsos o adulterados, otras causas imputables a su falta de diligencia en el
+desempeño de sus actividades relacionadas con el proyecto, calificadas
+debidamente por Corro.
+Cuando un proyecto agenciado termine anticipadamente por causa imputable al
+beneficiario o no imputable al Intermediario, Corlo determinará fundadamente el
+monto que corresponde pagarle por la administración del proyecto.
+Cuando un proyecto agenciado termine anticipadamente por causal imputable al
+Intermediario, éste deberá restituir la totalidad del OH recibido (valor nominal) en el
+plazo que Corlo. fije, el cual no podrá exceder del tercer día hábil anterior al I
+
+vencimiento de la garantía por anticipo que se encuentre en poder de la Corporación,
+y que se contará desde el requerimiento de restitución. Se hará efectiva la garantía
+por anticipo entregada, si el intermediario no realiza la restitución dentro del plazo ,
+fijado.
+14.2.5 Término dercontrato entre el intermediario y el beneficiarlo
+En los casos en que se exija la celebración de un contrato entre el intermediario y el
+beneficiario, éste se entenderá terminado, una vez que Corlo apruebe el informe final
+y el intermediario le rdstituya a Corto los recursos no rendidos, no ejecutados y/o
+rechazados al beneficiario, si correspondiere.
+15. OBLIGACIONES GENERALES
+Los postulantes deben cumplir con la normativa específica que regula las actividades
+que se proponen ejecutar en el contexto del proyecto, debiendo recabar y acompañar,
+en caso de ser necesario, todas las autorizaciones y certificados requeridos de los
+organismos públicos pertinentes (Ministerio de Salud, Servicio Agrícola y Ganadero,
+Municipios, etc.).
+Asimismo, los investigadores de proyectos financiados por Corlo deben cumplir con
+la normativa vigente y los estándares que regulan la actividad científica en las áreas
+de que trate la iniciativa.
+Corto se reserva el derecho a recabar directamente un pronunciamiento
+independiente sobre aspectos éticos/bioéticos y/o de bioseguridad, en los casos que
+considere necesario, como asimismo a auditar los aspectos éticos/bioéticos y/o de
+bioseguridad de los proyectos tomando las medidas que estime pertinentes, de
+encontrar discrepancias o incumplimientos en relación con los protocolos aprobados.
+38
+•
+
+---
+
+]]></content>
+    </page>
+    <page number="39">
+      <source_delimiter><![CDATA[<!-- página PDF 39 -->
+## Página 39
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+16.
+*CONSULTAS
+Las consultas deberán ser dirigidas a Corfo, al correo electrónico determinado en el
+aviso que comunique la apertura de las postulaciones.
+En aquellos casos en que el instrumento de financiamiento se ponga a disposición de
+los posibles interesados.a través de la modalidad concurso, las consultas se podrán
+enviar, hasta 3 días hábiles antes del término del plazo para presentar las
+postulaciones del respectivo llamado, salvo que el aviso especifique plazos
+diferentes. En caso de dirigirse consultas con posterioridan dicho plazo, Corto no
+asegura la entrega de una respuesta oportuna.
+39
+
+---
+
+]]></content>
+    </page>
+    <page number="40">
+      <source_delimiter><![CDATA[<!-- página PDF 40 -->
+## Página 40
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+ANEXO N°  1. DECLARACIÓN JURADA
+DECLARACIÓN JURADA (Persona Jurídica)
+[Nombre de quien suscribe], cédula de identidad N° ¡número de cédula de identidad
+de quien suscribe], en su calidad de representante de [razón social o nombre de la
+persona jurídica], RUT [RUT de la persona jurldica], ambos domiciliados para estos
+efectos en (calle, comuna región], Viene en declarar bajo juramentó lo siguiente:
+SOBRE PAGO DE COTIZACIONES DERIVADAS DEL SEGURO DE DESEMPLEO
+Qué, conforme las disposiciones contenidas en la Ley N° 19.728, que establece un
+Seguro de Desempleo, el suscrito está en conocimiento de la prohibición para los
+empleadores que no hayan pagado las cotizaciones de este seguro, de percibir recursos
+provenientes de Instituciones Públicas o Privadas, que se financien con Fondos
+'Públicos.
+A este respecto, el suscrito, en la representación aludida, declara:
+[MARCAR SÓLO UNA OPCIÓN]
+Que la entidad que rqpresenta NO tiene trabajadores por 10s cuales deba
+pagar cotizaciones del seguro de desempleo. •
+Que la entidad que representa se enduentra al día en el pago de las
+cotizaciones derivadas del seguro de' desempleo.
+SOBRE PAGO DE COTIZACIONES DE SEGURIDAD SOCIAL
+El suscrito, en la representación aludida, declara que la entidad que representa se
+encuentra al día en el pago de las cotizaciones de seguridad social.
+SOBRE NO MOROSIDAD DE DEUDA FISCAL
+El suscrito, en la representación- aludida, declara bajo juramento que la entidad que
+representa se encuentra al día, respecto del impuesto a que se refieren los números 3°,
+4° y 5° del articulo 20, de la Ley de-la Renta.
+Asimismo, el suscrito, en la representación aludida, autoriza a Corfo para verificar la
+veracidad de esta información.
+Declaro estar en conocimiento de lo dispuesto por el artículo 470 N° 8 del Código Penal,
+que sanciona 'A los que fraudulentamente obtuvieren del Fisco, de las municipalidades,
+de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del
+Estado, prestaciones improcedentes, tales como remuneraciones: bonificaciones,
+subsidios, pensiones, jubilaciones, asignacioneS, devoluciones o imputaciones
+indebidas".
+Otorgada en [lugar] a [día] de [mes] de [ano].
+FIRMA DEL (DE LOS) REPRESENTANTE(S)
+40
+
+---
+
+]]></content>
+    </page>
+    <page number="41">
+      <source_delimiter><![CDATA[<!-- página PDF 41 -->
+## Página 41
+]]></source_delimiter>
+      <content><![CDATA[
+CO RFS
+DECLARACIÓN JURADA (Persona Natural)
+[Nombre de quien suscribe], cédula de identidad N° [número de cédula de identidad
+de quien suscribe], domiciliado para estos efectos en [calle, comuna y región], viene
+en declarar bajo juramento lo siguiente:
+SOBRE PAGO DE COTIZACIONES DERIVADÁS DEL SEGURO DE DESEMPLEO
+Que, conforme las disposiciones contenidas en la Ley N° 19.728 que establece un
+Seguro de Desempleo, el suscrito está en conocimiento de la prohibición para los
+empleadores que rio hayan pagado las cotizaciones de este seguro, de percibir recursos
+provenientes de Instituciones Públicas o Privadas, que se financien con Fondos
+Públicos.
+Aeste respecto, el suscrito, declara:
+[MARCAR SÓLO UNA OPCIÓN] «
+Que NO tiene trabajadores por los cuales deba pagar cotizaciones del seguro
+de desempleo.
+..
+Que se encuentra al día en el pago de las cotizaciones derivadas del seguro
+de desempleo.
+SOBRE PAGO DE COTIZACIONES DE SEGURIDAD SOCIAL
+El suscrito, declara bajo juramehto que se encuentra al die en el pago de las•cotizaciones
+de seguridad social.
+SOBRE NO MOROSIDAD DE DEUDA FISCAL
+•
+El suscrito, declara bajo juramento que se encuentra al día en el pago del impuesto
+global complementario" del impuesto único establecido en el N° 1°, del artículo 42, de la
+Ley sobre Impuesto a la-Renta.
+-
+Asimismo, se ailtoriza a Corto para verificar la veracidad de esta información.
+Declaro estar en conocimiento de lo dispuesto por el artículo 470 N° 8 del Código Penal,
+que sanciona tA los que fraudulentamente obtuvieren del Fisco, de les municipalidades,
+de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del
+Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones,
+subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones
+indebidas".
+Otorgada en [lugar] a [día] de [mes] de [año].
+FIRMA
+.
+,
+41
+
+---
+
+]]></content>
+    </page>
+    <page number="42">
+      <source_delimiter><![CDATA[<!-- página PDF 42 -->
+## Página 42
+]]></source_delimiter>
+      <content><![CDATA[
+C ORFOP
+ANEXO N° 2.
+•
+INSTRUCCIONES PARA LA POSTULACIÓN CON COEJECUTORES
+CONVENIO DE COEJECUCIÓN
+La participación del coejecutor, la apropiación total o parcial de los resultados del
+proyecto y sus aportes, si corresponde de acuerdo a lo que establezcan las respectivas
+bases del instrumento de financiamiento, se formalizarán a través de un "convenio de
+coejecución", celebrado con el beneficiario.
+Sin perjuicio de lo anterior, y con la finalidad de facilitar el correcto desarrollo del
+proyecto, Corlo se reserva en todo momento, el derecho de calificar la calidad del
+coejecutor y los términos del convenio de coejecución, así como de exigir la introducción
+de modificaciones al mismo y solicitar antecedentes adicionales.
+El coejecutor se obligará a dar a Corro o quien ésta designe al efecto, las facilidades
+necesarias para tomar conocimiento directo de las actividades del proyecto y, en general,
+realizar las labores de seguimiento dispuestas en el numeral 11 de estas bases.
+El coejecutor, en elación con los recursos del subsidio que le sean transferidos, deberá
+efectuar las rendiciones de conformidad a lo dispuesto en el numeral 11.4 de las
+presentes bases. De esta forma, en ningún caso los gastos del coejecutor podrán ser
+rendidos a través de faCturas, boletas, invoice u otros instrumentos tributarios o
+contables, emitidas por éste al beneficiario, asl como tampoco su aporte podrá
+financiarse con los recursos aportados por Corlo.
+CONVENIO PARA COEJECUCIóN DE PROYECTO
+[DENOMINACIÓN DEL PROYECTO]
+NOMBRE BENEFICIARIO
+NOMBRE COEJECUTOR
+En (ciudad), a (día) de (mes) de (año), entre (razón social de la entidad beneficiaria o
+nombre del beneficiario persona 'natural), RUT N° (RUT)/cédula de identidad nacional N°
+(RUN), representada por (nombre completo de el o de los representantes del
+beneficiario, si corresponde), cédula "de identidad nacional N° (RUN, si corresponde):
+domiciliado(s) en (domicilio del beneficiario), en adelante el BENEFICIARIO, por una
+parte; y por la otra, (razón social del coejecutor o nombre del coejecutor persona natural),
+representada por (nombre completo de el o de los represehtantes del coejecutor, si
+corresponde), cédula de identidad nacional N° (RUN), domiciliado(s) en (domicilio del
+coejecutor), en adelante el COEJECUTOR, se ha acordado lo siguiente:
+PRIMERO: Antecedentes del Presente Convenio
+Que el BENEFICIARIO ha presentado el Proyecto denominado "(denominación del
+Proyecto)" al concurso/a la línea de financiamiento "(denominación de la
+convocatoria o instrumento de financiamiento)", a cargo de Corro.
+Que la planificación de las actividades comprendidas en el Proyecto antes citado,.
+considera que la realización de parte de ellas será de cargo del COEJECUTOR.
+C.. Las partes declaran aceptar y conocer las Bases del concurso/ de la línea de
+financiamiento
+"(denominación de la convocatoria o instrumento de
+financiamiento)", las que se adjuntan al presente convenio. Asimismo, las partes
+42
+
+---
+
+]]></content>
+    </page>
+    <page number="43">
+      <source_delimiter><![CDATA[<!-- página PDF 43 -->
+## Página 43
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+•
+declaran aceptar y conocer las definiciones correspondientes a sus respectivas
+calidades de participación en el Proyecto señalado.
+SEGUNDO: Objeto del Convenio y Aceptación
+Por el presente instrumento, el COEJECUTOR manifiesta su interés en el desarrollo del
+Proyecto individualizado anteriormente y compromete su colaboracióh en la ejecución
+del mismo en los términos definidos en el referido Proyecto, el cual se adjunta a este
+convenio, correspondiéndole al COEJECUTOR entregar oportunamente al
+BENEFICIARIO los informes y rendición de cuentas detallados en cada etapa. 'Por su
+parte, el BENEFICIARIO acepta dicha colaboración, la que se conviene en los términos
+señalados en las cláusulas siguientes.
+TERCERO: Actividades del Coejecutor
+El COEJECUTOR se compromete a desarrollar las actividades que le competen en el
+Proyecto referido, a cuyo efecto dedicará personal idóneo necesario, y realizará todas
+las actividades y estudios que dicho Proyecto requiera. Sin perjuicio de lo dispuesto en
+el Proyecto, el COEJECUTOR se obliga a realizar las siguientes actividades por etapa:
+Resultado
+Actividades
+Resultado 1:
+.
+(Tanto los
+resultados
+como las actividades
+deben coincidir con la
+configuración
+técnica
+del Proyecto)
+Actividad 1:
+Actividad 2:
+Actividad n:
+Resultado n:
+Actividad 1:
+•
+Actividad 2:
+Actividad n:
+'CUARTO: Dirección del Proyecto
+La Dirección del Proyecto recaerá en (nombre del profesional dependiente de la
+beneficiaria a cargo de la dirección del Proyecto), dependiente del BENEFICIARIO,
+quien supervisará la ejecución del Proyecto. El COEJECUTOR designa como su
+representante ante la Dirección del Proyecto a (nombre del profesional dependiente
+del coejecutor, responsable ante la beneficiaria por las actividades de su cargo).
+QUINTO: Facultad de Control y Seguimiento de Corlo
+Corlo mantendrá un permanente seguimiento y control de la ejecuCión del Proyecto
+mediante el análisis y evaluación de los informes de avances y final, visitas y otras
+actividades conducentes al cumplimiento de los 'objetivos del Proyecto. Respecto a las
+actividades realizadas por el COEJECUTOR, esté último se obliga expresamente a dar
+al personal y.a otros especialistas que acreditare Corro, las facilidades necesarias para
+tomar conocimiento directo de los trabajos del Proyecto realizados por ellos. Para tales
+efectos Corlo podrá realizar revisiones, visitas inspectivas en terreno y requerir toda la
+información y antecedentes técnicos y financieros que estime necesarios para verificar
+si el Proyecto se desarrolla en conformidad a lo estipulado en el respectivo Convenio de
+Subsidio; si las actividades y resultados descritos en los informes de avance
+corresponden a la 'realidad y, para verificar si los aportes del COEJECUTOR
+corresponden en carácter, calidad y cantidad a lo comprometido.
+SEXTO: Plazo de Ejecución del Proyecto y Duración del Presente Convenio
+El presente Convenio de Coejecución se hará exigible a contar de la fecha de inicio del
+Proyecto, el cual corresponde a la fecha de total tramitación del último acto administrativo
+que apruebe el convenio de subsidio, o bien, a la fecha que en el referido convenio se
+indique, y permanecerá vigente, a lo menos, durante todo el periodo de ejecución.
+43
+
+---
+
+]]></content>
+    </page>
+    <page number="44">
+      <source_delimiter><![CDATA[<!-- página PDF 44 -->
+## Página 44
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+SÉPTIMO: Costo propuesto del Proyecto y aportes de las partes
+El costo total del Proyecto que se postula a Corro es de $(cifra en números) (cifra en
+palabras).
+El monto solicitado a Corlo es de $(cifra en números) (cifra en palabras).
+El BENEFICIARIO aportará la cantidad de $(cifra en números) (cifra en palabras),
+consistente en dinero y aportes no pecuniarios.
+El COEJECUTOR aportará la cantidad de $(cifra en números) (cifra en palabras),
+consistente en dinero y aportes no pecuniarios.
+OCTAVO: Transferencias al Coejecutor
+Para la ejecución de las actividades que le corresponden en el Proyecto, el
+BENEFICIARIO se obliga a transferir al COEJECUTOR una suma de hasta $ (cifra en
+números) (cifra en palabras) proveniente del subsidio otorgado por Corlo. Dicha
+transferencia se realizará contra la (se ofrecen dos opciones no- excluyentes entre sí
+'aceptación de la correspondiente garantía a satisfacción del BENEFICIARIO", o bien,
+'contra la aprobación' por parte del BENEFICIARIO de los Informes de Actividades del
+COEJECUTOR con su correspondiente Rendición de Cuentas'), de acuerdo al Cuadro
+de Transferencia al COEJECUTOR por Año de Actillidad e Ítem.
+(Sin perjuicio de las opciones establecidas en esta cláusula, las entidades contratantes
+pueden establecer un mecanismo distinto para asegurar las transferencias)
+ÍTEM ,
+AÑO 1
+AÑO 2
+Total (MM$)
+
+Recursos Humanos
+
+Gastos de Operación
+
+Gastos de Inversión
+
+Gastos 	 de
+Administración
+,
+Total (MM$)
+•
+Resultados Recursos
+Humanos
+Gas os
+Operación
+Gastos
+de
+Inversión
+Gastos
+de
+Administración
+Total
+($)
+Resultado
+II
+Resultado
+n
+Total
+Ítem
+($)
+Las cuentas presupuestarias antes señaladas, se entenderán en conformidad a las
+definiciones de las bases del instrumento Individualizadas en la letra C. de la cláusula
+primera del presente convenio, yen relación a aquellas, el COEJECUTOR estará sujeto
+a los mismos términos que el BENEFICIARIO.
+La transferencia de los recursos de parte del BENEFICIARIO al COEJECUTOR estará
+condicionada a que el Proyecto obtenga subsidio de Corto. Asimismo, dicho monto
+estará condicionado al otorgado por Corlo y a las modificaciones que solicite y
+signifiquen una alteración del presupuesto.
+El COEJECUTOR acepta expresamente las modificaciones que Corto efectúe a las
+partidas antes señaladas:
+En el evento de que Corfo.decidiera poner término anticipado al referido Proyecto en
+forma unilateral, cualquiera sea la causa invocada, Se entenderá extinguida la obligación
+44
+
+---
+
+]]></content>
+    </page>
+    <page number="45">
+      <source_delimiter><![CDATA[<!-- página PDF 45 -->
+## Página 45
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+del BENEFICIARIO de pagar cualquier saldo pendiente, salvo el valor del trabajo
+efectivamente realizado por el COLIECUTOR hasta la fecha de término del Proyecto,
+de acuerdo a los fondos disponibles y lo que indique Corro, si ello ocurriera.
+NOVENO: Aportes del Coejecutor
+Por su parte, el COEJECUTOR aportará a la realización del Proyecto la cantidad de
+$(cifra en números) (cifra en palabras), en los (tern y periodos que se señalan en el
+cuadro siguiente, ya sea, en dinero, no pecuniarios o de ambos tipos, según
+corresponda:
+ITEM
+ANO 1 ANO 2 Total aporte pecuniario (MM$)
+
+Recursos Humanos
+
+Gastos de Operación
+.
+
+Gastos de Inversión
+
+Gastos 	 de
+Administración
+.
+Total(MMS)'
+ITEM
+ANO 1 ANO 2
+.
+Total
+aporte
+no
+pecuniario
+(MM$)
+
+Recursos Humanos
+
+Gastos de Operación
+
+Gastos de Inversión
+
+Gastos 	 de
+Administración
+Total(MMS)
+El COEJECUTOR declara que los aportes antes señalados son distintos en su origen y
+objeto y rio guardan relación alguna con el financiamiento de Corfo para la ejecución del
+Proyecto.
+•
+DÉCIMO: Uso de Resultados
+•
+Sin perjuicio de lo anterior; la Propiedad de la información generada por el Proyecto y los
+resultados del mismo, pertenecerán al BENEFICIARIO y COEJECUTOR en los
+siguientes términos:
+1°
+
+2°
+
+3°
+
+Lo anteriormente expuesto no obstará al derecho del 'BENEFICIARIO a publicar
+informes, siempre que, a'su juicio, tal publicación no afecte los propósitos establecidos
+en esta cláusula.
+Por la colaboración prestada, el COEJECUTOR tendrá derecho a recibir información
+periódica acerca del avance, en las feches previstas eñ el Plan de Trabajo, y acceso a
+la información contenida en el Informe Final y a los resultados del Proyecto.
+UNDÉCIMO: TerminaCión Anticipada del Convenio de Coejecución
+En el caso que el COEJECUTOR no cumpla con cualquiera de las obligaciones
+contraídas en este instrumento, en forma total o parcial, por cualquier causa que le sea
+Imputable, el Convenio terminará de pleno derecho.
+DÉCIMO SEGUNDO: Condición Suspensiva del Convenio de Coejecución
+La entrada en vigencia del presente Convenio se encuentra sujeta a que Corto adjudique
+el Proyecto, a que apruebe la participación del COEJECUTOR en el mismo, en dicha
+' 45
+
+---
+
+]]></content>
+    </page>
+    <page number="46">
+      <source_delimiter><![CDATA[<!-- página PDF 46 -->
+## Página 46
+]]></source_delimiter>
+      <content><![CDATA[
+(Representante, si corresponde)
+(BENEFICIARIO)
+(Representante, si corresponde)
+(COEJECUTOR)
+CORF OP
+calidad; y las actividades cuya ejecución se presentan a cargo del COEJECUTOR, y a
+la total tramitación de la Resolución que apruebe el respectivo convenio de subsidio entre
+el Beneficiario y Corlo.
+.
+.
+DÉCIMO TERCERO: Domicilio
+.
+-
+Las partes fijan su domicilio en la ciudad y comuna de Santiago y acuerdan someterse
+a sus tribunales ordinarios de justicia en caso de discrepancias en el cumplimiento de
+esté contrato.
+La personéría de (si corresiSonde) ........ para representar al BENEFICIARIO, consta
+de...., documento que no se inserta por ser conocido por las partes.
+La personería de (si corresponde)
+. para representar al COEJECUTOR, consta
+de ............... que no se inserta por ser conocido por las partes.
+.
+El presente contrato se firMa en tres ejemplares de igual tenor, fecha y validez, quedando
+uno én poder de la beneficiaria, otro del coejecutor y el tercero en poder de Corto.
+(El presente instrumento es un formato que debe ser modificado para adaptarse a las
+necesidades de cada relación en particular).
+,
+(Todo el texto entre paréntesis debe ser borrado, lo cuando corresponda, deberá ser.
+reemplazado por la información que se solicita en cada caso).
+46.
+
+---
+
+]]></content>
+    </page>
+    <page number="47">
+      <source_delimiter><![CDATA[<!-- página PDF 47 -->
+## Página 47
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 00
+ANEXO N° 3. DECLARACIÓN JURADA (Persona jurídica)
+DECRETO LEY N°211, DE 1973, QUE FIJA NORMAS PARA LA DEFENSA DE LA
+LIBRE COMPETENCIA
+[Nombre de quien suscribe], cédula de identidad N° ¡número de cédula de identidad
+de quien suscribe], en su calidad. de representante de [razón social o nombre de la
+persona Jurícfica], -RUT [RUT de la persona jurídica], ambos domiciliados para estos
+efectos en [calle, comuna y región], viene en declarar bajo juramento lo siguiente:
+El suscrito; en la representación aludida, declara que la entidad que representa no se
+encuentra afecta a alguna de las medidas prohibitivas eltableddas en el artículo 26, letra
+d), que le prohibe contratar a cualquier titulo con órganos de la administración
+centralizada o descentralizada.  del Estado, con organismos autónomos o con
+instituciones, organismos, empresas o servidos en los que él Estado efectúe aportes, -
+con el Congreso Nacional y el Poder Judicial, así 'como la prohibición de adjudicarse
+cualquier concesión otorgada por el Estado, hasta por el plazo de 5 años contado desde
+que la sentencia definitiva quede ejecutoriada, del D.L. N°211, de 1973, que fija normas
+'para la defensa de la libre competencia, que le impidan contratar con Codo en el ámbito
+' del presente instrumento de financiamiento, autorizando a Codo para verificar la
+veracidad de esta información.
+Declaro estar en conocimiento de lo dispuesto por el articulo 470 N°8 del Código Penal,
+que sanciona "A los que fraudulentamente obtuvieren del Fisco, de las municipalidades,
+de las Cajas de Previsión y de las instituciones centralizadas o descentralizadas del
+EStaclo, prestaciones improcedentes, tales como remuneraciones, bonificaciones,
+subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones
+indebidas".
+Otorgada en [lugar] a [elf a] Oe [mes] de [año].
+FIRMA DEL (DE LOS) REPRESENTANTE(S)
+k
+47
+
+---
+
+]]></content>
+    </page>
+    <page number="48">
+      <source_delimiter><![CDATA[<!-- página PDF 48 -->
+## Página 48
+]]></source_delimiter>
+      <content><![CDATA[
+CORF
+DECLARACIÓN JURADA (Persona natural)
+DECRETO LEY N°211, DE 1973, QUE FIJA NORMAS PARA LA DEFENSA DE LA
+LIBRE'COMPETENCIA
+[Nombre de quien suscribe], cédula de identidad N° (número de cédula de Identidad
+de quien suscribe], domiciliado/a pata estos efectos en (calle, comuna y reglón],*viene
+en declarar bajo juramento lo siguiente:
+Declara que la entidad que representa no se encuentra afecta a alguna de las medidas
+prohipitivas establecidas en el articulo 26, letra d) del DL N° 211, de 1973, que fija
+normas para la defensa de la libre competencia, que le impidan contratar con Codo en
+el ámbito del presente instrumento de financiamiento, autorizando a Corto para verificar
+la veracidad de esta información.
+Declaro estar en conocimiento de lo dispuesto por el articulo 470 N° 8 dei Código Penal,
+que sanciona 'A los que fraudulentamente obtuvieren del Fisco, de las municipalidades,
+de las Cajas de Previsión y'de las instituciones centralizadas o descentralizadas del
+Estado, prestaciones improcedentes, tales como remuneraciones, bonificaciones,
+subsidios, pensiones, jubilaciones, asignaciones, devoluciones o imputaciones
+indebidas'..
+Otorgada en [lugar] a [día] de (mes] de [año].
+FIRMA
+48
+
+---
+
+]]></content>
+    </page>
+    <page number="49">
+      <source_delimiter><![CDATA[<!-- página PDF 49 -->
+## Página 49
+]]></source_delimiter>
+      <content><![CDATA[
+CORFS
+•
+20
+Estas Base Administrativas Genérales, una vez que se encuentre totalmente
+traMitada la presente Resolución, regirán los instrumentos aprobados por las
+Gerencias de Corto que expresamente lo dispongan. • •
+3°
+PublIquese el aviso correspondiente y pónganse esta Resolución y sus Anexos a
+disposición de lós interesados.en el sitio web de Coito www.corfo.cl.
+Anótese y tómese razón.
+MARIA ELINA
+Firmado dIgNalmente
+por MARIA MINA CRUZ •
+CRUZ 	TANHNUZ
+TANHNUZ
+Feeha: 2020.04.08
+091231 -0400*
+-
+MARIA ELINA CRUZ TANHNLIZ
+- Fiscal
+•
+Firmado digitalmente por
+PABLO ENRIQUE
+PA"
+ENTWUMPIA2AS
+LAG
+TERRAZAS LAGOS FeChl: 2020.04.08 I 5:40:07
+-04110'
+PABLO TERRAZAS LAGOS
+'
+Vicepresidente Ejecütivo
+49
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Bases Administrativas Generales CORFO (2020)
+
+- **Archivo fuente:** `CORFO_BAG  2020 con toma de razon(1).pdf`
+- **Páginas:** 49
+- **Método:** Capa de texto original del PDF
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="12" rejected="0" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+    <correction confidence="alta" page="19">
+      <from><![CDATA[plazt máximo de 10 días]]></from>
+      <to><![CDATA[plazo máximo de 10 días]]></to>
+      <why><![CDATA[Typo evidente de OCR: 'plazt' no es palabra castellana]]></why>
+    </correction>
+    <correction confidence="alta" page="15">
+      <from><![CDATA[no podi'á exceder de 50 días]]></from>
+      <to><![CDATA[no podría exceder de 50 días]]></to>
+      <why><![CDATA[Carácter apóstrofo mal reconocido como comilla]]></why>
+    </correction>
+    <correction confidence="alta" page="13">
+      <from><![CDATA[de admisibihdad de los participantes]]></from>
+      <to><![CDATA[de admisibilidad de los participantes]]></to>
+      <why><![CDATA[Posición de caracteres invertida: 'hdad' debería ser 'ilidad']]></why>
+    </correction>
+    <correction confidence="alta" page="13">
+      <from><![CDATA[realizará un anáfitis de admisibilidad]]></from>
+      <to><![CDATA[realizará un análisis de admisibilidad]]></to>
+      <why><![CDATA['anáfitis' no existe en castellano, debe ser 'análisis']]></why>
+    </correction>
+    <correction confidence="alta" page="13">
+      <from><![CDATA[la postuladóñ no cumple]]></from>
+      <to><![CDATA[la postulación no cumple]]></to>
+      <why><![CDATA[Eñe mal reconocida como 'ó' con tilde]]></why>
+    </correction>
+    <correction confidence="alta" page="17">
+      <from><![CDATA[plazo podrá pijorrogarse hasta por un máximo]]></from>
+      <to><![CDATA[plazo podrá prorrogarse hasta por un máximo]]></to>
+      <why><![CDATA['pijorrogarse' no existe, debe ser 'prorrogarse' (doble r)]]></why>
+    </correction>
+    <correction confidence="alta" page="18">
+      <from><![CDATA[Si tales antecedentes no fueren enviados delnro del plazo]]></from>
+      <to><![CDATA[Si tales antecedentes no fueren enviados dentro del plazo]]></to>
+      <why><![CDATA['delnro' parece fusión de 'del' y 'dentro', debe ser 'dentro']]></why>
+    </correction>
+    <correction confidence="alta" page="21">
+      <from><![CDATA[entrega de rectirscis del subsidio estará siempre]]></from>
+      <to><![CDATA[entrega de recursos del subsidio estará siempre]]></to>
+      <why><![CDATA['rectirscis' no existe, debe ser 'recursos']]></why>
+    </correction>
+    <correction confidence="alta" page="22">
+      <from><![CDATA[requarimiento por parte de Codo]]></from>
+      <to><![CDATA[requerimiento por parte de CORFO]]></to>
+      <why><![CDATA['requarimiento' mal formado, debe ser 'requerimiento']]></why>
+    </correction>
+    <correction confidence="alta" page="22">
+      <from><![CDATA[eón 3 días de anticipación]]></from>
+      <to><![CDATA[con 3 días de anticipación]]></to>
+      <why><![CDATA['eón' parece OCR de 'con']]></why>
+    </correction>
+    <correction confidence="alta" page="24">
+      <from><![CDATA[mantenida y conservada, a lo menos, dufante los tres años]]></from>
+      <to><![CDATA[mantenida y conservada, a lo menos, durante los tres años]]></to>
+      <why><![CDATA['dufante' es typo de 'durante']]></why>
+    </correction>
+    <correction confidence="alta" page="22">
+      <from><![CDATA[viencimiento de aquel/los que obran en poder]]></from>
+      <to><![CDATA[vencimiento de aquel/los que obran en poder]]></to>
+      <why><![CDATA['viencimiento' tiene 'v' extra, debe ser 'vencimiento']]></why>
+    </correction>
+  </ocr_corrections>
+</corfo_document>

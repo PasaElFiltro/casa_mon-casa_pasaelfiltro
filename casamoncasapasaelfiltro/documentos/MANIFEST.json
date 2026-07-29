@@ -1,0 +1,305 @@
+{
+  "generado_por": "tools/generar_xml_corfo.py",
+  "issue": "https://github.com/PasaElFiltro/pasaelfiltro/issues/288",
+  "advertencia_de_autoridad": "Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.",
+  "regla_dura": "Ninguna corrección de OCR toca un dígito. Verificado por código, no por confianza en el modelo: las propuestas con dígitos se rechazan.",
+  "documentos": [
+    {
+      "fuente": "01_BAG_2020.md",
+      "fuente_sha256": "9a38ee9f1ca1ecf68f1296a2de752d50ae2cf8296e78fee5037436b3ab8bea8b",
+      "derivado": "01_BAG_2020.xml",
+      "derivado_sha256": "0a149da7dbc7fbaa2df0bcbd26d382d4a6a8950c90b83deec72843bc1c923be6",
+      "titulo_leido": "Bases Administrativas Generales para los Instrumentos de la Corporación de Fomento de la Producción (2020)",
+      "pdf_original": "CORFO_BAG  2020 con toma de razon(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "Capa de texto original del PDF",
+      "paginas_verificables": 49,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 47,
+      "puntos_clave": 27,
+      "cifras_a_cotejar": 2,
+      "correcciones_aplicadas": 12,
+      "correcciones_rechazadas": 0,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        "El documento es una resolución de CORFO del 8 de abril de 2020 que establece bases generales para múltiples instrumentos de subsidio",
+        "Contiene múltiples referencias a fechas normativas: Ley 6.640, DFL 211/1960, Resoluciones 7 y 8 de 2019, DS 93/2019",
+        "Define procedimientos muy específicos con plazos máximos en prácticamente todas las etapas: admisibilidad (20 días), decisión (50-70 días), formalización (7-10 días)",
+        "Establece garantías obligatorias: 3% del monto total para fiel cumplimiento, vigencia mínima de 3 meses",
+        "Incluye definiciones exhaustivas de tipos de aportes, cuentas presupuestarias, categorías de participantes y obligaciones de intermediarios",
+        "La conversión de PDF escaneado contiene aproximadamente 13 errores de OCR en el cuerpo, ninguno crítico para la comprensión pero todos verificables",
+        "El document termina con firma digital de María Elina Cruz Tahnuz (Fiscal) y Pablo Terrazas Lagos (Vicepresidente Ejecutivo)",
+        "Las Bases solo rigen para 'instrumentos aprobados por las Gerencias de CORFO que expresamente lo dispongan'",
+        "El texto contiene instrucciones directas a CORFO (frecuentemente escrito como 'Codo' o 'Corfo' con mayúsculas inconsistentes)",
+        "Se enfatiza la importancia de verificación de documentos antes de decisiones financieras (nota sobre cotejo con PDF original)"
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "02_Modificacion_BAG_2023.md",
+      "fuente_sha256": "f1d4f021e2680b53ac218d2eeda16990a838c1409616f22129d7b6a1149e5a1c",
+      "derivado": "02_Modificacion_BAG_2023.xml",
+      "derivado_sha256": "799b1fe8449af4ff4c31cc03881a2e4607344e64944d72e75676b5794431f5ab",
+      "titulo_leido": "Resolución que modifica Bases Administrativas Generales para los Instrumentos de la Corporación de Fomento de la Producción, aprobadas por Resolución N°28 de 2020",
+      "pdf_original": "CORFO_Modificacion BAG. 2023(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "OCR visual en español",
+      "paginas_verificables": 4,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 19,
+      "puntos_clave": 15,
+      "cifras_a_cotejar": 1,
+      "correcciones_aplicadas": 5,
+      "correcciones_rechazadas": 1,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        {
+          "tipo": "artefacto_ocr",
+          "descripcion": "El documento contiene múltiples artefactos típicos de escaneo: palabras fragmentadas, caracteres sueltos, espacios mal interpretados (líneas 79-81 son particularmente afectadas). La calidad mejora significativamente en las páginas 3 y 4.",
+          "relevancia": "bajo",
+          "accion": "Verificar contra PDF original antes de cualquier decisión jurídica."
+        },
+        {
+          "tipo": "estructura_clara",
+          "descripcion": "El documento sigue estructura clásica de resolución administrativa CORFO: Visto, Considerando, Resuelvo. Cada modificación en el Resuelvo tiene un identificador clara (a, b, c... m), lo que facilita referencias cruzadas.",
+          "relevancia": "alto",
+          "accion": "El índice por numeral permite navegación rápida a cada cambio específico."
+        },
+        {
+          "tipo": "normativa_vigente",
+          "descripcion": "Todas las modificaciones incluyen salvedad de 'conforme a normativa general y presupuestaria vigente', indicando que estas disposiciones se subordinan a cambios futuros en leyes o instructivos de Hacienda.",
+          "relevancia": "alto",
+          "accion": "Quien postule debe verificar normativa presupuestaria actual, específicamente Oficio Circular de Hacienda vigente al momento del convenio."
+        },
+        {
+          "tipo": "umbral_critico",
+          "descripcion": "El monto de 500 UTM es el umbral que activa requisito de caución de fiel cumplimiento. Equivalencia en pesos se calcula al mes de enero de cada anualidad.",
+          "relevancia": "alto",
+          "accion": "Calcular valor en pesos para cada proyecto; incluir en presupuesto."
+        },
+        {
+          "tipo": "sistema_obligatorio",
+          "descripcion": "Sistema de Gestión de Proyectos v.2 es obligatorio para rendiciones. Implementación vigente desde Resolución Exenta N°0985/2019.",
+          "relevancia": "alto",
+          "accion": "Verificar acceso y capacitación en este sistema antes de firmar convenio."
+        }
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "03_Modificacion_BAG_2024_RA51.md",
+      "fuente_sha256": "2771401129e9f4ac8ceb2c3f631a01aa47005f628901d82cf9a0d6ff9fdc7fe0",
+      "derivado": "03_Modificacion_BAG_2024_RA51.xml",
+      "derivado_sha256": "8a941122501dfa8287e493e9e4ef006aec318bbaf12604427fd5efb5753e3d79",
+      "titulo_leido": "Resolución Afecta N°51 de 2024 - Modifica Bases Administrativas Generales para los Instrumentos de CORFO",
+      "pdf_original": "CORFO_RA 51 CORFO 2024 toma razon_modifica bag(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "OCR visual en español",
+      "paginas_verificables": 9,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 24,
+      "puntos_clave": 11,
+      "cifras_a_cotejar": 2,
+      "correcciones_aplicadas": 3,
+      "correcciones_rechazadas": 1,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        "El documento modifica BAG aprobadas por RA N°28/2020 y RA N°136/2023, generando una cadena de tres resoluciones que deben interpretarse conjuntamente.",
+        "La incorporación del 'organismo ejecutor' como tercera categoría junto a beneficiario e intermediario es un cambio estructural que afecta múltiples numerales (8, 8.2, 11, 14).",
+        "Se introduce verificación de pertinencia de objeto social como requisito de admisibilidad (numeral 5.3), con causal de rechazo de postulación si no se cumple.",
+        "Los montos de garantía (5% e intermediarios/ejecutores; 30 U.F. para beneficiarios) son mandatorios para montos que superen 1.000 UTM, pero bases particulares pueden modificar excepto en el caso de 5%.",
+        "Documento fue tomado de razón por Contraloría con fecha 23/08/2024, regularizando modificaciones a normativa de actos administrativos.",
+        "La vigencia rige desde total tramitación pero con excepción importante: no aplica retroactivamente a proyectos ya evaluados."
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "04_Manual_Rendiciones_2020.md",
+      "fuente_sha256": "8a1e8c5c12aee97c408bdf8aaf6c536b15e3108ac5c732037d8047482fec222d",
+      "derivado": "04_Manual_Rendiciones_2020.xml",
+      "derivado_sha256": "76a3bc66e227a189d25cca1657ad92a7e3d566502c317c7474fea6c66c7c96bd",
+      "titulo_leido": "Manual para la Rendición y Seguimiento Financiero de Proyectos CORFO (2020)",
+      "pdf_original": "CORFO_RE-443-CORFO-2020-Manual-de-Rendiciones-de-Gastos(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "OCR visual en español, página por página",
+      "paginas_verificables": 53,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 21,
+      "puntos_clave": 18,
+      "cifras_a_cotejar": 2,
+      "correcciones_aplicadas": 2,
+      "correcciones_rechazadas": 1,
+      "referencias_a_pagina_inexistente_descartadas": 3,
+      "hallazgos": [
+        "El índice inicial (Página 3) está parcialmente ilegible en términos de números de página: palabras legibles pero referencias numéricas desincronizadas con respecto a dónde realmente comienza cada sección en el documento.",
+        "Membrete 'CORFOY' en mayúsculas aparece en encabezado de casi cada página; verificación final de PDF original recomendada para confirmar si es CORFO o tiene algún sufijo real.",
+        "Los nombres de anexos varían ligeramente en ortografía entre referencias del índice (página 3-4) y ubicación real en el documento (páginas posteriores), sugiriendo posible degradación de calidad en tablas de índice de origen.",
+        "Pie de página y números de página del PDF original están presentes en texto OCR, lo que facilita mapeo 1:1 entre documento PDF y conversión."
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "05_Modificacion_Manual_Rendiciones_2023.md",
+      "fuente_sha256": "3b0c33fce5299013a2cd481f5e204e7ddd4295eaa39e282cbe9dd66e231d228f",
+      "derivado": "05_Modificacion_Manual_Rendiciones_2023.xml",
+      "derivado_sha256": "efb3526df4fb407e2d1e94c9617938a39b23d29cfc23a63f40484fdb7b95f546",
+      "titulo_leido": "Resolución Exenta N°131 (2023) que Modifica el Manual para la Rendición y Seguimiento Financiero de Proyectos Financiados y/o Cofinanciados por CORFO",
+      "pdf_original": "CORFO_Resol_507-7-24-2023. Ex. 131 CORFO 2023(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "OCR visual en español",
+      "paginas_verificables": 4,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 10,
+      "puntos_clave": 7,
+      "cifras_a_cotejar": 0,
+      "correcciones_aplicadas": 0,
+      "correcciones_rechazadas": 0,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        "El documento no contiene typos significativos del OCR en el cuerpo. El símbolo * en lugar de ° (N*13) es consistente a lo largo",
+        "Membrete y firma presentan degradación típica de escaneo pero no se tocan per instrucciones",
+        "Estructura clara: una resolución de modificación con 4 cambios principales (plazos, traducción, capacitación, nuevo anexo)",
+        "Todos los plazos y montos verificados con grep; no hay cifras dudosas detectadas"
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "06_Empresas_Lideradas_por_Mujeres.md",
+      "fuente_sha256": "59953e854f00df73e8376697f9873e1be2004cfdf42683ab01378f6dfc6891cb",
+      "derivado": "06_Empresas_Lideradas_por_Mujeres.xml",
+      "derivado_sha256": "3afa0421fce2680d7d0f70695516bd6d22748b68dc7e99cdf9e424361e2eee22",
+      "titulo_leido": "NORMAS PARA ACREDITAR LA CALIDAD DE EMPRESA LIDERADA POR MUJERES",
+      "pdf_original": "CORFO_Resolucion (E) N°481 - Empresas Lideradas por Mujeres(1).pdf",
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "Capa de texto original del PDF",
+      "paginas_verificables": 5,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 18,
+      "puntos_clave": 13,
+      "cifras_a_cotejar": 1,
+      "correcciones_aplicadas": 7,
+      "correcciones_rechazadas": 2,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        "El documento es una resolución exenta (no requiere trámite de toma de razón), de alcance administrativo interno a CORFO, no una ley con carácter público general",
+        "Hay cuatro categorías de beneficiarios con criterios distintos (personas naturales, sociedades de personas, sociedades de capital, sin fines de lucro), cada una con requisitos de verificación específicos",
+        "La verificación NO es automática: ocurre 'durante la formalización de los proyectos adjudicados', es decir DESPUÉS de que ganó la licitación. Esto significa que un rechazo por no acreditar empresa liderada por mujeres es posterior al proceso de evaluación",
+        "El poder de representación requerido en el criterio 2b es específico: debe ser 'suficiente para firmar (individualmente o con otro/a(s) representantes) el convenio de subsidio con InnovaChile', NO simplemente tener poder general",
+        "Existía lógica de verificación indirecta: si los socios de una persona jurídica son OTROS socios jurídicos, hay que verificar la composición de estos 'de ser necesario' para determinar si la participación real de mujeres es la requerida"
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "CORFO_Aviso_IR_2026_CDPR.md",
+      "fuente_sha256": "e8e67ead5617b599ae19e3bf8ae58c43cc167f867b5f77c2a10e0fc05a0b4aa5",
+      "derivado": "CORFO_Aviso_IR_2026_CDPR.xml",
+      "derivado_sha256": "f7cad2b6d6626d1d0a3f9cf15ded7ace56c9f90da33f2ff60afc83bd6a14bc2e",
+      "titulo_leido": "Concurso Innova Región 2026 — Región de Valparaíso",
+      "pdf_original": null,
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "unknown",
+      "paginas_verificables": null,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 7,
+      "puntos_clave": 8,
+      "cifras_a_cotejar": 3,
+      "correcciones_aplicadas": 0,
+      "correcciones_rechazadas": 0,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        "El documento es un aviso de concurso de CORFO, completamente legible a nivel de contenido. No contiene correcciones OCR necesarias en el cuerpo — solo espacios introducidos en años ('202 6', '202 4') que van en cifras dudosas por protocolo.",
+        "No hay membrete, logo, sellos ni bloques de firma — documento de texto limpio de OCR en su estructura.",
+        "Todos los puntos clave identificados son textualmente legibles y verificables con grep.",
+        "El documento NO contiene información de montos, porcentajes de financiamiento ni detalles específicos de admisibilidad más allá de: alineación con ejes, ejecución regional y completitud del proceso online."
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "CORFO_RVARE24062026_Focalizacion_Innova_Region_2026_1.md",
+      "fuente_sha256": "94d8de55428d730234e4d1429255c30f3b533f409d032c3c9605c80a85b4d301",
+      "derivado": "CORFO_RVARE24062026_Focalizacion_Innova_Region_2026_1.xml",
+      "derivado_sha256": "28c6d33afeb1ea02e9333f23123b96141fc1f0894220d6e28a3accb37a481171",
+      "titulo_leido": "Resolución que Determina Focalización Territorial y Temática del Primer Concurso Innova Región 2026",
+      "pdf_original": null,
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "unknown",
+      "paginas_verificables": null,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 11,
+      "puntos_clave": 13,
+      "cifras_a_cotejar": 2,
+      "correcciones_aplicadas": 0,
+      "correcciones_rechazadas": 0,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    },
+    {
+      "fuente": "CORFO_Reselec_E_N942024__InnovaChile__Modifica_Bases_Innova_Region.md",
+      "fuente_sha256": "53316bf1d75fd310fe0f7b2f37642344f76fe08ea9dd6f758cf77afcabe9cef5",
+      "derivado": "CORFO_Reselec_E_N942024__InnovaChile__Modifica_Bases_Innova_Region.xml",
+      "derivado_sha256": "332ed065673788e5caeb1040e3b1430f2e5f2e58f2a53d2c94300be1eb07bae5",
+      "titulo_leido": "Resolución Exenta Nº 94 de 2024 del Comité InnovaChile que Modifica las Bases del Instrumento INNOVA REGIÓN y Aprueba su Nuevo Texto",
+      "pdf_original": null,
+      "pdf_original_sha256": null,
+      "metodo_extraccion": "unknown",
+      "paginas_verificables": null,
+      "leido_por_haiku": true,
+      "entradas_de_indice": 17,
+      "puntos_clave": 14,
+      "cifras_a_cotejar": 0,
+      "correcciones_aplicadas": 0,
+      "correcciones_rechazadas": 0,
+      "referencias_a_pagina_inexistente_descartadas": 0,
+      "hallazgos": [
+        {
+          "tipo": "dato_importante",
+          "descripcion": "Documento modifica Resolución Exenta N°91 de 2024 que nunca fue publicada en Diario Oficial"
+        },
+        {
+          "tipo": "referencia_normativa",
+          "descripcion": "Aplicación de Bases Administrativas Generales aprobadas por Resolución Afecta N°28/2020 modificada por N°136/2023; estas bases son documento separado requerido para completar comprensión de procedimientos administrativos"
+        },
+        {
+          "tipo": "requisito_especial",
+          "descripcion": "Instrumento aprueba distintos niveles de TRL (TRL 1-9) pero exige que proyectos postulen con TRL>3 (prueba de concepto experimental o superior)"
+        },
+        {
+          "tipo": "flexibilidad",
+          "descripcion": "Órgano de decisión puede modificar tecnica y presupuestariamente proyectos aprobados sin alterar naturaleza y objetivo general; también puede establecer condiciones adicionales o eliminar hito técnico de continuidad del mes 8"
+        },
+        {
+          "tipo": "antecedente_formalización",
+          "descripcion": "Beneficiarios deben acreditar con antecedentes que percibieron ingresos por ventas dentro de 18 meses previos a postulación; incumplimiento implica desistimiento automático del proyecto"
+        },
+        {
+          "tipo": "registro_especial",
+          "descripcion": "Beneficiarios personas naturales deben acreditar no tener inscripción vigente en Registro Nacional de Deudores de Pensiones de Alimentos en tres etapas: admisibilidad, formalización y entrega de subsidio"
+        }
+      ],
+      "xml_valido": true,
+      "solo_difiere_en_correcciones_declaradas": true
+    }
+  ],
+  "resumen": {
+    "documentos": 9,
+    "leidos_por_haiku": 9,
+    "paginas_verificables_totales": 124,
+    "entradas_de_indice": 174,
+    "puntos_clave": 126,
+    "cifras_a_cotejar": 13,
+    "correcciones_aplicadas": 29,
+    "correcciones_rechazadas": 5,
+    "xml_validos": 9,
+    "fieles": 9,
+    "hallazgos_de_barrido": []
+  }
+}

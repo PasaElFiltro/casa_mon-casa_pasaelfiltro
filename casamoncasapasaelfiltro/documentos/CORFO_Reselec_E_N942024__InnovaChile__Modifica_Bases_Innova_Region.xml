@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="CORFO_Reselec_E_N942024__InnovaChile__Modifica_Bases_Innova_Region">
+  <provenance>
+    <derived_from_file>CORFO_Reselec_E_N942024__InnovaChile__Modifica_Bases_Innova_Region.md</derived_from_file>
+    <derived_from_sha256>53316bf1d75fd310fe0f7b2f37642344f76fe08ea9dd6f758cf77afcabe9cef5</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="el markdown fuente no declara su pdf de origen"/>
+    <extraction_method>unknown</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>0</ocr_corrections_applied>
+      <ocr_corrections_rejected>0</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Resolución Exenta Nº 94 de 2024 del Comité InnovaChile que Modifica las Bases del Instrumento INNOVA REGIÓN y Aprueba su Nuevo Texto]]></title>
+  <summary><![CDATA[Instrumento de financiamiento de Corfo que apoya el desarrollo de nuevos o mejorados productos y procesos desde prototipo hasta validación comercial. Dirigido a empresas de todas las regiones del país con plazo de hasta 24 meses y cofinanciamiento por subsidio según tamaño de empresa.]]></summary>
+  <index entries="17" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="visto">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Fundamentos legales: Ley N°6.640, DFL N°211/1960, Reglamento CORFO, Ley N°19.880, Resoluciones Afectas sobre Comité InnovaChile, Bases Administrativas Generales.]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[16 considerandos sobre historial de creación y modificaciones de INNOVA REGIÓN desde 2018, decisión de modificar bases y aprobar nuevo texto.]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO]]></heading>
+      <about><![CDATA[Modifica bases de INNOVA REGIÓN aprobadas por Resolución Exenta N°180 de 2023; aprueba nuevo texto; deroga Resolución Exenta N°91 de 2024.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[1. Antecedentes]]></heading>
+      <about><![CDATA[Contexto de baja inversión en I+D en Chile (0.36% PIB vs 2.72% OECD), bajos niveles de innovación empresarial (16.7% vs 50% OECD), necesidad de transformación productiva sostenible.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[2. Objetivos]]></heading>
+      <about><![CDATA[Objetivo general: apoyar desarrollo de productos/procesos desde prototipo (TRL>3) a validación técnica/comercial. Objetivos específicos: orientados a valor regional, validar propuestas de mercado, fortalecer capacidades de innovación.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[3. Resultados esperados del instrumento]]></heading>
+      <about><![CDATA[Productos o procesos desarrollados; propuestas de introducción al mercado o implementación productiva ejecutadas; capacidades de innovación en empresas fortalecidas.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[4. Participantes del proyecto]]></heading>
+      <about><![CDATA[Define roles: beneficiario (persona jurídica o natural ≥18 años), asociados opcionales (pecuniarios/valorizados), entidades colaboradoras opcionales (I+D). Requisitos de actividad empresarial y ventas.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[5. Plazos]]></heading>
+      <about><![CDATA[Plazo de ejecución de hasta 24 meses con posibilidad de prórroga, máximo total 30 meses (42 para ciclos biológicos con justificación).]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[6. Cofinanciamiento]]></heading>
+      <about><![CDATA[Subsidio hasta $60 millones según tamaño de beneficiario; opción de +10% para empresas lideradas por mujeres; aportes de participantes (nuevos ≥50% excepto empresas de mujeres).]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[7. Actividades y gastos financiables]]></heading>
+      <about><![CDATA[Recursos humanos, pruebas de concepto, prototipaje, validación técnica-comercial, protección de propiedad intelectual, certificaciones, marketing, escalamiento.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[8. Contenido del proyecto]]></heading>
+      <about><![CDATA[Requisitos de postulación: resumen, objetivos, diagnóstico, mercado objetivo, metodología, grado de novedad, impacto, escalabilidad, participantes, presupuesto detallado.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[9. Evaluación]]></heading>
+      <about><![CDATA[Análisis de admisibilidad previo; evaluación con notas 1-5 en 6 criterios con ponderadores; nota mínima 3.0 por criterio para recomendación de aprobación; bonificación 5% para empresas de menor tamaño con reducción de jornada.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[10. Seguimiento y acompañamiento]]></heading>
+      <about><![CDATA[Hito técnico de continuidad al mes 8; informes de cumplimiento; actividades obligatorias de acompañamiento; evaluación de decisión de continuidad del proyecto.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[11. Aspectos presupuestarios]]></heading>
+      <about><![CDATA[Cuentas: Recursos Humanos, Gastos de Operación (máx 40% subsidio para entidades colaboradoras), Gastos de Inversión (máx 30%), Gastos de Administración (máx 10%). Garantía: mínimo 30 UF.]]></about>
+    </entry>
+    <entry type="articulo">
+      <heading><![CDATA[12. Bases Administrativas Generales]]></heading>
+      <about><![CDATA[Aplicación de BAG aprobadas por Resolución Afecta N°28/2020 modificada por N°136/2023; requisitos de admisibilidad de participantes y proyectos (10 requisitos); antecedentes de formalización; Registro de Deudores de Pensiones.]]></about>
+    </entry>
+    <entry type="numeral">
+      <heading><![CDATA[12.1. Requisitos de admisibilidad]]></heading>
+      <about><![CDATA[10 requisitos de admisibilidad de participantes y proyectos: constitución legal, 18 meses de actividad, TRL>3, coherencia de objetivos, cofinanciamiento, plazos, temática/territorio si corresponde, domicilio tributario regional si aplica, objeto social pertinente.]]></about>
+    </entry>
+    <entry type="anexo">
+      <heading><![CDATA[Anexo: Nivel de Madurez de la Tecnología (TRL)]]></heading>
+      <about><![CDATA[Define 9 niveles TRL desde principios básicos (TRL1) hasta sistema probado en entorno operacional real (TRL9); instrumento requiere proyectos con TRL>3.]]></about>
+    </entry>
+  </index>
+  <key_points count="14">
+    <point type="plazo">
+      <text><![CDATA[El plazo de ejecución de los proyectos es de hasta 24 (veinticuatro) meses. Este plazo podrá ser prorrogado, previa solicitud fundada del beneficiario presentada antes del vencimiento del plazo de ejecución. El plazo total del proyecto (incluidas sus prórrogas), no podrá superar los 30 (treinta) meses.]]></text>
+      <why><![CDATA[Define la duración máxima de ejecución y oportunidad para prorrogas de 6 meses adicionales.]]></why>
+    </point>
+    <point type="plazo">
+      <text><![CDATA[Excepcionalmente, y sólo en caso de proyectos que se basen en trabajo con ciclos biológicos y que requieran un plazo mayor, se podrá considerar en su formulación, debidamente justificado, un plazo de ejecución de hasta 36 (treinta y seis) meses y, el plazo total (incluidas sus prórrogas) no podrá superar los 42 (cuarenta y dos) meses.]]></text>
+      <why><![CDATA[Excepción para proyectos con ciclos biológicos que requieren mayor plazo.]]></why>
+    </point>
+    <point type="monto">
+      <text><![CDATA[InnovaChile cofinanciará los proyectos con un tope de hasta $60.000.000.- (sesenta millones de pesos).]]></text>
+      <why><![CDATA[Define el monto máximo de subsidio por proyecto.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[Dependiendo del ingreso anual por ventas del beneficiario, se financiará un porcentaje del costo total del proyecto: Empresa micro y pequeña (hasta 25.000 U.F.) 80,00%; Empresa mediana (25.000 a 100.000 U.F.) 60,00%; Empresa grande (sobre 100.000 U.F.) 40,00%.]]></text>
+      <why><![CDATA[Criterio de cofinanciamiento varía según tamaño de la empresa; determina el porcentaje de aporte propio requerido.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[Los postulantes podrán optar a que se aplique, en caso de ser aprobado su proyecto, un aumento del porcentaje de cofinanciamiento, en la medida que el beneficiario sea una 'empresa liderada por mujeres', de hasta un 10,00% más de porcentaje de cofinanciamiento (en relación con el costo total del proyecto) por sobre los máximos establecidos en las presentes bases por categoría de beneficiario.]]></text>
+      <why><![CDATA[Incentivo de +10% de subsidio para empresas lideradas por mujeres; reduce requisito de aportes nuevos de 50% a 40%.]]></why>
+    </point>
+    <point type="monto">
+      <text><![CDATA[El aumento de porcentaje de cofinanciamiento, en ningún caso podrá significar la entrega de un subsidio por sobre $67.500.000.- (sesenta y siete millones quinientos mil pesos).]]></text>
+      <why><![CDATA[Tope máximo de subsidio incluyendo bonificación por empresa de mujeres.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[Al menos el 50,00% del aporte de los participantes (beneficiario y asociados en caso de existir), debe corresponder a aportes 'nuevos o pecuniarios'. Para empresas lideradas por mujeres este porcentaje se reduce hasta 40,00%.]]></text>
+      <why><![CDATA[Requiere cofinanciamiento real de participantes; mayoritariamente en dinero fresco, no activos preexistentes.]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[El beneficiario debe corresponder a una persona jurídica constituida en Chile o una persona natural con, al menos, 18 años cumplidos al momento de la postulación; haber transcurrido a lo menos 18 meses desde el inicio de actividades en un giro empresarial de primera categoría (D.L. 824, de 1974) que se encuentre vigente; acreditar ingresos por ventas dentro de los 18 meses previos a la postulación (no necesariamente en todos los meses).]]></text>
+      <why><![CDATA[Requisitos mínimos de elegibilidad del beneficiario: edad, años de operación, evidencia de ventas.]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[La solución a desarrollar en el marco del proyecto se encuentra en un nivel de madurez tecnológica que supera un TRL 3 (de acuerdo con las definiciones del Anexo de las presentes bases).]]></text>
+      <why><![CDATA[Establece nivel técnico mínimo: prueba de concepto experimental; no financia investigación básica.]]></why>
+    </point>
+    <point type="garantia">
+      <text><![CDATA[El monto de la garantía de fiel cumplimiento del convenio, que deberá(n) entregarse, deberá corresponder, al menos, a 30 UF.]]></text>
+      <why><![CDATA[Garantía mínima requerida para asegurar cumplimiento contractual.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[En caso de Gastos de Operación con Entidades Colaboradoras, sólo se podrá destinar como máximo hasta un 40,00% del subsidio de InnovaChile a la contratación de este tipo de entidades.]]></text>
+      <why><![CDATA[Límite máximo de externalizacion de actividades; promueve desarrollo interno de capacidades.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[Sólo se podrá destinar como máximo hasta un 30,00% del subsidio de InnovaChile a Gastos de Inversión (equipamiento, materiales, insumos).]]></text>
+      <why><![CDATA[Límite máximo para inversión en activos; prioriza gasto en recursos humanos y operación.]]></why>
+    </point>
+    <point type="porcentaje">
+      <text><![CDATA[Se podrá destinar como máximo hasta un 10,00% del subsidio de InnovaChile a Gastos de Administración.]]></text>
+      <why><![CDATA[Límite estricto para gastos administrativos; asegura foco en ejecución técnica.]]></why>
+    </point>
+    <point type="definicion">
+      <text><![CDATA[Se entenderá por 'Prototipo' la representación simple de una solución innovadora preliminar (nueva o mejorada respecto de una existente) a una problemática empresarial. Sirve para realizar pruebas iniciales rápidas y medir el concepto preliminar antes de hacer inversiones mayores. No considera aspectos relacionados con el modelo de negocio (propuesta de valor, canales, clientes, ingresos, etc.).]]></text>
+      <why><![CDATA[Define claramente qué se entiende por prototipo en el contexto del instrumento.]]></why>
+    </point>
+  </key_points>
+  <page_status>not_available</page_status>
+  <page_status_reason>El markdown fuente no contiene fronteras de página verificables. No se fabrican números; usar el índice.</page_status_reason>
+  <body><![CDATA[### COMITÉ INNOVACHILE
+
+### RESOLUCIÓN ELECTRÓNICA
+
+### EXENTA
+
+### MODIFICA BASES DEL
+
+### INSTRUMENTO DE FINANCIAMIENTO
+
+### DENOMINADO “ INNOVA REGIÓN ” ,
+
+### APRUEBA SU NUEVO TEXTO ” Y
+
+### DEJA SIN EFECTO RESOLUCIÓN
+
+### ELECTRÓNICA EXENTA N°91 DE
+
+### 2024, DE INNOVACHILE.
+
+### V I S T O :
+
+Lo dispuesto en la ley N°6.640, que crea la Corporación de Fomento de la Producción; en el  
+decreto con fuerza de ley N°211, de 1960, del Ministerio de Hacienda, que fija normas que  
+regirán a la Corporación de Fomento de la Producción; en el Reglamento de la Corporación,  
+aprobado por decreto N°360, de 1945, del Ministerio de Economía y Comercio; en la ley  
+N°19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos  
+de los Órganos de la Administración del Estado; en la Resolución Afecta Nº71, de 2019,  
+modificada por la Resolución Afecta N°32, de 2020, Afecta N°6 y Afecta N°61, ambas de  
+2023, todas de Corfo, que aprueba normas por las que deberá regirse el Comité InnovaChile  
+o “Reglamento”; en la Resolución Afecta N°28, de 2020, modificada por Resolución Afecta  
+Nº136, de 2023, ambas de Corfo, que Aprueba Bases Administrativas Generales para los  
+Instrumentos de la Corporación de Fomento de la Producción, en adelante las “Bases  
+Administrativas Generales” o “BAG”; en la Resolución Afecta TRA N°58/14/2023, de Corfo,  
+que nombra Gerente de la Corporación; y en las Resoluciones Nº7, de 2019 y N° 14 , de 2022 ,  
+ambas de la Contraloría General de la República, que, respectivamente, fija normas sobre  
+exención del trámite de toma de razón y determina los montos a partir de los cuales los actos  
+quedarán sujetos a toma de razón y a controles de reemplazo cuando corresponda.
+
+### C O N S I D E R A N D O:
+
+1. Que, por Acuerdo Nº5, adoptado en la Sesión Nº75 del Consejo Directivo del Comité  
+   InnovaChile, celebrada el 11 de septiembre de 2018, ejecutado por Resolución Exenta  
+   Nº411, de 2018, de InnovaChile, se aprobó la iniciativa de apoyo denominada “Proyectos  
+   de Innovación”.  
+2. Que, por Acuerdo Nº4, adoptado en la Sesión Nº406 del Subcomité de Difusión  
+   Tecnológica y Entorno para la Innovación del Comité InnovaChile (actualmente  
+   Subcomité de Impulso a la Innovación), celebrada el 22 de noviembre de 2018, ejecutado  
+   por Resolución Exenta N°484, de 2018, de InnovaChile, se definieron los objetivos  
+   generales y resultados esperados y, además, se aprobaron los elementos técnicos  
+   señalados en la letra c) del artículo 7° del reglamento del Comité InnovaChile, en relación  
+   con la iniciativa de apoyo citada en el Considerando anterior.  
+3. Que, por Acuerdo Nº5, adoptado en la Sesión Nº378 del Subcomité de Innovación  
+   Empresarial del Comité InnovaChile, celebrada el 27 de marzo de 2019, ejecutado por  
+   Resolución Exenta N°106, de 2019, de InnovaChile, se modificaron los elementos  
+   técnicos señalados en el Considerando 2 anterior.  
+4. Que, por Acuerdo N°2, adoptado en la Sesión N°438, del Subcomité de Innovación  
+   Empresarial del Comité InnovaChile, celebrada el 12 de marzo de 2020, ejecutado por  
+   Resolución Exenta N°144, de 2020, de InnovaChile, se modificó, por segunda vez, el  
+   Acuerdo singularizado en el Considerando 2\.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+2
+
+5. Que, por Resolución Exenta N°488, de 2018, de InnovaChile, se creó el instrumento de  
+   financiamiento denominado “INNOVA REGIÓN” y se aprobó el texto de sus bases.  
+6. Que, por Resolución Exenta N°123, de 2019, de InnovaChile, se aprobó un nuevo texto  
+   de las bases del instrumento de financiamiento denominado “INNOVA REGIÓN”.  
+7. Que, por Resolución Exenta N°151, de 2020, de InnovaChile, se aprobó un nuevo texto  
+   de las bases del instrumento de financiamiento denominado “INNOVA REGIÓN”. Este  
+   nuevo texto fue, a su vez, modificado por Resolución Exenta N°166 de 2020, de  
+   InnovaChile.  
+8. Que, por Acuerdo Nº 2 , adoptado en la Sesión Nº 460 , del Subcomité de Impulso a la  
+   Innovación del Comité InnovaChile, celebrada el 25 de febrero de 2021, ejecutado por  
+   Resolución Exenta N° 61 , de 20 21 , de InnovaChile, se modificaron, por tercera vez, los  
+   elementos técnicos señalados en el Considerando 2 anterior.  
+9. Que, por Resolución Exenta N° 65 , de 2021, de InnovaChile, se modificaron las bases  
+   del instrumento de financiamiento denominado “INNOVA REGIÓN” y se aprobó el nuevo  
+   texto de sus bases.  
+10. Que, por Acuerdo Nº 3 adoptado en la Sesión Nº 490 , del Subcomité de Impulso a la  
+    Innovación del Comité InnovaChile, celebrada el 10 de junio de 2022, ejecutado por  
+    Resolución Exenta N° 237 , de 2022, de InnovaChile, se modificaron, por cuarta vez, los  
+    elementos técnicos señalados en el Considerando 2 anterior.  
+11. Que, por Resolución Exenta N° 245 , de 20 22 , de InnovaChile, se aprobó un nuevo texto  
+    de las bases del instrumento de financiamiento denominado “INNOVA REGIÓN”.  
+12. Que, por Acuerdo N°3 adoptado en la Sesión Nº 508 , del Subcomité de Impulso a la  
+    Innovación del Comité InnovaChile, celebrada el 16 de marzo de 2023, ejecutado por  
+    Resolución Electrónica Exenta N°69, de 2023, de InnovaChile, se modificó, por quinta  
+    vez, el Acuerdo singularizado en el Considerando 2\.  
+13. Que, por Resolución Electrónica Exenta N°73, de 2023, de InnovaChile, se aprobó un  
+    nuevo texto de las bases del instrumento de financiamiento denominado “INNOVA  
+    REGIÓN”. Este nuevo texto fue, a su vez, modificado por Resolución Electrónica  
+    Exenta N°110, de 2023, de InnovaChile.  
+14. Que, por Acuerdo Nº3, adoptado en la Sesión Nº511 del Subcomité de Impulso a la  
+    Innovación del Comité InnovaChile, celebrada el de 25 de mayo de 2023, ejecutado por  
+    Resolución Electrónica Exenta N°163, de 2023, de InnovaChile, se modificó, por sexta  
+    vez, el Acuerdo singularizado en el Considerando 2\.  
+15. Que, por Resolución Electrónica Exenta N° 180 , de 2023, de InnovaChile, se aprobó un  
+    nuevo texto de las bases del instrumento de financiamiento denominado “INNOVA  
+    REGIÓN”.  
+16. Que, por Resolución Electrónica Exenta N° 91 , de 202 4 , de InnovaChile, se aprobó un  
+    nuevo texto de las bases del instrumento de financiamiento denominado “INNOVA  
+    REGIÓN”, la que no fue publicada en el Diario Oficial.  
+17. Que, de acuerdo con lo dispuesto en la letra f) del artículo 11° del Reglamento del Comité  
+    InnovaChile, le corresponde a su Director Ejecutivo crear, en base a los respectivos  
+    elementos técnicos definidos por el Subcomité, uno o más instrumentos de  
+    financiamiento, aprobar el texto definitivo de sus bases, sus modificaciones y textos  
+    refundidos.  
+18. Que, de acuerdo con lo dispuesto en el numeral 1.2 de las Bases Administrativas  
+    Generales para los instrumentos de la Corporación de Fomento de la Producción,  
+    aprobadas por Resolución Afecta N°28, de 2020, modificada por Resolución Afecta  
+    Nº136, de 2023, ambas de Corfo, “Los Comités de Corfo podrán utilizar estas bases, si  
+    así lo dispusiere su Director Ejecutivo”.
+
+### R E S U E L V O:
+
+1° Modifícanse las bases del instrumento de financiamiento denominado “INNOVA  
+REGIÓN” , aprobadas por Resolución Electrónica Exenta N° 180 , de 2023, de  
+InnovaChile, y apruébase su nuevo texto, cuyo tenor es el siguiente:
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+## Índice
+
+*   
+  12. Antecedentes  
+  13. Objetivos  
+  14. Resultados esperados del instrumento  
+  15. Participantes del proyecto  
+  16. Plazos  
+  17. Cofinanciamiento  
+  18. Actividades y gastos financiables  
+* 8 Contenido del proyecto  
+  12. Evaluación  
+  13. Seguimiento y acompañamiento  
+  14. Aspectos presupuestarios  
+  15. Bases Administrativas Generales  
+* Anexo: Nivel de Madurez de la Tecnología
+
+4
+
+## 1\. Antecedentes
+
+La innovación es un elemento fundamental de los incrementos de productividad alcanzados por  
+un país, lo que determina su nivel de crecimiento en el largo plazo. Constituye, además, un  
+vehículo que orienta la dirección de su desarrollo, tanto económico como social. Esto explica  
+que la promoción de mayores esfuerzos en innovación sea un objetivo central de la política  
+pública en países desarrollados y, crecientemente, de países en desarrollo. Lo expuesto cobra  
+especial relevancia en el caso de Chile, donde según la última encuesta nacional de innovación  
+(ENI 2019-2020) sólo un 16,7% de las empresas declara haber innovado, mientras que, en un  
+país en la mediana de la OECD, organización de la cual Chile forma parte, un 50% de las  
+empresas introdujo un nuevo producto o proceso entre los años 2018 y 2020 (OECD Business  
+Innovation Indicators, 2023). De este bajo porcentaje de empresas innovadoras en Chile, solo  
+un 28,5% realiza I+D según la ENI (2019-2020).
+
+Lo precedentemente señalado no sorprende si se advierten los bajos esfuerzos que se realizan  
+en el país en investigación y desarrollo (I+D), insumo fundamental para la innovación  
+tecnológica. En efecto, durante el año 2021, en Chile se invirtió tan solo un 0,36% del PIB en  
+I+D (MINCYT, 2023), muy lejos del 2,72% que invierten otros países miembros de la OECD, y  
+del 1% que debiera estar invirtiendo Chile según su nivel de ingreso per cápita (OECD, STI  
+Scoreboard). Por otra parte, de la inversión total en I+D realizada a nivel nacional, las empresas  
+privadas financiaron alrededor del 41,38%, que, si bien representa un aumento respecto de la  
+última medición de este indicador, es aún muy inferior al 70% promedio que financia dicho  
+sector en los países miembros de la OECD (MINCYT, 2023).
+
+La visión sistémica del proceso de innovación implica que éste depende de los siguientes  
+factores: que las partes clave que componen un sistema de innovación, estén presentes; que  
+las interacciones entre ellas se encuentren adecuadamente habilitadas; y que éstas ocurran en  
+un contexto institucional que propicie el desarrollo, uso y diseminación de innovaciones. No  
+obstante, esto no necesariamente ocurre de manera espontánea debido a la existencia de fallas  
+de sistema, tales como las de coordinación, que afectan la adecuada interacción entre las  
+partes del sistema.
+
+A las referidas fallas, se suman: aquellas clásicas de mercado vinculadas a la naturaleza de  
+bien público y a las externalidades positivas que tiene el conocimiento, lo que dificulta su  
+apropiabilidad por parte de quien invierte en el desarrollo del mismo; a la incertidumbre  
+tecnológica y comercial a la que se enfrenta el desarrollo y puesta en el mercado de un producto  
+o proceso innovador; y a las asimetrías de información que enfrentan las empresas respecto  
+de, por ejemplo, la existencia y/o ubicación de tecnologías que puedan servir de insumo para  
+el desarrollo de innovaciones, o bien, entre quien busca financiamiento para desarrollar un  
+proyecto de innovación y aquellos actores que tienen los recursos.
+
+Producto de estas fallas es que los niveles de inversión en I+D y el esfuerzo privado en  
+innovación es menor al deseable desde un punto de vista social, justificando la intervención del  
+sector público mediante instrumentos de política pública de diversa naturaleza.
+
+Adicionalmente, la crisis climática y de biodiversidad a nivel global, el creciente número de  
+conflictos socioambientales, y el estancamiento de la productividad de Chile, ponen de  
+manifiesto la urgente necesidad de avanzar hacia un nuevo modelo de desarrollo productivo  
+que sea inclusivo y sostenible, que impulse una transformación productiva, y que promueva el  
+desarrollo de contenido local y la sofisticación de nuestra canasta exportadora.
+
+Para ello se requiere de la incorporación de ciencia, tecnología, conocimiento e innovación en  
+el quehacer de múltiples sectores económicos, los que en conjunto posibilitarán el cumplimiento  
+de misiones tan importantes como la descarbonización, resiliencia climática y diversificación  
+productiva sustentable.
+
+Para responder a los desafíos que impone la implementación de este modelo de desarrollo  
+productivo sostenible, se requiere de la participación activa e interacción de múltiples actores  
+del ecosistema de innovación, dentro de los cuales las empresas adquieren un rol  
+preponderante.
+
+En este contexto, la participación de las empresas en la implementación de proyectos de  
+investigación y desarrollo e innovación que contribuyan a la generación de nuevos productos  
+(bienes o servicios) y procesos de alto valor agregado es fundamental para aportar a la  
+transformación productiva y a la sofisticación de la economía chilena.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+5
+
+Por todo lo anterior, es que el Estado, a través de InnovaChile de Corfo, pone a disposición de  
+las empresas un conjunto de instrumentos de apoyo público a proyectos de I+D e innovación  
+empresarial, los que buscan brindar apoyo en sus distintas etapas de desarrollo.
+
+Dentro de este abanico de instrumentos se encuentra “INNOVA REGIÓN”, instrumento que  
+tiene por finalidad apoyar el desarrollo de nuevos o mejorados productos (bienes o servicios)  
+y/o procesos, a partir de prototipos hasta su validación comercial, que aporten a la economía  
+regional. La ejecución de este tipo de proyectos de alto impacto en el sector productivo busca  
+potenciar aumentos en la productividad y competitividad de las empresas de todas las regiones,  
+posibilitando, además, su participación activa en el proceso de transformación productiva que  
+forma parte del modelo de desarrollo productivo sostenible del país.
+
+## 2\. Objetivos
+
+2.1. Objetivo general
+
+Apoyar el desarrollo de nuevos o mejorados productos (bienes o servicios) y/o procesos  
+desde la fase de prototipo, hasta la fase de validación técnica a escala productiva y/o  
+validación comercial, que aporten a la economía regional y fortalezcan las capacidades  
+de innovación en la empresa.
+
+Se entenderá por “Prototipo” la representación simple de una solución innovadora  
+preliminar (nueva o mejorada respecto de una existente) a una problemática empresarial.  
+Dicho prototipo sirve para realizar pruebas iniciales rápidas y medir el concepto preliminar  
+antes de hacer inversiones mayores. Asimismo, permite testear supuestos iniciales y  
+verificar ciertas características y funcionalidades que tendrá la solución que se  
+desarrollará. No considera aspectos relacionados con el modelo de negocio (propuesta  
+de valor, canales, clientes, ingresos, etc.).
+
+El grado de madurez del prototipo, y de la tecnología asociada a éste, puede medirse a  
+partir de lo que se conoce como Nivel de Madurez Tecnológica, o Technology Readiness  
+Level, TRL, por sus siglas en inglés (ver Anexo), permitiendo identificar el punto de partida  
+de la solución a desarrollar. Este instrumento busca apoyar proyectos que ya hayan  
+superado un TRL3 (pruebas de concepto) y requieran financiamiento para realizar  
+pruebas y validaciones de un prototipo conceptual, permitiendo avanzar hacia etapas  
+posteriores de maduración de la solución, posibilitando su llegada al mercado.
+
+Asimismo, se espera que a partir la gestión y desarrollo de un proyecto de innovación se  
+generen aprendizajes prácticos que fortalezcan las capacidades internas de la empresa  
+para ejecutar nuevos proyectos de innovación.
+
+2.2. Objetivos específicos
+
+a) Apoyar el desarrollo de nuevos o mejorados productos (bienes o servicios) y/o  
+procesos que se orienten a la generación de valor, al menos, a nivel regional.  
+b) Definir y validar una propuesta que posibilite, ya sea la introducción al mercado del  
+producto (bien o servicio), y/o una primera implementación productiva del proceso.  
+c) Fortalecer las capacidades de innovación en las empresas.
+
+## 3\. Resultados esperados del instrumento
+
+a) Nuevos o mejorados productos (bienes o servicios) y/o procesos desarrollados.  
+b) Propuesta que posibilite la introducción al mercado de un producto (bien o servicio),  
+definida y validada, y/o propuesta de implementación productiva del proceso, ejecutada.  
+c) Capacidades de innovación en la empresa, fortalecidas.
+
+## 4\. Participantes del proyecto
+
+Los participantes de un proyecto son los siguientes:
+
+a) Beneficiario: Es quien postula a un subsidio para el cofinanciamiento de su proyecto. En  
+el caso que éste sea aprobado, deberá firmar un convenio de subsidio con InnovaChile y  
+será el responsable por la ejecución del proyecto.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+6
+
+Podrán postular como beneficiarios:
+
+▪ Personas jurídicas constituidas en Chile.  
+▪ Personas naturales con, a lo menos, 18 años cumplidos al momento de postular.
+
+Además, al momento de la postulación, en relación con el beneficiario, se deberá cumplir  
+con los siguientes requisitos:
+
+▪ Haber transcurrido, a lo menos, 18 meses, contados desde la fecha de inicio de  
+actividades en un giro empresarial de primera categoría, de conformidad con lo  
+establecido en el artículo 20 de la Ley de Impuesto a la Renta (D.L. 824, de 1974), el  
+cual debe encontrarse vigente.  
+▪ Acreditar ingresos por ventas dentro de los 18 meses previos a la postulación (no  
+necesariamente en todos los meses).
+
+Cada proyecto deberá tener un solo beneficiario.
+
+Para los casos de aperturas o llamados focalizados territorialmente en una o más  
+regiones, el beneficiario o, al menos, uno de los asociados (de participar), deberán tener  
+domicilio tributario en la región a la que se postula.
+
+Las instituciones de educación superior (universidades, institutos profesionales y centros  
+de formación técnica), no podrán participar en calidad de beneficiario, sólo podrán  
+participar en calidad de “Entidades Colaboradoras” (ver letra c), o bien, ser contratadas  
+por el beneficiario para la ejecución de actividades externalizadas.
+
+b) Asociado: Es una o más entidades que cofinancian la ejecución del proyecto a través de  
+aportes “nuevos o pecuniarios” (en dinero) y/o “preexistentes o valorizados” (con las  
+limitaciones señaladas en el número 6.2 siguiente), y que pueden participar de los  
+resultados de éste.
+
+Podrán participar como asociados una o más personas naturales y/o jurídicas constituidas  
+en Chile o en el extranjero.
+
+La participación de asociados en el proyecto es opcional.
+
+Para los casos de aperturas o llamados focalizados territorialmente en una o más  
+regiones, si el beneficiario no tiene domicilio tributario registrado en la respectiva región,  
+deberá participar, a lo menos, un asociado que tenga domicilio tributario registrado en la  
+referida región.
+
+c) Entidades Colaboradoras: Son entidades con capacidades, infraestructura y experiencia  
+en I+D que el beneficiario contrata para resolver desafíos tecnológicos relevantes,  
+mediante la realización de actividades de I+D, y de esta forma lograr los resultados de su  
+proyecto, tales como: universidades, centros de investigación, empresas de servicios  
+tecnológicos, entre otras.
+
+Podrán participar como Entidades Colaboradoras una o más personas jurídicas  
+constituidas en Chile o en el extranjero.
+
+La contratación de una o más Entidades Colaboradoras en el proyecto, es opcional.
+
+Cada persona jurídica o natural, según corresponda, y cumpliendo los requisitos que se señalan  
+para cada caso, sólo podrá participar en una categoría de las anteriormente señaladas. Así, por  
+ejemplo, la entidad que participe en calidad de “Entidad Colaboradora”, no podrá participar en  
+calidad de “asociado”, o viceversa.
+
+Sin perjuicio de las categorías de participación antes señaladas, se podrá contratar, además,  
+la ejecución de actividades externalizadas, esto es, realizadas por terceros ajenos al proyecto,  
+quienes no tendrán relación contractual con Corfo.
+
+## 5\. Plazos
+
+El plazo de ejecución de los proyectos es de hasta 24 (veinticuatro) meses. Este plazo podrá  
+ser prorrogado, previa solicitud fundada del beneficiario presentada antes del vencimiento del  
+plazo de ejecución. El plazo total del proyecto (incluidas sus prórrogas), no podrá superar los
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+7
+
+30 (treinta) meses.
+
+Excepcionalmente, y sólo en caso de proyectos que se basen en trabajo con ciclos biológicos  
+y que requieran un plazo mayor, se podrá considerar en su formulación, debidamente  
+justificado, un plazo de ejecución de hasta 36 (treinta y seis) meses y, el plazo total (incluidas  
+sus prórrogas) no podrá superar los 42 (cuarenta y dos) meses.
+
+## 6\. Cofinanciamiento
+
+6.1. Subsidio InnovaChile
+
+InnovaChile cofinanciará los proyectos con un tope de hasta $60.000.000.- (sesenta  
+millones de pesos).
+
+Además, dependiendo del ingreso anual por ventas del beneficiario, se financiará un  
+porcentaje del costo total del proyecto, de acuerdo con la siguiente tabla:
+
+TAMAÑO BENEFICIARIO (\*) PORCENTAJE MÁXIMO DE SUBSIDIO  
+Empresa micro y pequeña  
+(ingreso anual por ventas de hasta 25.000 U.F.) 80,00%^  
+Empresa mediana (ingreso anual por venta por sobre 25\.  
+U.F. y hasta 100.000 U.F.) 60,00%^  
+Empresa grande  
+(ingreso anual por ventas por sobre 100.000 U.F.) 40 , 00%^  
+(\*) El ingreso anual por ventas que se considerará para determinar el tamaño del beneficiario será el del  
+año calendario anterior a la postulación del proyecto.  
+Para determinar el cumplimiento de los requisitos antes establecidos, se usará como referencia el valor  
+de la U.F. del día 31 de diciembre del año anterior al de postulación.
+
+Sin perjuicio de lo señalado, al momento de la adjudicación de cada proyecto, se podrá  
+aprobar un monto de subsidio y/o un porcentaje de cofinanciamiento inferior a los  
+máximos indicados.
+
+Asimismo, y dependiendo de la naturaleza de la focalización temática o geográfica que  
+en su caso se efectúe, y/o de la disponibilidad presupuestaria, InnovaChile podrá  
+determinar, en el respectivo acto de focalización, para cada apertura o llamado un monto  
+y/o porcentaje de cofinanciamiento por proyecto inferior a los indicados precedentemente,  
+situación que será determinada en el respectivo acto de focalización e informada en  
+el(los) respectivo(s) aviso(s) que se efectúe(n).
+
+6.2. Aportes de los participantes
+
+Los participantes (beneficiario y asociados, de existir estos últimos), dependiendo del  
+tamaño del beneficiario, deberán aportar el financiamiento restante, mediante “aportes  
+nuevos o pecuniarios” y/o “preexistentes o valorizados”.
+
+Asimismo, al menos el 5 0,00% del aporte de los participantes (beneficiario y asociados  
+en caso de existir), debe corresponder a aportes “nuevos o pecuniarios”.
+
+Para el caso de aportes preexistentes o valorizados, sólo se podrán considerar gastos  
+asociados a la utilización de insumos, equipamiento, infraestructura, y recursos humanos  
+ya existentes en el beneficiario y/o asociado(s), al momento de la postulación, y que estén  
+directamente vinculados a la ejecución de las actividades del proyecto, incluidas  
+obligaciones legales (no voluntarias) de seguridad social, y de seguro de desempleo que  
+sean de cargo del trabajador.
+
+De acuerdo con el número 4.6.1 de las Bases Administrativas Generales, se entiende por  
+aportes “nuevos o pecuniarios” aquellos que tiene su causa en la ejecución del proyecto  
+y que, de no haberse iniciado éste, no se hubiese incurrido en ellos. En otras palabras,  
+no corresponde a este concepto la utilización de instalaciones, infraestructura, recursos  
+humanos, y otros, ya existentes en el participante aportante y/o en los demás  
+participantes, al momento de la postulación.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+8
+
+6.3. Aumento del porcentaje de cofinanciamiento para “empresas lideradas por  
+mujeres”
+
+Sin perjuicio de los porcentajes máximos de cofinanciamiento indicados en el número 6\.  
+anterior, o que se determinen en el respectivo acto de focalización, en su caso, los  
+postulantes podrán optar a que se aplique, en caso de ser aprobado su proyecto, un  
+aumento del porcentaje de cofinanciamiento, en la medida que el beneficiario sea una  
+“empresa liderada por mujeres”.
+
+Se considerará como una “empresa liderada por mujeres”, a los postulantes en calidad  
+de beneficiario que cumplan, a la fecha de postulación y durante todo el plazo de  
+ejecución del proyecto, con los requisitos señalados en las “Normas para acreditar la  
+calidad de empresa liderada por mujeres”, aprobadas por Resolución Exenta N°481, de  
+2018, de InnovaChile.
+
+Para estos efectos, el postulante deberá indicar al momento de la postulación,  
+declarándolo así en el formulario, si opta al aumento de hasta un 10,00% más de  
+porcentaje de cofinanciamiento (en relación con el costo total del proyecto) por sobre los  
+máximos establecidos en las presentes bases por categoría de beneficiario. Como  
+contrapartida y consecuencia de lo anterior, el porcentaje de aportes “nuevos o  
+pecuniarios” mínimo se reducirá hasta en un 10%. En estos casos, y de verificarse, en su  
+oportunidad el cumplimiento de los requisitos para ser considerada una “empresa liderada  
+por mujeres”, no se aplicará la exigencia de que, a lo menos, el 50,00% de los aportes  
+correspondan a aportes “nuevos o pecuniarios”.
+
+El aumento del porcentaje de cofinanciamiento será aplicado una vez que el proyecto  
+haya sido aprobado y se haya verificado que el postulante cumple con los requisitos  
+para ser considerado una “empresa liderada por mujeres”, por lo que, durante la  
+postulación, se deberá formular el presupuesto, de acuerdo con los montos y porcentajes  
+indicados en los números 6.1 y 6.2 anteriores, o que se determinen en el respectivo acto  
+de focalización, según corresponda.
+
+El cumplimiento de los requisitos establecidos en la Resolución señalada se verificará  
+durante la formalización de los proyectos. En caso de no cumplimiento, no podrá  
+otorgarse el porcentaje de cofinanciamiento adicional y deberá cumplirse con el  
+porcentaje de aportes “nuevos o pecuniarios”, de acuerdo con las reglas generales.
+
+El aumento de porcentaje de cofinanciamiento, en ningún caso podrá significar la entrega  
+de un subsidio por sobre $ 67\. 500\. 000 .- (sesenta y siete millones quinientos mil pesos), o  
+el monto que se determine en el respectivo acto de focalización, de conformidad con lo  
+señalado en el número 6.1 precedente.
+
+## 7\. Actividades y gastos financiables
+
+Se podrán financiar (con subsidio y/o aportes) las siguientes actividades y gastos:
+
+7.1. Actividades y gastos generales del proyecto
+
+a) Equipo de trabajo del proyecto, cuya participación sea necesaria y esté  
+directamente vinculada a la ejecución de éste, el que deberá presupuestarse en  
+la cuenta “Recursos Humanos”, debiendo cumplirse con lo siguiente:  
+▪ Con recursos del subsidio, se podrán financiar las remuneraciones y/u  
+honorarios de personal preexistente y/o nuevo del beneficiario.  
+Mediante aportes de los participantes (beneficiario y/o asociado(s)), se  
+podrán financiar las remuneraciones y/u honorarios de personal nuevo de los  
+mismos y, además, de personal preexistente, debiendo, en este último caso,  
+observarse la limitación para aportes no pecuniarios señalada en el número  
+6.2 anterior.  
+Se entiende por personal preexistente el que esté contratado por el participante al  
+momento de la postulación.
+
+b) Sólo en el caso que el beneficiario pertenezca a la categoría “micro o pequeña  
+empresa”, se podrán considerar los gastos asociados a la formulación del  
+proyecto, cuando ésta sea externalizada, es decir, contratada a un tercero no
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+9
+
+relacionado^1 con el beneficiario, y podrá presupuestarse con cargo al subsidio  
+un máximo de $2.000.000.- (dos millones de pesos).
+
+c) Costos financieros de garantías de fiel cumplimiento del convenio y de anticipos  
+del subsidio.
+
+d) Otras actividades y gastos pertinentes y relevantes, a juicio de InnovaChile, que  
+sean considerados críticos y estrictamente necesarios para la obtención de los  
+objetivos del proyecto y se enmarquen en los objetivos y resultados esperados del  
+instrumento de financiamiento.
+
+7.2. Actividades y gastos particulares del proyecto:
+
+a) Actividades necesarias para el desarrollo de productos (bienes o servicios) y/o  
+procesos, tales como:
+
+* Pruebas de concepto y experimentales.  
+* Prototipaje y validación técnico – comercial.  
+* Empaquetamiento técnico \- comercial e integración de tecnologías.  
+* Adquisición de equipamiento, materiales e insumos.  
+* La contratación de una o más Entidades Colaboradoras para el desarrollo de  
+  determinadas actividades que contribuyan a la obtención de los resultados del  
+  proyecto.  
+* Ajustes de funcionalidad del prototipo.
+
+b) Actividades necesarias para la protección de la propiedad intelectual, industrial y de  
+la obtención de nuevas variedades vegetales, relativas a los resultados del proyecto,  
+tales como:
+
+* Estudios de factibilidad y/o estrategia de protección.  
+* Presentación de solicitudes, pago de tasas, peritos, publicaciones, traducciones  
+  y asesorías técnicas y legales.
+
+c) Actividades necesarias para la validación técnica a escala productiva y/o comercial,  
+tales como:
+
+* Actividades de desarrollo relacionadas con ajustes de funcionalidad de los  
+  productos (bienes o servicios) y/o procesos.  
+* Actividades que posibiliten el escalamiento de los productos (bienes o servicios)  
+  y/o procesos, de manera de probar que funcionan en una fase piloto y/o en  
+  condiciones reales.  
+* Actividades asociadas a validación de mercado.  
+* Actividades de transferencia de capacidades.  
+* Desarrollo o fortalecimiento de estrategia de comercialización y marketing.  
+* Prospección comercial y/o programas de softlanding.  
+* Certificaciones.
+
+El beneficiario deberá utilizar para todas las adquisiciones y contrataciones que efectúe  
+en el contexto de ejecución del proyecto, relativas a actividades y/o gastos que por su  
+naturaleza deban presupuestarse en las cuentas “Gastos de Operación” y “Gastos de  
+Inversión”, el procedimiento señalado en el anexo N°11 de la Resolución Exenta N°443,  
+de 2020, modificada por Resolución Exenta N°131, de 2023, ambas de Corfo, que  
+“Aprueba Manual para la Rendición y Seguimiento Financiero de Proyectos Financiados  
+y/o Cofinanciados por Corfo y sus Anexos”.
+
+## 8 Contenido del proyecto
+
+Las postulaciones deberán contener la descripción del proyecto para cuya ejecución se solicita  
+cofinanciamiento, el cual deberá contener la siguiente información, de acuerdo con el detalle y  
+requisitos específicos que se señalen en el formulario de postulación:
+
+a) Resumen del proyecto  
+Síntesis del proyecto que incluya el problema, desafío u oportunidad que da origen al  
+mismo y la propuesta de solución para abordarlo.
+
+1 De acuerdo con la definición establecida en las Bases Administrativas Generales (BAG).
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+10
+
+b) Objetivos del proyecto.  
+Descripción del objetivo general y de los objetivos específicos del proyecto, los que deben  
+estar alineados con los objetivos del instrumento de financiamiento.
+
+c) Problema, desafío u oportunidad
+
+i. Diagnóstico  
+▪ Identificación del problema, desafío u oportunidad que da origen al proyecto.  
+▪ Descripción del problema, desafío u oportunidad, incorporando un análisis  
+completo y suficiente de sus causas y una caracterización de sus dimensiones  
+cuantitativas y cualitativas, las que deben estar debidamente fundadas y  
+documentadas.
+
+ii. Mercado objetivo  
+▪ Identificación, caracterización (que incluya, además, antecedentes que  
+demuestren el interés o necesidad de contar con una solución) y dimensionamiento  
+de los principales actores (usuarios y/o clientes) que se ven afectados por el  
+problema o desafío, o bien se beneficiarían de la oportunidad a abordar en el  
+proyecto.
+
+d) Propuesta de solución
+
+i. Metodología  
+▪ Descripción, en términos concretos, de la propuesta de solución (del nuevo o  
+mejorado producto (bien o servicio) y/o proceso), que se desarrollará para abordar  
+el problema, desafío u oportunidad identificado. Dicha descripción debe dar cuenta  
+de las principales características y funcionalidades del prototipo actual, incluyendo  
+su estado de madurez tecnológico (Technology Readiness Level o “TRL”) y de la  
+solución que se espera obtener al finalizar el proyecto.  
+▪ Plan de trabajo del proyecto, incluyendo actividades a desarrollar para alcanzar  
+cada uno de los objetivos y resultados intermedios y finales que se espera obtener  
+durante su ejecución.  
+▪ Identificación y descripción preliminar, de los resultados comprometidos en el  
+informe de hito técnico de continuidad a entregar al mes 8 (ocho), con sus  
+respectivos indicadores, además de los resultados finales comprometidos y  
+respectivos indicadores asociados.
+
+ii. Grado de novedad y diferenciación  
+▪ Identificación del grado de novedad de la propuesta de solución, justificando  
+claramente si ésta se presenta, a nivel de la empresa, regional, nacional o  
+internacional.  
+▪ Identificación del (de los) atributo(s) de la propuesta de solución que agrega(n)  
+valor y que la diferencia(n) de soluciones alternativas y/o sustitutos que ya están  
+disponibles en el mercado.
+
+e) Propuesta de introducción al mercado y/o implementación productiva
+
+i. Impacto  
+▪ Descripción del modelo de ingresos y/o ahorro de costos económicos que  
+generará la propuesta de solución, el que debe ser coherente con el mercado  
+objetivo.  
+▪ Cuantificación objetiva y debidamente justificada de la magnitud de dichos  
+ingresos y/o ahorro de costos económicos.  
+▪ Identificación, cuantificación y relevancia (objetiva y debidamente justificada), de  
+los impactos sociales y/o medio ambientales que podría generar el proyecto en  
+general, así como también para la región.
+
+ii. Escalabilidad  
+▪ Identificación de los posibles riesgos y/o barreras comerciales y/o regulatorias que  
+deberá enfrentar el proyecto, señalando cómo serán abordadas.  
+▪ Descripción de las estrategias de apropiabilidad de la solución desarrollada en el  
+marco del proyecto, para su posterior uso o comercialización.  
+▪ Descripción de una propuesta para dar continuidad al proyecto una vez que  
+concluya la etapa de subsidio.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+11
+
+f) Participantes
+
+i. Beneficiario: Identificación y descripción de sus capacidades de gestión, técnicas,  
+financieras y de infraestructura necesarias para lograr la adecuada ejecución y el éxito  
+del proyecto, las que deberán estar debidamente justificadas.  
+Respecto de la beneficiaria persona jurídica de derecho privado constituida en Chile:  
+▪ Transcripción literal del objeto social o finalidad que consta en sus estatutos.  
+▪ Explicar fundadamente la pertinencia del objeto social o finalidad transcrita, en  
+relación con las actividades a desarrollar para la obtención del objetivo del  
+proyecto.  
+ii. Asociado(s) (si corresponde): Identificación y descripción de sus capacidades para  
+realizar los aportes comprometidos para el proyecto (“nuevos o pecuniarios” y/o  
+“preexistentes o valorizados”).  
+iii. Entidad(es) Colaboradora(s) (si corresponde): Descripción de su experiencia,  
+capacidades técnicas e infraestructura necesaria para lograr la adecuada ejecución y  
+el éxito del proyecto (debidamente justificadas).  
+iv. Equipo de Trabajo:  
+▪ Identificación de los y las integrantes del equipo de trabajo del beneficiario y de  
+la(s) Entidad(es) Colaboradora(s) (si corresponde), señalando sus capacidades  
+técnicas y experiencia relevante en el ámbito del proyecto.  
+▪ Detalle de la dedicación horaria de los y las integrantes del equipo de trabajo antes  
+señalado, y de sus funciones y roles en el cumplimiento de los objetivos del  
+proyecto.
+
+g) Presupuesto  
+▪ Presupuesto detallado del proyecto, el que deberá elaborarse según las cuentas  
+presupuestarias señaladas en el número 11.1 de las presentes bases, de acuerdo  
+con las indicaciones y restricciones establecidas en el referido número. Además,  
+el presupuesto, debe ser calculado sobre la base de costos reales que observen  
+condiciones de mercado, demostrables y coherentes con la envergadura y  
+complejidad técnica de las actividades a realizar, con el plazo en que éstas se  
+llevarán a cabo y con la capacidad financiera de los participantes. InnovaChile, en  
+atención al principio del correcto uso de los recursos públicos, podrá ajustar a  
+valores que observen condiciones de mercado las partidas que corresponda.
+
+h) Antecedentes para la bonificación establecida en la ley N°21.561 a las empresas de  
+menor tamaño, que hayan implementado de forma anticipada la reducción de  
+jornada laboral.
+
+Informar si al beneficiario se le otorgó o no, por el Ministerio del Trabajo y Previsión Social,  
+el sello que certifica que, de conformidad con los requisitos establecidos por la  
+Subsecretaría del Trabajo, implementó de forma anticipada la reducción de jornada  
+laboral establecida en la ley N°21.561, señalando su fecha de vencimiento. En caso  
+afirmativo, deberá adjuntar la respectiva resolución y, además, los antecedentes que  
+permitan acreditar que es una empresa de menor tamaño, de acuerdo con el artículo  
+segundo de la ley N°20.416 (que, para efectos del presente instrumento, se entenderá  
+como aquella que ha tenido ingresos por ventas que no exceden las 100.000 U.F.^2 en el  
+último año calendario).
+
+Corfo, en todo momento, podrá solicitar, de ser necesario, los antecedentes pertinentes  
+para verificar que el referido sello se encuentra vigente en la instancia de la adjudicación.
+
+## 9\. Evaluación
+
+9.1. Aspectos generales
+
+De forma previa a la evaluación, y de acuerdo con lo dispuesto en el número 5 de las  
+Bases Administrativas Generales, InnovaChile realizará un análisis de admisibilidad de  
+los proyectos. Aquellos proyectos que cumplan con todos los requisitos de dicho análisis  
+(detallados en el ́número 12.1 de estas bases) avanzarán a la etapa de evaluación.
+
+(^2) Para estos efectos, se utilizará el valor de la U.F. del día 31 de diciembre del año anterior al de postulación.  
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+12
+
+9.2. Criterios de evaluación
+
+Los proyectos serán evaluados con notas de 1 a 5\. Los criterios y subcriterios de  
+evaluación y sus respectivos ponderadores, son los siguientes:
+
+Criterio Subcriterio Detalle Ponderación
+
+Problema,  
+desafío u  
+oportunidad
+
+Diagnóstico
+
+Se evaluará que el problema, desafío u  
+oportunidad esté clara y  
+coherentemente identificado/a y  
+descrito/a. Asimismo, se evaluará que  
+el análisis de las causas y la  
+caracterización de las dimensiones  
+cuantitativas y cualitativas del  
+problema, desafío u oportunidad, sea  
+completo y se encuentren debidamente  
+fundadas y documentadas.
+
+5%
+
+Mercado  
+Objetivo
+
+Se evaluará que se presente una  
+adecuada identificación,  
+caracterización y dimensionamiento de  
+los principales actores (usuarios y/o  
+clientes) que se beneficiarán de los  
+resultados del proyecto.
+
+5%
+
+Propuesta de  
+solución
+
+Metodología
+
+Se evaluará que la solución esté  
+claramente descrita y que la misma  
+permita abordar de manera efectiva el  
+problema, desafío u oportunidad  
+identificado. Asimismo, se evaluará la  
+completitud y suficiencia de dicha  
+descripción, para dar cuenta de las  
+principales características y  
+funcionalidades del prototipo actual y  
+del resultado que se espera obtener al  
+finalizar el proyecto.  
+Se evaluará, además, que el plan de  
+trabajo propuesto esté correctamente  
+estructurado y dimensionado, en  
+términos de actividades, plazos e hitos,  
+permitiendo cumplir completamente  
+con los objetivos y resultados  
+propuestos.  
+Además, se evaluará que los  
+resultados y sus respectivos  
+indicadores de medición, presentados  
+en la postulación sean claros,  
+cuantificables y coherentes con los  
+objetivos del proyecto.  
+Asimismo, se evaluará que el  
+presupuesto y el subsidio solicitado por  
+cada etapa, sean coherentes con el  
+plan de trabajo y los plazos de  
+ejecución y que, además, dimensionen  
+adecuadamente, por cada etapa, los  
+gastos del proyecto.  
+Por último, se evaluará que la  
+dedicación horaria de todos los  
+integrantes del equipo de trabajo, así  
+como su valor hora, sean coherentes  
+con sus funciones y con las actividades  
+que desempeñará en el proyecto y,  
+además, que sean adecuadas para  
+alcanzar los objetivos del proyecto  
+dentro del plazo.
+
+20%
+
+Grado de  
+novedad y  
+diferenciación
+
+Se evaluará que la propuesta de  
+solución posea un grado de novedad  
+significativo a nivel de la empresa,  
+regional, nacional o internacional.  
+Asimismo, se evaluará el grado en que  
+la propuesta de solución agrega valor  
+por sobre soluciones alternativas o  
+sustitutos ya disponibles en el  
+mercado, considerando, para dichos  
+efectos, que cuente con atributos
+
+20%
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+13
+
+diferenciadores, tales como  
+funcionalidades, especificaciones  
+técnicas, usabilidad, entre otros.
+
+Propuesta de  
+introducción  
+al mercado  
+y/o  
+implementaci  
+ón productiva
+
+Impacto
+
+Se evaluará que el modelo de ingresos  
+y/o ahorro de costos económicos, esté  
+adecuadamente descrito y que sea  
+coherente con el mercado objetivo.  
+Se evaluará, asimismo, que  
+dimensione, de forma objetiva (de  
+acuerdo con valores que observen  
+condiciones de mercado) y  
+debidamente justificada, los ingresos  
+adicionales y/o ahorro de costos, que el  
+proyecto generaría en la empresa  
+beneficiaria, y que justifiquen la  
+inversión en el proyecto.  
+Adicionalmente, se evaluará la correcta  
+identificación, cuantificación y  
+relevancia (objetiva y debidamente  
+justificada), de los impactos sociales  
+y/o medio ambientales que podría  
+generar el proyecto en general, así  
+como también para la región.
+
+15 %
+
+Escalabilidad
+
+Se evaluará que se identifiquen  
+correctamente los principales riesgos  
+y/o barreras comerciales y/o  
+regulatorias que deberá enfrentar el  
+proyecto y que cuente con un  
+adecuado plan para abordarlos.  
+Se evaluará, además, que se presente  
+una adecuada estrategia de  
+apropiabilidad de los resultados  
+obtenidos para su posterior uso o  
+comercialización.  
+Asimismo, se evaluará la completitud y  
+suficiencia de la propuesta para dar  
+continuidad al proyecto una vez que  
+concluya la etapa de subsidio.
+
+10%
+
+Capacidades
+
+Beneficiario,  
+asociados y  
+Entidad(es)  
+Colaboradora(s)
+
+Se evaluará que el beneficiario,  
+demuestre poseer las capacidades de  
+gestión, técnicas, financieras y de  
+infraestructura necesarias para el éxito  
+del proyecto.  
+Se evaluará, además, (si corresponde)  
+que el asociado cuente con la  
+capacidad suficiente para realizar los  
+aportes comprometidos al proyecto.  
+Adicionalmente (si corresponde) se  
+evaluará que la(s) entidad(es)  
+colaboradora(s) demuestre(n) poseer  
+la experiencia, capacidades técnicas e  
+infraestructura necesarias para lograr  
+la adecuada ejecución del proyecto.
+
+10 %
+
+Equipo de  
+trabajo
+
+Se evaluará que se presente un equipo  
+de trabajo (beneficiario y todos los  
+participantes) con experiencia y  
+capacidades técnicas idóneas para  
+llevar a cabo el proyecto.
+
+15%
+
+Para que un proyecto sea presentado a la instancia de decisión con “recomendación de  
+aprobación”, deberá alcanzar una nota mínima de 3,00 en cada uno de los criterios de  
+evaluación.
+
+De conformidad con lo establecido en el artículo séptimo transitorio de la ley N°21.561, se  
+otorgará un puntaje adicional, consistente en una bonificación de un 5% sobre la nota final  
+obtenida, a aquellos proyectos cuyo beneficiario cumpla con los siguientes requisitos  
+copulativos:  
+a) Corresponda una empresa de menor tamaño.  
+b) Se le haya otorgado, por el Ministerio del Trabajo y Previsión Social, el sello que  
+certifique que implementó de forma anticipada la reducción de jornada laboral
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+14
+
+establecida en la ley N°21.561 y que éste se encuentre vigente en la instancia de  
+la adjudicación.
+
+Tratándose de un concurso, en caso de producirse un empate en la nota final entre dos o  
+más proyectos, se preferirá y quedará en mejor posición en el ranking, aquel proyecto  
+presentado por la empresa que cumpla con los requisitos precedentemente señalados.
+
+Con todo, la aplicación de la bonificación no podrá significar una nota final superior a 5\.
+
+Como resultado las propuestas serán presentadas al órgano de decisión respectivo, el que  
+decidirá sobre la aprobación y rechazo de los proyectos, teniendo en consideración la  
+disponibilidad presupuestaria. En aquellos casos en que el instrumento se ponga a  
+disposición de los interesados en la modalidad de concurso, se elaborará un ranking  
+preliminar, el cual será presentado al órgano de decisión, el que determinará el ranking  
+definitivo y decidirá sobre la aprobación y rechazo de los proyectos, teniendo en  
+consideración la disponibilidad presupuestaria.
+
+Sin perjuicio de lo anterior, en aquellos casos en que el instrumento se ponga a disposición  
+de los interesados en la modalidad de concurso, agotada la disponibilidad presupuestaria,  
+y siguiendo el mismo orden descendente del ranking definitivo, el órgano asignador podrá  
+establecer una lista de espera, sujeto a que en el plazo que se defina por dicho órgano, se  
+verifique, una o más veces, alguna de las siguientes condiciones:
+
+* Se incremente la disponibilidad presupuestaria.  
+* Que alguno(s) de los proyectos adjudicados no se formalice, o se termine  
+  anticipadamente, con anterioridad a la entrega de la única o primera cuota del  
+  subsidio.
+
+Cumplido el plazo definido por el órgano asignador, aquellos proyectos que, debido a su  
+posición en el ranking definitivo, no hayan avanzado lo suficiente en la lista de espera para  
+entenderse adjudicados, se entenderán definitivamente rechazados.
+
+En la etapa de decisión, se podrán incorporar condiciones de adjudicación y/o de  
+formalización a los proyectos aprobados, pudiendo establecerse modificaciones técnicas  
+y/o presupuestarias que se consideren pertinentes, sin que éstas alteren la naturaleza y el  
+objetivo general de los proyectos.
+
+## 10\. Seguimiento y acompañamiento
+
+Además de los informes que el beneficiario debe entregar de acuerdo con lo dispuesto en  
+el número 11.2 de las Bases Administrativas Generales, se deberán entregar los siguientes  
+informes:
+
+10.1. Hito técnico de continuidad al mes 8
+
+Al término del mes 8 (ocho) de ejecución del proyecto (o en el plazo que establezca el  
+órgano de decisión al momento de la adjudicación), se deberá entregar un informe de  
+hito técnico de continuidad, en el cual el beneficiario deberá informar, según los formatos  
+definidos por InnovaChile, sobre lo siguiente:
+
+a) Cumplimiento de los resultados o metas establecidas para este hito al momento  
+de aprobarse el proyecto.  
+b) Resultados parciales obtenidos, los que deberán ser medibles, objetivos y  
+verificables.  
+c) Justificación de las eventuales desviaciones identificadas en relación con la  
+programación de actividades y sus efectos.  
+d) Propuesta de medidas y acciones tendientes a corregir o mejorar las  
+desviaciones identificadas.  
+e) Reporte preliminar de modelo de negocio que incluya: propuesta de valor,  
+segmento de clientes, relación con clientes, canales de venta, alianzas clave,  
+fuentes de ingreso y estructura de costos.  
+f) Plan de actividades para llegar a potenciales usuarios y/o clientes para testear  
+el producto/servicio
+
+Se evaluará la información presentada y la autoridad pertinente podrá solicitar  
+antecedentes adicionales y la modificación o complementación de éste. La Dirección
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+15
+
+Regional de Corfo respectiva, o la Dirección Ejecutiva del Comité de Desarrollo  
+Productivo Regional (según corresponda), resolverá sobre la aprobación o rechazo de  
+la continuidad del proyecto, pudiendo establecer condiciones técnicas y/o  
+presupuestarias, siempre que éstas no alteren el objetivo general ni la naturaleza del  
+proyecto.
+
+Si no es aprobado el hito técnico de continuidad, se pondrá término anticipado al  
+proyecto, aplicándose para estos efectos, lo dispuesto en las Bases Administrativas  
+Generales.
+
+El plazo de entrega del informe de hito técnico de continuidad, excepcionalmente, podrá  
+ser prorrogado por la Dirección Regional de Corfo respectiva, o por la Dirección  
+Ejecutiva del Comité de Desarrollo Productivo Regional, según corresponda, previa  
+solicitud fundada del beneficiario presentada antes de su vencimiento.
+
+Sin perjuicio de lo anterior, el órgano de decisión, durante la adjudicación y/o ejecución  
+del proyecto, podrá establecer plazos distintos, limitaciones adicionales a las  
+precedentemente señaladas, o bien, eliminar el hito técnico de continuidad.
+
+10.2. Actividades obligatorias de acompañamiento
+
+Desde la fecha en que se le comunica la aprobación de su proyecto y hasta el término  
+de su plazo de ejecución, el beneficiario deberá participar obligatoriamente en ciertas  
+actividades de acompañamiento que InnovaChile fijará, con la finalidad de entregarle  
+información, medios y/o herramientas que puedan resultarle útiles para el cumplimiento  
+de los objetivos y/o resultados de su proyecto.
+
+Los lugares, medios, fechas y horas de dichas actividades obligatorias serán  
+oportunamente informados por InnovaChile, con una anticipación no inferior a 7 (siete)  
+días hábiles anteriores a la fecha de su realización. Asimismo, en dicha oportunidad, se  
+indicarán los requisitos, contenidos y formato de la actividad, así como la o las personas  
+del equipo de trabajo (incluye directores de proyecto) que deban asistir.
+
+En casos fundados, y excepcionalmente, InnovaChile podrá autorizar que el beneficiario  
+o ciertas personas de su equipo no participen en alguna de estas actividades, y  
+determinará las medidas necesarias para asegurar el cumplimiento de los fines de la  
+actividad, como, por ejemplo, autorizar la asistencia de otra(s) persona(s) distinta(s) a  
+la(s) originalmente convocada(s). Para esta decisión, InnovaChile tomará en  
+consideración, entre otros, el nivel de participación del beneficiario, en otras de las  
+actividades del proyecto.
+
+Si el beneficiario no participare en las actividades, sin contar con autorización previa  
+para aquello, InnovaChile podrá ejecutar la garantía de fiel cumplimiento del convenio  
+que se encuentre en su poder y, en caso de reiteración, y según corresponda, podrá  
+tener por desistido el proyecto o darle término anticipado, aplicándose a la devolución  
+del subsidio las reglas establecidas en el numeral 14.1.3.2 de las Bases Administrativas  
+Generales.
+
+## 11\. Aspectos presupuestarios
+
+11.1. Cuentas presupuestarias
+
+Las actividades y/o gastos del proyecto financiadas con subsidio y/o aportes, deberán  
+ser presupuestados, de conformidad a las cuentas presupuestarias "Recursos  
+Humanos", "Gastos de Operación", "Gastos de Administración" y "Gastos de Inversión",  
+descritas en el número 4.6.1 de las Bases Administrativas Generales, considerando  
+adicionalmente:
+
+▪ Gastos de Operación: En caso de considerarse la contratación de Entidad(es)  
+Colaboradora(s), deberá presupuestarse en esta cuenta, y sólo se podrá destinar  
+como máximo hasta un 40,00% del subsidio de InnovaChile a la contratación de  
+este tipo de entidades.  
+▪ Gastos de Inversión: Sólo se podrá destinar como máximo hasta un 30,00% del  
+subsidio de InnovaChile a este tipo de gastos. Para el caso de adquisiciones,  
+éstas se podrán financiar íntegramente, independiente de la fuente de  
+financiamiento (subsidio y/o aportes), debiendo verificarse, en todo caso, que sean
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+16
+
+pertinentes y necesarias para el cumplimiento de los objetivos del proyecto, no  
+aplicando, por lo tanto, la regla establecida en la letra b) del número 11.4.3 de la  
+Bases Administrativas Generales.  
+▪ Gastos de Administración: Se podrá destinar como máximo hasta un 10,00% del  
+subsidio de InnovaChile a este tipo de gastos.
+
+11.2. Garantía de fiel cumplimiento del convenio
+
+El monto de la garantía de fiel cumplimiento del convenio, que deberá(n) entregarse,  
+deberá corresponder, al menos, a 30 UF. En caso de que durante la ejecución del  
+proyecto esta garantía sea ejecutada, sin que se dé término anticipado al mismo, se  
+deberá entregar una nueva garantía por este concepto, del mismo monto antes indicado,  
+de acuerdo con las instrucciones y dentro los plazos comunicados por InnovaChile.
+
+11.3. Gastos relativos a evaluaciones de continuidad
+
+Hasta la fecha de entrega del informe de hito técnico de continuidad, sólo se podrán  
+realizar con cargo al subsidio, aquellos gastos que estén directamente relacionados con  
+la obtención de los resultados parciales considerados para dicho período y que  
+correspondan a actividades que hayan sido ejecutadas dentro del mismo.
+
+Durante el período de revisión del informe de hito técnico de continuidad del proyecto y  
+hasta la notificación de la decisión respectiva, se podrán reconocer los gastos básicos  
+y estrictamente necesarios para la continuidad operativa del equipo de trabajo, arriendos  
+u otros de naturaleza similar. Hasta que no se notifique la decisión de continuidad del  
+proyecto, no podrán realizarse contrataciones, salvo autorización previa de InnovaChile.
+
+## 12\. Bases Administrativas Generales
+
+En cuanto a los procesos y trámites que deberán cumplirse desde la etapa de orientación de  
+los postulantes y/o postulación misma, hasta el término del proyecto y del convenio de subsidio  
+celebrado entre InnovaChile y el beneficiario, aplicarán las Bases Administrativas Generales  
+para los Instrumentos de la Corporación de Fomento de la Producción, aprobadas por  
+Resolución Afecta N°28, de 2020, modificada por Resolución Afecta Nº136, de 2023, ambas de  
+Corfo.
+
+12.1. Requisitos de admisibilidad
+
+a) Admisibilidad de los participantes
+
+Fiscalía de Corfo verificará que el respectivo proyecto, desde el momento de la  
+postulación, cumpla con los siguientes requisitos:  
+N° REQUISITO
+
+1
+
+Que el beneficiario corresponda a una persona jurídica constituida en Chile;  
+o una persona natural con, al menos, 18 años cumplidos al momento de la  
+postulación.
+
+### 2
+
+Que, al momento de la postulación, en relación con el beneficiario, hayan  
+transcurrido, a lo menos, 18 meses contados desde la fecha de inicio de  
+actividades en un giro empresarial de primera categoría, de conformidad con  
+lo establecido en el artículo 20 de la Ley de Impuesto a la Renta (D.L. 824,  
+de 1974), y que el referido giro se encuentre vigente (no se le haya puesto  
+término de giro).
+
+3 Que el beneficiario no corresponda a una universidad, un instituto profesional o un centro de formación técnica.
+
+### 4
+
+En caso de participar uno o más asociados, que cada uno corresponda a una  
+persona natural o a una persona jurídica, constituida en Chile o en el  
+extranjero.  
+5 Que cada Entidad Colaboradora (de participar) corresponda a una persona jurídica, constituida en Chile o en el extranjero.
+
+### 6
+
+Que la respectiva persona jurídica o natural, según corresponda, y  
+cumpliendo los requisitos que se señalan para cada caso, participe en una  
+sola categoría de las indicadas en el número 4 de las presentes bases.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+17
+
+b) Admisibilidad del proyecto
+
+InnovaChile verificará que el respectivo proyecto, desde el momento de la  
+postulación, cumpla con los siguientes requisitos:
+
+N° REQUISITO
+
+### 1
+
+Que el proyecto sea presentado utilizando el formulario de postulación  
+y las planillas y documentos anexos al mismo, disponibles en el sistema  
+de postulación de proyectos en línea. En caso de que las planillas y/o  
+anexos al mismo no contengan toda la información o el beneficiario  
+modifique las reglas o fórmulas contenidas en los mismos, se entenderá  
+que no se cumple con este requisito.  
+2 La coherencia entre los objetivos del proyecto y los objetivos generales y específicos del presente instrumento.
+
+### 3
+
+Cumplimiento de los requisitos de cofinanciamiento, de acuerdo con los  
+montos y porcentajes mínimos y máximos señalados en los números 6  
+y 11.1 de las presentes bases y/o determinados en el respectivo acto  
+de focalización, según corresponda.
+
+### 4
+
+En el caso que participe uno o más asociados, que cada uno realice  
+“aportes nuevos o pecuniarios” y/o “preexistentes o valorizados”, de  
+acuerdo con lo establecido en la letra b del número 4 de las presentes  
+bases.  
+5 Cumplimiento de los requisitos de plazos de ejecución del proyecto de acuerdo con el máximo señalado en el número 5 de estas bases.
+
+### 6
+
+Que la solución a desarrollar en el marco del proyecto, se encuentre en  
+un nivel de madurez tecnológica que supere un TRL 3 (de acuerdo con  
+las definiciones del Anexo de las presentes bases).
+
+### 7
+
+En el caso que participen Entidades Colaboradoras:  
+▪ Que se acompañen respecto de cada una, los antecedentes que  
+permitan evaluar las capacidades, infraestructura y experiencia de  
+la(s) Entidad(es) Colaboradora(s) y, además, las capacidades y  
+experiencia del equipo de trabajo de dichas entidades que  
+participará en el proyecto.  
+(No será necesario presentar los antecedentes antes señalados  
+respecto a entidades inscritas en el Registro de Centros para la  
+realización de actividades de investigación o desarrollo de la ley  
+N°20.241, a cargo de Corfo).
+
+### 8
+
+Para el caso que el instrumento se focalice temáticamente, que el  
+proyecto esté enmarcado de forma justificada en las temáticas o  
+desafíos establecidos para el respectivo llamado en el acto de  
+focalización.  
+Para el caso que el instrumento se focalice territorialmente que el  
+proyecto tenga ámbito de aplicación o ejecución en el territorio  
+establecido para la respectiva apertura o llamado en el acto de  
+focalización.
+
+### 9
+
+Para los casos de aperturas o llamado focalizados territorialmente en  
+una o más regiones, que el beneficiario o, al menos, uno de los  
+asociados (de participar), tengan domicilio tributario en la respectiva  
+región, de acuerdo con lo declarado en el formulario de postulación.
+
+### 10
+
+Que el objeto social o finalidad del beneficiario o gestor persona jurídica  
+de derecho privado constituida en Chile, según la transcripción  
+efectuada en el formulario de postulación, sea pertinente en relación  
+con las actividades a desarrollar para la obtención del objetivo del  
+proyecto.
+
+Para la verificación del cumplimiento de porcentajes (máximos y mínimos), se  
+considerará hasta las centésimas.
+
+En caso de detectarse durante el análisis de admisibilidad, la evaluación de las  
+propuestas, la formalización y/o durante la ejecución del proyecto (en caso de ser  
+adjudicado), cualquier inconsistencia grave en relación con lo declarado en la  
+postulación, la propuesta será declarada no admisible o se pondrá término anticipado  
+imputable al proyecto, según corresponda.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+18
+
+12.2. Antecedentes para la formalización de los proyectos aprobados
+
+Previo a la redacción del convenio de subsidio, se cotejará que el objeto social o finalidad  
+del beneficiario persona jurídica de derecho privado constituida en Chile, transcrito en  
+el formulario de postulación, no presente diferencias sustanciales con aquel que consta  
+en sus estatutos. En caso de que se verifiquen diferencias sustanciales, se revisará  
+nuevamente la pertinencia del objeto social o finalidad que consta en sus estatutos, en  
+relación con las actividades a desarrollar para la obtención del objetivo del proyecto. En  
+caso de verificarse que no existe pertinencia entre los referidos elementos, el convenio  
+no será formalizado y la postulación se tendrá por desistida.
+
+Asimismo, para la formalización del proyecto, InnovaChile verificará que el receptor se  
+encuentre al día en el cumplimiento de la obligación de rendir cuenta respecto de  
+cualquiera de los proyectos cofinanciados por Corfo y/o sus Comités y certificará dicha  
+circunstancia.
+
+Además de los antecedentes que, de acuerdo con el número 8.1 de las Bases  
+Administrativas Generales, deben presentarse en la etapa de formalización de los  
+proyectos, deberán enviarse dentro de los mismos plazos, los siguientes antecedentes  
+de formalización:
+
+a) Antecedentes técnicos de formalización  
+▪ Antecedentes que permitan verificar que el beneficiario ha percibido ingresos  
+por ventas dentro de los 18 meses previos a la postulación de su proyecto. En  
+caso de que dichos antecedentes no se presenten oportunamente, o que los  
+presentados no permitan verificar este requisito, el proyecto se entenderá  
+desistido.  
+▪ Para el caso de beneficiarios que hayan declarado en su postulación  
+corresponden a empresas “micro y pequeñas” o “medianas": se deberán  
+presentar antecedentes necesarios para acreditar que su nivel de ingresos por  
+ventas anuales es coherente con el rango de ventas anual declarado en la  
+postulación.  
+En caso de que dichos antecedentes no se presenten oportunamente el  
+proyecto se entenderá desistido.  
+Sin perjuicio de lo anterior, si los antecedentes presentados no son coherentes  
+con aquellos declarados en la postulación, en el sentido que los ingresos por  
+ventas anuales del beneficiario son superiores a los declarados, el monto y  
+porcentaje de cofinanciamiento máximos de InnovaChile serán ajustados al  
+tramo que corresponda según su nivel de ingresos anuales efectivos,  
+aumentando, como contrapartida, el monto y porcentaje de aportes “nuevos o  
+pecuniarios" de los participantes.  
+▪ Para los casos de aperturas o llamados focalizados territorialmente en una o  
+más regiones, antecedentes que permitan verificar que el beneficiario o, al  
+menos, uno de los asociados (de participar), tenga domicilio tributario en la  
+respectiva región. En caso de que dichos antecedentes no se presenten  
+oportunamente, o que los presentados no permitan verificar este requisito, el  
+proyecto se entenderá desistido.
+
+b) Antecedentes legales de formalización
+
+▪ Para los proyectos cuyo beneficiario corresponde a una “empresa  
+liderada por mujeres” , deberán presentarse los antecedentes indicados en  
+el número III de las “Normas para acreditar la calidad de empresa liderada por  
+mujeres”, aprobadas por Resolución Exenta N°481, de 2018, de InnovaChile.  
+En caso de que dichos antecedentes no se presenten oportunamente, o no  
+permitan verificar el cumplimiento de los respectivos requisitos, no podrá  
+otorgarse el porcentaje de cofinanciamiento adicional y deberá cumplirse con  
+el porcentaje mínimo de aportes “nuevos o pecuniarios”, de acuerdo con las  
+reglas generales.
+
+12.3. Aspectos relativos al Registro Nacional de Deudores de Pensiones de Alimentos
+
+a) Admisibilidad  
+Respecto del/de la postulante en calidad de beneficiario persona natural, cuya  
+propuesta haya cumplido los requisitos de admisibilidad dispuestos en los literales a)  
+y b) del numeral 12.1 precedente, de forma previa al inicio del proceso de evaluación,  
+se consultará que éste/a no tenga una inscripción vigente en el Registro Nacional de
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+19
+
+Deudores de Pensiones de Alimentos. Si el o la postulante en calidad de beneficiaria  
+persona natural tuviere una inscripción vigente, su postulación será declarada no  
+admisible, y no avanzará a la siguiente etapa de evaluación.
+
+b) Formalización  
+Previo a la redacción del convenio de subsidio, en caso de proyectos aprobados cuyo  
+beneficiario corresponda a una persona natural, se consultará el Registro Nacional  
+de Deudores de Pensiones de Alimentos. En caso de verificarse que tiene inscripción  
+vigente en el referido Registro, el convenio no será formalizado y su postulación se  
+tendrá por desistida.
+
+c) Condiciones para la entrega del subsidio  
+Además de las condiciones para la entrega del subsidio, establecidas en el numeral  
+8.4.2 de las Bases Administrativas Generales, el beneficiario persona natural deberá  
+acreditar no tener inscripción vigente en el Registro Nacional de Deudores de  
+Pensiones de Alimentos. En caso de verificarse que tiene una inscripción vigente en  
+el referido Registro, se dará término anticipado al proyecto y al convenio.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+20
+
+## Anexo: Nivel de Madurez de la Tecnología
+
+Corresponde a un tipo de medición que se utiliza para evaluar el nivel de madurez de una  
+tecnología (TRL \- TECHNOLOGY READINESS LEVELS) en particular. Cada proyecto de  
+tecnología se puede analizar y categorizar según los parámetros de cada nivel de tecnología y  
+luego se le asigna una calificación en función del progreso tecnológico del resultado de  
+investigación. Para efectos de esta convocatoria, se identificará el nivel de avance o progreso  
+con el cual postulan los proyectos y con el cual esperan concluir una vez finalizado el subsidio  
+de InnovaChile de Corfo. A modo de resumen, se consideran 9 (nueve) niveles que se extienden  
+desde los principios básicos de la nueva tecnología hasta llegar a sus pruebas con éxito en un  
+entorno real:
+
+TRL 1 \- Principios básicos estudiados: Este corresponde al nivel más bajo en cuanto al nivel  
+de maduración tecnológica. Comienza la investigación científica básica. La investigación  
+comienza a traducirse en investigación aplicada. En esta fase de desarrollo no existe todavía  
+ningún grado de aplicación comercial.
+
+TRL 2 \- Concepto tecnológico formulado: En esta fase pueden empezar a formularse  
+eventuales aplicaciones de las tecnologías y herramientas analíticas para la simulación o análisis  
+de la aplicación. Sin embargo, todavía no se cuenta con pruebas o análisis que validen dicha  
+aplicación.
+
+TRL 3 \- Prueba de concepto experimental: Esta fase incluye la realización de actividades de  
+investigación y desarrollo (I+D) dentro de las cuales se incluye la realización de pruebas  
+analíticas y pruebas a escala en laboratorio orientadas a demostrar la factibilidad técnica de los  
+conceptos tecnológicos. Esta fase implica la validación de los componentes de una tecnología  
+específica, aunque esto no derive en la integración de todos los componentes en un sistema  
+completo.
+
+TRL 4 \- Tecnología validada en laboratorio: En esta fase, los componentes que integran una  
+determinada tecnología han sido identificados y se busca establecer si dichos componentes  
+individuales cuentan con las capacidades para actuar de manera integrada, funcionando  
+conjuntamente en un sistema.
+
+TRL 5 \- Tecnología validada en un entorno relevante: Los elementos básicos de una  
+determinada tecnología son integrados de manera que la configuración final es similar a su  
+aplicación final. Sin embargo, la operatividad del sistema y tecnologías ocurre todavía a nivel de  
+laboratorio.
+
+TRL 6 \- Tecnología demostrada en un entorno relevante: En esta fase es posible contar con  
+prototipos pilotos capaces de desarrollar todas las funciones necesarias dentro de un sistema  
+determinado habiendo superado pruebas de factibilidad en condiciones de  
+operación/funcionamiento real. Es posible que los componentes y los procesos se hayan  
+ampliado para demostrar su potencial industrial en sistemas reales.
+
+TRL 7 \- Demostración de sistema o prototipo completo demostrado en entorno  
+operacional: El sistema se encuentra o está próximo a operar en escala pre-comercial. Es  
+posible llevar a cabo la fase de identificación de aspectos relacionados con la fabricación, la  
+evaluación del ciclo de vida, y la evaluación económica de las tecnologías, contando con la mayor  
+parte de funciones disponibles y probadas.
+
+TRL 8 \- Sistema completo y certificado a través de pruebas y demostraciones: En esta fase,  
+las tecnologías han sido probadas en su forma final y bajo condiciones operacionales, habiendo  
+alcanzado en muchos casos, el final del desarrollo del sistema.
+
+TRL 9 \- Sistema real probado en un entorno operacional real: Tecnología/sistema en su fase  
+final, probado y disponible para su comercialización y/o producción.
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+21
+
+2° Determínase que los proyectos presentados al instrumento “INNOVA REGIÓN”, serán  
+conocidos y decididos, dentro de su competencia, por los Comités de Asignación Regional  
+(CAR).
+
+3° Establécese para los Directores Regionales de Corfo de las Regiones de Arica y Parinacota,  
+de Tarapacá, de Coquimbo, del Maule, de Ñuble, de La Araucanía, de Aysén del General  
+Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, las facultades  
+relacionadas con los procedimientos definidos en las letras a) a d), del Resuelvo 3° de la  
+Resolución Exenta N°211, de 2023, de Corfo, respecto de los proyectos que tengan ámbito  
+de aplicación o ejecución en la respectiva región. Asimismo, respecto de las regiones  
+señaladas, cuyos Comités de Desarrollo Productivo Regional entren en funcionamiento, se  
+ejercerán por parte del respectivo Director Ejecutivo del Comité de Desarrollo Productivo  
+Regional correspondiente a aquella región en que tenga ámbito de aplicación o ejecución el  
+proyecto, las facultades previamente indicadas.
+
+4° Establécese para el Director Regional de la Región Metropolitana de Santiago, las facultades  
+relacionadas con los procedimientos definidos en las letras a) a d), del Resuelvo 3° de la  
+Resolución Exenta N°211, de 2023, de Corfo, respecto de los proyectos que tengan ámbito  
+de aplicación o ejecución en dicha región, previa asignación de cartera de proyectos por parte  
+del/de la Gerente de Innovación. Asimismo, una vez que el Comité de Desarrollo Productivo  
+Regional de la Región Metropolitana de Santiago entre en funcionamiento, se ejercerán por  
+parte del respectivo Director Ejecutivo del Comité de Desarrollo Productivo Regional, las  
+facultades previamente indicadas.
+
+5° Establécese para los Directores Ejecutivos de los Comités de Desarrollo Productivo  
+Regional, de las Regiones de Antofagasta, Atacama, Valparaíso, del Libertador General  
+Bernardo O’Higgins, del Biobío, de Los Ríos y de Los Lagos, las facultades relacionadas con  
+los procedimientos definidos en las letras a) a d), del Resuelvo 3° de la Resolución Exenta  
+N°211, de 2023, de Corfo, respecto de los proyectos que tengan ámbito de aplicación o  
+ejecución en la respectiva región.
+
+6° Déjase sin efecto la Resolución Electrónica Exenta N° 91 , de 202 4 , de InnovaChile.
+
+7° Publíquense el(los) aviso(s) correspondiente(s) y pónganse las presentes bases a  
+disposición de los interesados/as en el sitio Web de Corfo, http://www.corfo.cl, una vez que la  
+presente Resolución se encuentre totalmente tramitada.
+
+8° Publíquese la presente Resolución Exenta en el banner de "Gobierno Transparente", del  
+sitio web http://www.corfo.cl, en conformidad a lo dispuesto en el literal g) del artículo 7, de la Ley  
+N°20.285 sobre Acceso a la Información Pública y en la Resolución Exenta N°500, de 2022,  
+que Aprueba nuevo texto de la Instrucción General, del Consejo para la Transparencia, sobre  
+Transparencia Activa.
+
+Anótese, publíquese y archívese.
+
+Resolución suscrita mediante firma electrónica avanzada por JOCELYN OLIVARI  
+NAREA, Directora Ejecutiva
+
+PMM/fmg
+
+31DA27F8-D343-4EB0-8497-7F79015322BD
+
+]]></body>
+  <ocr_corrections applied="0" rejected="0" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+  </ocr_corrections>
+</corfo_document>

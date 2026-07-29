@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="03_Modificacion_BAG_2024_RA51">
+  <provenance>
+    <derived_from_file>03_Modificacion_BAG_2024_RA51.md</derived_from_file>
+    <derived_from_sha256>2771401129e9f4ac8ceb2c3f631a01aa47005f628901d82cf9a0d6ff9fdc7fe0</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_RA 51 CORFO 2024 toma razon_modifica bag(1).pdf</original_pdf>
+    <extraction_method>OCR visual en español</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>3</ocr_corrections_applied>
+      <ocr_corrections_rejected>1</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Resolución Afecta N°51 de 2024 - Modifica Bases Administrativas Generales para los Instrumentos de CORFO]]></title>
+  <summary><![CDATA[Modifica normativa sobre requisitos de admisibilidad, obligaciones de convenios y garantías en proyectos CORFO. Afecta criterios de evaluación de beneficiarios, intermediarios y organismos ejecutores con enfoque en objeto social, garantías por el 5% y plazos de presentación de informes.]]></summary>
+  <index entries="24" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO - Referencias legales]]></heading>
+      <about><![CDATA[Cita ley 6.640, DFL 211/1960, decreto supremo 360/1945, ley 19.880, decreto supremo 28/2022, y resoluciones de Contraloría N°7 de 2019 y N°14 de 2022.]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO 1 - Facultad del Vicepresidente Ejecutivo]]></heading>
+      <about><![CDATA[Resolución Afecta N°87 de 2014 ejecutó acuerdo que faculta al Vicepresidente a aprobar y modificar Bases Administrativas Generales.]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO 2 - Bases aprobadas]]></heading>
+      <about><![CDATA[Resolución Afecta N°28 de 2020, modificada por N°136 de 2023, aprobó las Bases Administrativas Generales para Instrumentos de CORFO.]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO 3 - Necesidad de modificación]]></heading>
+      <about><![CDATA[La normativa presupuestaria vigente requiere modificaciones al texto actual de las Bases Administrativas Generales.]]></about>
+    </entry>
+    <entry type="resuelvo" page="2">
+      <heading><![CDATA[RESUELVO 1 - Modificación general]]></heading>
+      <about><![CDATA[Se modifican las Bases Administrativas Generales aprobadas por RA N°28/2020 y RA N°136/2023, en los términos que se detallan.]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Numeral 1.1 - Alcance y aplicación]]></heading>
+      <about><![CDATA[Reemplaza concepto de 'Alcance' por 'Alcance y aplicación', ampliando definición de cobertura a beneficiarios, intermediarios y organismos ejecutores.]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Numerales 1.2 y 1.3 - Eliminación]]></heading>
+      <about><![CDATA[Se eliminan numerales 1.2 y 1.3, causando renumeración automática de siguientes apartados.]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Numeral 3 - Notificaciones]]></heading>
+      <about><![CDATA[Reemplaza párrafo segundo para permitir notificación por correo electrónico con efectos al día siguiente hábil a su envío.]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Numeral 5.3 - Admisibilidad sobre pertinencia del objeto social]]></heading>
+      <about><![CDATA[Incorpora nuevo requisito de verificación de pertinencia entre objeto social de beneficiario/intermediario/ejecutor y actividades a desarrollar.]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[Numeral 8 - Formalización del Proyecto (letra f y g)]]></heading>
+      <about><![CDATA[Reemplaza párrafos finales de adjudicación por órgano colegiado y autoridad unipersonal, aclarando procedimiento para intermediarios y organismos ejecutores.]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[Numeral 8.2 - Obligaciones y condiciones de convenios con instituciones privadas]]></heading>
+      <about><![CDATA[Incorpora nuevas obligaciones para convenios con beneficiarios, intermediarios y organismos ejecutores, incluyendo indicación de objeto social, limitaciones financieras y requisitos de rendición.]]></about>
+    </entry>
+    <entry type="articulo" page="4">
+      <heading><![CDATA[Numeral 8.5.1 - Modalidades de transferencia]]></heading>
+      <about><![CDATA[Reemplaza primera oración para especificar que recursos pueden transferirse en cuotas según normativa presupuestaria vigente, a título de anticipo y/o contra rendición.]]></about>
+    </entry>
+    <entry type="articulo" page="4">
+      <heading><![CDATA[Numeral 8.5.2 - Condiciones]]></heading>
+      <about><![CDATA[Reemplaza letra a) sobre tramitación total del acto administrativo e incorpora letra e) sobre cumplimiento de hitos para transferencia con intermediarios u organismos ejecutores.]]></about>
+    </entry>
+    <entry type="articulo" page="5">
+      <heading><![CDATA[Numeral 8.5.3 - Documentos de Garantía]]></heading>
+      <about><![CDATA[Reemplaza párrafos sobre garantía de fiel cumplimiento, especificando montos (5% o 30 U.F.) y vigencia mínima de 3 meses adicionales a presentación de informe final.]]></about>
+    </entry>
+    <entry type="articulo" page="6">
+      <heading><![CDATA[Numeral 11 - Seguimiento de proyectos]]></heading>
+      <about><![CDATA[Reemplaza párrafo final aclarando que administración y supervisión por intermediarios no los releva de obligación de seguimiento.]]></about>
+    </entry>
+    <entry type="articulo" page="6">
+      <heading><![CDATA[Numeral 11.2 - Informes]]></heading>
+      <about><![CDATA[Reemplaza párrafos sobre número y calendario de informes, funciones de CORFO vs intermediarios/ejecutores, y requisitos para revisión de resultados.]]></about>
+    </entry>
+    <entry type="articulo" page="6">
+      <heading><![CDATA[Numeral 11.3 - Acciones correctivas]]></heading>
+      <about><![CDATA[Sustituye referencias a 'beneficiario y/o intermediario' por incluir explícitamente 'organismo ejecutor'.]]></about>
+    </entry>
+    <entry type="articulo" page="6">
+      <heading><![CDATA[Numeral 11.4.1 - Gastos anticipados]]></heading>
+      <about><![CDATA[Reemplaza párrafos primero y segundo sobre aceptación de desembolsos posteriores a tramitación total y excepciones por razones de continuidad.]]></about>
+    </entry>
+    <entry type="articulo" page="7">
+      <heading><![CDATA[Numeral 11.6 - Modificaciones al proyecto]]></heading>
+      <about><![CDATA[Reemplaza primer párrafo permitiendo solicitud de modificaciones en cualquier etapa siempre que no alteren naturaleza y objetivo general.]]></about>
+    </entry>
+    <entry type="articulo" page="7">
+      <heading><![CDATA[Numeral 14.1.3.1 - Término anticipado por causa no imputable]]></heading>
+      <about><![CDATA[Reemplaza párrafos sobre terminación anticipada por circunstancias graves transitorias, con plazo de restitución no superior a tercer día hábil anterior al vencimiento de garantía.]]></about>
+    </entry>
+    <entry type="articulo" page="8">
+      <heading><![CDATA[Numeral 14.1.3.2 - Término anticipado por hecho imputable]]></heading>
+      <about><![CDATA[Reemplaza párrafo segundo sobre restitución de totalidad del subsidio en plazo no superior a tercer día hábil anterior al vencimiento de garantía, con ejecución de garantías.]]></about>
+    </entry>
+    <entry type="resuelvo" page="8">
+      <heading><![CDATA[RESUELVO 2 - Vigencia]]></heading>
+      <about><![CDATA[Modificación rige desde fecha de total tramitación, pero solo aplica a proyectos sin decisión previa de aprobación o rechazo.]]></about>
+    </entry>
+    <entry type="encabezado" page="9">
+      <heading><![CDATA[PUBLÍQUESE]]></heading>
+      <about><![CDATA[Orden de publicar en banner 'Gobierno Transparente' de www.corfo.cl conforme ley N°20.285 y Resolución Exenta N°500 de 2022.]]></about>
+    </entry>
+    <entry type="firma" page="9">
+      <heading><![CDATA[Firma y Toma de Razón]]></heading>
+      <about><![CDATA[Firma de Fiscal, Vicepresidente Ejecutivo, y toma de razón de Contraloría General de la República por Dorothy Aurora Pérez Gutiérrez.]]></about>
+    </entry>
+  </index>
+  <key_points count="11">
+    <point type="plazo" page="5">
+      <text><![CDATA[La garantía de fiel cumplimiento deberá tener una vigencia de, por lo menos, 3 meses adicionales a la fecha de presentación del informe final, o de aquella que se establezca en las bases particulares.]]></text>
+      <why><![CDATA[Define duración mínima de garantía posterior a entrega de informes finales.]]></why>
+    </point>
+    <point type="monto" page="5">
+      <text><![CDATA[Al menos 5% del monto total de recursos a transferir. Las bases particulares no podrán eximir de la obligación de constituir esta garantía.]]></text>
+      <why><![CDATA[Especifica porcentaje mínimo de garantía para convenios con intermediarios u organismos ejecutores que superen 1.000 UTM.]]></why>
+    </point>
+    <point type="monto" page="5">
+      <text><![CDATA[Convenio o contrato celebrado con un beneficiario: Al menos 30 U.F.]]></text>
+      <why><![CDATA[Monto de garantía para convenios directos con beneficiarios, que pueden ser eximidos por bases particulares.]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[Se procederá a verificar que el objeto social o fines del beneficiario, intermediario y/u organismo ejecutor sea pertinente en relación con las actividades a desarrollar.]]></text>
+      <why><![CDATA[Nueva exigencia de admisibilidad: coherencia entre objeto social y actividades del proyecto.]]></why>
+    </point>
+    <point type="plazo" page="8">
+      <text><![CDATA[el cual no podrá exceder del tercer día hábil anterior al vencimiento de la garantía por anticipo que se encuentre en poder de Corfo, o dentro del plazo establecido en la ley, si el plazo fuere menor.]]></text>
+      <why><![CDATA[Límite máximo para restitución de fondos no gastados o excedentes.]]></why>
+    </point>
+    <point type="plazo" page="6">
+      <text><![CDATA[Los lugares, medios, fechas y horas de dichas presentaciones serán oportunamente informados por Corfo, con una anticipación no inferior a 7 días hábiles anteriores a la fecha de su realización.]]></text>
+      <why><![CDATA[Plazo mínimo de notificación para presentación de resultados ante CORFO.]]></why>
+    </point>
+    <point type="porcentaje" page="5">
+      <text><![CDATA[cuando el total de los recursos que se transfieran supere las 1.000 UTM, correspondiente al mes de enero del año de su celebración]]></text>
+      <why><![CDATA[Umbral que determina si se aplica porcentaje de garantía (5%) o si puede eximirse.]]></why>
+    </point>
+    <point type="requisito" page="4">
+      <text><![CDATA[Se establecerá el cumplimiento de hitos diferidos en el tiempo, relacionados con el cumplimiento del objetivo para el que fueran asignados, como condición para la transferencia de recursos.]]></text>
+      <why><![CDATA[Obliga a establecer hitos vinculados a transferencias cuando hay intermediarios u organismos ejecutores.]]></why>
+    </point>
+    <point type="sancion" page="3">
+      <text><![CDATA[En caso de que se verifiquen diferencias sustanciales entre objeto social declarado y el de estatutos, se revisará pertinencia y en caso de no existir pertinencia, el convenio o contrato no será formalizado y la postulación se tendrá por desistida.]]></text>
+      <why><![CDATA[Causal de rechazo por inconsistencia entre declaración y documentos de constitución.]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[En estos casos, la notificación surtirá efectos a partir del día siguiente hábil a su envío. El beneficiario, intermediario u organismo ejecutor se obliga a mantener actualizado el correo electrónico informado.]]></text>
+      <why><![CDATA[Nueva modalidad de notificación por correo que adquiere efectos legales al día siguiente hábil.]]></why>
+    </point>
+    <point type="definicion" page="2">
+      <text><![CDATA[Bases Administrativas Generales, en adelante e indistintamente 'las bases' o 'BAG', regulan los procesos y trámites que deberán cumplirse desde la etapa de orientación de los postulantes, preparación y/o la postulación misma, hasta el término del proyecto.]]></text>
+      <why><![CDATA[Define alcance y cobertura temporal de las Bases Administrativas Generales.]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="2" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure page="5">
+      <as_read><![CDATA[en la sección con referencias a montos de garantía por 'vales vistas, boletas de garantía, pólizas de seguro']]></as_read>
+      <problem><![CDATA[Se menciona que pueden usarse estos instrumentos pero no se especifica montos mínimos de cada uno, solo el total (5% o 30 U.F.).]]></problem>
+    </figure>
+    <figure page="7">
+      <as_read><![CDATA[cinco años para el seguimiento de sus logros y la evaluación de su impacto]]></as_read>
+      <problem><![CDATA[Se menciona plazo de 5 años post-término para seguimiento, pero no se especifica si es contado desde firma, término o aprobación de informe final.]]></problem>
+    </figure>
+  </figures_to_check>
+  <pages count="9" declared_in_source="9">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+EN Gobierno
+CORFO de Chile
+CORFO OFICINA DE PARTES
+—— 19.424 000051 — dl
+VICEPRESIDENCIA EJECUTIVA S Á N T ¡A 6 0 RESOLUCIÓN AFECTA
+MODIFICA LAS “BASES ADMINISTRATIVAS
+GENERALES PARA LOS INSTRUMENTOS DE LA
+CORPORACIÓN DE FOMENTO DE LA
+PRODUCCIÓN”, APROBADAS POR
+RESOLUCIÓN AFECTA N”28, DE 2020,
+MODIFICADA POR RESOLUCIÓN AFECTA
+N*136, DE 2023, AMBAS DE CORFO.
+VISTO:
+
+Lo dispuesto en la ley N*6.640, que crea la Corporación de Fomento de la Producción; en el
+
+decreto con fuerza de ley N*211, de 1960, del Ministerio de Hacienda, que Fija Normas que
+
+Regirán a la Corporación de Fomento de la Producción; en el Reglamento de la Corporación,
+
+aprobado por decreto supremo N*360, de 1945, del Ministerio de Economía y Comercio; en la
+
+ley N*19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos
+de los Organos de la Administración del Estado; en el decreto supremo N*28, de 2022, del
+
+Ministerio de Economía, Fomento y Turismo, que nombra Vicepresidente Ejecutivo de Corfo; y
+
+en las Resoluciones N”7, de 2019, y N*14, de 2022, ambas de la Contraloría General de la
+
+República, que fijan, respectivamente, normas sobre exención del trámite de toma de razón y los
+
+montos de los actos que deben cumplir con dicho trámite y los controles de reemplazo.
+
+CONSIDERANDO:
+
+1. Que, por Resolución Afecta N*87, de 2014, de Corfo, se ejecutó el Acuerdo de Consejo
+N”2.839, de 2014, que en el numeral 3” de su parte resolutiva, número 4, párrafo segundo,
+facultó al Vicepresidente Ejecutivo de Corfo para aprobar y modificar Bases Administrativas
+Generales aplicables a más de una Gerencia de Corfo pudiendo, para dicho efecto, además,
+modificar Bases Administrativas vigentes.
+
+2. Que, por Resolución Afecta N*28, de 2020, modificada por Resolución Afecta N”136, de
+2023, ambas de Corfo, se aprobaron las “Bases Administrativas Generales para los
+Instrumentos de la Corporación de Fomento de la Producción”.
+
+3. Que, en atención a la normativa presupuestaria vigente, resulta necesario modificar el actual
+texto de las Bases Administrativas Generales.
+
+RESUELVO:
+
+1%. MODIFÍCANSE las “Bases Administrativas Generales para los Instrumentos de la
+Corporación de Fomento de la Producción”, aprobadas por la Resolución Afecta N*28,
+de 2020, modificada por la Resolución Afecta N*136, de 2023, ambas de Corfo, en el
+siguiente sentido:
+
+A 1
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+En Contralor General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+¿4 Gobierno
+C RF LEA de Chile
+o
+soba
+a) Reemplázase el numeral 1.1 “Alcance”, por el siguiente:
+4.1 Alcance y aplicación
+Las presentes Bases Administrativas Generales, en adelante e indistintamente
+“las bases” o “BAG”, regulan los procesos y trámites que deberán cumplirse desde
+la etapa de orientación de los postulantes, preparación y/o la postulación misma,
+hasta el término del proyecto o programa y, cuando corresponda, de la relación
+contractual y de todas las obligaciones que ésta origine entre Corfo y el
+beneficiario y/o intermediario (Agentes Operadores Intermediarios o Entidades
+Gestoras) y/u organismo ejecutor (entidades mandatadas para la ejecución de un
+proyecto o programa). Lo anterior, sin perjuicio de la aprobación de bases
+administrativas especiales para instrumentos específicos.
+Los Comités de Corfo podrán utilizar estas bases, si así lo dispusiere su Director/a
+Ejecutivo/a o autoridad ejecutiva respectiva.
+Las presentes Bases Administrativas Generales se aplicarán a los instrumentos
+de financiamiento de Corfo, total o parcial para la ejecución de proyectos o
+programas, cuyas bases particulares o bases del instrumento expresamente lo
+dispongan.”
+
+b) Elimínase los numerales 1.2 y 1.3 “Alcance”, pasando el actual numeral 1.4 a ser
+1.2, y el actual numeral 1.5 a ser 1.3.
+
+c) Reemplázase el segundo párrafo del numeral 3 “Notificaciones”, por el siguiente:
+“Asimismo, y en virtud de lo dispuesto en el artículo 30, letra a) y artículo 19, inciso
+primero de esa misma ley, el beneficiario, intermediario u organismo ejecutor, podrá
+autorizar y consentir expresamente para que los actos administrativos dictados por
+Corfo relacionados con el proyecto o programa le sean notificados mediante el envío de
+una copia, al correo electrónico informado en su postulación. En estos casos, la
+notificación surtirá efectos a partir del día siguiente hábil a su envío. El beneficiario,
+intermediario u organismo ejecutor se obliga a mantener actualizado el correo
+electrónico informado y, cualquier cambio de éste, deberá ser comunicado a Corfo”.
+
+d) Incorpórase, al final del apartado 5 “Admisibilidad de las postulaciones”, el siguiente
+numeral 5.3:
+
+“5.3 Admisibilidad sobre la pertinencia del objeto social o fines.
+
+En el caso de las postulaciones admisibles conforme a los numerales precedentes, /
+y cuyo beneficiario, intermediario y/u organismo ejecutor sea una institución privada,
+
+se procederá a verificar que el objeto social o fines del beneficiario, intermediario
+
+y/u organismo ejecutor, según la transcripción efectuada en la postulación, sea
+pertinente en relación con las actividades a desarrollar. Lo anterior es sin perjuicio
+
+de la verificación de este requisito para confeccionar el convenio o contrato, de
+conformidad con lo señalado en el número i. de la letra a. del párrafo 8.2 siguiente.
+
+Si, como resultado de este análisis, se concluye que no se cumple con lo dispuesto
+
+en el presente numeral, el proyecto no avanzará a la etapa de evaluación.”
+
+e) Sustitúyase en el tercer párrafo del numeral 5 “Admisibilidad de las postulaciones”,
+la expresión “de los participantes y del proyecto”, por la expresión “de los participantes,
+del proyecto y sobre la pertinencia del objeto social o fines”.
+
+f) Reemplázase el párrafo final de la letra a) “Adjudicado por un Órgano Colegiado”,
+del numeral 8 “Formalización del Proyecto”, por el que sigue:
+
+“En el caso de un proyecto o programa agenciado, una vez aprobado éste, la autoridad
+¿FERRO competente de CORFO dictará la resolución que ejecute el acuerdo del órgano de decisión,
+7 EA TOMADO DE RAZÓN
+El $ E Fecha: 23/08/2024 2
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+Em Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+¿24 Gobierno
+C RF E deChile
+a
+gob
+y luego se celebrará el convenio o contrato con el intermediario, cuando se trate de
+proyectos o programas agenciados desde su postulación, o disponer el llamado para la
+selección del intermediario, en aquellos preparados directamente por Corfo, o en
+aquellos proyectos o programas que serán agenciados una vez adjudicados.”
+g) Reemplázase el párrafo final de la letra b) “Adjudicado por una autoridad
+unipersonal”, del numeral 8 “Formalización del Proyecto”, por el que sigue:
+“En el caso de proyectos o programas agenciados, la autoridad competente de Corfo
+dictará la resolución que adjudique y luego se celebrará el convenio o contrato con el
+intermediario, cuando se trate de proyectos agenciados desde su postulación, o
+dispondrá el llamado para la selección del intermediario, en el caso de aquellos
+preparados directamente por Corfo o en proyectos o programas que serán agenciados
+una vez adjudicados.”
+h) Incorpórase un numeral 8.2 “Obligaciones y condiciones de los convenios o contratos
+
+celebrados con instituciones privadas” del siguiente tenor, pasando el actual 8.2 a ser
+8.3, y así sucesivamente:
+“8.2 Obligaciones y condiciones de los convenios o contratos celebrados con
+
+instituciones privadas.
+
+El contrato o convenio de subsidio que se celebre en su oportunidad, conforme a
+
+la normativa presupuestaria vigente a la fecha de su celebración, deberá cumplir
+
+o establecer lo siguiente:
+
+a. Convenios o contratos que se celebren con el beneficiario, con el
+
+intermediario o con el organismo ejecutor:
+
+i. Indicación del objeto social o fines que establecen los estatutos o el acta
+de constitución de la institución privada con la cual se suscriba el convenio.
+Corfo cotejará que el objeto social o fines que se establecen en los
+estatutos o el acta de constitución de la institución privada con la cual se
+suscriba en contrato o convenio, transcrito en el formulario de postulación,
+no presente diferencias sustanciales. En caso de que se verifiquen
+diferencias sustanciales, se revisará nuevamente la pertinencia del objeto
+social o fines que constan en sus estatutos o acta de constitución, en
+relación con las actividades a desarrollar. En caso de verificarse que no
+existe pertinencia entre los referidos elementos, el convenio o contrato no
+será formalizado y la postulación se tendrá por desistida.
+
+ii Imposibilidad de establecer compromisos financieros que excedan el
+ejercicio presupuestario, salvo que se cuente con la autorización previa de
+la Dirección de Presupuestos.
+
+ii. El cumplimiento íntegro de las obligaciones establecidas en la ley
+N*19.862.
+
+iv. Obligación de que las rendiciones de cuentas se realicen de conformidad
+con lo dispuesto en la letra c) del párrafo segundo del numeral 11.1 de las
+presentes Bases Administrativas Generales.
+
+v. Acreditación de que el beneficiario, intermediario u organismo ejecutor ha
+cumplido con las obligaciones de rendir cuenta respecto de cualquier otro
+convenio o contrato suscrito con Corfo o sus Comités.
+
+vi. Estipulación expresa de la obligación de restitución de los recursos
+transferidos en caso de que éstos sean destinados a una finalidad distinta
+para la que fueron asignados, o de los recursos no ejecutados, no rendidos
+y/u observados.
+
+E TOMADO DE RAZÓ
+e ¿ZÓN
+(PEN Fecha: 23/08/2024 3
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+Em Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+¿4 Gobierno
+C RF LEA de Chile
+LN
+pop
+vii. Descripción específica de las actividades a desarrollar y los conceptos de
+gastos a cuyo financiamiento se destinarán los recursos. AE
+viii. Todo otro requisito o mención exigido en la normativa presupuestaria s
+vigente a la fecha de su celebración.
+b. Convenios o contratos que se celebren con un intermediario u
+organismos ejecutor:
+Además de las obligaciones y prohibiciones establecidas en el literal a.
+precedente, se deberá cumplir o establecer lo siguiente:
+i. Sólo se podrán suscribir convenios con aquellas instituciones privadas que,
+al momento de la postulación, cumplan con los requisitos de antigúedad y
+experiencia señalados en el segundo párrafo del numeral 4.7 de las
+presentes Bases Administrativas Generales.
+
+ii. Constituir una o más garantía(s) del fiel cumplimiento de las obligaciones  ,
+establecidas en el convenio o contrato, según lo señalado en el número ii. Eos
+de la letra b), del párrafo primero del numeral 8.5.3.
+
+iii. Se establecerá el cumplimiento de hitos diferidos en el tiempo,
+relacionados con el cumplimiento del objetivo para el que fueran
+asignados, como condición para la transferencia de recursos.
+
+iv. Como regla general, se podrá autorizar la subcontratación con terceros
+
+para las actividades que no constituyan el objeto principal del convenio, las
+cuales deberán estar claramente precisadas en éste. Excepcionalmente,
+se podrá autorizar la subcontratación del objeto principal del convenio
+cuando, por resolución fundada del Vicepresidente Ejecutivo de Corfo, o
+de quien éste haya delegado dicha facultad, advierta la imposibilidad de
+darle cumplimiento, especificándose las razones de la subcontratación.
+Con todo, el convenio o contrato incorporará todas las actividades, los
+montos y las instituciones que serán subcontratadas. En ningún caso,
+dicha subcontratación se podrá realizar con personas relacionadas, en
+conformidad con lo dispuesto en el artículo 100 de la ley N* 18.045.
+
+v. La prohibición de fraccionar en distintos convenios o contratos la
+asignación de recursos a una misma institución privada, cuando éstos
+estén destinados a un mismo objetivo dentro de una región o a nivel
+nacional y, además, provengan de una misma asignación o programa
+presupuestario. Para estos efectos, se dejará constancia en el convenio de
+la existencia de otros convenios o contratos suscritos por la institución
+privada con Corfo y sus Comités y que se encuentren vigentes.
+
+En el caso de convenios o contratos celebrados con instituciones públicas, Corfo
+exigirá el cumplimiento de los requisitos y condiciones individualizados en los |
+numerales ii., ¡v., v., vi., vii y viii, de la letra a. y en el numeral v. de la letra b.; y <
+podrá exigir aquellos singularizados en el numeral ¡. de la letra a., y en los numerales
+
+iii. y iv. de la letra b.”.
+
+i)  Reemplázase la primera oración del primer párrafo del nuevo numeral 8.5.1
+“Modalidades”, después de realizada la modificación de la letra h) anterior, por el que
+sigue:
+
+“Los recursos del subsidio podrán ser transferidos en el número de cuotas que disponga /
+la normativa presupuestaria vigente, a título de anticipo y/o contra la rendición de =
+informes de avance y/o final (reembolso):”
+
+j) Reemplázase la letra a) del primer párrafo del nuevo numeral 8.5.2 “Condiciones”,
+
+¿GRES después de realizada la modificación de la letra h) anterior, por la que sigue:
+7 EA TOMADO DE RAZÓN
+El $ IS) Fecha: 23/08/2024 4
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+iz Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="5">
+      <source_delimiter><![CDATA[<!-- página PDF 5 -->
+## Página 5
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO A:
+LS
+goal
+“a) La total tramitación del acto o del último acto administrativo que apruebe el convenio
+
+o contrato de subsidio”.
+
+k) Incorpórase una letra e), en el primer párrafo del nuevo numeral, 8.5.2 “Condiciones”
+después de realizada la modificación de la letra h) anterior, del siguiente tenor:
+
+“e) En caso de proyectos en que el convenio o contrato se celebre con un intermediario
+
+u organismo ejecutor deberá cumplirse con el/los hito/s para la transferencia de los
+
+recursos.”
+
+I)  Reemplázase el primer, segundo y tercer párrafo de la letra b), del párrafo primero del ¡
+nuevo numeral 8.5.3 “Documentos de Garantía”, después de realizada la modificación - »
+de la letra h) anterior, por los siguientes: i
+“b) Garantía de fiel cumplimiento de las obligaciones establecidas en el convenio
+
+o contrato: Con anterioridad a la entrega del subsidio, o de la primera cuota de
+
+éste, según corresponda, el beneficiario, intermediario u organismo ejecutor,
+
+deberá, además, constituir una caución consistente en vales vistas, boletas de
+
+garantía, pólizas de seguro (a primer requerimiento o de ejecución inmediata), ,
+
+depósitos a plazo, certificados de fianza u otros instrumentos que permitan su cobro |
+
+inmediato, para garantizar el fiel cumplimiento del convenio o contrato de subsidio. A
+
+La glosa de este instrumento, en caso de que por su naturaleza la contemple, 1]
+
+deberá expresar que se otorga para “garantizar el fiel cumplimiento del convenio o
+
+contrato de subsidio por parte del beneficiario, intermediario u organismo ejecutor
+
+(individualizarlo), referente al proyecto (nombre del proyecto y código)”. Esta
+
+garantía tendrá por fin cautelar el cumplimiento de las obligaciones establecidas en
+
+el convenio o contrato de subsidio, y deberá tener una vigencia de, por lo menos, 3
+
+meses adicionales a la fecha de presentación del informe final, o de aquella que se
+
+establezca en las bases particulares. Esta garantía será devuelta una vez que Corfo
+apruebe dicho informe y se acredite el cumplimiento de todas las obligaciones.
+
+El monto de la garantía de fiel cumplimiento de las obligaciones establecidas en el
+
+convenio o contrato deberá corresponder a:
+
+i. Convenio o contrato celebrado con un intermediario u organismo ejecutor,
+cuando el total de los recursos que se transfieran supere las 1.000 UTM,
+correspondiente al mes de enero del año de su celebración: Al menos 5% del
+monto total de recursos a transferir. Las bases particulares no podrán eximir de
+la obligación de constituir esta garantía.
+
+Tratándose de convenios o contratos cuya transferencia total sea igual o inferior
+a 1.000 UTM, las bases particulares del instrumento podrán eximir de la
+obligación de constituir esta garantía y/o establecer otro monto para ésta.
+
+ii. Convenio o contrato celebrado con un beneficiario: Al menos 30 U.F.
+
+Las bases particulares del instrumento podrán eximir de la obligación de
+constituir esta garantía, si se tratare de un convenio o contrato celebrado con un
+beneficiario.
+
+En los casos en que sea exigida, esta garantía deberá ser constituida cualquiera y
+
+sea la modalidad de entrega de los recursos, de aquellas reguladas en el numeral +
+
+8.5.1.
+
+Lo dispuesto en los párrafos precedentes deberá ajustarse a lo establecido en la
+
+normativa general y presupuestaria que se dicte en lo sucesivo y que deba aplicarse
+
+a la(s) respectiva(s) transferencia(s) y a las instrucciones que la autoridad
+
+competente dicte en dicho contexto.”
+
+m) Incorpórase a continuación del párrafo cuarto del nuevo numeral 8.5.3 "Documentos Y
+de Garantía”, después de realizada la modificación de la letra h) anterior, el siguiente $
+párrafo quinto, pasando el actual quinto a ser sexto y el sexto a ser séptimo.
+
+SS A
+A 5
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+
+E Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="6">
+      <source_delimiter><![CDATA[<!-- página PDF 6 -->
+## Página 6
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO mm
+o
+soba
+“En el caso de convenios o contratos celebrados con beneficiarios, los documentos de
+garantía antes señalados podrán ser otorgados, además, por terceros, previa
+aceptación de Corfo, mencionando en la glosa de éstos, si correspondiere según su
+naturaleza, que garantizan al beneficiario (que deberá individualizarse) por “el correcto
+uso del anticipo del subsidio entregado” (en el caso de la garantía por anticipos), o por
+“el fiel cumplimiento de las obligaciones contenidas en el convenio o contrato de
+subsidio” (en el caso de la garantía de fiel cumplimiento de las obligaciones establecidas
+en el convenio o contrato)”.
+
+n) Reemplázase el párrafo final del apartado 11 “Seguimiento de los proyectos”, por el
+
+que sigue:
+“La administración, supervisión y seguimiento de los proyectos entregada a los
+intermediarios u organismos ejecutores, en caso alguno la releva de su obligación de
+hacer seguimiento de los proyectos y, con mayor razón aun, de la administración que
+lleva a cabo”.
+
+o) Reemplázanse los párrafos cuarto, undécimo y duodécimo del numeral 11.2
+“Informes”, por los siguientes, respectivamente:
+
+“El número y calendario de los informes, podrá ser modificado por Corfo de oficio o
+previa solicitud fundada del beneficiario, intermediario, u organismo ejecutor, remitida
+antes del respectivo vencimiento del plazo de entrega.”
+
+“Las funciones que en los párrafos precedentes de este numeral se le entregan a Corfo,
+serán ejecutados por el intermediario u órgano ejecutor, salvo en lo que concierne al
+término anticipado del proyecto, el cual será solicitado a Corfo, quien resolverá conforme
+sus facultades”
+
+“Para la revisión de los informes, Corfo podrá solicitar a los beneficiarios, al intermediario
+(si el proyecto fuere agenciado y sin perjuicio de la labor que le corresponde en este
+ámbito) u organismo ejecutor, que realicen una o más presentaciones sobre los
+resultados reportados en los mismos, las que podrán ser presenciadas por los demás
+beneficiarios si así Corfo lo dispone. Los lugares, medios, fechas y horas de dichas
+presentaciones serán oportunamente informados por Corfo, con una anticipación no
+inferior a 7 días hábiles anteriores a la fecha de su realización. Asimismo, en dicha
+oportunidad, se indicarán los requisitos, contenidos y formato de la presentación misma.
+En caso de que el beneficiario no realice su presentación, o la misma no cumpla con las
+indicaciones comunicadas, se podrá dar término anticipado al convenio o contrato”.
+
+p) Reemplázase, en el párrafo primero del numeral 11.3 “Acciones correctivas,
+suspensión de pagos y de gastos y deber de información”, la frase “El beneficiario
+y/o el intermediario” por “El beneficiario, el intermediario y/o el organismo ejecutor”.
+
+q) Reemplázase, en el párrafo final del numeral 11.3 “Acciones correctivas, suspensión
+de pagos y de gastos y deber de información”, la frase “al Intermediario” por *al
+intermediario u organismo ejecutor”.
+
+r) Remplázanse los párrafos primero y segundo del numeral 11.4.1 “Gastos
+anticipados”, por los siguientes, respectivamente:
+
+“En relación con los recursos del subsidio, sólo se aceptarán como parte de la rendición
+de cuentas los desembolsos efectuados con posterioridad a la total tramitación del
+último acto administrativo que apruebe el respectivo convenio o contrato de subsidio,
+salvo que las bases particulares dispongan una fecha de inicio diversa.”
+“En casos calificados podrá incluirse en la rendición de cuentas, gastos incurridos en la
+ejecución del proyecto desde la fecha de comunicación de la decisión aprobatoria,
+singularizada en el numeral 10, a riesgo del beneficiario, intermediario u organismo
+ejecutor, siempre que existan razones de continuidad o buen servicio, las que deberán
+FPS constar en el respectivo convenio o contrato de subsidio y/o resolución que lo apruebe.”
+
+(7 EA TOMADO DE RAZÓN
+
+SAL] NE) roca: 2a10/2024 6
+
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+
+E Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="7">
+      <source_delimiter><![CDATA[<!-- página PDF 7 -->
+## Página 7
+]]></source_delimiter>
+      <content><![CDATA[
+¿24 Gobierno
+C R F k Í de Chile
+ns
+gob
+
+s) Reemplázase el primer párrafo del numeral 11.6 “Modificaciones al proyecto”, por el
+siguiente:
+
+“El beneficiario, intermediario u organismo ejecutor podrá solicitar modificaciones al
+
+proyecto en cualquiera de sus etapas, siempre que éstas no alteren la naturaleza y el
+
+objetivo general del mismo, sin perjuicio que éstas podrán ser determinadas de oficio
+por Corfo.”
+
+t)  Agrégase, en el párrafo primero del numeral 11.6.2 “Cambios de integrantes del
+equipo de trabajo y personal del intermediario destinado al proyecto”, en las dos
+referencias a “El intermediario”, las expresiones “y el organismo ejecutor”.
+
+u) Reemplázanse los párrafos primero y segundo del numeral 11.8 “Suspensión de la
+ejecución de un Proyecto”, por los siguientes, respectivamente:
+
+“Corfo podrá suspender por periodos determinados, de oficio o a petición del
+
+beneficiario, intermediario u organismo ejecutor, el plazo de ejecución de las actividades
+
+del proyecto, en caso de producirse circunstancias graves, de carácter transitorio, que
+impidan su normal desarrollo.”
+
+“En caso de solicitud del beneficiario, intermediario u organismo ejecutor, deberán
+
+acompañarse los antecedentes que la justifican. Corfo analizará su pertinencia y se
+
+pronunciará al respecto comunicando su decisión al beneficiario, y/o al intermediario y/u
+
+al organismo ejecutor en estos últimos dos casos, sea que la solicitud la hubiere
+
+presentado el intermediario, el organismo ejecutor o el beneficiario”
+
+v) Reemplázanse los literales b), c), i) y j), del numeral 12 “Publicidad y difusión”, por
+los que siguen, respectivamente:
+
+“b) Cumplir fielmente con el convenio o contrato celebrado con Corfo, el intermediario
+o con el organismo ejecutor y con el plan de trabajo comprometido.”
+
+“c) Proporcionar oportunamente a Corfo, así como a la Entidad Consultora o Consultor
+Experto o intermediarios (si se contemplare su participación) u organismo ejecutor,
+toda la información y antecedentes que le sean requeridos, para que éstos puedan
+cumplir con el proyecto, su supervisión y control, acerca de las actividades y otorgar
+las facilidades necesarias para dicho objeto.”
+
+“i) Contestar las encuestas de línea base y resultados, conforme a las instrucciones
+emanadas por Corfo, o el intermediario u organismo ejecutor, según corresponda.”
+
+“j) Otorgar las facilidades necesarias y proporcionar información que haya sido
+relevante para el levantamiento de los indicadores del proyecto, para que Corfo, el
+intermediario y/o el organismo ejecutor puedan realizar, una vez terminado el
+proyecto y, por el plazo de cinco años, el seguimiento de sus logros y la evaluación
+de su impacto.”
+
+w) Reemplázase el párrafo octavo del numeral 12 “Publicidad y difusión”, por el
+siguiente:
+
+“En el caso que el instrumento opere a través de intermediarios u organismos
+
+ejecutores, éstos deberán cumplir con las obligaciones de información establecidas en
+
+los párrafos precedentes, recabándola de los participantes que corresponda, sean éstos
+beneficiarios atendidos u otros.”
+
+x) Reemplázanse el encabezado del primer párrafo y el segundo y quinto párrafo del
+numeral 14.1.3.1 “Término anticipado del proyecto por causa no imputable al
+beneficiario”, por los siguientes, respectivamente:
+
+“Corfo podrá poner término anticipado, sea por su propia iniciativa o a solicitud del
+
+sn iciari i iafi i j n las sigui situaciones:”
+IES TOMADO Beneficiario y/o intermediario y/u organismo ejecutor, el ¡guientes
+SAL] NE) roca: 2x10/2024 7
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+S Es Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="8">
+      <source_delimiter><![CDATA[<!-- página PDF 8 -->
+## Página 8
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO +
+oi
+goal
+“En caso de solicitarse por el beneficiario y/o intermediario y/u organismo ejecutor y
+aceptarse por Corfo, se entenderá terminado anticipadamente el proyecto, desde la
+fecha que se indique en el respectivo acto administrativo, la cual no podrá ser anterior
+a la de la solicitud.”
+“Una vez revisado este informe el beneficiario, de conformidad con la normativa general
+y presupuestaria vigente y aplicable al producirse los excedentes, deberá restituir todo
+saldo no gastado, no rendido y/u observado del subsidio que tuviere en su poder a la
+fecha de término señalada en la resolución respectiva, en el plazo prudencial que Corfo
+fije, el cual no podrá exceder del tercer día hábil anterior al vencimiento de la garantía
+por anticipos que se encuentre en poder de Corfo, o dentro del plazo establecido en la
+ley, si el plazo fuere menor.”
+y) Reemplázase el segundo párrafo del numeral 14.1.3.2 “Término anticipado del
+proyecto por hecho o acto imputable al beneficiario”, por el siguiente:
+“En este caso el beneficiario, de conformidad con la normativa general y presupuestaria
+vigente y aplicable al producirse los excedentes, deberá restituir la totalidad del subsidio
+recibido (valor nominal) en el plazo que Corfo fije, el cual no podrá exceder del tercer
+día hábil anterior al vencimiento de la garantía por anticipo que se encuentre en poder
+de la Corporación, o dentro del plazo establecido en la ley, si el plazo fuere menor. Se
+hará efectiva la garantía por anticipo entregada, si el beneficiario no realiza la restitución
+dentro del plazo fijado, sin perjuicio del ejercicio, por parte de Corfo, de las acciones
+judiciales que correspondan, en caso de que el monto de las garantías sea insuficiente
+para enterar la totalidad del subsidio que deba ser reintegrado. Además, se hará efectiva
+la garantía de fiel cumplimiento de las obligaciones establecidas en el convenio o
+contrato, si correspondiere y obre en poder de Corfo.”
+z) Agregáse, en el primer párrafo del numeral 14.2.1 “Término del plazo de ejecución
+de actividades”, las expresiones “u organismo ejecutor” a continuación de la palabra
+“intermediario”.
+aa) Agrégase, en el único párrafo del numeral 14.2.2 “Término normal del proyecto”, las
+expresiones “u organismo ejecutor” a continuación de la palabra “intermediario”.
+bb) Reemplázase el título del numeral 14.2.4 por “Término anticipado de la gestión del;
+intermediario u organismo ejecutor” y agréganse, en su párrafo único, las 5d
+expresiones “u organismo ejecutor” a continuación de la palabra “intermediario”.
+cc) Agrégase, en el título y textos de los numerales 14.2.4.1; 14.24.2 y 14.25, a;
+continuación de la palabra “intermediario” las expresiones “u organismo ejecutor”. y
+dd) Reemplázase el párrafo final del numeral 14.2.4.2 “Término anticipado por hecho o
+acto imputable al intermediario u organismo ejecutor”, por el siguiente:
+“Cuando un proyecto agenciado termine anticipadamente por causal imputable al
+intermediario u organismo ejecutor, éste deberá restituir la totalidad del Overhead (OH)
+recibido (valor nominal) en el plazo que Corfo fije, el cual no podrá exceder del tercer
+día hábil anterior al vencimiento de la garantía por anticipo que se encuentre en poder
+de la Corporación, o dentro del plazo establecido en la ley, si el plazo fuere menor. Se
+hará efectiva la garantía por anticipo entregada, si el intermediario u organismo ejecutor
+no realiza la restitución dentro del plazo fijado.”
+2%. La presente modificación de las “Bases Administrativas Generales para los Instrumentos
+de la Corporación de Fomento de la Producción”, regirá desde la fecha de total tramitación ]
+de esta Resolución. No obstante, respecto de convocatorias en curso, solo se aplicará a los ao :
+proyectos o programas postulados sobre los que a esa fecha no haya recaído una decisión
+de aprobación o rechazo de la autoridad unipersonal u órgano colegiado, según lo dispuesto Y
+en el numeral 7 de las bases.
+SOS ,
+EE) DOROTHY AURORA PEREZ GUTIERREZ
+mé Contralora General de la República (S)
+
+---
+
+]]></content>
+    </page>
+    <page number="9">
+      <source_delimiter><![CDATA[<!-- página PDF 9 -->
+## Página 9
+]]></source_delimiter>
+      <content><![CDATA[
+¿A Gobierno
+CORFO hos
+o
+sobe
+3. PUBLÍQUESE la presente Resolución en el banner de “Gobierno Transparente”, del sitio web
+www.corfo.cl, en conformidad a lo dispuesto en el literal g) del artículo 7, de la ley N*20.285,
+sobre Acceso a la Información Pública, y en la Resolución Exenta N*500, de 2022, del citado
+Consejo, que Aprueba nuevo texto de la Instrucción General del Consejo para la
+Transparencia, sobre Transparencia Activa.
+Anótese, tómese razón, publíquese en el Diario Oficial y archívese. +
+> MA EVITA | |
+// puts
+NAYA F; ORÉS ARAYA JOSÉ MIGUEL BENAVENTE HORMAZÁBAL
+Fiscal Vicepresidente Ejecutivo
+NFA/LFMF/JMF/DVC/
+(8 ENTO AS
+5 - AN
+ES ERENTE e
+= EGAL ES
+(2, Fiscaris S/
+SBS
+(7 3, Ve) TOMADO DE RAZÓN
+El E EEN Fecha: 23/08/2024 9
+EL, 5) DOROTHY AURORA PEREZ GUTIERREZ
+ná Contralora General de la República (S)
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Modificación de Bases Administrativas Generales - Resolución Afecta N°51 (2024)
+
+- **Archivo fuente:** `CORFO_RA 51 CORFO 2024 toma razon_modifica bag(1).pdf`
+- **Páginas:** 9
+- **Método:** OCR visual en español
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="3" rejected="1" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+    <correction confidence="alta" page="3">
+      <from><![CDATA[Corto dictará la resolución que ejecute el acuerdo]]></from>
+      <to><![CDATA[CORFO dictará la resolución que ejecute el acuerdo]]></to>
+      <why><![CDATA[Contexto de procedimiento administrativo de CORFO, probablemente OCR confundió mayúsculas.]]></why>
+    </correction>
+    <correction confidence="alta" page="6">
+      <from><![CDATA[serás ejecutados]]></from>
+      <to><![CDATA[serán ejecutados]]></to>
+      <why><![CDATA[Conjugación verbal incorrecta: contexto usa tercera persona plural, no segunda.]]></why>
+    </correction>
+    <correction confidence="alta" page="5">
+      <from><![CDATA[úu organismo ejecutor]]></from>
+      <to><![CDATA[u organismo ejecutor]]></to>
+      <why><![CDATA[Duplicación de letra 'u' por OCR, debe ser conjunción disyuntiva única.]]></why>
+    </correction>
+    <rejected reason="no aparece literal en el fuente"><![CDATA[beneficiario i iafi i j n las sigui situaciones]]></rejected>
+  </ocr_corrections>
+</corfo_document>

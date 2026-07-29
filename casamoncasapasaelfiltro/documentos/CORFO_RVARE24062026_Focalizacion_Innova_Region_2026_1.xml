@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="CORFO_RVARE24062026_Focalizacion_Innova_Region_2026_1">
+  <provenance>
+    <derived_from_file>CORFO_RVARE24062026_Focalizacion_Innova_Region_2026_1.md</derived_from_file>
+    <derived_from_sha256>94d8de55428d730234e4d1429255c30f3b533f409d032c3c9605c80a85b4d301</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="el markdown fuente no declara su pdf de origen"/>
+    <extraction_method>unknown</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>0</ocr_corrections_applied>
+      <ocr_corrections_rejected>0</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Resolución que Determina Focalización Territorial y Temática del Primer Concurso Innova Región 2026]]></title>
+  <summary><![CDATA[Resolución de la Dirección Regional de Corfo Valparaíso que abre la convocatoria del instrumento Innova Región 2026. Determina focalización territorial en la Región de Valparaíso y focalización temática en nueve ejes prioritarios, con $500.000.000 disponibles.]]></summary>
+  <index entries="11" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="encabezado">
+      <heading><![CDATA[Encabezado]]></heading>
+      <about><![CDATA[Identificación de la Dirección Regional de Valparaíso y asunto de la resolución]]></about>
+    </entry>
+    <entry type="visto">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Marco normativo: leyes 19.880, 6.640, decreto 211/1960, Reglamento Corporación, Resoluciones de Corfo y autorización de exención de trámite de toma de razón]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[Siete considerandos que justifican: Bases del instrumento Innova Región, delegación al Comité Regional, aplicabilidad de Bases Administrativas Generales, concepto de focalización territorial y temática, acuerdos de calendario de concursos 2026, y disponibilidad presupuestaria]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 1º DISPÓNGASE]]></heading>
+      <about><![CDATA[Apertura de convocatoria del instrumento Innova Región con focalización territorial en Región de Valparaíso y focalización temática en nueve ejes priorizados]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 2º Presentación al Comité]]></heading>
+      <about><![CDATA[Los proyectos admisibles y evaluados serán presentados al Comité de Desarrollo Productivo Regional de Valparaíso para su conocimiento y decisión]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 3º Monto de recursos disponibles]]></heading>
+      <about><![CDATA[Recursos disponibles ascienden a $500.000.000.- con posibilidad de suplementación según disponibilidad presupuestaria]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 4º Normativa aplicable]]></heading>
+      <about><![CDATA[En lo no regulado, resultan aplicables las Bases del instrumento Innova Región (Resolución Exenta 94/2024) y las Bases Administrativas Generales (Resolución Afecta 28/2020)]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 5º Publicación en sitio web de Corfo]]></heading>
+      <about><![CDATA[Publicación del aviso correspondiente en el sitio web de Corfo con información según numeral 4.2 de Bases Administrativas Generales]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[RESUELVO - 6º Publicación en Gobierno Transparente]]></heading>
+      <about><![CDATA[Publicación de la presente resolución en el banner de Gobierno Transparente del sitio web de Corfo conforme a Ley de Transparencia 20.285]]></about>
+    </entry>
+    <entry type="firma">
+      <heading><![CDATA[Cierre y Firma]]></heading>
+      <about><![CDATA[Anótese y archívese. Firmado electrónicamente por Samuel Enrique Chávez Muñoz, Director Regional Corfo Valparaíso]]></about>
+    </entry>
+    <entry type="encabezado">
+      <heading><![CDATA[Distribución]]></heading>
+      <about><![CDATA[Distribución a cinco funcionarios de Corfo Valparaíso y archivo]]></about>
+    </entry>
+  </index>
+  <key_points count="13">
+    <point type="requisito">
+      <text><![CDATA[El llamado a concurso se focalizará territorialmente en la Región de Valparaíso y, por lo tanto, las propuestas que se postulen deben tener ámbito de aplicación o ejecución en la región señalada.]]></text>
+      <why><![CDATA[Define el territorio elegible: solo postulantes con proyectos ejecutables en Región de Valparaíso califican]]></why>
+    </point>
+    <point type="definicion">
+      <text><![CDATA[Las propuestas que se postulen deben encontrarse enmarcadas en, a lo menos, uno de los siguientes ejes priorizados.]]></text>
+      <why><![CDATA[Requisito de admisibilidad fundamental: cada proyecto debe alinearse con al menos uno de los nueve ejes temáticos]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Industrias creativas: Se priorizarán proyectos con énfasis en actividades económicas pertenecientes a producción audiovisual, desarrollo de software y videojuegos y la industria musical.]]></text>
+      <why><![CDATA[Eje temático 1 de 9: define subáreas de industrias creativas elegibles]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Turismo de intereses especiales: Se priorizarán proyectos centrados en satisfacer motivaciones específicas de nichos de mercado, ofreciendo experiencias personalizadas, activas o contemplativas priorizando el contacto con la naturaleza, la cultura o el deporte aventura, que se desarrollen en una Zona de Interés Turístico (ZOIT) de la región de Valparaíso, declaradas bajo la Ley N° 20.423, Decreto N°30 (ZOIT Putaendo; ZOIT Valparaíso; ZOIT Olmué; ZOIT Robinson Crusoe; ZOIT Casablanca).]]></text>
+      <why><![CDATA[Eje temático 2 de 9: requiere ubicación en ZOIT específicas y énfasis en experiencias de naturaleza, cultura o deporte aventura]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Servicios para la Minería: Se priorizarán proyectos con énfasis en optimizar la gestión ambiental, sustentabilidad, mantenimiento preventivo y predictivo, Geomensura y Topografía con Drones.]]></text>
+      <why><![CDATA[Eje temático 3 de 9: focaliza servicios mineros con énfasis ambiental y tecnologías específicas]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Construcción Sustentable y Naval: Se priorizarán proyectos alineados con la Política Nacional de Construcción Naval 2025-2040 con énfasis en Industria de la Ingeniería y Diseño Naval (I+D+i), Metalurgia, Mecánica y Manufactura Avanzada, Integradores de Sistemas Eléctricos, Electrónicos y de Automatización. Y proyectos asociados a Construcción Sustentable con énfasis en resiliencia frente a desastres naturales, gestión sustentable de residuos, eficiencia hídrica, eficiencia energética, digitalización de procesos constructivos, industrialización y medición de huella de carbono en procesos constructivos.]]></text>
+      <why><![CDATA[Eje temático 4 de 9: integra construcción naval con política 2025-2040 y construcción sustentable con énfasis ambiental]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Sostenibilidad Portuaria: Se priorizarán proyectos con énfasis en tecnificación de operaciones, optimizar el almacenamiento y su operación, a la gestión de última milla, así como también a ámbitos como la trazabilidad, preservación del valor y electromovilidad en puertos.]]></text>
+      <why><![CDATA[Eje temático 5 de 9: enfatiza modernización de operaciones portuarias y electromovilidad]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Gestión Hídrica: Se priorizarán proyectos con énfasis en eficiencia y reutilización del recurso hídrico, la adopción y desarrollo de tecnologías sostenibles para reducir la huella hídrica en los ejes y sectores económicos incluidos en esta focalización, exceptuando al eje producción agrícola sostenible y alimentos procesados.]]></text>
+      <why><![CDATA[Eje temático 6 de 9: transversal a otros ejes pero con exclusión específica del sector agrícola]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Nuevas Tecnologías Digitales e Industria 4.0: Se priorizarán proyectos con énfasis en inteligencia artificial, sensores IoT, automatización de procesos, análisis de datos, plataformas digitales y Blockchain.]]></text>
+      <why><![CDATA[Eje temático 7 de 9: prioriza tecnologías habilitantes digitales y de automatización]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Economía Azul (uso sostenible de los recursos oceánicos para el crecimiento económico): Se priorizarán proyectos que impulsen soluciones para el monitoreo ambiental marino; las energías renovables marinas; la innovación en acuicultura sostenible, transporte marino y el desarrollo de bioproductos de origen marino.]]></text>
+      <why><![CDATA[Eje temático 8 de 9: enfatiza recursos oceánicos sostenibles con aplicaciones de energía y biotecnología]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Producción agrícola sostenible y alimentos procesados: Se priorizarán proyectos en Producción Agrícola Sostenible con énfasis en Energías renovables no convencionales (ERNC), Agricultura 4.0 incluyendo digitalización y automatización, Biotecnología, Sistemas tecnológicos de riego inteligente. Y proyectos en Alimentos Procesados con foco en sofisticación productiva y sostenibilidad, con énfasis en desarrollo de productos e ingredientes de mayor valor agregado, valorización de subproductos, tecnologías para eficiencia hídrica y energética, digitalización y automatización de procesos.]]></text>
+      <why><![CDATA[Eje temático 9 de 9: el más extenso, integra agricultura sustentable con tecnologías ERNC, 4.0, biotecnología y procesamiento con valor agregado]]></why>
+    </point>
+    <point type="monto">
+      <text><![CDATA[$500.000.000.- (quinientos millones de pesos), sin perjuicio que posteriormente se puedan suplementar los recursos para la presente convocatoria en caso de existir disponibilidad presupuestaria.]]></text>
+      <why><![CDATA[Techo presupuestario de la convocatoria, con posibilidad de aumento si hay disponibilidad adicional]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Las propuestas además de ser coherentes con los objetivos del instrumento de financiamiento, se encuentren enmarcadas en, a lo menos, uno de los siguientes ejes priorizados.]]></text>
+      <why><![CDATA[Doble requisito de admisibilidad: coherencia instrumental + alineación temática]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="2" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure>
+      <as_read><![CDATA[Resolución TRA N° 58/ 8 /202 6 , que me nombra en el cargo]]></as_read>
+      <problem><![CDATA[Espacios irregulares en el número de resolución y fecha: '58/ 8 /202 6' parece referirse a año 2026, pero la segmentación sugiere OCR fragmentado]]></problem>
+    </figure>
+    <figure>
+      <as_read><![CDATA[Resolución Electrónica Exenta N° 94 , de 202 4]]></as_read>
+      <problem><![CDATA[Fecha con espacio: '202 4' probablemente debe ser '2024' pero no se corrige por ser número]]></problem>
+    </figure>
+  </figures_to_check>
+  <page_status>not_available</page_status>
+  <page_status_reason>El markdown fuente no contiene fronteras de página verificables. No se fabrican números; usar el índice.</page_status_reason>
+  <body><![CDATA[**DIRECCIÓN REGIONAL**  
+**DE VALPARAÍSO**
+
+## DETERMINA FOCALIZACIÓN
+
+## TERRITORIAL Y TEMÁTICA DE LA
+
+## CONVOCATORIA DENOMINADA
+
+## “PRIMER CONCURSO INNOVA
+
+## REGIÓN 2026”, BAJO LA MODALIDAD
+
+## DE CONCURSO, EN EL MARCO DEL
+
+## INSTRUMENTO “INNOVA REGIÓN”
+
+## V I S T O:
+
+Lo dispuesto en la ley N°19.880, que establece Bases de los Procedimientos Administrativos que  
+Rigen los Actos de los Órganos de la Administración del Estado; en la ley N°6.640, que crea la  
+Corporación de Fomento de la Producción; en el decreto con fuerza de ley N°211, de 1960, del  
+Ministerio de Hacienda, que fija normas que regirán a la Corporación de Fomento de la  
+Producción; en el Reglamento de la Corporación, aprobado por decreto N°360, de 1945, del  
+Ministerio de Economía y Comercio; en la Resolución Electrónica Exenta N° 94, de 2024, del  
+Comité InnovaChile, que aprueba las bases del instrumento “Innova Región”; en la Resolución  
+Afecta N°7, de 2023, de Corfo, y sus modificaciones posteriores, que aprobó el Reglamento del  
+Comité de Desarrollo Productivo Regional de Valparaíso; en la Resolución Afecta N°28, de 2020,  
+de Corfo, y sus modificaciones posteriores, que Aprueba Bases Administrativas Generales para  
+los Instrumentos de la Corporación de Fomento de la Producción, en adelante las “Bases  
+Administrativas Generales” o “BAG”; en la Resolución TRA N° 58/ 8 /202 6 , que me nombra en el  
+cargo de Director Regional de Corfo Valparaíso; y en la Resolución Nº 36, de 2024, modificada  
+por Resolución N° 8, de 2025, y Resolución N° 3, de 2026, todas de la Contraloría General de la  
+República, que fija normas sobre la exención del trámite de toma de razón.
+
+## C O N S I D E R A N D O:
+
+**1\.** Que, por **Resolución Electrónica Exenta N° 94** , de 2024, de InnovaChile, que modifica las  
+Bases del instrumento de financiamiento denominado “Innova Región” y aprueba su nuevo  
+texto.  
+**2\.** La **Resolución Afecta N° 7** , de 2023, de Corfo, y sus modificaciones posteriores, que crea  
+“Comités de Desarrollo Productivo Regional”, y Aprueba Reglamento del “Comité de  
+Desarrollo Productivo Regional de Valparaíso”.  
+**3\.** Que, por **Resolución Electrónica Exenta N°127** , de 2023, de InnovaChile, se delegó al  
+Comité de Desarrollo Productivo Regional de Valparaíso, la administración del instrumento  
+de financiamiento denominado “ **Innova Región** ”, debiendo, para dichos efectos, aplicar el  
+texto vigente de sus bases y, en su caso, sus eventuales modificaciones y/o nuevos textos.  
+**4\.** Que, de acuerdo con lo establecido en el numeral 12 de las bases citadas en el considerando  
+1 precedente, en cuanto a los procesos y trámites que deberán cumplirse desde la etapa de  
+orientación de los postulantes y/o postulación misma, hasta el término del proyecto y del  
+convenio de subsidio celebrado entre InnovaChile y el beneficiario, se aplican las Bases  
+Administrativas Generales para los Instrumentos de la Corporación de Fomento de la  
+Producción, aprobadas por Resolución Afecta N°28, de 2020, y sus modificaciones  
+posteriores, en adelante e indistintamente “Bases Administrativas Generales”.  
+**5\.** Que, el número 4.3 de las Bases Administrativas Generales, denominado “Focalización”,  
+dispone que la apertura de postulaciones a los instrumentos de financiamiento y/o de  
+cofinanciamiento, cualquiera sea su modalidad, podrán ser focalizadas “temática” y/o  
+“territorialmente”, definiendo, a su vez, focalización como “la decisión administrativa de  
+concentrar o dirigir un instrumento a un territorio determinado y/o temática”.
+
+RESOLUCIÓN ELECTRÓNICA  
+EXENTA
+
+Asimismo, y de acuerdo con el numeral señalado precedentemente, la focalización territorial  
+implica acotar las postulaciones a un determinado “territorio geográfico, en conformidad a la  
+división político – administrativa del país”, y la focalización temática, implica acotar las  
+postulaciones a “área(s) o sector(es) productivo(s)/económico(s) y/o desafío(s) específicos”.
+
+**6\.** Que, por **Resolución Electrónica Exenta N° 8** , de 2026, de esta Dirección Regional, se  
+ejecutaron los acuerdos adoptados en la Sesión N° 13 del Pleno del Comité de Desarrollo  
+Productivo Regional de Valparaíso, de fecha 17 de diciembre de 2025, en la que se acordó  
+el calendario de concursos a realizar durante el año 2026, conforme a la disponibilidad  
+presupuestaria del presente año.  
+**7\.** Lo recursos disponibles para la presente convocatoria provienen de la asignación 24.03.  
+“Comité Desarrollo Productivo Regional de Valparaíso” del programa presupuestario 01:  
+“Corporación de Fomento de la Producción” para el año 2026\.
+
+## R E S U E L V O:
+
+**1º. DISPÓNGASE** la apertura de la convocatoria del instrumento denominado “ **Innova Región** ”,  
+cuyas bases fueron aprobadas por **Resolución Electrónica Exenta N° 94** , de 202 4 , del  
+Comité InnovaChile, y determina su focalización territorial y temática, de acuerdo con los  
+siguientes elementos:
+
+a) Focalización territorial:
+
+El llamado a concurso se focalizará territorialmente en la Región de Valparaíso y, por  
+lo tanto, las propuestas que se postulen deben tener ámbito de aplicación o ejecución  
+en la región señalada.
+
+b) Focalización temática
+
+El llamado a concurso se encontrará focalizado temáticamente a propuestas que,  
+además de ser coherentes con los objetivos del instrumento de financiamiento, se  
+encuentren enmarcados en, a lo menos, uno de los siguientes ejes priorizados:
+
+a. Industrias creativas: Se priorizarán proyectos con énfasis en actividades  
+económicas pertenecientes a:
+
+* Producción audiovisual, desarrollo de software y videojuegos y la industria  
+  musical.
+
+b. Turismo de intereses especiales: Se priorizarán:
+
+* Proyectos centrados en satisfacer motivaciones específicas de nichos de  
+  mercado, ofreciendo experiencias personalizadas, activas o  
+  contemplativas priorizando el contacto con la naturaleza, la cultura o el  
+  deporte aventura, que se desarrollen en una Zona de Interés Turístico  
+  (ZOIT) de la región de Valparaíso, declaradas bajo la Ley N° 20.423,  
+  Decreto N°30 (ZOIT Putaendo; ZOIT Valparaíso; ZOIT Olmué; ZOIT  
+  Robinson Crusoe; ZOIT Casablanca).
+
+c. Servicios para la Minería: Se priorizarán proyectos con énfasis en:
+
+* Optimizar la gestión ambiental, sustentabilidad, mantenimiento preventivo  
+  y predictivo, Geomensura y Topografía con Drones.
+
+d. **Construcción Sustentable y Naval:**
+
+Se priorizarán proyectos alineados con la Política Nacional de Construcción Naval  
+2025 – 2040 y sus objetivos, con énfasis en:
+
+* Industria de la Ingeniería y Diseño Naval (I+D+i)  
+* Metalurgia, Mecánica y Manufactura Avanzada  
+* Integradores de Sistemas Eléctricos, Electrónicos y de Automatización
+
+Se priorizarán proyectos asociados a Construcción Sustentable con énfasis en:
+
+* Resiliencia frente a desastres naturales  
+* Gestión sustentable de residuos  
+* Eficiencia hídrica  
+* Eficiencia energética  
+* Digitalización de procesos constructivos  
+* Industrialización y medición de huella de carbono en procesos  
+  constructivos
+
+e. Sostenibilidad Portuaria: Se priorizarán proyectos con énfasis en:
+
+* Tecnificación de operaciones, optimizar el almacenamiento y su operación,  
+  a la gestión de “última milla”, así como también a ámbitos como la  
+  trazabilidad, preservación del valor y electromovilidad en puertos.
+
+f. Gestión Hídrica: Se priorizarán proyectos con énfasis en:
+
+* Eficiencia y reutilización del recurso hídrico, la adopción y desarrollo de  
+  tecnologías sostenibles para reducir la huella hídrica en los ejes y sectores  
+  económico incluidos en esta focalización, exceptuando al eje “producción  
+  agrícola sostenible y alimentos procesados”.
+
+g. Nuevas Tecnologías Digitales e Industria 4.0: Se priorizarán proyectos con  
+énfasis en:
+
+* Inteligencia artificial, sensores IoT, automatización de procesos, análisis de  
+  datos, plataformas digitales y Blockchain.
+
+h. Economía Azul (uso sostenible de los recursos oceánicos para el crecimiento  
+económico): Se priorizarán proyectos:
+
+* Que impulsen soluciones para el monitoreo ambiental marino; las energías  
+  renovables marinas; la innovación en acuicultura sostenible, transporte  
+  marino y el desarrollo de bioproductos de origen marino.
+
+i. Producción agrícola sostenible y alimentos procesados:
+
+Se priorizarán proyectos en el sector de Producción Agrícola Sostenible con  
+énfasis en:
+
+* Energías renovables no convencionales (ERNC) que permitan reducir  
+  costos operativos, disminuir la huella de carbono y mejorar la eficiencia de  
+  los sistemas productivos.  
+* Agricultura 4.0, que incluya la digitalización y automatización de la  
+  producción agrícola utilizando tecnologías avanzadas como la inteligencia  
+  artificial, drones, sensores y software.  
+* Biotecnología, utilizando microorganismos para mejorar cultivos, aumentar  
+  la productividad y fomentar la sostenibilidad.
+
+## 4
+
+* Sistemas tecnológicos de riego inteligente, sensores de medición de  
+  humedad en suelo, herramientas y tecnologías de medición hídrica en  
+  tiempo real, telemetría, drones, estaciones de monitoreo y plataformas  
+  integradas para la toma de decisión.
+
+Se priorizarán proyectos en el sector de Alimentos Procesados , con foco en la  
+sofisticación productiva y sostenibilidad, con énfasis en:
+
+* Desarrollo de productos e ingredientes de mayor valor agregado.  
+* Valorización de subproductos y soluciones de economía circular.  
+* Tecnologías para la eficiencia hídrica y energética en procesos  
+  productivos.  
+* Digitalización y automatización de procesos en la industria alimentaria.
+
+2º. Los proyectos admisibles y evaluados serán presentados al Comité de Desarrollo Productivo  
+Regional de Valparaíso, para su conocimiento y decisión.
+
+3º. Los recursos disponibles para la presente convocatoria ascienden a la suma de hasta  
+$500.000.000.- (quinientos millones de pesos), sin perjuicio que posteriormente se puedan  
+suplementar los recursos para la presente convocatoria en caso de existir disponibilidad  
+presupuestaria.
+
+4º. En lo no regulado en este acto, a la presente convocatoria le resultarán aplicables las Base  
+del instrumento “Innova Región”, cuyas bases fueron aprobadas por Resolución Electrónica  
+Exenta N° 94 , de 202 4 , de Corfo; y en todo lo no expresamente regulado en ellas, se regirá  
+por lo dispuesto en las Bases Administrativas Generales para los Instrumentos de la  
+Corporación de Fomento de la Producción, cuyas bases fueron aprobadas por Resolución  
+Afecta N° 28, de 2020, de Corfo, y sus modificaciones posteriores.
+
+5º. PUBLÍQUESE el aviso correspondiente en el sitio web de Corfo, que contenga la información  
+señalada en el numeral 4.2 de las Bases Administrativas Generales para los instrumentos de  
+la Corporación de Fomento de la Producción.
+
+6º. PUBLÍQUESE la presente resolución en el banner de “Gobierno Transparente”, del sitio web  
+http://www.corfo.cl, en conformidad a lo dispuesto en el artículo 7°, de la Ley de Transparencia de  
+la función pública y de acceso a la información de la Administración del Estado, aprobada por  
+el artículo primero de la Ley N° 20.285, y en la Resolución Exenta N° 80, de 2026, que  
+Aprueba texto refundido, coordinado y sistematizado de la Instrucción General del Consejo  
+para la Transparencia, sobre Transparencia Activa.
+
+Anótese y archívese  
+Resolución suscrita mediante firma electrónica avanzada por Samuel Enrique Chávez  
+Muñoz, Director Regional Corfo Valparaíso / Director Ejecutivo del Comité de Desarrollo  
+Productivo Regional de Valparaíso
+
+JLVM/jrb  
+DISTRIBUCIÓN  
+1.- Felipe Mellado Escarez, Subdirector Regional Corfo Valparaíso.  
+2.- Jorge Riquelme Bellido, Ejecutivo Técnico Corfo Valparaíso.  
+3.- José Luis Varas Muñoz, Abogado Regional Corfo Valparaíso.  
+4.- Marcelo Ubilla Rebolledo, Ejecutivo Técnico Corfo Valparaíso.  
+5.- Archivo.
+
+DE04D234-1C09-4359-AEB2-5170DA809CB  
+Verifique la validez de este documento en : [http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx](http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx)
+
+]]></body>
+  <ocr_corrections applied="0" rejected="0" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+  </ocr_corrections>
+</corfo_document>

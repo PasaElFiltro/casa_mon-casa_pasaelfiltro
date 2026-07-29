@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="CORFO_Aviso_IR_2026_CDPR">
+  <provenance>
+    <derived_from_file>CORFO_Aviso_IR_2026_CDPR.md</derived_from_file>
+    <derived_from_sha256>e8e67ead5617b599ae19e3bf8ae58c43cc167f867b5f77c2a10e0fc05a0b4aa5</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="el markdown fuente no declara su pdf de origen"/>
+    <extraction_method>unknown</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>0</ocr_corrections_applied>
+      <ocr_corrections_rejected>0</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Concurso Innova Región 2026 — Región de Valparaíso]]></title>
+  <summary><![CDATA[Aviso de convocatoria a concurso de financiamiento para proyectos de innovación (prototipo a validación técnica/comercial) en la Región de Valparaíso, enmarcados en 9 ejes temáticos priorizados. Plazo de postulación: 13 de agosto de 2026.]]></summary>
+  <index entries="7" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="encabezado">
+      <heading><![CDATA[Título del Concurso]]></heading>
+      <about><![CDATA[Identificación oficial del instrumento como 'Innova Región' enfocado en la Región de Valparaíso.]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[Objetivo del Instrumento]]></heading>
+      <about><![CDATA[Apoyo al desarrollo de nuevos o mejorados productos (bienes o servicios) y/o procesos desde fase de prototipo hasta validación técnica a escala productiva y/o validación comercial.]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[Ámbito Territorial y Normativo]]></heading>
+      <about><![CDATA[Según Resolución (E) N° 55 de 2026 de la Dirección Regional de Corfo Valparaíso, el concurso está enfocado en la Región de Valparaíso con ejecución/aplicación regional.]]></about>
+    </entry>
+    <entry type="tabla">
+      <heading><![CDATA[Ejes Temáticos Priorizados]]></heading>
+      <about><![CDATA[Nueve ejes temáticos en los que deben enmarcarse las propuestas: Industrias creativas, Turismo de intereses especiales, Servicios para la Minería, Construcción Sustentable y Naval, Sostenibilidad Portuaria, Gestión Hídrica, Nuevas Tecnologías Digitales e Industria 4, Economía Azul, Producción agrícola sostenible y alimentos procesados.]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[Bases del Instrumento y Antecedentes]]></heading>
+      <about><![CDATA[Bases aprobadas por Resolución (E) N° 94 de 2024 de InnovaChile disponibles en www.corfo.cl a partir de la publicación del aviso. Postulaciones en línea a través del sistema electrónico de ingreso de proyectos de Corfo.]]></about>
+    </entry>
+    <entry type="resuelvo">
+      <heading><![CDATA[Plazo de Postulación]]></heading>
+      <about><![CDATA[Período abierto desde las 15:00 horas del día de publicación del aviso hasta las 15:00 horas del día 13 de agosto de 2026. Solo proyectos que concluyan exitosamente todos los pasos de postulación en línea antes de ese horario son considerados como postulados.]]></about>
+    </entry>
+    <entry type="considerando">
+      <heading><![CDATA[Canal de Consultas]]></heading>
+      <about><![CDATA[Consultas recibidas por Corfo en consultavalparaiso@corfo.cl hasta 3 (tres) días hábiles antes del término del plazo de postulaciones. Consultas posteriores no aseguran respuesta oportuna.]]></about>
+    </entry>
+  </index>
+  <key_points count="8">
+    <point type="plazo">
+      <text><![CDATA[15:00 horas del día 13 de agosto de 2026]]></text>
+      <why><![CDATA[Cierre de plazo de postulación — fecha y hora exacta de vencimiento.]]></why>
+    </point>
+    <point type="plazo">
+      <text><![CDATA[Desde las 15:00 horas del día de la publicación del presente aviso]]></text>
+      <why><![CDATA[Apertura de plazo de postulación — comienza desde la publicación.]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Las propuestas se encontrarán enmarcadas en, a lo menos, uno de los siguientes Ejes priorizados]]></text>
+      <why><![CDATA[Requisito de admisibilidad: alineación con al menos uno de los 9 ejes temáticos.]]></why>
+    </point>
+    <point type="definicion">
+      <text><![CDATA[Apoyar el desarrollo de nuevos o mejorados productos (bienes o servicios) y/o procesos desde la fase de prototipo, hasta la fase de validación técnica a escala productiva y/o validación comercial]]></text>
+      <why><![CDATA[Alcance del instrumento: etapas permitidas (prototipo a validación).]]></why>
+    </point>
+    <point type="definicion">
+      <text><![CDATA[1. Industrias creativas; 2. Turismo de intereses especiales; 3. Servicios para la Minería; 4. Construcción Sustentable y Naval; 5. Sostenibilidad Portuaria; 6. Gestión Hídrica; 7. Nuevas Tecnologías Digitales e Industria 4; 8. Economía Azul; 9. Producción agrícola sostenible y alimentos procesados]]></text>
+      <why><![CDATA[Ejes temáticos priorizados donde debe enmarcar la propuesta.]]></why>
+    </point>
+    <point type="requisito">
+      <text><![CDATA[Ámbito de aplicación o ejecución en la Región de Valparaíso]]></text>
+      <why><![CDATA[Requisito territorial: proyecto debe desarrollarse en la región.]]></why>
+    </point>
+    <point type="plazo">
+      <text><![CDATA[Hasta 3 (tres) días hábiles antes del término del plazo de las postulaciones]]></text>
+      <why><![CDATA[Vencimiento para envío de consultas — después no se asegura respuesta oportuna.]]></why>
+    </point>
+    <point type="sancion">
+      <text><![CDATA[Sólo se considerarán como postulados aquellos proyectos que, hasta la fecha y hora señalada, hayan concluido exitosamente todos los pasos de postulación en línea]]></text>
+      <why><![CDATA[Condición de admisibilidad: completitud del proceso online antes de cierre.]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="3" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure>
+      <as_read><![CDATA[Resolución (E) N° 55 , de 202 6 , de la Dirección Regional]]></as_read>
+      <problem><![CDATA[Año escrito como '202 6' (con espacio entre dígitos) — probablemente '2026'.]]></problem>
+    </figure>
+    <figure>
+      <as_read><![CDATA[Resolución (E) N° 94 , de 202 4]]></as_read>
+      <problem><![CDATA[Año escrito como '202 4' (con espacio entre dígitos) — probablemente '2024'.]]></problem>
+    </figure>
+    <figure>
+      <as_read><![CDATA[15:00 horas del día 13 de agosto de 202 6]]></as_read>
+      <problem><![CDATA[Año escrito como '202 6' (con espacio entre dígitos) — probablemente '2026'.]]></problem>
+    </figure>
+  </figures_to_check>
+  <page_status>not_available</page_status>
+  <page_status_reason>El markdown fuente no contiene fronteras de página verificables. No se fabrican números; usar el índice.</page_status_reason>
+  <body><![CDATA[# CONCURSO
+
+# “INNOVA REGIÓN”
+
+# REGIÓN DE VALPARAÍSO
+
+Corfo invita a postular al llamado a concurso denominado  
+“ **Innova Región** ”.
+
+El instrumento tiene como objetivo apoyar el desarrollo de  
+nuevos o mejorados productos (bienes o servicios) y/o  
+procesos desde la fase de prototipo, hasta la fase de  
+validación técnica a escala productiva y/o validación  
+comercial, que aporten a la economía regional y  
+fortalezcan las capacidades de innovación en la empresa.
+
+Según lo dispuesto en la **Resolución (E) N° 55** , de 202 6 , de  
+la Dirección Regional de Corfo Valparaíso, el llamado al  
+presente instrumento está enfocado territorialmente y  
+temáticamente en la **Región de Valparaíso** , por lo tanto,  
+las propuestas que se presentan deben tener ámbito de  
+aplicación o ejecución en la región señalada, y que se  
+encontrarán enmarcadas en, a lo menos, uno de los  
+siguientes Ejes priorizados:
+
+1. Industrias creativas  
+2. Turismo de intereses especiales  
+3. Servicios para la Minería  
+4. Construcción Sustentable y Naval  
+5. Sostenibilidad Portuaria  
+6. Gestión Hídrica  
+7. Nuevas Tecnologías Digitales e Industria 4\.  
+8. Economía Azul  
+9. Producción agrícola sostenible y alimentos  
+   procesados
+
+Las bases del instrumento de financiamiento (aprobadas  
+por **Resolución (E) N° 94** , de 202 4 , de InnovaChile) y  
+antecedentes para la postulación, se encontrarán  
+disponibles en el sitio [http://www.corfo.cl,](http://www.corfo.cl,/) a contar de la  
+publicación del presente aviso, fecha desde la cual se  
+recibirán postulaciones en línea a través del sistema  
+electrónico de ingreso de proyectos dispuesto por Corfo.
+
+El plazo para postular será desde las 15:00 horas del día de  
+la publicación del presente aviso, y se prolongará hasta las
+
+15:00 horas del día 13 de agosto de 202 6\. Sólo se  
+considerarán como postulados aquellos proyectos que,  
+hasta la fecha y hora señalada, hayan concluido  
+exitosamente todos los pasos de postulación en línea.
+
+Las consultas serán recibidas por Corfo en el correo  
+electrónico consultavalparaiso@corfo.cl, hasta 3 (tres)  
+días hábiles antes del término del plazo de las  
+postulaciones indicadas en el presente aviso. En caso de  
+dirigirse consultas con posterioridad a dicho plazo, no se  
+asegura la entrega de una respuesta oportuna.
+
+]]></body>
+  <ocr_corrections applied="0" rejected="0" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+  </ocr_corrections>
+</corfo_document>

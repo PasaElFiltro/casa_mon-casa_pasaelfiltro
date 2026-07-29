@@ -1,0 +1,2798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="04_Manual_Rendiciones_2020">
+  <provenance>
+    <derived_from_file>04_Manual_Rendiciones_2020.md</derived_from_file>
+    <derived_from_sha256>8a1e8c5c12aee97c408bdf8aaf6c536b15e3108ac5c732037d8047482fec222d</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_RE-443-CORFO-2020-Manual-de-Rendiciones-de-Gastos(1).pdf</original_pdf>
+    <extraction_method>OCR visual en español, página por página</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>2</ocr_corrections_applied>
+      <ocr_corrections_rejected>1</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Manual para la Rendición y Seguimiento Financiero de Proyectos CORFO (2020)]]></title>
+  <summary><![CDATA[Resolución administrativa que aprueba un manual regulatorio para la rendición de cuentas de recursos transferidos por CORFO a beneficiarios e intermediarios en proyectos financiados. Aplica a personas naturales, jurídicas privadas y públicas que deben justificar la inversión de subsidios con respaldos documentales según plazos y criterios específicos.]]></summary>
+  <index entries="21" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Referencias legales: Ley N° 6.640, DFL N° 211/1960, DS N° 360/1945, Ley N° 19.880, DS N° 93/2019, Ley N° 10.336, Resoluciones N° 30 (2015) y N° 7, 8 (2019) de Contraloría General de la República sobre rendición de cuentas y exención de toma de razón.]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[Necesidad de operativizar normativa sobre rendiciones de cuenta de ejecutores de recursos de CORFO. Acuerdos de Consejo N° 2.870 (2015), N° 2.936 (2016), N° 2.960, 2.963, 2.980 (2017), N° 2.998, 3.016, 3.023 (2018) que encomendaron a Gerencia de Procesos, Operaciones y Tecnología funciones de seguimiento y control financiero.]]></about>
+    </entry>
+    <entry type="resuelvo" page="2">
+      <heading><![CDATA[RESUELVO]]></heading>
+      <about><![CDATA[Aprueba el Manual para la Rendición y Seguimiento Financiero de Proyectos de CORFO y sus anexos (numerados del N° 1 al N° 12).]]></about>
+    </entry>
+    <entry type="articulo" page="5">
+      <heading><![CDATA[I. OBJETIVO DEL MANUAL]]></heading>
+      <about><![CDATA[Regular proceso de rendición de cuentas de recursos transferidos a beneficiarios, intermediarios y participantes de proyectos financiados por CORFO. Aborda deber de exigir rendición, obligación de beneficiarios, forma y oportunidad, requisitos de gastos y respaldos.]]></about>
+    </entry>
+    <entry type="articulo" page="5">
+      <heading><![CDATA[II. FUNDAMENTOS DE LA RENDICIÓN DE CUENTAS]]></heading>
+      <about><![CDATA[Fundamento normativo para exigir rendición de cuentas: Ley N° 10.336, DL N° 1.263/1975, Resolución N° 30/2015 de Contraloría General. Obligación de cualquier persona o institución pública o privada que reciba o administre recursos del Estado.]]></about>
+    </entry>
+    <entry type="articulo" page="6">
+      <heading><![CDATA[III. INSTRUCCIONES Y DEFINICIONES GENERALES]]></heading>
+      <about><![CDATA[Define responsables de rendición (beneficiario o representante legal), mediación por mandato a terceros, compromisos de entidades participantes, aportes pecuniario y valorizado, fechas de inicio y plazo de ejecución, tratamiento de IVA crédito fiscal, contabilización de subsidios.]]></about>
+    </entry>
+    <entry type="articulo" page="11">
+      <heading><![CDATA[IV. PROCESO DE LA RENDICIÓN]]></heading>
+      <about><![CDATA[Detalla hitos del proceso: preparación y envío de rendición, revisión de CORFO, aclaración de observaciones, y aprobación final o rechazo de gastos. Incluye plazos para cada fase.]]></about>
+    </entry>
+    <entry type="articulo" page="14">
+      <heading><![CDATA[V. MODALIDAD DE LAS RENDICIONES]]></heading>
+      <about><![CDATA[Criterios de fondo y forma para revisión financiera. Distingue modalidad para beneficiarios/intermediarios de servicio público (informe mensual con firma electrónica avanzada) vs. privados (comprobante de ingreso y rendición con respaldos).]]></about>
+    </entry>
+    <entry type="articulo" page="16">
+      <heading><![CDATA[VI. RENDICIÓN DE GASTOS CON CARGO AL SUBSIDIO]]></heading>
+      <about><![CDATA[Detalla cinco cuentas presupuestarias: a) Recursos Humanos (remuneraciones, honorarios, seguros, personal extranjero), b) Gastos de Operación, c) Gastos de Inversión, d) Gastos de Administración, e) Overhead. Incluye regulaciones especiales por tipo de gasto.]]></about>
+    </entry>
+    <entry type="articulo" page="26">
+      <heading><![CDATA[VII. RENDICIÓN DE GASTOS CON CARGO A APORTES DE PARTICIPANTES]]></heading>
+      <about><![CDATA[Forma de acreditar aportes propios y de terceros. Aportes pecuniario (nuevo, causado en ejecución) y valorizado (preexistente, uso de infraestructura/recursos ya existentes).]]></about>
+    </entry>
+    <entry type="articulo" page="29">
+      <heading><![CDATA[VIII. PAGOS Y CUENTAS CORRIENTES EXCLUSIVAS]]></heading>
+      <about><![CDATA[Obligación de abrir y mantener cuenta corriente exclusiva para operaciones del proyecto. Requisitos de documentación según tipo de beneficiario (público o privado).]]></about>
+    </entry>
+    <entry type="articulo" page="32">
+      <heading><![CDATA[IX. INTERPRETACIÓN DE DISPOSICIONES]]></heading>
+      <about><![CDATA[Normas de interpretación de disposiciones del manual. Resolución de conflictos interpretativos y casos no previstos remitidos a CORFO.]]></about>
+    </entry>
+    <entry type="anexo" page="6">
+      <heading><![CDATA[ANEXO N° 1]]></heading>
+      <about><![CDATA[Formato de mandato para que beneficiario o intermediario encomiende tarea de rendición de cuentas a tercero.]]></about>
+    </entry>
+    <entry type="anexo" page="32">
+      <heading><![CDATA[ANEXO N° 2]]></heading>
+      <about><![CDATA[Declaración jurada simple de no haber hecho ni que hará uso del IVA crédito fiscal (en caso de beneficiarios que no usan crédito fiscal).]]></about>
+    </entry>
+    <entry type="anexo" page="33">
+      <heading><![CDATA[ANEXO N° 3]]></heading>
+      <about><![CDATA[Declaración jurada simple sobre crédito fiscal de IVA cuando consta uso en Formularios 29 del SII pero no guarda relación con adquisiciones del proyecto.]]></about>
+    </entry>
+    <entry type="anexo" page="34">
+      <heading><![CDATA[ANEXO N° 4]]></heading>
+      <about><![CDATA[Formato de certificado de recepción de recursos (para beneficiarios/intermediarios de servicio público) y comprobante de ingreso (para privados).]]></about>
+    </entry>
+    <entry type="anexo" page="36">
+      <heading><![CDATA[ANEXO N° 6]]></heading>
+      <about><![CDATA[Formato de declaración jurada simple de horas trabajadas para beneficiarios persona natural en categoría 2° de Impuesto a la Renta.]]></about>
+    </entry>
+    <entry type="anexo" page="37">
+      <heading><![CDATA[ANEXO N° 7]]></heading>
+      <about><![CDATA[Formato para acreditar horas hombre de socios o propietarios de beneficiaria persona jurídica, con cumplimiento de requisitos de Ley de Impuesto a la Renta art. 31 N° 6.]]></about>
+    </entry>
+    <entry type="anexo" page="42">
+      <heading><![CDATA[ANEXO N° 8]]></heading>
+      <about><![CDATA[Directrices para gastos de viáticos y alojamiento con montos máximos y tasas según zona geográfica (Santiago, regiones).]]></about>
+    </entry>
+    <entry type="anexo" page="45">
+      <heading><![CDATA[ANEXO N° 10]]></heading>
+      <about><![CDATA[Formato de detalle de gasto (glosa) con campos para identificación de proveedor, naturaleza del gasto, monto, fecha y modalidad de pago.]]></about>
+    </entry>
+    <entry type="anexo" page="52">
+      <heading><![CDATA[ANEXO N° 12]]></heading>
+      <about><![CDATA[Glosario de términos y definiciones utilizados en el manual (beneficiario, intermediario, aporte, subsidio, etc.).]]></about>
+    </entry>
+  </index>
+  <key_points count="18">
+    <point type="plazo" page="6">
+      <text><![CDATA[dentro de los 30 días siguientes a la fecha en que se le comunique la aprobación de un proyecto]]></text>
+      <why><![CDATA[Plazo máximo para que AOI presente mandato a CORFO en proyectos agenciados.]]></why>
+    </point>
+    <point type="plazo" page="15">
+      <text><![CDATA[dentro de los quince (15) primeros días hábiles del mes siguiente al que se informa]]></text>
+      <why><![CDATA[Plazo para que beneficiarios/intermediarios de sector público envíen informe mensual de inversión de recursos.]]></why>
+    </point>
+    <point type="plazo" page="13">
+      <text><![CDATA[dentro del plazo máximo de 10 días]]></text>
+      <why><![CDATA[Plazo máximo para beneficiario o intermediario aclarar observaciones de CORFO sobre gastos rechazados (única oportunidad).]]></why>
+    </point>
+    <point type="requisito" page="16">
+      <text><![CDATA[Todos los gastos rendidos con cargo al subsidio deben encontrarse debida y completamente pagados, manteniendo los respaldos que demuestren este hecho]]></text>
+      <why><![CDATA[Requisito fundamental: sin respaldo de pago real, el gasto no se acepta.]]></why>
+    </point>
+    <point type="requisito" page="15">
+      <text><![CDATA[En el caso de las facturas emitidas en papel, deberá acompañarse el original. Las copias con titulación 'cedible' no son documentos válidos]]></text>
+      <why><![CDATA[Solo originales en papel; copias cedibles se rechazan. Documentación digital alternativa es admisible.]]></why>
+    </point>
+    <point type="requisito" page="9">
+      <text><![CDATA[el envío del Informe y su rendición de gastos deberá ser firmado electrónicamente, con firma electrónica avanzada]]></text>
+      <why><![CDATA[Firma electrónica avanzada obligatoria para toda rendición formal; no es opcional.]]></why>
+    </point>
+    <point type="definicion" page="7">
+      <text><![CDATA[Aporte nuevo o pecuniario: aquel que tiene su causa en la ejecución del proyecto y que, de no haberse iniciado, no se hubiese incurrido en él]]></text>
+      <why><![CDATA[Diferencia de aporte nuevo vs. preexistente determina elegibilidad de ciertos gastos.]]></why>
+    </point>
+    <point type="definicion" page="7">
+      <text><![CDATA[Aporte preexistente o valorizado: el aporte de uso de insumos equipamiento, infraestructura, destinación de recurso humano, entre otros, ya existentes]]></text>
+      <why><![CDATA[Recurso humano, infraestructura, equipamiento previo se acredita como aporte valorizado con tasas predefinidas.]]></why>
+    </point>
+    <point type="sancion" page="9">
+      <text><![CDATA[la falta de formalización del convenio o contrato de subsidio, o del acto administrativo que ordena la transferencia, no dará lugar a indemnización ni reembolso alguno]]></text>
+      <why><![CDATA[A riesgo del beneficiario: gasto incurrido antes de tramitación formal de convenio no se reconoce si falla la formalización.]]></why>
+    </point>
+    <point type="sancion" page="9">
+      <text><![CDATA[duplicidad de los gastos incorporados en sus rendiciones de cuentas con otros proyectos [...] será considerado un incumplimiento grave, que es causal de término anticipado]]></text>
+      <why><![CDATA[Cláusula de exclusividad: mismo gasto no puede rendirse en dos proyectos; genera causal de término del convenio.]]></why>
+    </point>
+    <point type="requisito" page="10">
+      <text><![CDATA[el subsidio no deberá ser utilizado para: Inversiones en el Mercado de Capitales, Impuestos recuperados por el beneficiario, Inversiones en bienes de capital no determinantes, Deudas, dividendos o recuperación de capital, Adquisición de acciones, derechos sociales, bonos, Derechos o multas, Pago de indemnizaciones]]></text>
+      <why><![CDATA[Lista exhaustiva de gastos prohibidos; cualquier gasto en estas categorías será rechazado.]]></why>
+    </point>
+    <point type="requisito" page="10">
+      <text><![CDATA[deberán rendirse al valor neto que conste en la factura correspondiente]]></text>
+      <why><![CDATA[IVA crédito fiscal: beneficiarios que recuperan IVA deben rendir solo valor neto; excepciones requieren comprobación con Formularios 29 del SII.]]></why>
+    </point>
+    <point type="requisito" page="12">
+      <text><![CDATA[Los datos ingresados en la rendición, tales como, número de documento, fecha, nombre y RUT del proveedor o prestador del servicio, montos, detalle y glosa, entre otros, deben corresponder a los datos exactos del documento de respaldo]]></text>
+      <why><![CDATA[Error en datos de ingreso de rendición causa rechazo de rendición completa; requiere exactitud total.]]></why>
+    </point>
+    <point type="requisito" page="15">
+      <text><![CDATA[La revisión de la documentación original que sirve de respaldo [...] será examinada por la Contraloría General de la República en la sede del Organismo Receptor]]></text>
+      <why><![CDATA[Contraloría inspecciona físicamente; documentación original debe conservarse en sede beneficiario.]]></why>
+    </point>
+    <point type="requisito" page="16">
+      <text><![CDATA[Corresponde a las remuneraciones y/u honorarios por servicios personales (personas naturales), del personal técnico y profesional (equipo de trabajo) vinculado directamente a la ejecución de actividades del proyecto]]></text>
+      <why><![CDATA[Cuenta Recursos Humanos: solo personal directamente vinculado al proyecto; personal administrativo va a Gastos de Administración.]]></why>
+    </point>
+    <point type="requisito" page="16">
+      <text><![CDATA[podrá rendir el monto bruto de la boleta de honorarios emitida por el prestador del servicio (incluida la retención del impuesto)]]></text>
+      <why><![CDATA[Honorarios: se acepta boleta bruta; beneficiario responsable de retenciones tributarias.]]></why>
+    </point>
+    <point type="sancion" page="13">
+      <text><![CDATA[si concluido el proceso anterior se realizan observaciones, el beneficiario o intermediario podrá aclararlas por Única vez durante este periodo, dentro del plazo máximo de 10 días]]></text>
+      <why><![CDATA[Única oportunidad: si no se soluciona en 10 días, se rechaza; sin derecho a segunda aclaración.]]></why>
+    </point>
+    <point type="sancion" page="11">
+      <text><![CDATA[Si en el o los Formularios 29 del SII, del período que comprende la rendición de cuentas, constare el uso del crédito fiscal de IVA, sólo se aceptará el valor neto de las facturas]]></text>
+      <why><![CDATA[CORFO verifica crédito fiscal contra formularios del SII; uso acreditado obliga a valor neto, no bruto.]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="2" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure page="4">
+      <as_read><![CDATA[Página 4: Índice de anexos con números de página ilegibles. OCR captura solo fragmentos de líneas ('Binissalem BA', 'Zin 47', 'Fisrinionnana nana 00').]]></as_read>
+      <problem><![CDATA[La tabla de índice de anexos tiene OCR completamente desincronizado. Números de página y títulos de anexos no se pueden reconstruir. Se incluye por referencia pero se recomienda cotejar contra PDF original.]]></problem>
+    </figure>
+    <figure page="39">
+      <as_read><![CDATA[Página 39: ANEXO N° 5 - Parte 2 contiene tabla con encabezados y datos numéricos que el OCR no resolvió. Solo se legible la etiqueta del anexo.]]></as_read>
+      <problem><![CDATA[Tabla de seguimiento o tabulador de montos (Parte 2 de Anexo 5). Los valores específicos, montos, tasas o criterios de esa tabla no se pueden leer. Se recomienda lectura manual del PDF original para cualquier operación que requiera referencia a esos valores.]]></problem>
+    </figure>
+  </figures_to_check>
+  <pages count="53" declared_in_source="53">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+COR.FO
+GERENCIA DE PROCESOS, CR
+OPERACIONES Y TECNOLOGÍA 190520 50443
+| SANTIAGO |!
+APRUEBA MANUAL PARA LA RENDICIÓN Y
+SEGUIMIENTO FINANCIERO DE
+PROYECTOS FINANCIADOS Y/O
+COFINANCIADOS POR CORFO Y SUS
+ANEXOS.
+VISTO:
+La Ley N” 6.640, que crea la Corporación de Fomento de la Producción; el Decreto
+con Fuerza de Ley N* 211, de 1960, del Ministerio de Hacienda, que Fija Normas
+que Regirán a la Corporación de Fomento de la Producción; el Reglamento de la
+Corporación, aprobado por Decreto Supremo N” 360, de 1945, del Ministerio de
+Economía; la Ley N” 19.880, que Establece Bases de los Procedimientos
+Administrativos que Rigen los Actos de los Órganos de la Administración del
+Estado; el Decreto Supremo N” 93, de 2019, del Ministerio de Economía, Fomento
+y Turismo que nombra en el cargo de Vicepresidente Ejecutivo de CORFO; el
+artículo 85 de la Ley N” 10,336, de Organización y Atribuciones de la Contraloría
+General de la República; la Resolución N” 30, de 2015, de la Contraloría General
+de la República, que "Fija normas de procedimiento sobre rendición de cuentas”; y
+lo establecido en las Resoluciones N” 7 y N* 8, de 2019, ambas de la Contraloría
+General de la República, que fija normas sobre exención del trámite de toma de
+razón y determina los montos a partir de los cuales los actos quedarán sujetos a
+toma de razón y a controles de reemplazo cuando corresponda, respectivamente.
+CONSIDERANDO:
+
+1.  Lanecesidad de operativizar la normativa que regula las rendiciones de cuenta de
+los ejecutores de los recursos transferidos por Corfo y sus Comités, en el ámbito
+de sus instrumentos de financiamiento, así como regular la forma de acreditar los
+aportes de los participantes en los proyectos y programas apoyados.
+
+Z Que, por Acuerdos de Consejo N* 2.870, de 2015; N* 2.936, de 2016; N” 2.960,
+N* 2.963 y N” 2.980, todos de 2017; y N” 2.998, N” 3.016 y N” 3.023, todos de
+2018; se fijó el texto sobre Organización y Descripción General de Funciones y
+
+1
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+Coordinación de la “Corporación de Fomento de la Producción”, se encomendó a
+la Gerencia de Procesos, Operaciones y Tecnología, las funciones de realizar el
+seguimiento y control financiero de los proyectos y programas financiados por
+CORFO y sus Comités; dictar, aprobar, modificar o dejar sin efecto instrucciones
+Operativas, generales o especiales, relativas a la rendición y seguimiento financiero
+de los proyectos; y coordinar la aplicación de normas y criterios uniformes relativos
+al seguimiento y control financiero a nivel nacional, e instruir en relación a estas
+materias a los funcionarios que se desempeñen en CORFO, sus Comités y
+Direcciones Regionales.
+RESUELVO:
+1? APRUÉBESE el siguiente "MANUAL PARA LA RENDICIÓN Y SEGUIMIENTO
+FINANCIERO DE PROYECTOS DE CORFO” y sus anexos:
+2
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+C o
+ORFO
+INDICE:
+L. “OBJETIVO: DEL MANUAL ica pais
+Il. FUNDAMENTOS DE LA RENDICIÓN DE CUENTAS .00ociooiooooniioraaoransocrrrocienios D
+III. INSTRUCCIONES Y DEFINICIONES GENERALES ...cociocicniciinincoincenienncanccias Ó
+MN. PROGESO¡DE'LÁ RENDICIÓN inaiaciionomain DL
+V. MODALIDAD DE LAS RENDICIONES ¿ooo rnerieniarrcarciaccóos 14
+VI. RENDICIÓN DE GASTOS EFECTUADOS TOTAL O PARCIALMENTE CON
+CARSO:AL SUBSIDIO: cioromicorinramrsmamiam niñera de
+a) CUENTA RECURSOS HUMANOS: ccininniosnoianiimorrosororrancinerirerorinaorinironrenenccccnacaos 16
+b) CUENTA GASTOS DE OPERACIÓN: coccion ncarorcorarercaccancccaccas ZO)
+c) CUENTA GASTOS DE INVERSIÓN: coin 24
+d) CUENTA GASTOS DE ADMINISTRACIÓN: coccion 25
+8) CUENTA OVERHE AD Sucia nasa el
+VII. RENDICIÓN DE GASTOS EFECTUADOS CON CARGO AL APORTE DE LOS
+PARTICIPANTES uses aa
+VIIl. PAGOS Y CUENTAS CORRIENTES EXCLUSIVAS ccoo 29
+IX. INTERPRETACIÓN iii D
+E LOS Ona Ata
+ANEXO N Lora AAA
+ANEXO nac AP AS
+ANEXO Noa Aid a0
+ANEXO Nin oe aim l7
+ANEXO NS: Pata didas de
+ANEXO NDS Parte Dinarama iiara0
+ANEXO Nido
+ANEXO Nai Ml
+AMEX NB ia
+ANEXOS Parto Dinars ta
+3
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N*9 Parte Binissalem BA
+ANEXO: 911 =P iii aid a etica 20
+ANEXO N? 11 Parte Zin 47
+ANEXO'N? 44 =Parte Fisrinionnana nana 00
+4
+
+---
+
+]]></content>
+    </page>
+    <page number="5">
+      <source_delimiter><![CDATA[<!-- página PDF 5 -->
+## Página 5
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+L OBJETIVO DEL MANUAL
+Este Manual tiene por objetivo regular el proceso de rendición de cuentas de los recursos
+transferidos a beneficiarios, intermediarios y demás participantes de proyectos
+financiados en el ámbito de los instrumentos de CORFO, así como la forma de acreditar
+los aportes de los participantes en ellos, abordando aspectos relacionados con la
+rendición y el seguimiento financiero de éstos.
+Estos aspectos están referidos al deber que tiene la Corporación de exigir la rendición
+de cuentas de los recursos públicos entregados y la obligación de los beneficiarios de
+rendir cuenta de la inversión de los recursos adjudicados para la ejecución de un
+proyecto; la forma y oportunidad de efectuar la rendición; los requisitos que debe reunir
+un gasto para ser aceptado y la forma en que debe respaldarse, entre otros.
+IN FUNDAMENTOS DE LA RENDICIÓN DE CUENTAS
+¿Por qué se debe rendir cuenta?
+La exigencia de rendir cuenta de los recursos otorgados por CORFO para la ejecución
+de las actividades contempladas en los proyectos adjudicados y la entrega de la
+documentación de respaldo se funda principalmente en las siguientes normativas:
+
++ Artículos 25, 85, 95 y 98 de la Ley N” 10.336 “Ley de Organización y Atribuciones
+de la Contraloría General de la República”.
+
+* Artículos 54 y 55 del D.L. N” 1.263, de 1975, “Decreto Ley Orgánico de
+Administración Financiera del Estado”,
+
++ Resolución N” 30, de 2015, de la Contraloría General de la República, que “Fija
+Normas de Procedimiento sobre Rendición de Cuentas”, o resolución que la
+reemplace.
+
+Las normas antes citadas establecen y regulan la obligación que recae en cualquier
+persona o institución, pública o privada, que reciba o administre recursos del Estado, de
+rendir cuenta de la inversión de estos fondos.
+En consecuencia, CORFO debe revisar y verificar que las rendiciones de cuentas
+presentadas por los beneficiarios o intermediarios de los proyectos financiados se
+realicen conforme a la normativa, instrucciones vigentes, bases o reglamentos y
+convenios o contratos de subsidio suscritos, con el propósito de cautelar la correcta
+inversión de los recursos entregados, en la finalidad para la cual fueron adjudicados.
+
+5
+
+---
+
+]]></content>
+    </page>
+    <page number="6">
+      <source_delimiter><![CDATA[<!-- página PDF 6 -->
+## Página 6
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+IM INSTRUCCIONES Y DEFINICIONES GENERALES
+1. Responsable de la rendición de cuentas
+El responsable de la inversión de los recursos será el beneficiario persona natural, o el
+representante legal en el caso de beneficiaros personas jurídicas. En el caso de los
+proyectos agenciados, y sin perjuicio de la obligación que recae en el beneficiario sobre
+la correcta inversión de los recursos, es responsable de la presentación de la rendición
+de cuentas el intermediario. En ambos casos, para efectos de operativizar la obligación
+de rendir cuenta, se podrá encomendar esa tarea a un tercero, otorgando con ese fin un
+mandato" (se pone a disposición un formato de mandato en Anexo N*1).
+Este mandato podrá constar en una cláusula del respectivo convenio o contrato de
+subsidio, o en un documento independiente. En este último caso, el mandato firmado por
+el mandante deberá entregarse a CORFO conjuntamente con el convenio o contrato de
+subsidio o, en su defecto, antes de presentar la primera o única rendición de cuentas (se
+pone a disposición un formato de mandato en Anexo N*1).
+El mandato comprende la responsabilidad por la correcta imputación y giros de los
+recursos que contempla el presupuesto del proyecto, así como el envío de los informes
+técnicos y de rendición de cuentas que se encuentren programados.
+Para el caso de los proyectos agenciados, el AOl deberá enviar a CORFO este mandato,
+dentro de los 30 días siguientes a la fecha en que se le comunique la aprobación de un
+proyecto, sin perjuicio de la posibilidad de otorgar un mandato que habilite a desempeñar
+este rol por instrumento, región o grupo de proyectos, los que deberán ser
+individualizados.
+La obligación de presentación de los informes de que trata este Manual no obstará, por
+ejemplo, al cumplimiento de los Agentes Operadores Intermediarios de la presentación
+de los informes y flujos exigibles a éstos en virtud del Reglamento que los rige.
+2. Compromisos de las entidades participantes del proyecto
+El beneficiario o el intermediario (en el caso de proyectos agenciados), es el responsable
+de la materialización de los aportes propios y/o de los demás participantes en el
+proyecto.
+En el caso de proyectos agenciados, el AOl deberá gestionar durante el período de
+ejecución del proyecto, y verificar antes de su término, que los aportes de terceros hayan
+sido suficientes para cumplir con la proporción de cofinanciamiento Corfo, aprobada en
+el acto de adjudicación.
+* El mandato es el acto por el cual el representante del beneficiario o intermediario, entrega la tarea de rendir
+cuenta a una persona determinada, que será denominada como Director o Director Alterno.
+6
+
+---
+
+]]></content>
+    </page>
+    <page number="7">
+      <source_delimiter><![CDATA[<!-- página PDF 7 -->
+## Página 7
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+En el caso de que los aportes aprobados no cumplan con las proporciones de
+cofinanciamiento y aportes establecidas, CORFO realizará un ajuste, utilizando los
+costos reales determinados en conformidad a la rendición de cuentas presentada, fijando
+el monto máximo de subsidio a otorgar, en su porcentaje y monto.
+Los aportes de los participantes deberán rendirse en la forma establecida en el numeral
+VII de este Manual.
+3. Aportes pecuniario y valorizado
+Las bases particulares determinarán qué actividades y/o gastos pueden ser financiados
+con cargo al subsidio y/o a los aportes de los participantes. Dichas actividades y/o gastos
+deberán ser presupuestados utilizando las cuentas que se definen en las bases
+particulares del instrumento, debiendo indicarse, en cada caso, la fuente de
+financiamiento, es decir, si se pagarán con el subsidio de CORFO y/o con el aporte de
+los participantes, identificándose la naturaleza de estos últimos aportes.
+Dependiendo del instrumento, el aporte de los participantes se clasifica en “aporte nuevo
+o pecuniario” y/o “aporte preexistente o valorizado”, de acuerdo con los mínimos y
+condiciones que se establezcan en las bases particulares. Se entiende por:
+= Aporte nuevo o pecuniario: aquel que tiene su causa en la ejecución del
+proyecto y que, de no haberse iniciado, no se hubiese incurrido en él. En otras
+palabras, no corresponde a este concepto la utilización de instalaciones,
+infraestructura, recursos humanos, y otros, ya existentes en el participante
+aportante, al momento de la postulación.
+= Aporte preexistente o valorizado: el aporte de uso de insumos equipamiento,
+infraestructura, destinación de recurso humano, entre otros, ya existentes en el
+participante aportante, al momento de la postulación.
+
+4. Fecha de inicio de un proyecto, plazo de ejecución de las actividades y del
+origen de los gastos a considerar en la rendición de cuentas
+
+Para efectos de la rendición de cuentas es importante distinguir entre la fecha de inicio
+de un proyecto y el plazo de ejecución de las actividades, pues los gastos a incorporar
+en la rendición de cuentas son aquellos que tienen origen en las actividades realizadas
+durante ese periodo de ejecución.
+
+Í. Fecha de inicio de un proyecto:
+
+a) En el caso de proyectos que exijan la celebración de un convenio o contrato de
+subsidio con CORFO, la fecha de inicio del plazo de ejecución de los proyectos
+corresponde a la de total tramitación del acto o último acto administrativo que
+apruebe el convenio o contrato de subsidio, o bien, a la fecha que en el referido
+convenio o contrato se indique, siempre que ésta fuere posterior a la total
+tramitación del o los actos administrativos antes referidos. En términos simples,
+
+2
+
+---
+
+]]></content>
+    </page>
+    <page number="8">
+      <source_delimiter><![CDATA[<!-- página PDF 8 -->
+## Página 8
+]]></source_delimiter>
+      <content><![CDATA[
+COR FOY
+en el caso del beneficiario o intermediario persona natural o persona jurídica de
+derecho privado, la fecha de inicio será aquella en que CORFO le notifique la
+resolución que aprueba el convenio o contrato de subsidio, salvo que, en dicho
+convenio o contrato, o en las bases del propio instrumento, se establezca otra
+fecha de inicio diferente.
+
+b) Para el caso de los proyectos agenciados, el inicio del proyecto comenzará desde
+la fecha de la total tramitación de la resolución que ejecuta el acuerdo del órgano
+colegiado que lo aprueba, es decir, desde que se notifica al AOI la aprobación
+del proyecto; o desde la fecha de la celebración del contrato del Agente Operador
+Intermediario con el Consultor o Entidad Experta, o con el beneficiario.
+
+En ambos casos, si el beneficiario o intermediario es un órgano de la Administración
+del Estado, el proyecto se iniciará con la total tramitación del último de los actos
+administrativos que apruebe el convenio o contrato de subsidio.
+
+ii. Plazo de ejecución de las actividades del proyecto:
+
+La fecha de término del plazo de ejecución de las actividades del proyecto
+
+corresponderá a aquella que se establezca en el respectivo convenio o contrato de
+
+subsidio, en el acto de adjudicación o en las bases particulares (si no se hubiere
+adjudicado para ser ejecutado en un plazo menor) y en sus eventuales
+
+modificaciones, en caso de haberse autorizado una o más prórrogas y/o
+
+suspensiones.
+
+Debe distinguirse el plazo para el desarrollo de las actividades del proyecto, del
+
+término de la relación contractual existente con CORFO a propósito de su
+
+adjudicación. Este último hecho exige, además, la presentación del informe de
+actividades y rendición de cuentas final, su revisión y, eventualmente, la restitución
+de los recursos no rendidos, no invertidos y/o definitivamente observados por
+
+CORFO.
+
+Asimismo, CORFO se encuentra facultada para poner término anticipado al convenio
+
+o contrato de subsidio o a la gestión del intermediario, por su propia iniciativa o a
+
+petición de parte, de acuerdo a las causales establecidas en las Bases
+
+Administrativas Generales aplicables.
+
+En relación con los recursos del subsidio, sólo se aceptarán como parte de la
+
+rendición de cuentas los desembolsos efectuados con posterioridad a la total
+
+tramitación del último acto administrativo que apruebe el respectivo convenio de
+subsidio, o que ordene la transferencia en el caso de proyectos intermediados, salvo
+que las bases o reglamentos particulares dispongan una fecha de inicio diversa.
+
+En casos calificados podrá incluirse en la rendición de cuentas, gastos incurridos en
+
+la ejecución del proyecto desde la fecha de comunicación de la decisión aprobatoria,
+
+a riesgo del beneficiario, siempre que existan razones de continuidad o buen servicio,
+
+8
+
+---
+
+]]></content>
+    </page>
+    <page number="9">
+      <source_delimiter><![CDATA[<!-- página PDF 9 -->
+## Página 9
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+las que deberán constar en el respectivo convenio de subsidio y/o resolución que lo
+apruebe o que ordene la transferencia.
+Los aportes de los participantes podrán rendirse desde la fecha de comunicación de
+la aprobación del proyecto.
+En ambos casos, la falta de formalización del convenio o contrato de subsidio, o del
+acto administrativo que ordena la transferencia, no dará lugar a indemnización ni
+reembolso alguno.
+Es obligación del beneficiario o intermediario cautelar la no duplicidad de los gastos
+incorporados en sus rendiciones de cuentas con otros proyectos financiados por
+CORFO o con otras instituciones del Estado (Rendir el mismo monto de un gasto en
+más de un proyecto). Cualquier hecho de esta naturaleza que sea detectado, será
+considerado un incumplimiento grave, que es causal de término anticipado imputable
+del convenio o contrato o de la labor de intermediario. En el caso de los Agentes
+Operadores Intermediarios se aplicará lo establecido en el Reglamento que los rige,
+aprobado por Resolución (A) N* 22, del 2018, de CORFO, o la norma que la
+reemplace.
+5. Informe a través del Sistema con Firma Electrónica Avanzada
+Todos los informes y las rendiciones de cuentas se deberán realizar y enviar a través del
+Sistema que CORFO ponga a disposición.
+En cada informe enviado a través del Sistema se deberá rendir los gastos en que se
+haya incurrido para la realización de las actividades desarrolladas durante el período de
+ejecución, detallando cada uno de estos gastos y adjuntando los documentos
+electrónicos y digitalizados que los sustentan.
+El envío del Informe y su rendición de gastos deberá ser finmado electrónicamente, con
+firma electrónica avanzada, por el encargado responsable designado por el beneficiario
+o intermediario a través del mandato? presentado para realizar el envío.
+Se deberá seleccionar en el mercado a una de las entidades acreditadas para la
+obtención de firma electrónica avanzada, las que se encuentran disponibles en el
+siguiente link https://www.entidadacreditadora.gob.cl/.
+El costo asociado a la obtención de la firma electrónica avanzada y su mantención
+durante el periodo de ejecución y rendición del proyecto, podrán ser financiados con
+cargo al subsidio otorgado, o podrá ser considerado como aporte de los participantes,
+siempre que con este gasto no se exceda el total del subsidio adjudicado o el
+presupuesto del proyecto aprobado.
+2 Mandato, documento detallado en el punto 1, título III.
+3 Cabe mencionar que CORFO no recomienda una en particular, por lo cual, la elección y preferencia de la
+entidad proveedora es responsabilidad de cada beneficiario o intermediario.
+9
+
+---
+
+]]></content>
+    </page>
+    <page number="10">
+      <source_delimiter><![CDATA[<!-- página PDF 10 -->
+## Página 10
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+6. Gastos no considerados en un proyecto
+Sólo se podrá utilizar el subsidio para financiar las actividades conducentes al logro de
+los objetivos del proyecto, por lo que sólo podrán rendirse y aceptarse los gastos
+asociados a actividades que cumplan con las características señaladas. En tal contexto,
+el subsidio no deberá ser utilizado para:
+
+- Inversiones en el Mercado de Capitales,
+
+- Impuestos recuperados por el beneficiario.
+
+- Inversiones en bienes de capital no determinantes, a juicio de CORFO, para el
+Proyecto.
+
+- Deudas, dividendos o recuperación de capital.
+
+- Adquisición de acciones, derechos sociales, bonos y otros valores inmobiliarios.
+
+- Derechos o multas.
+
+- Pago de indemnizaciones de cualquier naturaleza.
+
+- Otros ítems especificos que las bases de los instrumentos de financiamiento
+establezcan, atendida la naturaleza y/u objetivos de los mismos.
+
+7. Tratamiento de IVA Crédito Fiscal en las rendiciones
+
+Las adquisiciones y la contratación de servicios gravados con el impuesto al valor
+agregado (IVA), para el desarrollo o ejecución de un proyecto por parte de beneficiarios
+o coejecutores contribuyentes de dicho impuesto, y que tengan derecho a recuperarlo
+mediante el mecanismo establecido en los artículos 23 y siguientes del D.L. N* 825, de
+1974, financiados con cargo al subsidio o con cargo a los aportes comprometidos,
+deberán rendirse al valor neto que conste en la factura correspondiente.
+
+Sin perjuicio de lo anterior, y de manera excepcional, se podrá imputar el valor bruto de
+la factura, si el beneficiario o coejecutor que se encuentra en la situación descrita
+precedentemente no hiciere uso del crédito fiscal IVA (IVA CF), lo que deberá acreditar
+acompañando a la correspondiente rendición de cuentas, los siguientes antecedentes:
+
+a. Declaración jurada simple de no haber hecho ni que hará uso del IVA CF de las
+facturas incluidas en la rendición de cuentas del respectivo período, contenida en
+el Anexo N*2.
+
+b. Formularios 29, del SII, correspondientes a cada uno de los períodos que
+comprende la rendición de cuentas presentada, donde conste no haber hecho
+uso del IVA CF.
+
+Si en el o los Formularios 29 del SII, del período que comprende la rendición de cuentas,
+constare el uso del crédito fiscal de IVA, sólo se aceptará el valor neto de las facturas
+comprendidas en éstas, salvo que se acreditare que dicho crédito fiscal no guarda
+relación con las adquisiciones o contrataciones del proyecto, debiendo acompañarse, a
+la rendición de cuentas la declaración jurada simple detallada del Anexo N*3.
+
+10
+
+---
+
+]]></content>
+    </page>
+    <page number="11">
+      <source_delimiter><![CDATA[<!-- página PDF 11 -->
+## Página 11
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+La utilización del IVA CF y el contenido de las declaraciones acompañadas por quienes
+deben rendir cuenta podrá ser verificado directamente por la entidad otorgante. Si se
+detectare que la información entregada es falsa, se podrá solicitar la restitución de los
+recursos indebidamente rendidos. Lo anterior, sin perjuicio del ejercicio de las acciones
+que correspondan en virtud de lo dispuesto en el artículo 470 N*8 del Código Penal.
+8. Contabilización de los subsidios
+
+Para efectos de contabilizar el subsidio otorgado, sea que éste se haya entregado como
+anticipo o en la modalidad de reembolso, el beneficiario o intermediario debe operar de
+acuerdo con la normativa general aplicable, sin perjuicio de tener presente, entre otros,
+el Oficio N” 3902, del 29 de diciembre de 1995 y el Ord. N* 196, del 29 de enero de 2010,
+ambos de la Subdirección Normativa del Departamento de Impuestos Directos del
+Servicio de Impuestos Internos.
+Cabe mencionar que el beneficiario es responsable de la contabilización del subsidio y
+del pago de los impuestos que corresponda. CORFO no será responsable del
+cumplimiento de la normativa contable tributaria de los beneficiarios e intermediarios, ya
+que ésta es una labor realizada por el Servicio de Impuestos Internos, al que
+corresponde, en especial, la aplicación y fiscalización administrativa de las disposiciones
+tributarias,
+Iv. PROCESO DE LA RENDICION
+Es relevante detallar los hitos que se presentan durante la rendición de cuentas y revisión
+financiera de los gastos rendidos, ya que en éstos se establecen las instancias y plazos
+que se deben cumplir para generar un correcto proceso. A continuación, se presenta el
+esquema del proceso y la descripción de cada hito:
+
+BENESICIARIO / BONEFICIALIO /
+
+INTERMEDIARIO CORO INTERMEDIARIO Coro
+
+PRFALACIÓN YANWTO HEVISIÓN DEA yy ACUARACIÓN DE 40 CIPRIDLIA
+
+DEV RENDICIÓN HENDICÓN DE GASTOS OBSERVACIONES REVISIÓN
+
+Y DETALLE DE Wena
+DIEVACIONES E >.
+1. Preparación y envío de la rendición de cuentas:
+Para preparar una correcta rendición de cuentas, el beneficiario o intermediario deberá
+considerar el presupuesto disponible para cada una de las cuentas presupuestarias del
+11
+
+---
+
+]]></content>
+    </page>
+    <page number="12">
+      <source_delimiter><![CDATA[<!-- página PDF 12 -->
+## Página 12
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+proyecto que requiera rendir. Además, debe ingresar uno_a uno, todos los gastos
+correspondientes al periodo de rendición, adjuntando el documento financiero o tributario
+que respalde y acredite la ejecución del gasto y su comprobante de pago.
+
+Para el envío de la rendición financiera, el beneficiario o intermediario deberá asegurarse
+de completar y enviar en la plataforma su rendición de gastos, en las fechas que señala
+el calendario de informes y desembolsos establecidos en el Convenio o Contrato
+celebrado con CORFO, en el acto administrativo que disponga la transferencia, o en los
+manuales o reglamentos aplicables.
+El Sistema se encuentra diseñado para que el beneficiario o intermediario ingrese los
+documentos según su fecha de emisión, debiendo, además, agregar la fecha y
+modalidad de pago del gasto, para luego adjuntar los respaldos.
+Los datos ingresados en la rendición, tales como, número de documento, fecha, nombre
+y RUT del proveedor o prestador del servicio, montos, detalle y glosa, entre otros, deben
+corresponder a los datos exactos del documento de respaldo que se está adjuntando,
+pues errores en la información incorporada podrá dar origen al rechazo de la rendición
+de cuentas completa.
+En el caso de existir documentos que no alcanzaron a ser ingresados durante el periodo
+objeto de la rendición, porque fueron emitidos en una fecha posterior al cierre de éste,
+deberán ser ingresados en el informe siguiente, salvo que se trate del Informe Final, caso
+en que el beneficiario o intermediario deberá asegurarse de ingresar todos los gastos y
+documentos de respaldo del proyecto. También se podrán rendir gastos
+correspondientes a actividades ejecutadas en el periodo de informes anteriores, siempre
+y cuando sea aprobada su pertinencia técnica al proyecto, no se encuentren aprobados
+con anterioridad, cumplan con los requisitos financieros y no excedan el presupuesto
+aprobado por el Subcomité u órgano competente.
+En caso de ser necesario, Corfo* podrá coordinar y realizar a los beneficiarios e
+intermediarios que lo requieran, un entrenamiento previo al envía de la rendición de
+cuentas. El objetivo de esta reunión debe estar enfocado en aclarar dudas, reforzar
+conceptos, entre otros, para asegurarse que la rendición sea efectuada cumpliendo con
+los requerimientos exigidos respecto de cada gasto rendido. La solicitud deberá
+realizarse por parte del beneficiario e intermediario con una antelación suficiente que
+permita su coordinación con la disponibilidad del personal Corfo y los calendarios de
+rendición del respectivo proyecto. La no realización de este entrenamiento, por cualquier
+causa, en ningún caso exime al beneficiario o intermediario de cumplir con su obligación
+de rendir en la fecha estipulada.
+Sin perjuicio del ingreso de los respaldos por el Sistema, en el caso de que, tanto en
+esta etapa como en la de aclaración de observaciones, se presenten documentos cuyos
+originales estén en soporte papel, se requerirá de una validación presencial, para lo que
+se citará al beneficiario o intermediario a las dependencias de la entidad otorgante, o
+excepcionalmente y en casos calificados, se coordinará una visita a terreno (al lugar en
++ A través de su Unidad de Gestión Financiera de Proyectos.
+
+12
+
+---
+
+]]></content>
+    </page>
+    <page number="13">
+      <source_delimiter><![CDATA[<!-- página PDF 13 -->
+## Página 13
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+
+que se encuentren los documentos originales), con el objeto de que el ejecutivo
+financiero tenga a la vista el documento original, del que se deberá obtener una copia
+digital, la que, autenticada por el respectivo ministro de fe de Corfo, se incorporará al
+expediente electrónico y servirá como respaldo de la rendición de cuenta.
+
+2. Revisión de la rendición de cuentas:
+Una vez recibida la rendición por parte de CORFO, el ejecutivo financiero a cargo
+realizará la revisión de los gastos en el Sistema, pudiendo solicitar antecedentes
+aclaratorios o complementarios necesarios y el número de veces que consideren
+razonables para concluir la revisión financiera. Si, producto de la revisión, y en base a
+los documentos acompañados, surgen observaciones o requerimientos de información
+que deban ser aclaradas o proporcionadas por el beneficiario o intermediario, según
+corresponda, ello deberá realizarse durante el proceso de aclaración que sigue.
+
+3. Aclaración de Observaciones:
+Si concluido el proceso anterior se realizan observaciones, el beneficiario o intermediario
+podrá aclararlas por Única vez durante este periodo, dentro del plazo máximo de 10 días
+hábiles contados desde la fecha de comunicación de esas observaciones.
+Una vez que el beneficiario o intermediario envíe por sistema sus aclaraciones, el
+ejecutivo financiero revisará los respaldos adjuntos y verificará que cumplan con las
+condiciones para aprobar el gasto observado previamente. Además, en caso que se
+adjunten documentos de respaldo cuyo original esté en soporte papel, se requerirá de
+una validación presencial, para la que se citará al beneficiario o al intermediario a las
+dependencias de CORFO o, en casos excepcionales y calificados, se coordinará una
+visita a terreno, a las oficinas o dependencias de éstos. Cabe destacar que la aprobación
+final de los gastos está sujeta a la verificación de la ejecución de las actividades del
+proyecto, que será realizada por el ejecutivo técnico.
+Si, finalizado el periodo de aclaración el beneficiario o intermediario no ha enviado las
+aclaraciones, se rechazarán los gastos observados.
+Los gastos que no han sido aprobados en un periodo de rendición anterior y que
+solucionaron las razones de rechazo, podrán ser presentados en la siguiente rendición
+de cuentas con los respaldos respectivos, para que el ejecutivo financiero los revise en
+el siguiente periodo. En estos casos se deberá incorporar un comentario en la glosa del
+gasto en el Sistema para facilitar dicha revisión.
+
+4. Cierre de la revisión:
+El cierre de la revisión financiera se efectuará una vez finalizado el proceso de revisión
+de las observaciones realizadas en el periodo de aclaración, cuando aplique, y
+considerando la validación técnica de los gastos rendidos para el periodo del informe. El
+
+13
+
+---
+
+]]></content>
+    </page>
+    <page number="14">
+      <source_delimiter><![CDATA[<!-- página PDF 14 -->
+## Página 14
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+resultado de este proceso será informado al beneficiario o intermediario por el ejecutivo
+técnico.
+
+v. MODALIDAD DE LAS RENDICIONES
+
+Para la revisión financiera de los gastos rendidos se aplican criterios de fondo y de forma,
+los cuales se basan principalmente en validaciones tendientes a verificar, por una parte,
+que los gastos rendidos correspondan al proyecto y hayan sido necesarios para la
+consecución de los objetivos del mismo, y por otra, que cumplan con los requisitos
+formales (autorizaciones previas, respaldos, verificación de pago, etc.) establecidos
+para la correcta rendición de cuentas,
+
+El mecanismo de rendición de cuentas a CORFO, por parte del beneficiario o
+intermediario, va a depender de si éste es un servicio público o una persona natural o
+jurídica de naturaleza privada. La forma de rendir cuenta se encuentra regulada en la
+Resolución N*30, de 2015*, de Contraloría General de la República.
+
+Para dar cumplimiento a esta normativa, CORFO opera de la siguiente forma:
+
+a) Beneficiario o Intermediario servicio público:
+
+La Resolución N” 30, de 2015, de la CGR, en su artículo 26, se refiere a las entidades
+que conforman el sistema de Administración Financiera del Estado, esto es, las
+entidades a las que se aplica el D.L. N* 1.263, de 1975, para efectos de los procesos
+presupuestarios, de contabilidad y de administración de fondos, y que se entienden como
+integrantes del "sector público”.
+
+Estas entidades, sea que participen en calidad de beneficiarios o intermediarios, deberán
+rendir cuenta a CORFO considerando lo siguiente:
+
+- — Emitir un certificado que dé cuenta que han recibido los recursos del subsidio por
+parte de CORFO, el que podrán generar, a través del Sistema, en forma
+automática y digital. El beneficiario o intermediario deberá validar que los datos
+correspondan a su proyecto y que el documento sea firmado electrónicamente
+por el responsable a cargo de la rendición. En caso de que la plataforma no emita
+dicho certificado, se deberá generar en forma manual, utilizando el formato
+disponible en el Anexo N*4,
+
+- Deberán enviar un Informe mensual que detalle la inversión de los recursos, el
+que deberá señalar, a lo menos, el monto de los recursos recibidos en el mes, el
+
+S Resolución N*30, de 2015 Contraloría General de la República, fija normas de procedimiento sobre
+rendición de cuentas, ver en link:
+https: /Ámww.contraloria.cl/documents/451102/1888043/ResoluciC3%B3n+N%C2%B0+30/eaca158b-
+adf4-4144-ace0-98564427967f
+
+14
+
+---
+
+]]></content>
+    </page>
+    <page number="15">
+      <source_delimiter><![CDATA[<!-- página PDF 15 -->
+## Página 15
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+monto detallado de la inversión realizada y el saldo disponible para el mes
+siguiente, según formato disponible en Anexo N*5 (parte 1 y parte 2).
+
+Este informe deberá enviarse físicamente a CORFO o través del Sistema, dentro de los
+quince (15) primeros días hábiles del mes siguiente al que se informa, incluso respecto
+de aquellos meses en que no exista inversión de los fondos traspasados, lo cual servirá
+de base para la contabilización del devengamiento y del pago que importa la ejecución
+presupuestaria del gasto por parte de CORFO.
+
+La revisión de la documentación original que sirve de respaldo de la inversión de los
+recursos transferidos será examinada por la Contraloria General de la República en la
+sede del Organismo Receptor, sin perjuicio de que CORFO pueda solicitar los
+antecedentes que estime necesarios para el control y seguimiento de la ejecución de los
+proyectos.
+
+Los beneficiarios atendidos? en un proyecto cuyo intermediario es un servicio público,
+deberán rendir cuenta a éstos, siguiendo la modalidad establecida en la letra b)
+siguiente, sin perjuicio de que CORFO podrá solicitar los antecedentes que estime
+necesarios para el control y seguimiento de la ejecución de los proyectos.
+
+b) Beneficiario o Intermediario privado:
+
+Los beneficiarios o intermediarios privados deberán rendir cuenta considerando los
+siguientes aspectos:
+
+- Enviar un comprobante de ingreso firmado por el responsable de la recepción de
+los recursos transferidos por CORFO, usando el formato disponible en el Anexo
+N'4,
+
+- Enviar la rendición de cuentas en las fechas que se establezca en el respectivo
+calendario de informes contemplado en cada convenio o contrato, bases o
+reglamentos, o en el acto administrativo que ordene la transferencia, el que,
+además, se informa en el Sistema, si éste se encontrare disponible.
+
+- Rendir todos los gastos del periodo objeto de informe, adjuntando el respaldo
+documental que acredite su realización y pago real. Todos los respaldos
+financieros presentados deben ser reales, fidedignos y válidamente emitidos por
+los proveedores o prestadores de servicios correspondientes.
+
+- Completar todas las glosas/detalle y descripciones que solicita el sistema al
+momento de ingresar un gasto, detallando motivo y conceptos del gasto incurrido.
+
+- Enel caso de las facturas emitidas en papel, deberá acompañarse el original.
+Las copias con titulación “cedible” no son documentos válidos para efectos de la
+rendición de cuentas.
+
+ad Corresponde al beneficiario final del subsidio, aunque la administración y seguimiento del proyecto se
+realiza a través de un Patrocinador, Agente Operador Intermediario (AO!) o Entidad Gestora.
+15
+
+---
+
+]]></content>
+    </page>
+    <page number="16">
+      <source_delimiter><![CDATA[<!-- página PDF 16 -->
+## Página 16
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+- En el caso de existir notas de crédito asociadas a las facturas rendidas, el
+beneficiario o intermediario, según fuese el caso, deberán descontar este monto
+de la factura original, de tal manera de reflejar el gasto real.
+
+- Mantener a disposición todos los antecedentes del proyecto, para efectos de
+revisiones de CORFO ofiscalizaciones de la Contraloría General de la República.
+
+- Se podrá solicitar antecedentes adicionales y complementarios que contribuyan
+a la aclaración de algunos gastos.
+
+- Todos los gastos rendidos con cargo al subsidio deben encontrarse debida y
+completamente pagados, manteniendo los respaldos que demuestren este
+hecho,
+
+VI. RENDICIÓN DE GASTOS EFECTUADOS TOTAL O PARCIALMENTE CON
+
+CARGO AL SUBSIDIO
+
+Las rendiciones de cuentas deben realizarse considerando la estructura presupuestaria
+aprobada para el proyecto, teniendo en consideración que las bases técnicas o
+reglamento del instrumento pueden establecer restricciones en relación con el destino
+del subsidio y los aportes al proyecto, en conformidad con la naturaleza y objetivo del
+instrumento.
+Para efectuar adquisiciones o contrataciones en el marco del proyecto, y a menos que
+las Bases Administrativas aplicables al instrumento, o aquellas particulares que se
+aprueben para estos efectos señalen reglas distintas, se aplicarán las reglas y
+procedimientos señalados en el Anexo N*11 del presente Manual, que determina reglas
+generales para “adquisiciones y contrataciones” y “adquisiciones y contrataciones con
+personas relacionadas”.
+A continuación, se detallan las cuentas presupuestarias y la forma en que se deben
+rendir los gastos efectuados total o parcialmente con cargo al subsidio:
+
+a) CUENTA RECURSOS HUMANOS:
+
+Corresponde a las remuneraciones y/u honorarios por servicios personales (personas
+naturales), del personal técnico y profesional (equipo de trabajo) vinculado directamente
+a la ejecución de actividades del proyecto.
+Para los profesionales contratados exclusivamente para la ejecución de las actividades
+del proyecto se podrán presupuestar y rendir en esta cuenta el total de los gastos que
+origine la relación laboral durante el plazo de ejecución del proyecto, comprendiendo
+entre éstos el seguro de desempleo (Ley N* 19.728), seguro obligatorio de accidentes
+del trabajo y enfermedades profesionales (Ley N* 16,744) y, en general, los que tengan
+fuente legal o en un contrato o convenio colectivo de trabajo.
+En el caso del personal contratado a honorarios o arrendamiento de servicios
+inmateriales y que forman parte del equipo principal del proyecto, se podrá rendir el
+monto bruto de la boleta de honorarios emitida por el prestador del servicio (incluida la
+retención del impuesto).
+
+16
+
+---
+
+]]></content>
+    </page>
+    <page number="17">
+      <source_delimiter><![CDATA[<!-- página PDF 17 -->
+## Página 17
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+Las bases particulares o reglamentos del instrumento en cuyo contexto se adjudicó el
+proyecto o programa, podrán establecer condiciones y topes de financiamiento para el
+personal contratado con anterioridad al inicio del proyecto.
+Los costos asociados al personal administrativo contable, tales como contador,
+secretaria y/o apoyo administrativo, son considerados como gastos indirectos, por lo cual
+deberán rendirse en la cuenta Gastos de Administración, si ésta es utilizable en el
+proyecto según lo establecido en las bases o reglamento. Para el caso en que no se
+contemple la cuenta de Gastos de Administración, éstos podrán presupuestarse en la
+Cuenta Gastos de Operación,
+Regulaciones especiales para esta cuenta:
+a.1) Horas Hombre de profesionales extranjeros que prestan servicios en Chile:
+En caso servicios de asesorías técnicas prestados por expertos extranjero en Chile, y
+que sean considerados dentro del equipo del proyecto, las horas hombre deberán ser
+rendidas de acuerdo con las normas que siguen:
+
+- Si el servicio es prestado en forma esporádica, y si el profesional no requiere de
+iniciación de actividades en Chile, se deberá rendir el respaldo financiero en
+conformidad a lo establecido en la normativa que rige en el país de origen, es
+decir, podrá presentarse un Invoice, contrato de servicio u otro documento que
+describa el servicio prestado y que detalle fechas, montos pactados, nombres del
+prestador y pagador.
+
+- Si el servicio es prestado en forma permanente por un profesional extranjero,
+podrá rendirse al proyecto los gastos originados en la contratación desde que
+éste haya obtenido la visa de residencia o el permiso especial de trabajo para
+extranjeros, según la normativa aplicable.
+
+Cabe mencionar que la Ley N*18.156 faculta a estos profesionales para no
+enterar en Chile el pago de cotizaciones previsionales, siempre y cuando se
+cumplan las siguientes exigencias:
+
+o Que sea personal técnico.
+
+o Que el trabajador se encuentre afiliado a un régimen de previsión o de
+seguridad social fuera de Chile, cualquiera sea su naturaleza jurídica, que
+le
+otorgue prestaciones, a lo menos, en casos de enfermedad, invalidez,
+vejez y muerte, y
+
+o Que, en el contrato de trabajo respectivo, el trabajador exprese su
+voluntad de mantener la afiliación referida.
+
+7 Los profesionales que se encuentran contratados desde antes de la postulación del proyecto serán considerados
+preexistentes, respecto de los cuales las bases o reglamentos podrian contemplan topes de financiamiento o para efectos
+de los aportes.
+
+17
+
+---
+
+]]></content>
+    </page>
+    <page number="18">
+      <source_delimiter><![CDATA[<!-- página PDF 18 -->
+## Página 18
+]]></source_delimiter>
+      <content><![CDATA[
+CORF 0)
+Sin embargo, los seguros de accidentes del trabajo y enfermedades
+profesionales son de cotización obligatoria para el empleador.
+Si a los servicios les resultare aplicable lo dispuesto en el artículo 60 de la Ley
+sobre Impuesto a la Renta, y en la Resolución N* 551, de 1975, del SIl, el
+beneficiario o intermediario deberá emitir una boleta de prestación de servicios
+de terceros para acreditar el servicio realizado.
+Las remuneraciones u honorarios pagados por prestaciones de los servicios,
+además, pueden estar afectas al pago de impuesto adicional, dependiendo del
+tipo de servicio y país de origen del profesional. En este caso se deberá presentar
+el formulario correspondiente que acredite el cumplimiento de la obligación
+tributaria relacionada con la retención del impuesto adicional?, el que, en todo
+caso, podrá ser rendido con cargo al financiamiento otorgado por CORFO por
+considerarse como parte del monto pagado.
+Para efectos de acreditar la retención y el pago deberá utilizarse el Formulario 50
+de Declaración Mensual y Pago Simultáneo, el que puede ser presentado a
+través de la aplicación electrónica disponible en el sitio web del Sll, menú
+Impuestos Mensuales (IVA-F29, F50), opción Declarar y pagar (F29 y F50).
+a.2) Horas Hombre de profesionales que prestan servicios en el Extranjero:
+Los gastos de esta naturaleza, pagados a personas domiciliadas o residentes en el
+extranjero, por servicios prestados en el extranjero, se acreditarán con los
+correspondientes documentos emitidos en el exterior, de conformidad a las
+disposiciones legales del país respectivo, siempre que conste en ellos, a lo menos, la
+individualización y domicilio del prestador del servicio o del vendedor de los bienes
+adquiridos, según corresponda, la naturaleza u objeto de la operación y la fecha y monto
+de la misma.
+a.3) Horas Hombre del beneficiario persona natural:
+Si el beneficiario fuere una persona natural, que tributa en 2” categoría de la Ley de
+Impuesto a la Renta (art. 42 N” 2 de la LIR), podrá rendir sus horas hombre al proyecto
+(en la medida que las bases de financiamiento lo permitan), mediante una declaración
+jurada simple que detalle las horas trabajadas en el proyecto, a la que deberá adjuntar
+el comprobante del Pago Provisional Mensual (PPM) voluntario? por dichos ingresos
+(Formularios 29 del SII). Para efectos de la declaración jurada simple se recomienda
+Usar formato del anexo N'6.
+8 Es un tributo a la renta que se aplica sólo a las rentas de fuente chilena de los contribuyentes que durante el año no
+hayan tenido domicilio ni hayan sido residentes en Chile.
+9 PPM Pago Provisional Mensual Voluntario, que se define como las sumas que los contribuyentes pueden abonar a
+cuenta de sus impuestos anuales.
+18
+
+---
+
+]]></content>
+    </page>
+    <page number="19">
+      <source_delimiter><![CDATA[<!-- página PDF 19 -->
+## Página 19
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+a.4) Horas Hombre de los socios de sociedades de personas o propietarios de la
+beneficiaria, o accionistas de sociedades de capital que sean beneficiarios:
+Las horas hombre de los socios o propietarios de la beneficiaria, podrán rendirse con
+cargo al proyecto, siempre y cuando las Bases financiamiento el Reglamento lo permitan,
+considerando las siguientes restricciones:
+
+- En caso de que el beneficiario sea sociedad de personas o se trate de un
+empresario individual, se deberá cumplir con los siguientes requisitos
+establecidos en el artículo 31 N*6, inciso tercero de la Ley de Impuesto a la Renta:
+
+o Que el profesional efectiva y permanentemente trabaje para el
+beneficiario.
+
+o Hasta el monto que hubiera estado afecto a cotizaciones previsionales
+obligatorias.
+
+o Que la remuneración sea fijada, ya sea en su calidad de empresario
+individual, o bien, como socio de la sociedad de personas (ejemplo:
+Sociedad de Responsabilidad Limitada), o socio gestor de sociedad en
+comandita, que haya sido constituida durante la ejecución del proyecto.
+
+o Que la remuneración y el impuesto de segunda categoría que les afecte,
+se paguen debidamente en los periodos que corresponden dichos
+conceptos (En conformidad a la Circular 42, de 1990, de SI!)
+
+En resumen, si se trata de una sociedad de personas o empresario individual, se
+puede aceptar como gasto imputable al subsidio, la remuneración de alguno de
+sus socios mediante liquidación de remuneración, cumpliendo con los requisitos
+señalados.
+
+No se aceptarán como gasto imputable al subsidio, honorarios pagados por la
+sociedad a alguno de sus socios, puesto que perderían la calidad de
+remuneración (Oficio N* 997, de 07.05.2007, del SII).
+
+- En.caso de que la beneficiaria sea una sociedad de capital (por ejemplo, Spa. o
+S.A.), no se aplicarán las limitaciones señaladas en el apartado anterior,
+pudiendo rendirse remuneraciones u honorarios por servicios prestados por el
+accionista a la sociedad, siempre que se cumpla con los requisitos generales
+para ser considerado un gasto necesario para producir la renta.
+
+a.5) Horas Hombre de los aportes de terceros que participan en la gobernanza de
+los Proyectos:
+
+En el caso de los Proyectos de la Gerencia de Redes y Competitividad, cuyos aportes
+de terceros que estén constituidos por las horas hombre destinadas por quienes
+participen en los órganos de dirección del proyecto (Comité Ejecutivo, Directorio y otros
+órganos de carácter consultivo creados por el Comité Ejecutivo para la gestión del
+programa), deberán ser respaldados con un certificado de aportes emitido utilizando el
+formato disponible en el anexo N”7, al que deberá adjuntarse los documentos que
+
+19
+
+---
+
+]]></content>
+    </page>
+    <page number="20">
+      <source_delimiter><![CDATA[<!-- página PDF 20 -->
+## Página 20
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+permitan verificar la participación de los miembros en las mencionadas instancias, tales
+como actas levantadas de las reuniones, en la que conste la fecha de su realización, con
+su hora de inicio y término.
+
+Cada acta debe tener las firmas de los asistentes y cada hora de participación de los
+miembros podrá ser valorizada hasta por un monto de UF 2.
+a.6) En el caso de los Finiquitos:
+Respecto de los trabajadores de los beneficiarios o contratados por los intermediarios
+para el proyecto y en cuyo contrato de trabajo se detallen las funciones, su duración y la
+dedicación al proyecto, y que son desvinculados, sólo se podrá rendir con cargo a los
+recursos otorgados el monto pagado por concepto de feriado proporcional (días de
+vacaciones pendientes), debiendo acreditar el gasto con el finiquito firmado por el
+trabajador y el pago respectivo.
+
+Tabla Resumen: Documentos de respaldo a presentar para esta cuenta
+
+Y Liquidación de remuneración o boleta de honorarios.
+
+y Certificado de Previred de las cotizaciones de seguridad social pagadas por los
+profesionales dedicados al proyecto y rendidos con cargo al subsidio (cotizaciones
+previsionales, de salud, seguro de desempleo, seguro obligatorio de accidentes
+del trabajo y enfermedades profesionales).
+
+y Formularios 29 del Sl, de los periodos rendidos, más Informe mensual de boletas
+recibidas que acrediten el pago del impuesto único a los trabajadores y los PPM
+rendidos.
+
+Y Contratos de trabajo de los profesionales contratados para el proyecto.
+
+Y” Documentos y anexos en los casos especiales indicados a continuación:
+
+- a.1 Invoice/contrato de servicio/boleta de retención a terceros, formulario 50 en el
+caso de encontrarse afecto a impuesto adicional.
+
+- 2.3 Anexo N*6, PPM en los respectivos formularios 29 del Sll pagados.
+
+- a.5 Anexo N”7 y actas de las reuniones de las instancias de administración del
+proyecto.
+
+-  a.6 Contrato y finiquito del trabajador desvinculado.
+
+Respecto de todos los gastos rendidos con cargo al subsidio deberá acreditarse su pago,
+con documentos tales como: cartolas bancarias (se deberá destacar los pagos de los
+gastos o comprobante de transferencia bancaria). En el caso de haber pagado con
+cheque, se debe adjuntar la cartola bancaria en la que conste su cobro. En el caso de
+haber realizado el pago en efectivo, deberá acompañar los antecedentes que lo acrediten.
+b) CUENTA GASTOS DE OPERACIÓN:
+Corresponde a los gastos directos asociados a la ejecución del proyecto (según las
+actividades y/o gastos financiables que se determinen en las bases particulares) En esta
+cuenta se podrán presupuestar y rendir, por ejemplo: compra de bienes no
+20
+
+---
+
+]]></content>
+    </page>
+    <page number="21">
+      <source_delimiter><![CDATA[<!-- página PDF 21 -->
+## Página 21
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+inventariables; materiales e insumos; arrendamiento de espacio físico; transporte y
+arrendamiento de vehículos; compra de pasajes nacionales e internacionales; gastos de
+alojamiento y alimentación; pago de honorarios a expositores; costo de los documentos
+de garantía entregadas a CORFO; primas de seguros; gastos asociados a actividades
+de difusión, capacitación y/o entrenamiento (desarrollo de seminarios/talleres/charlas,
+participación en ferias, mesas de trabajo), gastos de certificación e implementación de
+normas de calidad, entre otros.
+Asimismo, se deberá presupuestar en esta cuenta, las actividades externalizadas, esto
+es, aquellas cuya ejecución se contrata a terceros, las cuales deberán ser identificadas
+en la postulación.
+Casos específicos en esta Cuenta:
+b.1) Viáticos y pasajes aéreos:
+Los viáticos son recursos otorgados con el fin de cubrir gastos de alojamiento y
+alimentación de las personas que conforman el recurso humano del proyecto y que
+deban que participar en viajes o giras comerciales a causa de su ejecución. Estos gastos
+deben corresponder a gastos pagados, debidamente respaldados con la documentación
+legal correspondiente (facturas, boletas, invoice) y estar asociados al periodo y al viaje
+informado.
+Respecto de los trabajadores del equipo del proyecto y que sean dependientes del
+beneficiario o intermediario, podrán rendir con certificados de pago de viáticos, siempre
+que en éstos se deje constancia de toda la información del viaje: fecha, destino, duración,
+individualización del trabajador, monto pagado (por día) y firma del trabajador declarando
+que recibió el pago del viático respectivo.
+Para el personal contratado bajo la modalidad de servicios profesionales (contrato de
+honorarios), se deberá definir y regular el pago de viáticos en el respectivo contrato de
+prestación de servicios.
+No podrán percibir viáticos quienes tengan la calidad de funcionarios públicos y que
+participen en el proyecto.
+En el caso de que la entidad no cuente con un formato, podrá utilizar el Certificado de
+Viático propuesto en el anexo N*8.
+Para el caso de que las bases particulares de los instrumentos establezcan límites al
+financiamiento de los viáticos — nacionales o internacionales - se estará a esas normas
+particulares.
+Si no existieren normas especiales que regulen esta materia en las bases particulares,
+en el caso de los viáticos internacionales, que se financien con cargo al subsidio
+otorgado, se podrá rendir hasta el monto diario establecido por la tabla de viáticos,
+aprobada por el Ministerio de Relaciones Exteriores, la se encontrará disponible entre
+
+21
+
+---
+
+]]></content>
+    </page>
+    <page number="22">
+      <source_delimiter><![CDATA[<!-- página PDF 22 -->
+## Página 22
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+
+los archivos que se publican en la plataforma para rendir cuenta, y, para el caso que no
+lo esté, se podrá solicitar mediante correo electrónico a los ejecutivos que CORFO ha
+asignado para el seguimiento del proyecto. Por su parte, para efectos de cálculo e
+información de los viáticos nacionales deberá utilizarse la Tabla de Viáticos de CORFO
+equivalente a grado 6. Esta tabla se encuentra disponible en la plataforma de
+rendiciones,
+En caso de que el gasto total exceda el máximo de financiamiento con subsidio, tal
+diferencia podrá ser considerada como aporte del beneficiario o coejecutor, según
+corresponda.
+Tanto los valores para los viáticos nacionales como para los internacionales cambian
+año a año, y el valor a utilizar corresponderá al del año en que se realizó la actividad.
+En el anexo N” 9 se presenta un caso práctico de cómo calcular el tope del viático para
+la asignación de los recursos, tanto para viajes nacionales como internacionales,
+Los pasajes aéreos que se rindan con los recursos del subsidio se financiarán hasta el
+valor definido como tarifa económica. Si el pasaje tuviere un costo superior, dicha
+diferencia, al igual que en el caso de los viáticos, podrá ser rendida como aporte de la
+beneficiaria o coejecutor, si corresponde. Se recomienda realizar la adquisición de
+pasajes aéreos con antelación con el fin de obtener mejores precios.
+b.2) Gastos realizados en el extranjero:
+En el caso de servicios o mercancias adquiridas en el extranjero, éstos deberán ser
+acreditados con el documento que deba emitirse en conformidad a lo establecido en la
+normativa que rige en el país en que se realizó el gasto.
+Por lo anterior, los gastos incurridos en el extranjero se acreditarán con los
+correspondientes documentos emitidos en el exterior, siempre que conste en ellos, a lo
+menos, la individualización y domicilio del prestador del servicio o del vendedor de los
+bienes adquiridos, según corresponda, la naturaleza u objeto de la operación y la fecha
+y monto de la misma.
+En caso de presentarse documentos en un idioma extranjero y de difícil traducción
+(chino, tailandés, noruego, por ejemplificar algunos casos) se deberá presentar un anexo
+traducido al español, para lo cual bastará una traducción simple.
+Adicionalmente, para respaldar la adquisición de bienes durables en el extranjero, se
+deberá presentar, además del respectivo respaldo de pago, la fotocopia de la
+Declaración de Ingreso de Aduana (de las importaciones) u otra forma de acreditación
+aceptada como tributariamente válida.
+En el caso de realizar compras online, y que no requieran de agente de aduana por la
+importación, se deberá acreditar la compra con los documentos que emita la tienda. En
+
+22
+
+---
+
+]]></content>
+    </page>
+    <page number="23">
+      <source_delimiter><![CDATA[<!-- página PDF 23 -->
+## Página 23
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+
+el caso de presentarse impuestos y aranceles por la compra, se deberá presentar los
+documentos de pago por estos conceptos.
+Generalmente el pago se realiza a través de swift (que es la comunicación entre
+diferentes bancos respecto a una instrucción de pago), en cuyo caso deberá adjuntarse
+la cartola bancaria o el pago mediante la tarjeta de crédito, según corresponda.
+Los gastos realizados en moneda extranjera deberán ser expresados en pesos chilenos,
+para lo cual se deberá utilizar el tipo de cambio del dólar estadounidense o la moneda
+respectiva, respecto del peso chileno. En el caso de la divisa estadounidense, se tomará
+el valor observado de la tabla publicada por el Banco Central (www.bcentral.cl) vigente
+al momento de realizarse la respectiva operación, para ejemplificar dicho calculo y
+presentación ver anexo N*9. Para las demás monedas se utilizará el valor certificado por
+un banco de la plaza.
+Se debe tener presente que los invoice (facturas emitidas en el extranjero) en el caso
+que corresponda, deben presentar el Formulario 50 del SIl, con el pago del impuesto
+adicional que afecta al servicio prestado.
+b.3) Gastos menores:
+En esta cuenta, por lo general, se presentan un número significativo de gastos menores,
+los cuales deberán ser legibles al momento de la revisión financiera. Dada la calidad de
+este tipo de documentos y el tiempo que trascurre entre su emisión y la rendición, es
+probable que no se cuente con el documento original, por lo que se sugiere que sean
+rendidos como aportes al proyecto, con el fin de validarlo en formato digital.
+Podrá rendirse el voucher en reemplazo de la boleta de ventas y servicios, siempre y
+cuando en éste indique que es un documento “Válido como Boleta”. Al momento de
+ingresar la información (y el resto de los gastos), se deberá ingresar en la glosa del
+Sistema, el motivo y detalle de los gastos en que se haya incurrido.
+b.4) Arrendamientos:
+Para los arrendamientos, en caso de corresponder a operaciones no gravadas o
+exentas, y respecto de las cuales no existe siempre la obligación de emitir un documento
+tributario, el gasto debe respaldarse con el contrato de arrendamiento y el comprobante
+de pago de la renta respectiva. En caso contrario, se deberá presentar la factura emitida
+por el arrendador.
+El uso de instalaciones preexistentes, al momento de la postulación, no podrá ser
+financiado con recursos del subsidio, salvo que las bases o reglamento del instrumento
+respectivo dispongan expresamente lo contrario.
+
+23
+
+---
+
+]]></content>
+    </page>
+    <page number="24">
+      <source_delimiter><![CDATA[<!-- página PDF 24 -->
+## Página 24
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+b.5) Leasing:
+Si la adquisición del bien se realiza por medio de un contrato de leasing, el costo podrá
+ser considerado en esta cuenta, aun cuando no se ejerza la opción de compra antes de
+finalizar el plazo de ejecución del proyecto, en cuyo caso se considerará el valor de
+arrendamiento mensual, excluidos los intereses y el IVA CF en caso de que la entidad
+recupere este impuesto.
+
+Tabla Resumen: Documentos de respaldo a presentar en esta cuenta
+
+Y Boletas de ventas y servicios
+
+y” Voucher (debe decir documento válido como boleta)
+
+Y Invoice en el caso de gastos en el extranjero. Formulario 50 del SIl, con el pago
+del impuesto adicional que afecte al servicio prestado, si corresponde.
+
+Y Boletas de honorarios (para el caso de servicios esporádicos)
+
+y” En el caso de los arrendamientos, se debe presentar el comprobante de pago de
+la renta y una copia del contrato.
+
+Y” Documentos y anexos según los casos especiales:
+
+- — b.1 Certificado de viático. Contrato de prestación de servicios en caso de viáticos
+otorgados a personal contratados a honorarios.
+
+- b.2 Invoice, Declaración de Ingreso de Aduana u otra forma de acreditación
+aceptada como tributariamente válida. Respaldo del pago de impuestos y
+aranceles por la compra, Formulario 50 del SII, con el pago del impuesto adicional
+que afecte al servicio prestado.
+
+Y En el caso de leasing, el respectivo contrato y tabla de amortización
+correspondiente.
+
+Respecto de todos los gastos rendidos con cargo al subsidio deberá acreditarse su pago,
+con documentos tales como: cartolas bancarias (se deberá destacar los pagos de los
+gastos o comprobante de transferencia bancaria). En el caso de haber pagado con
+cheque, se debe adjuntar la cartola bancaria en la que conste su cobro, En el caso de
+haber realizado el pago en efectivo, deberá acompañar los antecedentes que lo acrediten.
+c) CUENTA GASTOS DE INVERSIÓN:
+Corresponde a los gastos en adquisición de bienes de capital u otros bienes del activo
+fijo y/o en mejoras o adecuaciones de bienes inventariables destinados a la ejecución de
+actividades necesarias para lograr los objetivos del proyecto.
+En el caso de las adquisiciones de bienes de capital u otros bienes del activo fijo sólo se
+podrá presupuestar y rendir (con cargo al subsidio y/o aportes) en forma proporcional
+al uso que de ellos se contemple para el proyecto. Para efectos de lo anterior, se utilizará
+24
+
+---
+
+]]></content>
+    </page>
+    <page number="25">
+      <source_delimiter><![CDATA[<!-- página PDF 25 -->
+## Página 25
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+la TABLA DE VIDA ÚTIL NORMAL emitida por el Servicio de Impuestos Internos, de los
+bienes físicos del activo inmovilizado vigente a la fecha de la respectiva adquisición. Lo
+anterior, será de aplicación general, salvo que las bases o reglamento del instrumento
+particular, en atención a la naturaleza y/u objetivos del mismo, establezca una regla
+distinta para el financiamiento de adquisiciones.
+En caso de equipos adquiridos fuera del país, el gasto deberá acreditarse con los
+correspondientes documentos emitidos en el exterior, de conformidad a las
+disposiciones legales del país respectivo, siempre que conste en ellos, a lo menos, la
+individualización y domicilio del vendedor de los bienes adquiridos, según corresponda,
+la naturaleza u objeto de la operación y la fecha y monto de la misma. Adicionalmente,
+se deberá presentar el respectivo respaldo de pago, la fotocopia de la Declaración de
+Ingreso de Aduana (de las importaciones), y el pago de impuestos y aranceles por la
+adquisición del respectivo bien.
+El monto rendido al proyecto debe expresarse en pesos chilenos, para lo cual se deberá
+utilizar el tipo de cambio del dólar estadounidense o la moneda respectiva, respecto del
+peso chileno, En el caso de la divisa estadounidense, se tomará el valor observado de
+la tabla publicada por el Banco Central (www.bcentral.cl) vigente al momento de
+realizarse la respectiva operación, para ejemplificar dicho calculo y presentación ver
+anexo N”9. Para las demás monedas se utilizará el valor certificado por un banco de la
+plaza.
+
+Tabla Resumen: Documentos de respaldo a presentar en esta cuenta
+
+Y Boletas de ventas y servicios (por compra de materiales)
+Y Invoice en el caso de compras en el extranjero, Declaración de Ingreso de Aduana
+
+(de las importaciones), pago de impuestos y aranceles por la compra e
+
+importación del respectivo bien.
+
+Y Para la compra de bienes usados, factura o contrato de venta, según sea el caso.
+Respecto de todos los gastos rendidos con cargo al subsidio deberá acreditarse su pago,
+con documentos tales como: cartolas bancarias (se deberá destacar los pagos de los
+gastos o comprobante de transferencia bancaria). En el caso de haber pagado con
+cheque, se debe adjuntar la cartola bancaria en la que conste su cobro. En el caso de
+haber realizado el pago en efectivo, deberá acompañar los antecedentes que lo acrediten.
+
+d) CUENTA GASTOS DE ADMINISTRACIÓN:
+Estos son gastos indirectos de la ejecución del proyecto, tales como servicios básicos
+(agua, luz, internet, etc.) y gastos administrativos (servicios contables, contraparte
+administrativa-financiera, secretaria).
+25
+
+---
+
+]]></content>
+    </page>
+    <page number="26">
+      <source_delimiter><![CDATA[<!-- página PDF 26 -->
+## Página 26
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+Para acreditar el monto a rendir por este concepto como gasto del proyecto y su relación
+con las actividades ejecutadas, el beneficiario o intermediario deberá adjuntar a los
+documentos tradicionales de respaldo (facturas, boletas, liquidaciones) una memoria de
+cálculo que detalle el destino de dichos gastos al proyecto.
+Esta memoria de cálculo se deberá presentar según el formato establecido en el anexo
+N*10 del presente documento, la que podrá ser subida en archivo Word, Excel o PDF en
+el primer mes, por cada ítem rendido en esta Cuenta, con el objeto de que el ejecutivo a
+cargo de la revisión pueda comparar los gastos declarados en el Sistema y los
+declarados en la memoria de cálculo.
+Los servicios básicos rendidos en esta cuenta deberán corresponder a la dirección en
+donde se desarrollan las actividades del proyecto.
+En el caso del personal administrativo, este gasto puede rendirse mediante boletas de
+honorarios y/o liquidaciones de remuneración, según corresponda al servicio entregado.
+Estos documentos cumplir con las exigentes establecidas para los gastos rendidos con
+cargo a la cuenta Recursos Humanos.
+La regla general es que los gastos destinados a esta cuenta, con cargo al aporte de
+CORFO, no pueden exceder el 15% de éste. Sin perjuicio de ello, al momento de
+presupuestar y rendir en esta cuenta, se deben respetar las restricciones y topes
+establecidos en las bases y reglamentos para esta cuenta.
+
+Tabla Resumen: Documentos de respaldo a presentar en esta cuenta
+
+Y Boletas de ventas y servicios
+
+Y” Liquidación de remuneraciones o boletas de honorarios.
+
+Y Certificado de Previred de las cotizaciones de seguridad social pagadas por los
+profesionales dedicados al proyecto y rendidos con cargo al subsidio (cotizaciones
+previsionales, de salud, seguro de desempleo, seguro obligatorio de accidentes
+del trabajo y enfermedades profesionales).
+
+Y Formularios 29 de los periodos rendidos más Informe mensual de boletas
+recibidas.
+
+Y Memoria de cálculo, confeccionada utilizando el formato disponible anexo N*10.
+Respecto de todos los gastos rendidos con cargo al subsidio deberá acreditarse su pago,
+con documentos tales como: cartolas bancarias (se deberá destacar los pagos de los
+gastos o comprobante de transferencia bancaria). En el caso de haber pagado con
+cheque, se debe adjuntar la cartola bancaria en la que conste su cobro. En el caso de
+haber realizado el pago en efectivo, deberá acompañar los antecedentes que lo acrediten.
+
+26
+
+---
+
+]]></content>
+    </page>
+    <page number="27">
+      <source_delimiter><![CDATA[<!-- página PDF 27 -->
+## Página 27
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+e) CUENTA OVERHEAD:
+En la medida que el reglamento o las bases contemplen la participación de
+intermediarios, tales como Incubadoras, Patrocinadores de Capital Semilla, Redes de
+Capitalistas Ángeles, Entidades Gestoras, Agentes Operadores Intermediarios (AOI),
+entre otras, se deberá presupuestar en esta cuenta los montos que CORFO pague a
+dichas entidades, por concepto de promoción, captación de interesados, evaluación,
+supervisión, seguimiento, administración y/o ejecución de proyectos, Para el caso que
+las Bases o Reglamento del instrumento así lo establezcan, con cago a esta cuenta
+podrá incluirse gastos tales como los asociados al apoyo y seguimiento de actividades y
+financiero; apoyo a la gestión estratégica del negocio; apoyo en la búsqueda de socios
+potenciales, entre otros. Las entidades que reciban recursos por concepto de Overhead
+no podrán rendir Gastos de Administración.
+En el caso específico de proyectos en donde participe el Agente Operador Intermediario
+(AOI), el OH corresponderá a los conceptos de promoción, captación de interesados,
+evaluación, supervisión, seguimiento y administración, de programas y proyectos, pago
+que podrá ser anticipado, en cuyo caso deberá emitir el respectivo documento tributario
+a nombre de CORFO, indicando en su respectiva glosa, el concepto y detalle del
+proyecto o programa por el cual lo recibe.
+Este gasto será reconocido — rebajado del gasto por rendir - una vez que CORFO
+verifique que las actividades del programa o proyecto fueron ejecutadas
+satisfactoriamente y se aprueba la rendición técnica y financiera.
+Tabla Resumen: Documentos de respaldo a presentar en esta cuenta
+vil. RENDICIÓN DE GASTOS EFECTUADOS CON CARGO AL APORTE DE LOS
+PARTICIPANTES
+a) Los aportes pecuniarios del beneficiario y de los demás participantes, deberán
+rendirse sobre la base de costos reales, al precio al que efectivamente se pagaron,
+debidamente acreditados con un certificado firmado por el beneficiario, beneficiario
+atendido, coejecutor o aportante, o el representante respectivo, según corresponda,
+que detalle los conceptos de gasto, y el correspondiente número, fecha de emisión y
+monto de los documentos que respaldan el valor rendido.
+Corfo podrá realizar auditorías selectivas de estos certificados con el fin de verificar
+la veracidad y el correcto registro de los montos informados en los mismos. Corfo
+podrá solicitar toda la documentación que estime necesaria con el objetivo de verificar
+la existencia, integridad y exactitud de los montos declarados en el certificado.
+27
+
+---
+
+]]></content>
+    </page>
+    <page number="28">
+      <source_delimiter><![CDATA[<!-- página PDF 28 -->
+## Página 28
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+b) Los aportes valorizados, deberán rendirse con un certificado firmado por el
+aportante o su representante, utilizando el formato disponible en el Anexo N*12,
+indicando el período en que se realizaron, en qué han consistido éstos y su
+valorización. A este certificado deberá adjuntarse una memoria de cálculo explicativa
+respecto del mecanismo utilizado para determinar la valorización detallada en el
+certificado.
+
+Corfo verificará que la valoración otorgada a ellos se ajuste a parámetros razonables.
+
+Sin perjuicio de lo dispuesto en los literales precedentes, para el caso de la cuenta
+
+Recursos Humanos, deberán acompañarse siempre las liquidaciones de
+
+remuneraciones, boletas de honorarios, certificados de pago de las cotizaciones de
+
+seguridad social u otro documento que permita verificar el valor otorgado al aporte,
+
+Corfo se reserva el derecho de verificar que la información declarada sea efectiva y,
+
+en el caso que se acreditare alguna disconformidad grave, además de detener la
+
+entrega del subsidio o generar el término anticipado del proyecto en su caso,
+denunciará penalmente la eventual configuración del delito establecido en el artículo
+
+470 N” 8 del Código Penal.
+
+Este tipo de aportes, además, deberán declararse en el Sistema Este registro deberá
+
+indicar el detalle de los gastos, identificando el documento, número, fecha de emisión,
+
+monto, etc., tal como se registran todos los gastos en el Sistema.
+
+c) Los aportes de personas domiciliadas o residentes en el extranjero y que
+realicen aportes desde el extranjero, deberán respaldarlos a través de cualquiera
+de los siguientes mecanismos:
+
+a. Rendir y presentar los respaldos originales o fotocopias legalizadas ante Notario
+o Ministro de Fe del país respectivo, de cada uno de los documentos que
+acreditan los aportes a rendir (documentación fehaciente de tipo contable y/o
+tributaria).
+
+b. Presentar de un informe de auditoría externa, el cual debe cumplir con los
+siguientes requisitos:
+
+- Debe ser realizado al estado de resultado del centro de costos específico,
+en el cual deben constar los aportes realizados para el respectivo proyecto
+O programa.
+
+- Deberá presentarse traducido al español, para lo cual bastará una
+traducción simple.
+
+- Deberá cumplir con normas y estándares internacionales aplicables a estos
+procesos, y las cuentas utilizadas en el centro de costos deben ser
+agrupadas según las cuentas presupuestarias del respectivo instrumento
+de financiamiento.
+
+28
+
+---
+
+]]></content>
+    </page>
+    <page number="29">
+      <source_delimiter><![CDATA[<!-- página PDF 29 -->
+## Página 29
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+- Deberá verificar, en general, para cada cuenta financiable: la existencia y
+cumplimiento de procedimientos institucionales para efectuar las
+adquisiciones; el desarrollo de actividades según la vinculación de éstas
+con el proyecto; el pago de las obligaciones tributarias y el pago efectivo
+del bien o servicio (que se encuentre devengado y pagado).
+
+- Deberá contemplar la verificación del valor de las horas hombre,
+distinguiendo costos directos, indirectos y la existencia de provisiones;
+verificar que el personal que la entidad extranjera tenga con contrato
+vigente, contemple horas de su jornada laboral dedicadas exclusivamente
+para el proyecto, pudiendo acreditarse mediante documentos que reflejen
+fehacientemente tal situación, los que deben presentarse firmados por el
+respectivo integrante del equipo de trabajo y por el(los) representante(s)
+debidamente facultado(s) de la entidad aportante; verificación del pago de
+obligaciones tributarias, de seguridad social y contractuales, y, la validación
+de una metodología para comprobar la dedicación de horas en el proyecto.
+
+- El documento resultante de la auditoría internacional deberá certificar el
+cumplimiento de los requisitos señalados precedentemente, según
+corresponda, y contener el resultado de los aportes realizados por la
+entidad internacional, desglosado de la siguiente manera:
+
+o Por tipo de aporte (pecuniario o no pecuniario).
+
+o Por cuenta (recursos humanos, gastos de inversión, gastos de
+operación y gastos de administración).
+
+o No se incluirá en el Informe de auditoría detalles itemizados dentro
+de las respectivas cuentas, sin perjuicio que deberá ser revisada por
+el auditor,
+
+Sin perjuicio de lo anterior, CORFO se reserva el derecho de solicitar antecedentes
+adicionales, a fin de verificar que los aportes se hayan realizado a valor de mercado,
+VIII. PAGOS Y CUENTAS CORRIENTES EXCLUSIVAS
+El beneficiario o intermediario debe tener presente que el subsidio es otorgado con el fin
+exclusivo de cubrir los gastos que se hagan para realizar las actividades del proyecto o
+programa, por lo que los pagos originados por la compra de bienes, la contratación de
+servicios o el pago a otros acreedores con cargo al subsidio, no deberán realizarse a
+crédito, salvo que existan procesos administrativos propios de los beneficiarios o
+intermediarios que lo justifiquen, el que deberá ser informado al inicio del proyecto.
+Excepcionalmente, será posible aceptar el pago de bienes y servicios utilizando Tarjeta
+de Crédito, debiendo ser pagados dentro del plazo de un mes de facturado dicho gasto
+y en una sola cuota. Durante el seguimiento financiero se verificará que el pago de la
+cuota sea realizado para cada gasto rendido dentro del período en revisión.
+En caso de pagos realizados a través de PayPal, el pago efectivo se deberá respaldar
+29
+
+---
+
+]]></content>
+    </page>
+    <page number="30">
+      <source_delimiter><![CDATA[<!-- página PDF 30 -->
+## Página 30
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+de la siguiente forma:
+
++  Invoice del proveedor respectivo.
+
++. Transaction details.
+
++ Sise trata de fondos PayPal, se debe adjuntar un "PayPal Balance” donde sea
+
+posible verificar la disponibilidad de recursos al momento del pago.
++ Si Paypal se fundara en una cuenta corriente o tarjeta de crédito, será necesario
+enviar información de éstas (cartolas y certificados de traspasos).
+Asimismo, tratándose de cualquier otro sistema de pago electrónico, CORFO se reserva
+el derecho de solicitar los antecedentes de respaldo que acrediten fehacientemente el
+pago.
+Como se ha indicado en los párrafos anteriores, CORFO verificará el pago íntegro de los
+gastos imputados al proyecto o programas, en efectivo (en territorios apartados),
+mediante cartolas bancarias, comprobantes de transferencia bancaria u otros
+antecedentes que acrediten su realización al proveedor o prestador del servicio.
+Existen Instrumentos que, dependiendo de los fondos a administrar, requieren de
+cuentas corrientes bancarias exclusivas para el manejo de los recursos otorgados por
+CORFO y de aquellos provenientes de los otros aportantes.
+Para el caso en que no se exija una cuenta corriente exclusiva, el beneficiario o
+intermediario deberá de disponer de los mecanismos necesarios para administrar
+correctamente los recursos otorgados, con el fin de tener la disponibilidad requerida para
+el pago de los gastos ejecutados en el marco del proyecto o programa.
+Se recomienda mantener una cuenta corriente en la que se administren los recursos del
+subsidio y desde ahí se realicen los pagos a los diferentes proveedores y prestadores
+de servicios, lo cual ayudará a rescatar la trazabilidad del gasto y su posterior rendición.
+IX. INTERPRETACIÓN
+El Gerente de CORFO que tenga las funciones relacionadas con la revisión y aprobación
+de las rendiciones de cuentas presentadas, se reserva la facultad de resolver toda
+controversia o duda en cuanto al correcto sentido y alcance, forma y oportunidad de
+aplicación, y todo otro conflicto interpretativo que pudiese surgir de la aplicación de las
+presentes normas. Lo anterior, sin perjuicio de los recursos establecidos en la Ley.
+30
+
+---
+
+]]></content>
+    </page>
+    <page number="31">
+      <source_delimiter><![CDATA[<!-- página PDF 31 -->
+## Página 31
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+X. GLOSARIO
+Beneficiario: Es la entidad responsable ante CORFO por la ejecución del proyecto o
+programa, Será sujeto activo y pasivo de todos los derechos y obligaciones que se
+establezcan en el convenio o contrato de subsidio, incluyendo informes detallados de los
+gastos y actividades, realizados por éste o por terceros.
+Beneficiarios atendidos: Es el beneficiario final del subsidio, en los casos en que la
+administración y seguimiento del proyecto se realiza a través de un Patrocinador, Agente
+Operador Intermediario (AOl) o Entidad Gestora.
+Asociado: Es una entidad que se caracteriza por cofinanciar la ejecución del proyecto
+o programa mediante la formalización de un aporte nuevo (en efectivo o pecuniario) y/o
+preexistente (valorizado o no pecuniario).
+Coejecutor: Es una entidad que posee capacidades técnicas necesarias y
+complementarias para la ejecución de actividades consideradas críticas para lograr el
+buen resultado del proyecto o programa.
+Agente Operador Intermediario: Son personas jurídicas de derecho público o privado,
+habilitados para suscribir convenios de asignación de fondos del presupuesto de CORFO
+y sus Comités, para la ejecución de programas y proyectos, en el marco de los
+instrumentos cuyas bases o reglamentos admitan su operación externalizada.
+Entidad Gestora: Son personas jurídicas, constituidas en Chile, cuya función,
+capacidades y objeto les permite el desarrollo de actividades compatibles con la gestión
+y administración de recursos públicos y privados, para efectuar la supervisión,
+seguimiento y administración de Proyectos.
+Patrocinador: Es aquel que apoya a un beneficiario atendido en la ejecución de un
+proyecto, asumiendo, en virtud de un convenio de subsidio, la responsabilidad de
+presentar las rendiciones e informes detallados de los gastos y actividades que sean
+ejecutados por terceros y los aportes del beneficiario atendido.
+Servicios públicos: Según la Contraloría General de la República, y para efectos de la
+aplicación de las normas de la Resolución N” 30, de 2015, corresponde a las entidades
+que conforman el sistema de administración financiera del Estado, esto es, las entidades
+a las que se aplica el D.L. N* 1.263, de 1975, para efectos de los procesos
+presupuestarios, de contabilidad y de administración de fondos, y que se entienden como
+integrantes del “sector público”.
+Entidad Privada: Personas naturales o jurídicas no comprendidas en el concepto de
+Servicio Público antes entregado.
+
+31
+
+---
+
+]]></content>
+    </page>
+    <page number="32">
+      <source_delimiter><![CDATA[<!-- página PDF 32 -->
+## Página 32
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 4
+. MANDATO
+PRESENTACIÓN DE INFORMES Y DE RENDICIONES DE CUENTA
+
+En , a de del año dos mil , Comparece, don
+
+, (nacionalidad), (estado civil), (profesión u oficio), cédula de identidad
+N? , en representación de (razón social de la persona
+jurídica beneficiaria o del intermediario de proyectos), RUT N” , ambos
+domiciliados, para estos efectos, en comuna de , ciudad de
+
+, (repetir estos datos para cada uno de los apoderados del mandante, en
+
+caso que firme más de Uno) en adelante “el mandante”, y expone:
+En y de del año dos mil , Comparece, don
+
+, (nacionalidad), (estado civil), (profesión u oficio), cédula de identidad
+N? , domiciliado, para estos efectos, en
+comuna de , Ciudad de , en adelante “el mandante”, y expone://
+PRIMERO: Antecedentes.
+
+%. La exigencia de rendir cuenta de los recursos otorgados por CORFO para la
+ejecución de las actividades contempladas en los proyectos adjudicados y la entrega
+de la documentación de respaldo, que se funda principalmente en las siguientes
+normativas:
+
+o Artículos 25, 85, 95 y 98 de la Ley N* 10.336 “Ley de Organización y
+Atribuciones de la Contraloría General de la República”,
+
+o Articulos 54 y 55 del D.L. N* 1.263, de 1975, "Decreto Ley Orgánico de
+Administración Financiera del Estado”.
+
+o Resolución N” 30, de 2015, de la Contraloría General de la República, que
+“Fija Normas de Procedimiento sobre Rendición de Cuentas”, o resolución
+que la reemplace.
+
+as Que las normas antes citadas establecen y regulan la obligación que recae en
+cualquier persona o institución, pública o privada, que reciba o administre recursos
+del Estado, de rendir cuenta de la inversión de estos fondos.
+
+32
+
+---
+
+]]></content>
+    </page>
+    <page number="33">
+      <source_delimiter><![CDATA[<!-- página PDF 33 -->
+## Página 33
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+3. Que, en consecuencia, CORFO debe revisar y verificar que las rendiciones de
+cuentas presentadas por los beneficiarios o intermediarios de los proyectos
+financiados se realicen conforme a la normativa, instrucciones vigentes, bases o
+reglamentos y convenios o contratos de subsidio suscritos, con el propósito de
+cautelar la correcta inversión de los recursos entregados, en la finalidad para la cual
+fueron adjudicados,
+
+4. El responsable de la inversión de los recursos es el beneficiario persona natural, o el
+representante legal en el caso de beneficiaros personas jurídicas, o el intermediario,
+en el caso de proyectos agenciados, pudiendo otorgar un mandato para el
+cumplimiento de esta obligación,
+
+5. Por el presente instrumento, el(los) compareciente(s) viene(n) en otorgar el presente
+mandato,
+
+SEGUNDO:
+
+Por este acto el(los) compareciente(s), [en representación de (razón social de la persona
+
+jurídica beneficiaria o del intermediario de proyectos agenciados),] viene(n) en otorgar
+
+mandato especial a don(ña) , (nacionalidad), (estado civil),
+
+(profesión u oficio), cédula de identidad número , domiciliado(a), para
+
+estos efectos, en comuna de , ciudad de
+, en adelante “el (la) mandatario (a), para que:
+
+- Remita los informes técnicos y presente las rendiciones de cuenta a que se
+encuentra obligado el mandante para con la Corporación de Fomento de la
+Producción (CORFO), de acuerdo a la normativa citada en la cláusula primera
+precedente, y a las instrucciones dadas por CORFO, en el contexto de ejecución
+del(de los) proyecto/s establecidos en la cláusula siguiente, denominada “Alcance”.
+
+- El presente mandato comprende la responsabilidad por la correcta imputación de los
+recursos en las cuentas presupuestarias contempladas en el instrumento y el
+proyecto adjudicado, así como los pagos realizados con cargo al subsidio adjudicado
+y el envío de los informes técnicos y de rendición de cuentas exigidos.
+
+TERCERO: Alcance.
+El mandato se otorga respecto del(de los) siguiente(s) Proyecto(s):
+
+- — (Opción 1: Individualizar el(los) proyecto(s) con su nombre y código).
+
+- — (Opción 2: Señalar que el mandante ejercerá su encargo respecto de uno o más
+instrumentos, individualizando éstos por su nombre y la resolución que
+aprobó sus bases).
+
+33
+
+---
+
+]]></content>
+    </page>
+    <page number="34">
+      <source_delimiter><![CDATA[<!-- página PDF 34 -->
+## Página 34
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+- (Opción 3: Señalar que el mandante ejercerá su encargo respecto de todos los
+proyectos que se ejecuten en una oO más regiones del país,
+individualizándolas).
+- (Opción 4: Señalar que el mandante ejercerá su encargo respecto de todos los
+proyectos que se ejecuten en una o más regiones del país, individualizándolas
+y, además, respecto de uno o más instrumentos, individualizando éstos por su
+nombre y la resolución que aprobó sus bases).
+CUARTO: Prohibición de delegar, ceder o transferir.
+El mandatario no podrá ceder, transferir ni delegar el presente mandato ni los derechos y
+obligaciones que de él emanan.
+[Sólo para el caso de mandante persona jurídica:
+QUINTO: Personería.
+La personería del (de los) compareciente (s) para representar a (razón social de la
+persona jurídica beneficiaria o del intermediario de proyectos agenciados) consta en
+>
+Representante
+(Mandante)
+Representante 2, etc.
+(Mandante)
+34
+
+---
+
+]]></content>
+    </page>
+    <page number="35">
+      <source_delimiter><![CDATA[<!-- página PDF 35 -->
+## Página 35
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+ANEXO N* 2
+DECLARACIÓN JURADA
+POR NO UTILIZACIÓN DE IVA CF
+[Ciudad], [fecha]
+
+Yo, [nombre del beneficiario persona natural o del representante del
+beneficiario persona jurídica], RUT N* [en representación de [razón social
+y RUT del beneficiario persona jurídica]], vengo en declarar bajo juramento
+que, en el contexto de ejecución del proyecto código [código del proyecto],
+denominado [nombre del proyecto], no he hecho ni haré uso del IVA CF
+generado por la utilización de servicios y adquisiciones de que dan cuenta las
+facturas que acompaño a la rendición, correspondiente al período que va desde
+el [día, mes y año de inicio del período que se está rindiendo] al [día mes y
+año de corte del período que se está rindiendo].
+En consecuencia, el IVA CF referido en el párrafo precedente, no ha sido ni será
+declarado ni utilizado por [nombre del beneficiario persona natural o razón
+social del beneficiario persona jurídica] para la deducción o rebaja del
+Impuesto al Valor Agregado débito fiscal, por lo que no constituye para mi/éste
+un impuesto recuperable.
+Asimismo, declaro estar en conocimiento de lo dispuesto en las instrucciones
+dadas por CORFO, en el sentido que:
+- La utilización del IVA CF y el contenido de esta declaración puede ser
+
+verificado directamente por CORFO.
+- Si se detectare que la información entregada es falsa, se podrá solicitar la
+
+restitución de los recursos indebidamente rendidos, sin perjuicio del ejercicio
+
+de las acciones que correspondan en virtud de lo dispuesto en el artículo 470
+
+N*8 del Código Penal.
+
+Firma
+[Nombre del beneficiario persona natural o del representante del
+beneficiario persona jurídica, y su cargo, si correspondiere]
+35
+
+---
+
+]]></content>
+    </page>
+    <page number="36">
+      <source_delimiter><![CDATA[<!-- página PDF 36 -->
+## Página 36
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 3
+DECLARACIÓN JURADA
+UTILIZACIÓN DE IVA CF
+NO RELACIONADO CON EL PROYECTO CORFO
+[Ciudad], [fecha]
+
+Yo, [nombre del beneficiario persona natural o del representante del beneficiario
+
+persona jurídica], RUT N* [en representación de [razón social y RUT del beneficiario
+
+persona jurídica]], vengo en declarar bajo juramento, que el IVA CF declarado en los
+
+Formularios 29 del SIl que acompaño a la rendición del periodo comprendido entre el
+
+[día, mes y año de inicio del período que se está rindiendo] y el [día mes y año de
+
+corte del periodo que se está rindiendo], no dicen relación alguna con adquisiciones o
+
+utilización de servicios en el contexto de ejecución del proyecto código [código del
+
+proyecto], denominado [nombre del proyecto], sino con otros que a continuación
+detallo:
+N? Factura Fecha Valor Valor Detalle de la Contexto en
+emisión bruto Neto adquisición que se realizó
+efectuada o la adquisición
+del servicio o se contrató
+utilizado? el servicio?*
+
+Asimismo, declaro estar en conocimiento de lo dispuesto en las instrucciones dadas por
+
+CORFO, en el sentido que:
+
+- — Lautilización del IVA CF y el contenido de esta declaración puede ser verificado
+directamente.
+
+-  Sise detectare que la información entregada es falsa, se podrá solicitar la restitución
+de los recursos indebidamente rendidos, sin perjuicio del ejercicio de las acciones
+que correspondan en virtud de lo dispuesto en el artículo 470 N*8 del Código Penal.
+
+Firma
+[Nombre del beneficiario persona natural o del representante del beneficiario persona
+jurídica, y su cargo, si correspondiere]
+O Tratándose de un alto número de documentos, la información de esta columna puede ser entregada por otros
+edios, previo acuerdo con la Unidad de Gestión Financiera de Proyectos de Corfo.
+l Tratándose de un alto número de documentos, la información de esta columna puede ser entregada por otros
+edios, previo acuerdo con la Unidad de Gestión Financiera de Proyectos de Corfo.
+
+---
+
+]]></content>
+    </page>
+    <page number="37">
+      <source_delimiter><![CDATA[<!-- página PDF 37 -->
+## Página 37
+]]></source_delimiter>
+      <content><![CDATA[
+ANEXO N? 4
+COMPROBANTE DE INGRESO DEL SUBSIDIO RECIBIDO
+Agregar un
+correiativo y la fecha
+en que se emite.
+Ej 1/2 (por anticipo)
+N comprobante: Fecha de generación comprobarte: 2/2 Ipor cucta)
+Antecedentes del receptor de los recursos.
+Agregar los datos del
+Razón social proyecto y del
+Cádigo proyecto: beneficiario como
+(<<< 222 A receptor del subsidio.
+Nombre del proyecto:
+Nombre del Instrumento:
+Ejecutivo Técnico:
+Agregar los datos de
+Medio de pago como fue recibido el
+Ae Subsidio.
+Agregar los gatos cel
+emisor del Subsidio,
+Organismo otorgante de los recursos en este caso
+xL_— o——_————————_——————————————_____—_—_—_—__——— CORFO No Ai
+¿COMITE según
+Nombre: Put corresponda
+Gerencia
+Detalle de ingreso recibido Agregar los datos
+SAA EE <A. EE-.o —— mia o a OE bancarios en donde
+> PEREA fuerecibido el
+Banco | Institución diria Concepto Cuota sha de pago subsidio
+Corriente efectiva
+Nombre y firma del
+Nombre (Persona que firma el documento): pesporátie de
+recibir e! Subsidio en
+Mediante el presente comprobante de ingreso, la institución beneficiarialintermediaria confirma que los recursos
+correspondientes al subsidio de CORFO han sido depositados en la cuenta coniente del proyecto,
+Firma
+[Nombre del beneficiario persona natural o del representante del beneficiario
+persona jurídica, y su cargo, si correspondiere]
+
+---
+
+]]></content>
+    </page>
+    <page number="38">
+      <source_delimiter><![CDATA[<!-- página PDF 38 -->
+## Página 38
+]]></source_delimiter>
+      <content><![CDATA[
+o
+ANEXO NO? 5 - Parte 1
+Rendición de Fondos Entregados a Terceros Públicos
+1- IDENTIFICACIÓN DEL SERVICIO O EMTIDAD QUE TRANSFIRIÓ LOS RECURSOS DIA 1 MES 1 AÑO “sgirioidaioiós
+<] Nombre dl aro entidad orga ¡Nc
+fa IDENTIFICACIÓN DEL SERVICIO O ENTIDAD QUE RECIBIÓ Y EJECUTÓ LOS RECURSOS lt ias
+agregarlos atar
+amneñcaro como
+Elanco o lnztitución Financiara donde ze depocitaron lor recursos (Ca E | E
+Cuenta Banca E====2453
+A
+Ne idcureación de propciooProgrm ===>] Y rose ámords
+Antecedintes delacto adminiztetivo que lo aprucbe “== ra o | ts e recen
+Modificaciones tE==1 eeh] serio] y aa
+Fecha denicio del Program proyecto. inzicsr canos el
+Fado detérmivodelPrograms o proye projecto ypetiode
+Período de rengición desde le entado.
+Perfodo de rendición hast cis
+MWI.- DETALE DF TRAMSFERENCIAS RECIBIDAS Y GASTOS REMDIDOS DEL PERÍODO MONTOS EM $ > mácarastos retenarados
+| a] 5atdo pendiente por endu del periodo anterior === =| lea
+il Desgcsar en termines da
+E TREO Subsidio Encore on a
+dd) Cuenta Recursos Humanos e planwla de DETALLE
+a) Cuanta Gsctos de Operaciones 1 BENDICIÓN DE CUENTAS
+Cuenta Gaetos de Inversión ps y cuarrar =omles estar
+8) Cuento Gastos de Administración o ngresazoser el seems a:
+ts Ones [iapa] 6 e a
+| Total recursos rendidos Entra | rica
+Na SALDO PENDIENTE POR REMDIR PARA El PERÍODO SIGUIENTE o IS
+A A
+IY.- DATOS DELOS FUNCIONARIOS RESPONSABLES Y QUE PARTIPARON EM El PROCESO A Indicar orrere de los
+¿E _EQonz-z>-_z_EXI4 IÓ E E____ÑRQXA lo repomsaoiassencagacos
+Nombre del Funcionario: Nombre del Funcionario; sa resizarlas tendones
+RUT: Au mensuales ena emizad
+Cargo: Cargo: teneicara
+Dependencia: Dependencia: Siesiolo ro "o debera
+Firma y nombre del rezponeable dela Rendición Firm y nombre del responeable de lo Rendición,
+Continua...
+
+---
+
+]]></content>
+    </page>
+    <page number="39">
+      <source_delimiter><![CDATA[<!-- página PDF 39 -->
+## Página 39
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 5 - Parte 2
+| té [|
+SEbSje
+270 <i8
+35
+2 [Eb
+3 Za2
+Sl
+CE
+Ed
+2 =8
+a HU
+5 [| $888
+3 35
+3 3
+BN
+y a
+E
+El. 8238
+|
+a
+23
+ES
+39
+
+---
+
+]]></content>
+    </page>
+    <page number="40">
+      <source_delimiter><![CDATA[<!-- página PDF 40 -->
+## Página 40
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 6
+DECLARACIÓN JURADA SIMPLE
+HORAS HOMBRE DEL BENEFICIARIO PERSONA NATURAL
+[Ciudad], [fecha]
+Yo, [nombre del beneficiario persona natural], de RUT [xx.xxx,xxx-X], vengo
+en declarar bajo juramento que he recibido la suma de [$ especificar monto],
+por las horas trabajadas en el proyecto [código del proyecto], cuyo nombre es
+[nombre del proyecto], y que se enmarca en el concurso [nombre y año del
+concurso según resolución de las bases].
+El detalle de las horas y los recursos percibidos se encuentran conforme al
+presupuesto presentado y aprobado según contrato de ejecución, las que detallo
+a continuación detallo:
+$ $
+Ej. enero 2019 15.000 150.000
+A A EA
+A CA A
+Total declarado 150.000
+Asimismo, declaro estar en conocimiento de lo dispuesto en las instrucciones
+dadas por CORFO, en el sentido que, si se detectare que la información
+entregada es falsa, se podrá solicitar la restitución de los recursos indebidamente
+rendidos, sin perjuicio del ejercicio de las acciones que correspondan en virtud
+de lo dispuesto en el artículo 470 N*8 del Código Penal.
+Firma
+[Nombre del beneficiario persona natural]
+40
+
+---
+
+]]></content>
+    </page>
+    <page number="41">
+      <source_delimiter><![CDATA[<!-- página PDF 41 -->
+## Página 41
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N?7
+DECLARACIÓN DE APORTES VALORADOS GOBERNANZA DE
+PROGRAMAS
+[Ciudad], [fecha]
+El suscrito, en su calidad de representante del Intermediario [nombre y RUT del
+intermediario], y en el contexto de ejecución del proyecto denominado *[nombre
+del proyecto]”, código [código del proyecto], declara que terceros han
+efectuado los siguientes aportes de carácter no pecuniarios o valorizados, en
+relación con la gobernanza del proyecto mencionado, de acuerdo con el siguiente
+detalle:
+Nombre Período Document Nombre Fecha y Entidad a la N* horas Monto
+Comité/ Imputación ode miembro | documento que de del
+Subcomité respaldo del que representa el | participació | aporte
+| de comité nombra al | miembro del n (5)
+| participació que se miembro comité que
+| n declara | del comité se declara
+| que se
+| declara
+¡E= 1 = | 224]
+as a MO e A O e
+o A Ice? q
+A A O A ES,
+El intermediario declara que, a la fecha de esta declaración, los aportes arriba
+descritos, están acordes a las actas de los comités respectivos, las que se
+acompañan debidamente firmadas como respaldo.
+Asimismo, declaro tener conocimiento de los dispuesto en el artículo 470 del
+Código Penal que dispone: "Las penas del artículo 467 se aplicaran también: 8*
+A los que fraudulentamente obtuvieren del Fisco, de las municipalidades, de las
+Cajas de Previsión y de las instituciones centralizadas o descentralizadas del
+Estado, prestaciones improcedentes, tales como remuneraciones,
+bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones o
+imputaciones indebidas”, en su calidad delito de estafa y otros engaños.
+Firma
+[Nombre del Representante del AOI]
+41
+
+---
+
+]]></content>
+    </page>
+    <page number="42">
+      <source_delimiter><![CDATA[<!-- página PDF 42 -->
+## Página 42
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 8
+CERTIFICADO DE VIÁTICO
+[Ciudad], [fecha]
+[nombre de la empresa beneficiaria], en su calidad de empleadora y
+beneficiario del proyecto [código del proyecto], denominado “[nombre del
+proyecto)”, ha pagado a [nombre trabajador(a)], la suma de [$ especificar
+monto] por concepto de viático, por cuanto ha debido trasladarse fuera del lugar
+de desempeño habitual de sus funciones:
+Monto de
+Fecha de Fecha de N? de días asignación
+inicio del término del totales de del viático
+viaje viaje viatico $
+TOTAL| 0 |]
+El/La Sr(a) [nombre trabajador(a)], declara haber recibido los montos antes
+señalados, mediante [indicar si fue por transferencia bancaria o en efectivo],
+con fecha [fecha], por concepto de viático.
+Asimismo, se declara estar en conocimiento de lo dispuesto en las instrucciones
+dadas por CORFO, en el sentido que, si se detectare que la información
+entregada es falsa, se podrá solicitar la restitución de los recursos indebidamente
+rendidos, sin perjuicio del ejercicio de las acciones que correspondan en virtud
+de lo dispuesto en el artículo 470 N*8 del Código Penal.
+———— Fm == TA
+[Nombre trabajador(a)] [Nombre del otorgante
+representante del beneficiario]
+42
+
+---
+
+]]></content>
+    </page>
+    <page number="43">
+      <source_delimiter><![CDATA[<!-- página PDF 43 -->
+## Página 43
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 9 - Parte 1
+CASOS PRÁCTICOS
+CÁLCULO TOPE DEL VIÁTICO PARA LA ASIGNACIÓN DE LOS RECURSOS.
+a) Comisión de Servicios al Exterior (Pago de Viáticos al Extranjero):
+1. Para efectos de cálculo e información se debe utilizar la Tabla de Viáticos fijada
+por el Ministerio de Relaciones Exteriores, publicada en el Diario Oficial y que
+Corfo mantendrá a disponible en el SGP.
+2. El valor para considerar en el cálculo del viático es el mencionado en la columna
+Viatico Base de la tabla, que indica US$ 50, para los grados del 6 al 15.
+3, Se considera “día viático”, el día en tierra y no el tiempo que transcurre en
+horas/días de vuelo.
+4. Se pagará el 100% que señala la tabla de acuerdo al país que corresponda, si
+es un día con alojamiento en tierra; caso contrario corresponderá el 40% (1/2
+día), según itinerario.
+coco »as [costo De | viarico Juurico puro | escarecion Granos |viarico sase
+EVE Jacsana en J6s0s7 [100% 32007 fs eres ese] ss]
+FLEMANA BeriroBo8-TE——JALEIANa Berin feos feos ——ismas ———[ussso ermisrpsssis epar] ness | so]
+5. El procedimiento del cálculo es el siguiente:
+Ejemplo, días de viático: 3 % días. Sin considerar los días de ida y regreso en el avión:
+2snczo | 3 | woo | ose15 | usoszosz] 59 [|  aremanmoserin | vsvoerzel
+zoo | 20% | os15 | usox1zer] so | —atemama nen | usmxzasr|
+El total del cálculo US$1,089,43 debe ser multiplicado por el valor del dólar al momento
+de la conversión a pesos. a modo de el ejemplo, el día de pago del viático el valor del
+dólar observado corresponde a $771,94. Total viático en $840.975.
+
+---
+
+]]></content>
+    </page>
+    <page number="44">
+      <source_delimiter><![CDATA[<!-- página PDF 44 -->
+## Página 44
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+Continua...
+ANEXO NO? 9 - Parte 2
+
+b) Comisión de Servicios Nacionales (Pago de Viáticos Nacionales):
+
+1. Para efectos de cálculo e información se debe utilizar la Tabla de Viáticos de
+CORFO equivalente a grado 6. Esta tabla se encuentra disponible en la
+plataforma de rendiciones.
+
+2. Se pagará el 100% si es un día con alojamiento en tierra, en caso contrario se
+pagará el 40% (1/2 día).
+
+3. El procedimiento del cálculo es el siguiente:
+
+Ejemplo: El valor del viático correspondiente al grado 6 es de $56.134 y el 40%
+de éste corresponde a $22.454. Los días de viático son 4 % días.
+-  Al100% $ 56.134 X 4 = $ 224.536
+- Al 40% $22.454X1=5$ 22.454
+$ 246.990
+Otra forma de cálculo es multiplicar $56.134 X 4,4 = $246.990.
+c) Cálculo conversión moneda extranjera a pesos chilenos.
+En el caso de un Invoice el valor a considerar para la conversión es el valor del
+US$ de la fecha en que se realizó el pago al proveedor o prestador del servicio.
+Ejemplo: El Invoice fue emitido en junio 2017, pero su pago fue realizado en julio
+2017:
+EA
+ivolen eros (3 David Powers (0. 24
+44
+
+---
+
+]]></content>
+    </page>
+    <page number="45">
+      <source_delimiter><![CDATA[<!-- página PDF 45 -->
+## Página 45
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 10
+MEMORIA DE CÁLCULO PARA GASTOS DE ADMINISTRACIÓN
+Por valor de Uso
+Noms *Monto del Monto a
+imbre A e
+Concepto del | Periodo | N* del | documento |, rendir al
+Gasto E neficiario! | mensual | Docto. | de respaldo | %4euso | proyecto
+oejecutor
+$ $
+[ep JT eneta | 00% | 100.000 30.000
+TOTAL 30.000
+Por cantidad de horas HH
+Nombi Monto del Monto a
+Concepto del ombre | Periodo | N* del | documento % de rendir al
+Beneficiario! o E
+Gasto d Mensual | Dcto. | de respaldo | participación | Proyecto
+Coejecutor
+$ $
+[ Ej Contador | | ene8 | xx | 80.000 16.000
+TOTAL 16.000
+*Monto del documento de respaldo: Si el beneficiario o coejecutor recupera el IVA CF
+deberá ingresar el valor por el monto neto.
+45
+
+---
+
+]]></content>
+    </page>
+    <page number="46">
+      <source_delimiter><![CDATA[<!-- página PDF 46 -->
+## Página 46
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 14 - Parte 1
+Adquisiciones y contrataciones realizadas por beneficiarios y coejecutores:
++. Procedimiento:
+El beneficiario y coejecutor, según si el instrumento contempla su participación, deberán utilizar
+el siguiente procedimiento para las adquisiciones y contrataciones que efectúen en el contexto
+de ejecución del proyecto con cargo a los recursos del subsidio, relativas a actividades y/o gastos
+que por su naturaleza deban presupuestarse en las cuentas gastos de operación y gastos de
+inversión.
+Todas las adquisiciones y contrataciones que involucren montos de subsidio superiores a
+$10.000.000.- (diez millones de pesos) netos, deberán ser autorizadas por CORFO. Para este
+efecto, el participante deberá presentar tres cotizaciones firmadas por los proveedores
+respectivos, CORFO, en casos fundados, podrá autorizar la adquisición o contratación con dos
+cotizaciones o sin cotizaciones previas.
+La autorización mencionada deberá solicitarse a CORFO en forma previa a la contratación o
+adquisición. Si habiéndose efectuado oportunamente las tres cotizaciones no se hubiere
+solicitado autorización previa, CORFO sólo reconocerá la cotización de menor valor,
+CORFO rechazará el gasto en caso de que el participante no hubiere solicitado autorización ni
+efectuado las tres cotizaciones previas.
+No se podrán fragmentar las adquisiciones y contrataciones, con el propósito de evitar el
+procedimiento previamente descrito. En caso de detectarse fragmentación al momento de la
+revisión respectiva, CORFO rechazará los respectivos gastos.
+Este procedimiento será de aplicación general, salvo que el participante se rija por la ley N” 19.886
+de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, en cuyo caso
+aplicará dicha normativa.
+Sólo si las bases técnicas lo autorizan expresamente, se podrá contratar a los participantes del
+proyecto.
+Durante la evaluación y ejecución de los proyectos, CORFO tomará los resguardos y medidas
+correctivas tendientes a que el monto de los gastos financiados sea razonable y se adecue a los
+objetivos planteados y a valores que observen las condiciones de mercado.
+Adquisiciones y contrataciones con personas relacionadas
+A fin de establecer el correcto control, el beneficiario y coejecutor, en el convenio de coejecución,
+deberán declarar expresamente las adquisiciones y contrataciones con personas relacionadas,
+entendiéndose por tales:
+Continúa...
+
+---
+
+]]></content>
+    </page>
+    <page number="47">
+      <source_delimiter><![CDATA[<!-- página PDF 47 -->
+## Página 47
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N/ 11 — Parte 2
+
++ Respecto de participante persona jurídica: a) Las entidades del grupo empresarial al
+que pertenece la sociedad beneficiaria; b) Las personas jurídicas que tengan, respecto
+del participante, la calidad de matriz, coligante, filial, o coligada, en conformidad a las
+definiciones contenidas en la ley N* 18.046, y c) Quienes sean directores, gerentes,
+administradores o liquidadores del participante, y sus cónyuges, conviviente civil o sus
+parientes hasta el segundo grado de consanguinidad o afinidad.
+
+Un grupo empresarial, es un conjunto de personas que presentan vínculos de tal
+naturaleza en su propiedad, administración o responsabilidad crediticia, que hacen
+presumir que la actuación económica y financiera de sus integrantes está guiada por los
+intereses comunes del grupo o subordinada a éstos, o que existen riesgos financieros
+comunes en los créditos que se les otorgan o en la adquisición de valores que emiten.
+De acuerdo con lo anterior, forman parte de un mismo grupo empresarial una persona
+jurídica y su controlador; todas las personas jurídicas que tienen un controlador común y
+este último; y toda persona que determine la Superintendencia de Valores y Seguros,
+considerando la concurrencia de una o más de las circunstancias que enumera el artículo
+96 de la Ley N* 18.045 sobre Mercado de Valores.
+
+Por su parte, es controlador de una persona jurídica, toda persona o grupo de personas
+con acuerdo de actuación conjunta que, directamente o a través de otras personas
+naturales o jurídicas, participa en su propiedad y tiene poder para realizar alguna de las
+siguientes actuaciones: asegurar la mayoría de votos en las juntas de accionistas y elegir
+a la mayoría de los directores tratándose de sociedades anónimas, o asegurar la mayoría
+de votos en las asambleas o reuniones de sus miembros y designar al administrador o
+representante legal o a la mayoría de ellos, en otro tipo de sociedades, o influir
+decisivamente en la administración de la misma.
+
++ Respecto del participante persona natural: a) Su cónyuge, conviviente civil, o sus
+parientes hasta el segundo grado de consanguinidad o afinidad y b) Las personas
+jurídicas respecto de las cuales el participante persona natural tiene la administración, o
+participa del 10% o más de su capital.
+
+Esta declaración se deberá presentar, para montos inferiores a $10.000.000.-, en forma
+previa a la adquisición o contratación con la persona relacionada. Para el caso de montos
+iguales o superiores a $10,000.000.- la declaración deberá presentarse al momento de
+solicitar la autorización y presentar las tres cotizaciones a CORFO.
+En caso de detectarse, al momento de la revisión respectiva, alguna omisión en el
+cumplimiento de esta obligación de informar, CORFO rechazará el gasto.
+
+47
+
+---
+
+]]></content>
+    </page>
+    <page number="48">
+      <source_delimiter><![CDATA[<!-- página PDF 48 -->
+## Página 48
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+ANEXO N? 11—Parte 3
+ADQUISICIONES Y CONTRATACIONES POR LOS AGENTES OPERADORES INTERMEDIARIOS
+Y ENTIDADES GESTORAS:
+Los procedimientos para la adquisición de bienes y contratación de servicios en el marco del
+desarrollo de los programas y/o proyectos agenciados, serán los siguientes, dependiendo del
+monto involucrado.
+Los procedimientos de contratación serán:
+1. Compra o Contratación Directa. La compra o contratación directa requerirá autorización
+previa sólo cuando esta se origina en una excepcionalidad.
+2. Compra o contratación por cotizaciones:
+* La compra o contratación por cotizaciones no requerirá autorización previa.
+*e Se deberá invitar, al menos, a 3 proveedores, cuyas cotizaciones deberán estar
+firmadas o enviadas por los interesados.
++ La selección deberá ser siempre fundada y el AOI deberá dejar constancia
+documentada, en la carpeta del proyecto, del fundamento utilizado.
+3. Licitación cerrada:
++ Los términos de referencia!? para la licitación cerrada deberán ser aprobados por
+Corfo.
++ Enlalicitación cerrada se debera invitar, al menos, a 3 proveedores.
+» La selección deberá ser siempre fundada y el AOl deberá dejar constancia
+documentada, en la carpeta del proyecto, del fundamento utilizado.
+4. Licitación abierta:
++  Lostérminos de referencia para la licitación abierta deberán ser aprobados por Corfo.
++ Debe contemplarse un plazo mínimo de 10 días hábiles entre la publicación del
+llamado a licitación y el cierre de la recepción de ofertas.
++ La publicación deberá realizarse, al menos, en la página web del intermediario y, en
+caso que ello no sea posible, en medios de circulación regional o nacional.
++ La selección deberá ser siempre fundada y el AOl deberá dejar constancia
+documentada, en la carpeta del proyecto, del fundamento utilizado
+2 Los términos de referencia deben comprender las especificaciones técnicas del bien o servicio
+a contratar, así como las definiciones básicas del proceso necesario para su implementación.
+48
+
+---
+
+]]></content>
+    </page>
+    <page number="49">
+      <source_delimiter><![CDATA[<!-- página PDF 49 -->
+## Página 49
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+Para la adquisición de bienes:
+Precio total del bien (VAR AAA
+Monto < $ 1.000.000 Compra directa
+Monto >= $1.000.000 Compra por cotizaciones
+Se podrá efectuar la compra directamente, sin importar el monto, cuando se configure
+alguna de las siguientes excepcionalidades:
+
+A. Cuando haya sido declarado por la autoridad correspondiente, para el territorio o
+sector económico, alguna medida de excepción contemplada el ordenamiento jurídico
+vigente para casos de calamidad pública o situaciones catastróficas.
+
+B. Cuando, sea porque en el territorio o por la especialidad del bien, no exista el número
+suficiente de oferentes.
+
+C. Cuando se trate de artículos usados.
+
+D. Cuando el bien sólo pueda ser adquirido en el extranjero.
+
+Cuando la adquisición de bienes sea igual o superior a los $25.000.000 (veinticinco millones
+de pesos), se deberá elaborar las especificaciones del bien.
+Estas mismas normas serán aplicadas cuando se contrate la construcción de obras o su
+reparación, pudiendo en este caso comprender la compra de materiales, el pago de los
+servicios mismos de construcción y el arriendo de herramientas.
+Para la Contratación de servicios:
+
+DE Q. ti E A A
+
+bruto) $ o e. 00
+
+Monto < $ 1.000.000 Contratación directa
+Monto >= $25,000.000 Licitación abierta
+49
+
+---
+
+]]></content>
+    </page>
+    <page number="50">
+      <source_delimiter><![CDATA[<!-- página PDF 50 -->
+## Página 50
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+Se podrá efectuar la contratación de servicios directamente, sin importar el monto,
+
+cuando se configure alguna de las siguientes excepcionalidades:
+
+A. Se ha declarado, por la autoridad competente, para el territorio o sector económico,
+alguna medida de excepción contemplada el ordenamiento jurídico vigente para casos
+de calamidad pública o situaciones de catástrofe.
+
+B. Porque en el territorio o por la especialidad del servicio, no exista el número suficiente
+de oferentes.
+
+C. Los servicios sólo tienen oferentes extranjeros.
+
+D. Cuando los servicios y sus prestadores sean individualizados en la postulación del
+programa y/o proyecto, y sujetos de evaluación de acuerdo a los criterios reglamentarios.
+
+E. Tratándose de la renovación de una etapa, los servicios que continúan fueron
+contratados previamente comprimiendo los procedimientos establecidos.
+
+F, Habiéndose desarrollado un proceso de licitación abierta o cerrada, no se recibieran
+ofertas, éstas resultaran inadmisibles por no ajustarse a los requisitos establecidos en la
+licitación, o ésta fue declarada desierta y la contratación es indispensable para el
+programa y/o proyecto.
+
+G. Por término anticipado o resolución de un contrato por incumplimiento de las
+obligaciones.
+
+Adquisiciones y contrataciones con personas relacionadas:
+
+No se podrá comprar bienes o contratar servicios cuando exista conflicto de interés,
+
+entendiendo que existe cuando alguno de los gerentes, administradores, representantes,
+
+directores o socios dueños de más del 50% del capital de un oferente, como persona natural
+
+y sus cónyuges o sus parientes hasta el segundo grado de consanguinidad o afinidad, sea a
+
+la vez gerente, administrador, representante, director o socio dueño de más del 50% del
+
+capital del Beneficiario/Entidad Consultora/ Coejecutor/ Asociado/ Agente Operador
+
+Intermediario; así como la existencia de cualquier otra circunstancia que le reste
+
+imparcialidad en la ejecución, desarrollo o supervisión de los programas y/o proyectos. El
+
+proveedor deberá suscribir una Declaración jurada que acredite que no existe conflicto de
+interés.
+
+Compras de bienes o contratación de servicios iguales o superiores a 25 millones de
+
+pesos, valor bruto:
+
+Previo a la adquisición de bienes o contratación de servicios con precios iguales o superiores
+
+a $25.000.000 (veinticinco millones de pesos), se deberá informar al ejecutivo técnico a cargo
+
+en Corfo.
+
+50
+
+---
+
+]]></content>
+    </page>
+    <page number="51">
+      <source_delimiter><![CDATA[<!-- página PDF 51 -->
+## Página 51
+]]></source_delimiter>
+      <content><![CDATA[
+CORFO
+
+El Informe deberá abordar el cumplimiento de los términos de referencia del bien o servicio,
+la evaluación y la recomendación para seleccionar al proveedor,
+Del uso de servicios de telefonía celular e internet:
+Se podrá financiar, con cargo a los recursos Corfo, la contratación de Planes Multimedia y/o
+Planes de Internet por un monto total de hasta $20.000.- (veinte mil pesos) mensuales por
+profesional contratado para el programa y/o proyecto.
+No es posible contratar un plan individual por un monto mayor al indicado, aduciendo que se
+contrató el valor equivalente al total del equipo de trabajo.
+No se financiará la compra de equipos que no estén incluidos en los planes a contratar,
+
+51
+
+---
+
+]]></content>
+    </page>
+    <page number="52">
+      <source_delimiter><![CDATA[<!-- página PDF 52 -->
+## Página 52
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+ANEXO N? 12
+CERTIFICADO APORTES VALORADOS
+El suscrito, en su calidad de representante de (nombre o razón social del aportante), y en el
+contexto de ejecución del proyecto/programa denominado *......................, Código N”..........,
+certifica que ha realizados los siguientes aportes de carácter no pecuniarios o valorizados, de
+acuerdo al siguiente detalle:
+Cuenta Descripci Tipode N*de  Proveedor/ M
+13 > É onto
+
+Í Período ón del Docto  Docto  Prestador/
+
+Hent del Imputaci Aporte de Profesional Es
+
+Gasto Pa P Aporte
+
+ón respald
+E ($)
+Total
+Asimismo, declara que los aportes declarados dicen relación con la ejecución del proyecto
+individualizado, están acorde a los términos, cartas de compromisos y condiciones del convenio
+suscrito por (beneficiario/asociado/coejecutor) con InnovaChile/Corfo y se ajustan al valor de
+mercado.
+A este certificado se adjunta una memoria de cálculo explicativa respecto del mecanismo utilizado
+para determinar la valorización detallada en este certificado.
+Asimismo, declaro tener conocimiento de lo dispuesto en el artículo 470 del Código Penal que
+dispone: "Las penas del artículo 467 se aplicarán también: 8” A los que fraudulentamente
+obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones
+centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como
+remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones
+o imputaciones indebidas”, en su calidad delito de estafa y otros engaños.
+e PA
+13 Si el aporte se realiza en la Recursos Humanos, deberán acompañarse siempre las liquidaciones de remuneraciones,
+boletas de honorarios, certificados de pago de las cotizaciones de seguridad social u otro documento que permita verificar
+el valor otorgado al aporte.
+52
+
+---
+
+]]></content>
+    </page>
+    <page number="53">
+      <source_delimiter><![CDATA[<!-- página PDF 53 -->
+## Página 53
+]]></source_delimiter>
+      <content><![CDATA[
+CORF oy
+NORMAS TRANSITORIAS:
+a) La presente Resolución entrará en vigencia a partir del día 1” de julio de 2020.
+b) El presente Manual se aplicará respecto de proyectos postulados con
+posterioridad a la fecha de su entrada en vigencia.
+Asimismo, aplicará a las rendiciones presentadas con posterioridad a la fecha de
+entrada en vigencia, salvo:
+
+- Los aspectos del seguimiento que las bases del instrumento específico o los
+respectivos convenios oO contratos de subsidio contengan normas
+incompatibles con este Manual.
+
+- En aquellos aspectos en que la aplicación de la presente Resolución
+implique un perjuicio para el administrado, respecto de la situación anterior
+y no se trate de una simple adecuación o aplicación de la normativa vigente.
+
+2” Póngase la presente Resolución y sus anexos a disposición de los interesados en el
+sitio web de CORFO, www.corfo.cl, una vez que se encuentre totalmente tramitada.
+Anótese, notifíquese y archívese.
+
+Firmado digitalmente por JORGE
+
+JORGE GUALTERIO cuatreaio ROJAS MEDINA
+Fecha: 2020.05.19 12:38:31
+
+ROJAS MEDINA — Fecha
+
+JORGE ROJAS MEDINA
+Gerente de Procesos, Operaciones y Tecnología
+53
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Manual para la Rendición y Seguimiento Financiero de Proyectos CORFO (2020)
+
+- **Archivo fuente:** `CORFO_RE-443-CORFO-2020-Manual-de-Rendiciones-de-Gastos(1).pdf`
+- **Páginas:** 53
+- **Método:** OCR visual en español, página por página
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="2" rejected="1" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+    <correction confidence="alta">
+      <from><![CDATA[CORFOY]]></from>
+      <to><![CDATA[CORFO]]></to>
+      <why><![CDATA[Typo recurrente en membrete: 'Y' final es residuo OCR de separador de página.]]></why>
+    </correction>
+    <correction confidence="media" page="2">
+      <from><![CDATA[APRUÉBASE]]></from>
+      <to><![CDATA[APRUÉBESE]]></to>
+      <why><![CDATA[Posible variante de forma verbal; en textos legales se usa 'apruébese' más frecuentemente, pero 'apruébase' también es válido arcaico.]]></why>
+    </correction>
+    <rejected reason="no se parece al original (similitud 0.69, largo x1.0) — parece reconstrucción, no corrección"><![CDATA[PROGESO¡DE'LÁ]]></rejected>
+  </ocr_corrections>
+</corfo_document>

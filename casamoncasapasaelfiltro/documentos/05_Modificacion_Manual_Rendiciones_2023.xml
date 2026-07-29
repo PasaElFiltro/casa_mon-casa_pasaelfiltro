@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="05_Modificacion_Manual_Rendiciones_2023">
+  <provenance>
+    <derived_from_file>05_Modificacion_Manual_Rendiciones_2023.md</derived_from_file>
+    <derived_from_sha256>3b0c33fce5299013a2cd481f5e204e7ddd4295eaa39e282cbe9dd66e231d228f</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_Resol_507-7-24-2023. Ex. 131 CORFO 2023(1).pdf</original_pdf>
+    <extraction_method>OCR visual en español</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>0</ocr_corrections_applied>
+      <ocr_corrections_rejected>0</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Resolución Exenta N°131 (2023) que Modifica el Manual para la Rendición y Seguimiento Financiero de Proyectos Financiados y/o Cofinanciados por CORFO]]></title>
+  <summary><![CDATA[Modifica el Manual de Rendiciones de 2020 estableciendo plazos de evaluación (30 días) y resolución (45 días), incluyendo nuevos requisitos de traducción, validación de capacitación y un formato de certificado de aportes pecuniarios.]]></summary>
+  <index entries="10" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="encabezado" page="1">
+      <heading><![CDATA[Encabezado y referencia]]></heading>
+      <about><![CDATA[Información administrativa y resolución que se modifica]]></about>
+    </entry>
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Leyes, decretos y resoluciones que fundamentan la modificación]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[Justificación: necesidad de complementar normativa sobre rendiciones de cuenta]]></about>
+    </entry>
+    <entry type="resuelvo" page="2">
+      <heading><![CDATA[RESUELVO - Apartado I]]></heading>
+      <about><![CDATA[Declaración de modificación del Manual aprobado por Resolución (E) N° 443 de 2020]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Modificación Apartado IV - Numerales 2 y 3]]></heading>
+      <about><![CDATA[Plazos de aprobación (30 días) y resolución de observaciones (45 días)]]></about>
+    </entry>
+    <entry type="articulo" page="2">
+      <heading><![CDATA[Modificación Apartado VI - Cuentas de Rendición]]></heading>
+      <about><![CDATA[Requisitos de traducción al español y nuevo subliteral b.6) sobre Formación de Capital Humano]]></about>
+    </entry>
+    <entry type="articulo" page="3">
+      <heading><![CDATA[Modificación Apartado VII - Aportes de Participantes]]></heading>
+      <about><![CDATA[Referencia obligatoria a Anexo N°13 para rendición de aportes]]></about>
+    </entry>
+    <entry type="anexo" page="3">
+      <heading><![CDATA[Anexo N°13 - Certificado Aportes Pecuniarios]]></heading>
+      <about><![CDATA[Nuevo formato de certificación con tabla de períodos, tipos de informe y montos por cuenta]]></about>
+    </entry>
+    <entry type="resuelvo" page="4">
+      <heading><![CDATA[Disposiciones finales (2° y 3°)]]></heading>
+      <about><![CDATA[Puesta a disposición en sitio web y publicación en Gobierno Transparente]]></about>
+    </entry>
+    <entry type="firma" page="4">
+      <heading><![CDATA[Firma]]></heading>
+      <about><![CDATA[Firma del Gerente General de CORFO]]></about>
+    </entry>
+  </index>
+  <key_points count="7">
+    <point type="plazo" page="2">
+      <text><![CDATA[Corfo dará su aprobación o formulará observaciones a los informes en el plazo de 30 días, contados desde su recepción, o desde la validación presencial o revisión en terreno, según corresponda]]></text>
+      <why><![CDATA[Define el tiempo máximo que CORFO tiene para evaluar y responder rendiciones]]></why>
+    </point>
+    <point type="plazo" page="2">
+      <text><![CDATA[Corfo resolverá dentro del plazo de 45 días]]></text>
+      <why><![CDATA[Plazo máximo para que CORFO resuelva tras aclaración de observaciones del beneficiario]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[El beneficiario o AOI, según corresponda, deberá incorporar, traducidos al español, en los campos disponibles en el sistema, las menciones señaladas en el artículo 14 de la Resolución N° 30, de 2015, de la Contraloría General de la República]]></text>
+      <why><![CDATA[Requisito de cumplimiento normativo de Contraloría: todas las menciones deben estar en español]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Para los pagos basados en los porcentajes de asistencia que registren los becarios, el AOI, junto al reporte de asistencia, deberá acompañar los antecedentes que permitan verificar el número de alumnos y la asistencia a los cursos]]></text>
+      <why><![CDATA[Evidencia requerida para validar gastos de formación: reportes biométricos, listados firmados o reportes de plataformas virtuales]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Para estos efectos, se deberá utilizar el formato disponible en el Anexo N°13]]></text>
+      <why><![CDATA[Obligación de usar nuevo formato de certificado para todos los aportes de participantes]]></why>
+    </point>
+    <point type="definicion" page="4">
+      <text><![CDATA[Anexo N°13 es un Certificado de Aportes Pecuniarios que contiene tabla con períodos (Desde-Hasta), Tipo de Informe (Avance y/o Final), Monto del Aporte ($) y cuentas de imputación (Recursos Humanos, Gastos de Operación, Gastos de Inversión, Gastos de Administración, Total)]]></text>
+      <why><![CDATA[Nuevo formato normativo obligatorio que reemplaza certificaciones anteriores]]></why>
+    </point>
+    <point type="sancion" page="4">
+      <text><![CDATA[Declaración de que aportes están acorde a términos, cartas de compromiso y condiciones del convenio o contrato de subsidio. Referencia a Código Penal artículo 470 sobre estafa y engaños contra el Fisco]]></text>
+      <why><![CDATA[Responsabilidad civil y penal del representante beneficiario por falsa certificación]]></why>
+    </point>
+  </key_points>
+  <pages count="4" declared_in_source="4">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOY
+PMM
+OFICINA
+DE PARTES |
+170323 00131 *
+SANTIAGO
+MODIFICA MANUAL PARA LA RENDICIÓN Y
+SEGUIMIENTO
+FINANCIERO
+DE
+PROYECTOS
+FINANCIADOS
+Y/O
+COFINANCIADOS POR CORFO Y SUS
+ANEXOS, APROBADO POR RESOLUCIÓN
+(E) N* 443, DE 2020, DE LA CORPORACION.
+VISTO:
+La Ley N” 6.640, que crea la Corporación de Fomento de la Producción; el Decreto
+con Fuerza de Ley N* 211, de 1960, del Ministerio de Hacienda, que Fija Normas
+que Regirán a la Corporación de Fomento de la Producción; el Reglamento de la
+Corporación, aprobado por Decreto Supremo N* 360, de 1945, del Ministerio de
+Economía; la Ley N” 19.880, que Establece Bases de los Procedimientos
+Administrativos que Rigen los Actos de los Órganos de la Administración del
+Estado; el Decreto Supremo N? 28, de 2022, del Ministerio de Economía, Fomento
+y Turismo que nombra en el cargo de Vicepresidente Ejecutivo de Corfo; el artículo
+85 de la Ley N” 10.336, de Organización y Atribuciones de la Contraloría General
+de la República; la Resolución N* 30, de 2015, de la Contraloría General de la
+República, que “Fija normas de procedimiento sobre rendición de cuentas”; y lo
+establecido en las Resoluciones N* 7 y N* 14, de 2022, ambas de la Contraloría
+General de la República, que fija normas sobre exención del trámite de toma de
+razón y determina los montos a partir de los cuales los actos quedarán sujetos a
+toma de razón y a controles de reemplazo cuando corresponda, respectivamente.
+CONSIDERANDO:
+La necesidad de complementar normativa de Corfo sobre las rendiciones de
+cuenta que debe presentar los ejecutores de los recursos transferidos por Corfo y
+sus Comités, en el ámbito de sus instrumentos de financiamiento y
+cofinanciamiento.
+El Acuerdo de Consejo N* 3.120, de 2022, ejecutado por la Resolución (E) N* 720,
+modificada por Resolución (E) N” 1.005, ambas de 2022 y de Corfo, que aprobó el
+texto refundido sobre “Organización y Descripción General de Funciones y
+Coordinación de la Corporación de Fomento de la Producción”, que encomendó a
+la Gerencia General, las funciones de realizar el seguimiento y control financiero
+de los proyectos y programas financiados por Corfo y sus Comités; así como dictar,
+aprobar, modificar o dejar sin efecto instrucciones operativas en este ámbito,
+velando por la aplicación de criterios uniformes en su ejecución.
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOY
+RESUELVO:
+1% MODIFÍCASE el “MANUAL PARA LA RENDICIÓN Y SEGUIMIENTO FINANCIERO
+DE PROYECTOS FINANCIADOS Y/O COFINANCIADOS POR CORFO Y SUS
+ANEXOS”, aprobado por Resolución (E) N” 443, de 2020, de la Corporación, en el
+siguiente sentido:
+a) Enel apartado IV. “PROCESO DE LA RENDICIÓN”:
+Agrégase, en su numeral 2. “Revisión de la rendición de cuentas”, el
+siguiente párrafo final:
+“Corfo dará su aprobación o formulará observaciones a los informes en el
+plazo de 30 días, contados desde su recepción, o desde la validación
+presencial o revisión en terreno, según corresponda.”
+Intercálase, en su numeral 3. “Aclaración de Observaciones”, luego del
+párrafo segundo, el siguiente párrafo tercero:
+“Luego de que el beneficiario haya remitido todos los antecedentes,
+modificaciones o complementaciones solicitadas, o bien, se haya vencido el
+último término concedido al efecto, Corfo resolverá dentro del plazo de 45
+días.”
+b) En el apartado VI. “RENDICIÓN DE GASTOS EFECTUADOS TOTAL O
+PARCIALMENTE CON CARGO AL SUBSIDIO”:
+Agrégase al subliteral a.2) “Horas Hombre de profesionales que prestan
+servicios en el Extranjero”, de la letra a) “CUENTA RECURSOS
+HUMANOS”, el siguiente párrafo final:
+“El beneficiario o AOl, según corresponda, deberá incorporar, traducidos al
+español, en los campos disponibles en el sistema, las menciones señaladas
+en el artículo 14 de la Resolución N? 30, de 2015, de la Contraloría General
+de la República.”
+En la letra b) “CUENTA GASTOS DE OPERACIÓN”:
+=
+ Reemplázase, en el subliteral b.2) “Gastos realizados en el extranjero”,
+el párrafo tercero por el siguiente:
+“El beneficiario o AOI, según corresponda, deberá incorporar, traducidos
+al español, en los campos disponibles en el sistema, las menciones
+señaladas en el artículo 14 de la Resolución N” 30, de 2015, de la
+Contraloría General de la República.”
+=
+ Agrégase el siguiente subliteral b.6) “Formación de Capital Humano”:
+“b.6) Formación de Capital Humano:
+En el caso de proyectos de formación de capital humano agenciados, para
+los pagos basados en los porcentajes de asistencia que registren los
+becarios, el AOI, junto al reporte de asistencia, deberá acompañar los
+antecedentes que permitan verificar el número de alumnos y la asistencia
+a los cursos (reportes biométricos, listado de asistencia debidamente
+firmado por los asistentes, reportes de asistencia entregados por las
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOY
+plataformas de capacitación virtual, entre otros). Para la pertinencia
+técnica, Corfo realizará validaciones aleatorias.”
+- — Intercálase, en la letra c) “CUENTA GASTOS DE INVERSIÓN”, luego del
+párrafo tercero, el siguiente párrafo cuarto, pasando el actual cuarto a ser
+quinto y así sucesivamente:
+“El beneficiario o AOl, según corresponda, deberá incorporar, traducidos al
+español, en los campos disponibles en el sistema, las menciones señaladas
+en el artículo 14 de la Resolución N* 30, de 2015, de la Contraloría General
+de la República.”
+c) Agrégase, en el primer párrafo del literal a) del apartado VII. “RENDICIÓN DE
+GASTOS EFECTUADOS CON CARGO AL APORTE DE LOS
+PARTICIPANTES”, a continuación del punto final, la siguiente frase:
+“Para estos efectos, se deberá utilizar el formato disponible en el Anexo N*13.”
+d) Agrégase el siguiente Anexo N*13:
+“Anexo N*13
+CERTIFICADO APORTES PECUNIARIOS
+El suscrito, en su calidad de representante de (nombre o razón social del beneficiario), y en el
+contexto del proyecto denominado *..................... ", Código Ns
+, certifica que para su
+ejecución se han recibido los aportes de carácter pecuniario que se detalla:
+Período Imputación
+Tipo de Informe
+Monto del Aporte
+Cuenta
+Desde
+Hasta
+Avance y/o Final
+($)
+Recursos Humanos
+Gastos de Operación
+Gastos de Inversión
+Gastos de Administración
+Total
+Asimismo, declara que, a la fecha de emisión de este certificado, los aportes antes especificados
+y detallados en el Sistema Portal Privado / SGP (indicar en cual se realizó la rendición), están
+acorde a los términos, cartas de compromiso y condiciones del convenio o contrato de subsidio
+suscrito por (beneficiario/asociada/coejecutora) con CORFO/Comité. La documentación
+fundante de estos aportes se encuentra en las instalaciones de (nombre del beneficiario),
+documentación que, previa solicitud, se facilitará para su examen por parte de CORFO, Comité,
+la Contraloría General de la República y/o auditores independientes.
+Además, declaro tener conocimiento de lo dispuesto en el artículo 470 del Código Penal que
+prescribe: “Las penas del artículo 467 se aplicarán también: 8” A los que fraudulentamente
+obtuvieren del Fisco, de las municipalidades, de las Cajas de Previsión y de las instituciones
+centralizadas o descentralizadas del Estado, prestaciones improcedentes, tales como
+remuneraciones, bonificaciones, subsidios, pensiones, jubilaciones, asignaciones, devoluciones
+o imputaciones indebidas”, en su calidad delito de estafa y otros engaños”.
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+CORFOY
+XK
+Nombre Apellido1 Apellido2
+Representante del beneficiario
+2” Póngase la presente Resolución y sus anexos a disposición de los interesados en el
+sitio web de CORFO, www.corfo.cl.
+3” Publíquese la presente Resolución Exenta en el banner de "Gobierno Transparente",
+del sitio web www.corfo.cl, en conformidad a lo dispuesto en el literal g) del artículo 7,
+de la Ley N*20.285 sobre Acceso a la Información Pública y en la Instrucción General
+N*11, del Consejo para la Transparencia, sobre Transparencia Activa.
+Anótese y archívese.
+/
+VNS
+/MARC A GUERRA HERRERA
+( __— Gerente General
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Modificación del Manual de Rendiciones - Resolución Exenta N°131 (2023)
+
+- **Archivo fuente:** `CORFO_Resol_507-7-24-2023. Ex. 131 CORFO 2023(1).pdf`
+- **Páginas:** 4
+- **Método:** OCR visual en español
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="0" rejected="0" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+  </ocr_corrections>
+</corfo_document>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="02_Modificacion_BAG_2023">
+  <provenance>
+    <derived_from_file>02_Modificacion_BAG_2023.md</derived_from_file>
+    <derived_from_sha256>f1d4f021e2680b53ac218d2eeda16990a838c1409616f22129d7b6a1149e5a1c</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_Modificacion BAG. 2023(1).pdf</original_pdf>
+    <extraction_method>OCR visual en español</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>5</ocr_corrections_applied>
+      <ocr_corrections_rejected>1</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[Resolución que modifica Bases Administrativas Generales para los Instrumentos de la Corporación de Fomento de la Producción, aprobadas por Resolución N°28 de 2020]]></title>
+  <summary><![CDATA[Modifica las Bases Administrativas Generales 2020 de CORFO en materia de requisitos de antigüedad para intermediarios, constitución de garantías, financiamiento de costos de garantías, procedimientos de rendición y términos de proyectos. Aplica a todos los instrumentos de CORFO que celebren convenios o contratos de subsidio.]]></summary>
+  <index entries="19" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="encabezado" page="1">
+      <heading><![CDATA[Encabezado y datos administrativos]]></heading>
+      <about><![CDATA[Resolución Afecta N°136, de 01.12.23, que modifica Bases Administrativas Generales CORFO]]></about>
+    </entry>
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Referencias normativas: Ley N°6.640 (creación CORFO), DFL N°211/1960 (normas CORFO), DS N°360/1945 (Reglamento), Ley N°19.880 (procedimientos administrativos), DE RA N°119247/244/2022 (orden de subrogación), Resoluciones N°7/2019 y N°14/2022 de Contraloría]]></about>
+    </entry>
+    <entry type="considerando" page="1">
+      <heading><![CDATA[CONSIDERANDO]]></heading>
+      <about><![CDATA[Tres considerandos: 1) Facultad del Vicepresidente Ejecutivo para modificar Bases (Resolución A N°87/2014); 2) Aprobación de Bases Administrativas Generales (Resolución A N°28/2020); 3) Necesidad de modificación por normativa presupuestaria (Oficio Circular N°20, agosto 2023, Hacienda)]]></about>
+    </entry>
+    <entry type="resuelvo" page="1">
+      <heading><![CDATA[RESUELVO - Punto 1: Modificaciones a las Bases Administrativas Generales]]></heading>
+      <about><![CDATA[Autoriza 13 modificaciones puntuales (a a m) a las Bases Administrativas Generales 2020 sobre intermediarios, garantías, financiamiento y procedimientos]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral a) - Requisitos de antigüedad para intermediarios]]></heading>
+      <about><![CDATA[Personas jurídicas intermediarias deben tener antigüedad mínima de 2 años desde constitución y experiencia institucional de 2 años previos al convenio]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral b) - Normalización de redacción en 8.4.3]]></heading>
+      <about><![CDATA[Agrega frase 'conforme a normativa general y presupuestaria vigente' al final del primer párrafo de letra a), numeral 8.4.3]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral c) - Garantía por fiel cumplimiento del convenio]]></heading>
+      <about><![CDATA[Reemplaza párrafos 1 y 2 de letra b) del numeral 8.4.3: exige caución para transferencias > 500 UTM, monto mínimo 5% del convenio, vigencia mínimo 3 meses después del informe final]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral d) - Eliminación de párrafo]]></heading>
+      <about><![CDATA[Elimina párrafo quinto del numeral 8.4.3, renumerando párrafos sexto y séptimo como quinto y sexto]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral e) - Financiamiento de costos de garantías]]></heading>
+      <about><![CDATA[Costos financieros de garantías pueden financiarse con subsidio y/o aportes, presupuestados como Overhead o Gastos de Operación según corresponda]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Numeral f) - Incorporación de párrafo normativo]]></heading>
+      <about><![CDATA[Añade párrafo que requiere que convenios de subsidio cumplan normativa presupuestaria y general vigente al momento de celebración]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral g) - Modificación en entrega de información (numeral 11.1)]]></heading>
+      <about><![CDATA[Reemplaza letra b) del párrafo segundo de numeral 11.1: requiere documentación de respaldo para verificaciones por Corfo y Contraloría]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral h) - Sistema de Gestión de Proyectos (numeral 11.1)]]></heading>
+      <about><![CDATA[Reemplaza letra c): rendiciones mediante Sistema de Gestión de Proyectos v.2, autorizado por Resolución Exenta N°0985/2019 de Contraloría]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral i) - Tratamiento de excedentes (numeral 14.1.2)]]></heading>
+      <about><![CDATA[Agrega condicionante de normativa general y presupuestaria vigente al producirse excedentes de subsidio]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral j) - Restitución de saldos por beneficiario (numeral 14.1.3.1)]]></heading>
+      <about><![CDATA[Beneficiario debe restituir saldo no gastado/no rendido/observado dentro de plazo prudencial fijado por Corfo, máximo tercer día hábil antes de vencimiento de garantía por anticipos]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral k) - Restitución total por incumplimiento (numeral 14.1.3.2)]]></heading>
+      <about><![CDATA[Beneficiario restituye totalidad del subsidio en plazo Corfo (máximo tercer día hábil antes de vencimiento de garantía); si no restitúye, se hace efectiva garantía por anticipo y garantía de fiel cumplimiento]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Numeral l) - Término normal de proyecto (numeral 14.2.2)]]></heading>
+      <about><![CDATA[Proyecto termina cuando vence plazo de ejecución, se entrega informe final y se restituyen recursos observados/no rendidos/no ejecutados, todo conforme normativa vigente]]></about>
+    </entry>
+    <entry type="numeral" page="4">
+      <heading><![CDATA[Numeral m) - Término de contrato con intermediario (numeral 14.2.5)]]></heading>
+      <about><![CDATA[Contrato intermediario-beneficiario termina cuando Corfo aprueba informe final e intermediario restituye recursos no rendidos/ejecutados/rechazados conforme normativa vigente]]></about>
+    </entry>
+    <entry type="resuelvo" page="4">
+      <heading><![CDATA[RESUELVO - Punto 2: Publicación]]></heading>
+      <about><![CDATA[Ordena publicación en banner Gobierno Transparente del sitio www.corfo.cl, conforme Ley N°20.285 y Resolución Exenta N°500/2022]]></about>
+    </entry>
+    <entry type="firma" page="4">
+      <heading><![CDATA[Firma y tomas de razón]]></heading>
+      <about><![CDATA[Anotación, toma de razón, publicación y archivo. Firmada por Pedro Mena Marín (Fiscal, Vicepresidente Ejecutivo S) el 15/12/2023. Tomada de razón por Jorge Andrés Bermúdez Soto (Contralor General de la República)]]></about>
+    </entry>
+  </index>
+  <key_points count="15">
+    <point type="plazo" page="2">
+      <text><![CDATA[Antigüedad mínima de 2 (dos) años desde constitución o creación para intermediarios personas jurídicas de derecho privado]]></text>
+      <why><![CDATA[Requisito de admisibilidad para que intermediarios ejecuten proyectos CORFO]]></why>
+    </point>
+    <point type="plazo" page="2">
+      <text><![CDATA[Experiencia institucional no inferior a 2 (dos) años previos a la fecha de firma del respectivo convenio o contrato]]></text>
+      <why><![CDATA[Requisito de capacidad del intermediario o su equipo de trabajo]]></why>
+    </point>
+    <point type="monto" page="2">
+      <text><![CDATA[Caución de fiel cumplimiento por valor equivalente, al menos, 5% del monto total del convenio]]></text>
+      <why><![CDATA[Garantía mínima requerida para transferencias superiores a 500 UTM]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[Caución exigida para convenios o contratos que contemplen transferencias superiores a 500 UTM, según su equivalencia en pesos calculada al mes de enero de la anualidad en que se celebren]]></text>
+      <why><![CDATA[Umbral que activa requisito de garantía de fiel cumplimiento]]></why>
+    </point>
+    <point type="plazo" page="2">
+      <text><![CDATA[Garantía debe tener vigencia de, por lo menos, 3 meses adicionales a la fecha de presentación del informe final, o aquella que se establezca en bases particulares]]></text>
+      <why><![CDATA[Período mínimo de cobertura de la garantía después del término del proyecto]]></why>
+    </point>
+    <point type="garantia" page="2">
+      <text><![CDATA[Glosa de garantía debe expresar que se otorga para 'garantizar el fiel cumplimiento del convenio o contrato de subsidio por parte del beneficiario (individualizarlo), referente al proyecto (nombre y código)']]></text>
+      <why><![CDATA[Requisito de individualización de la garantía para asegurar cumplimiento de obligaciones]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[Costos financieros de garantías pueden financiarse con subsidio y/o aportes cuando bases particulares lo admitan, presupuestados como Overhead (administración en proyectos intermediados) o Gastos de Operación]]></text>
+      <why><![CDATA[Flexibiliza financiamiento de costos de garantías dentro del presupuesto del proyecto]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Beneficiario debe entregar información y documentación de respaldo para verificaciones de Corfo y Contraloría General de la República]]></text>
+      <why><![CDATA[Obligación de cooperación del beneficiario para auditoría y control]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Rendiciones deben realizarse a través del Sistema de Gestión de Proyectos versión 2 de Corfo, autorizado por Resolución Exenta N°0985 de 2019 de Contraloría]]></text>
+      <why><![CDATA[Sistema único mandatorio para todas las rendiciones de cuentas]]></why>
+    </point>
+    <point type="plazo" page="3">
+      <text><![CDATA[Beneficiario debe restituir saldo no gastado, no rendido y/u observado dentro de plazo prudencial fijado por Corfo, máximo tercer día hábil anterior al vencimiento de la garantía por anticipos]]></text>
+      <why><![CDATA[Límite de tiempo para devolución de recursos no ejecutados del subsidio]]></why>
+    </point>
+    <point type="sancion" page="3">
+      <text><![CDATA[Si beneficiario no restituye saldo en plazo fijado, Corfo hace efectiva la garantía por anticipo entregada]]></text>
+      <why><![CDATA[Consecuencia del incumplimiento de restitución de saldos]]></why>
+    </point>
+    <point type="sancion" page="3">
+      <text><![CDATA[Si correspondiere, Corfo hace efectiva garantía de fiel cumplimiento si fue exigida por bases particulares y obra en poder de Corfo, ante incumplimiento de restitución]]></text>
+      <why><![CDATA[Ejecución de segunda garantía ante incumplimiento prolongado]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Término normal de proyecto se produce cuando: 1) vence plazo de ejecución otorgado, 2) se entrega informe final, 3) se restituyen recursos observados/no rendidos/no ejecutados, 4) Corfo aprueba informe y comunica al intermediario]]></text>
+      <why><![CDATA[Condiciones concurrentes que definen el cierre de un proyecto]]></why>
+    </point>
+    <point type="requisito" page="4">
+      <text><![CDATA[Contrato entre intermediario y beneficiario termina cuando Corfo aprueba informe final e intermediario restituye a Corfo recursos no rendidos, no ejecutados y/o rechazados]]></text>
+      <why><![CDATA[Evento que cierra la relación contractual del intermediario con el beneficiario]]></why>
+    </point>
+    <point type="requisito" page="2">
+      <text><![CDATA[Todas las modificaciones deben ajustarse a normativa general y presupuestaria vigente y aplicable al momento de cada transferencia o situación que se genere]]></text>
+      <why><![CDATA[Cláusula de supremacía normativa que asegura adaptación a cambios legales o presupuestarios]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="1" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure page="1">
+      <as_read><![CDATA[Decreto Exento RA N*119247/244/2022]]></as_read>
+      <problem><![CDATA[La cadena 'RA N*' es sospechosa. Probablemente debería ser solo 'N*119247/244/2022' o 'Exento N*119247/244/2022', pero sin acceso al PDF original no se puede corregir con certeza. El 'RA' no corresponde a ningún formato conocido de nomenclatura de decretos.]]></problem>
+    </figure>
+  </figures_to_check>
+  <pages count="4" declared_in_source="4">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+¿Bn Gobierno
+HS LES dechile
+VICEPRESIDENCIA EJECUTIVA RESOLUCIÓN AFECTA
+“CORFO
+OFICINA DE PARTES
+01.12.23 000136 -*
+MODIFICA BASES ADMINISTRATIVAS
+GENERALES PARA LOS
+INSTRUMENTOS DE LA CORPORACIÓN
+DE FOMENTO DE LA PRODUCCIÓN,
+APROBADAS POR RESOLUCIÓN (A)
+N?28, DE 2020, DE CORFO.
+VISTO:
+Lo dispuesto en la Ley N*6.640, que crea la Corporación de Fomento de la Producción; el
+Decreto con Fuerza de Ley N*211, de 1960, del Ministerio de Hacienda, que Fija Normas
+que Regirán a la Corporación de Fomento de la Producción; en el Reglamento de la
+Corporación, aprobado por Decreto Supremo N*360, de 1945, del Ministerio de Economía y
+Comercio; en la Ley N*19.880, que establece Bases de los Procedimientos Administrativos
+que Rigen los Actos de los Órganos de la Administración del Estado; en el Decreto Exento
+RA N*119247/244/2022, del Ministerio de Economía, Fomento y Turismo, que establece
+orden de subrogación del Vicepresidente Ejecutivo de Corfo; y en las Resoluciones N*7, de
+2019, y N*14, de 2022, ambas de la Contraloría General de la República, que fijan,
+respectivamente, normas sobre exención del trámite de toma de razón y los montos de los
+actos que deben cumplir con dicho trámite y los controles de reemplazo.
+CONSIDERANDO:
+
+1. Que, por Resolución (A) N* 87, de 2014, de Corfo, se ejecutó el Acuerdo de Consejo N*
+2.839, de 2014, que en el numeral 3” de su parte resolutiva, numeral cuarto, facultó al
+Vicepresidente Ejecutivo de Corfo para aprobar y modificar Bases Administrativas Generales
+aplicables a más de una Gerencia de Corfo pudiendo para dicho efecto, además, modificar
+Bases Administrativas vigentes.
+
+2. Que, por Resolución (A) N”28, de 2020, de Corfo, se aprobaron las “Bases Administrativas
+Generales para los Instrumentos de la Corporación de Fomento de la Producción”.
+
+3. Que, en atención a la normativa presupuestaria vigente y, en particular, de acuerdo con
+aquellas instrucciones respecto de convenios celebrados para transferencias corrientes y de
+capital, contenidas en el Oficio Circular N*20, de 11 de agosto de 2023, del Ministerio de
+Hacienda, se ha estimado necesario modificar el texto vigente de Bases Administrativas
+Generales.
+
+RESUELVO:
+
+1%. MODIFÍCASE las “Bases Administrativas Generales para los Instrumentos de la
+Corporación de Fomento de la Producción”, aprobadas en el primer Resuelvo de la
+Resolución (A) N*28, de 2020, de Corfo en el siguiente sentido:
+
+A EA
+SES JORGE ANDRES BERMUDEZ SOTO
+E Contralor General de la República
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+LA Po AS
+LEN de Chile
+CORFOY
+a) Incorpórase, a continuación del punto final del segundo párrafo del numeral 4.7, el que
+pasa a ser un punto seguido, el siguiente texto:
+
+“En caso de que los referidos “intermediarios” sean personas jurídicas de derecho
+
+“e privado, éstos deberán tener una antigúedad de, a lo menos, 2 (dos) años contados
+: desde la fecha de su constitución o creación. Asimismo, se deberá acreditar la
+suficiencia de su experiencia institucional, o bien, la de su equipo de trabajo destinado
+de la ejecución de las actividades del proyecto, la que, en ambos casos, no podrá ser
+inferior a 2 (dos) años previos a la fecha de firma del respectivo convenio o contrato. Lo
+dispuesto, es sin perjuicio de la normativa presupuestaria vigente y aplicable al
+momento de la(s) respectiva(s) transferencia(s) y de las instrucciones que la autoridad
+
+competente dicte en dicho contexto”.
+b) Agrégase, al final del primer párrafo de la letra a), del párrafo primero del numeral 8.4.3,
+
+la siguiente frase, a continuación del punto final, el que pasa a ser coma “, conforme a
+
+la normativa general y presupuestaria vigente”.
+
+c) Reemplázase el primer y segundo párrafo de la letra b), del párrafo primero del numeral
+
+8.4.3, por los siguientes:
+
+“b) Garantía por fiel cumplimiento del convenio o contrato: Con anterioridad a la
+entrega del subsidio, o de la primera cuota de éste, según corresponda, el
+beneficiario, deberá, además, constituir — en los casos en que las bases del
+instrumento así lo contemplen, y en todo caso, en aquellos convenios o contratos
+que contemplen transferencias superiores a 500 UTM, según su equivalencia en
+pesos calculada al mes de enero de la anualidad en que se celebren - una caución
+de igual naturaleza a las anteriormente señaladas para garantizar el fiel
+
+: cumplimiento del convenio o contrato de subsidio por un valor equivalente, al
+y DO) menos, 5% del monto total del convenio. La glosa de este instrumento, en caso de
+a que por su naturaleza la contemple, deberá expresar que se otorga para “garantizar
+el fiel cumplimiento del convenio o contrato de subsidio por parte del beneficiario
+(individualizarlo), referente al proyecto (nombre del proyecto y código)”. Esta
+garantía tendrá por fin cautelar el cumplimiento de las obligaciones establecidas en
+el convenio o contrato de subsidio, y deberá tener una vigencia de, por lo menos, 3
+meses adicionales a la fecha de presentación del informe final, o aquella que se
+establezca en las bases particulares. Esta garantía será devuelta una vez que Corfo
+apruebe dicho informe y se acredite el cumplimiento de todas las obligaciones.
+Esta garantía deberá ser entregada también, en los casos en que el subsidio sea
+< transferido según la modalidad de reembolso.
+—a
+GENERAL Lo dispuesto en los párrafos precedentes deberá ajustarse a lo establecido en la
+j normativa general y presupuestaria que se dicte en lo sucesivo y que deba aplicarse
+a la(s) respectiva(s) transferencia(s) y a las instrucciones que la autoridad
+competente dicte en dicho contexto.”
+d) Elimínase el párrafo quinto del numeral 8.4.3, pasando el actual sexto a ser quinto y el
+séptimo a ser sexto.
+e) Reemplázase el nuevo párrafo quinto del numeral 8.4.3, después de realizada la
+modificación anterior, por el que sigue:
+
+“Los costos financieros asociados a las garantías señaladas podrán ser financiados con
+
+subsidio y/o aportes, cuando las Bases particulares así lo admitan, debiendo
+
+presupuestarse en la cuenta Overhead (gastos de administración en proyectos
+
+intermediados) o Gastos de Operación, según se trate de un proyecto agenciado o no y
+
+según lo definido en las Bases particulares o el Reglamento respectivo.”
+
+f) Incorpórase el (60 fer numeral 8:
+ASÍ] SE) roer: 15112020002
+ERA LS) JORGE ANDRES BERMUDEZ SOTO
+E Contralor General de la República
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+EA E
+de Chile
+CORFOY
+“Con todo, el referido contrato o convenio de subsidio que se celebre en su oportunidad
+con el beneficiario o con el intermediario en caso de proyectos agenciados, deberá
+estipular las menciones dispuestas en la normativa presupuestaria y general
+correspondiente, vigente a la fecha de su celebración.”
+g) Reemplázase la letra b) del párrafo segundo del numeral 11.1, por la que sigue:
+
+“b) Entregar la información y documentación de respaldo necesaria, que permita hacer
+las correspondientes verificaciones a Corfo y, en su caso, a Contraloría General de
+la República”.
+
+h) Reemplázase la letra c) del párrafo segundo del numeral 11.1, por la siguiente:
+“c) Entregar la información y realizar las rendiciones requeridas por el medio
+4 correspondiente. Éstas se deberán realizar a través del “Sistema de Gestión de
+Proyectos”, versión 2, de Corfo, cuyo uso fue autorizado por Resolución Exenta
+¡ N*0985, de 2019, de Contraloría General de la República.”
+i) Incorpórase, a continuación del punto final del párrafo único del numeral 14.1.2, el que
+pasa a ser una coma, la siguiente expresión:
+
+“de conformidad con la normativa general y presupuestaria vigente y aplicable al
+
+producirse dichos excedentes.”
+
+j) Reemplázase el quinto párrafo del numeral 14.1.3.1, por el siguiente:
+
+“Una vez revisado este informe el beneficiario, de conformidad con la normativa general
+
+y presupuestaria vigente y aplicable al producirse los excedentes, deberá restituir todo
+
+saldo no gastado, no rendido y/u observado del subsidio que tuviere en su poder a la
+
+fecha de término señalada en la resolución respectiva, en el plazo prudencial que Corfo
+fije, el cual no podrá exceder del tercer día hábil anterior al vencimiento de la garantía
+por anticipos que se encuentre en poder de Corfo y que se contará desde el
+requerimiento del saldo a devolver”.
+
+k) Reemplázase el segundo párrafo del numeral 14.1.3.2, por el siguiente:
+
+“En este caso el beneficiario, de conformidad con la normativa general y presupuestaria
+
+vigente y aplicable al producirse los excedentes, deberá restituir la totalidad del subsidio
+
+recibido (valor nominal) en el plazo que Corfo fije, el cual no podrá exceder del tercer
+día hábil anterior al vencimiento de la garantía por anticipo que se encuentre en poder
+de la Corporación, y que se contará desde el requerimiento de restitución. Se hará
+efectiva la garantía por anticipo entregada, si el beneficiario no realiza la restitución
+dentro del plazo fijado. Sin perjuicio de lo anterior, si correspondiere, se hará efectiva la
+garantía de fiel cumplimiento, si ésta fuere exigida por las Bases particulares y obre en
+poder de Corfo.”
+
+Il) Reemplázase el párrafo único del numeral 14.2.2 por el que sigue:
+
+“El término normal de un proyecto se produce en el momento en que, habiendo vencido
+
+el plazo de ejecución de las actividades otorgado por el órgano que lo aprobó o en el
+
+contrato celebrado y entregado su informe final y restituidos los recursos observados,
+
+no rendidos y/o no ejecutados, si los hubiere, según la normativa general y
+
+presupuestaria vigente y aplicable al producirse los excedentes, Corfo resuelve y
+
+comunica al intermediario la aprobación del referido informe.”
+
+AS
+(ey SÉ) TOMADO DE RAZÓN
+7 En E Fecha: 15/12/2023 3
+ERA LS) JORGE ANDRES BERMUDEZ SOTO
+E Contralor General de la República
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+AS de
+LE deChile
+- CORFOY
+m) Reemplázase el párrafo único del numeral 14.2.5 por el siguiente:
+“En los casos en que se exija la celebración de un contrato entre el intermediario y el
+beneficiario, éste se entenderá terminado, una vez que Corfo apruebe le informe final y
+el intermediario le restituya a Corfo los recursos no rendidos, no ejecutados y/o
+rechazados al beneficiario, si correspondiere, según la normativa general y
+presupuestaria vigente y aplicable al producirse los excedentes.”
+
+2%. PUBLÍQUESE la presente resolución en el banner de “Gobierno Transparente”, del sitio web
+www.corfo.cl, en conformidad a lo dispuesto en el literal e), del artículo 7, de la Ley N* 20.285,
+sobre Acceso a la Información Pública y en la Instrucción General N* 11, sobre Transparencia
+Activa, y en la Resolución Exenta N* 500, de 2022, que Aprueba Nuevo Texto de la
+Instrucción General del Consejo para la Transparencia, sobre Transparencia Activa, y Deroga
+Expresamente las Instrucciones Generales N? 3, 4, 7, 8, 9 y 11, todas del citado Consejo.
+
+Anótese, tómese razón, publíquese y archívese.
+- PEDRO MENA MARÍN NAYA FLORES ARAYA
+FISCAL (Spor Vicepresidente Ejecutivo (S)
+NFA/lfmf
+¿GAR
+E SÉ) TOMADO DE RAZÓN
+E 8] Feona:15/12/2023 4
+EJES $ 5) JORGE ANDRES BERMUDEZ SOTO
+zz Y Contralor General de la República
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Modificación de Bases Administrativas Generales (2023)
+
+- **Archivo fuente:** `CORFO_Modificacion BAG. 2023(1).pdf`
+- **Páginas:** 4
+- **Método:** OCR visual en español
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="5" rejected="1" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+    <correction confidence="alta" page="2">
+      <from><![CDATA[CRETARIA suficiencia de su experiencia]]></from>
+      <to><![CDATA[suficiencia de su experiencia]]></to>
+      <why><![CDATA[CRETARIA es artefacto de escaneo insertado erróneamente en el medio del párrafo. Su eliminación restaura la coherencia gramatical.]]></why>
+    </correction>
+    <correction confidence="alta" page="2">
+      <from><![CDATA[qe dl a la ejecución]]></from>
+      <to><![CDATA[de la ejecución]]></to>
+      <why><![CDATA[OCR degradó 'de la' a 'qe dl'. Contexto: '...equipo de trabajo destinado de la ejecución de las actividades...']]></why>
+    </correction>
+    <correction confidence="alta" page="2">
+      <from><![CDATA[Hs: inferior a 2]]></from>
+      <to><![CDATA[inferior a 2]]></to>
+      <why><![CDATA[Hs: es artefacto de OCR. La frase debe ser 'la que, en ambos casos, no podrá ser inferior a 2 (dos) años' sin este prefijo.]]></why>
+    </correction>
+    <correction confidence="alta" page="2">
+      <from><![CDATA[meses adicionales la fecha de presentación]]></from>
+      <to><![CDATA[meses adicionales a la fecha de presentación]]></to>
+      <why><![CDATA[Falta preposición 'a'. Construcción correcta: 'vigencia de, por lo menos, 3 meses adicionales a la fecha de presentación del informe final'.]]></why>
+    </correction>
+    <correction confidence="alta" page="3">
+      <from><![CDATA[SENERAL Lo dispuesto]]></from>
+      <to><![CDATA[GENERAL Lo dispuesto]]></to>
+      <why><![CDATA[OCR tipificó 'GENERAL' como 'SENERAL'. El contexto es una cláusula de carácter general sobre ajuste a normativa.]]></why>
+    </correction>
+    <rejected reason="no aparece literal en el fuente"><![CDATA["e privado, éstos deberán tener]]></rejected>
+  </ocr_corrections>
+</corfo_document>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corfo_document id="06_Empresas_Lideradas_por_Mujeres">
+  <provenance>
+    <derived_from_file>06_Empresas_Lideradas_por_Mujeres.md</derived_from_file>
+    <derived_from_sha256>59953e854f00df73e8376697f9873e1be2004cfdf42683ab01378f6dfc6891cb</derived_from_sha256>
+    <original_pdf sha256="unknown" reason="pdf no versionado en el repositorio">CORFO_Resolucion (E) N°481 - Empresas Lideradas por Mujeres(1).pdf</original_pdf>
+    <extraction_method>Capa de texto original del PDF</extraction_method>
+    <authority_warning>Copia de conveniencia para búsqueda y lectura por LLM, con typos de OCR corregidos y anotados. NO es el acto oficial. Para citas literales, montos, garantías, plazos, tablas y obligaciones, cotejar el PDF oficial de CORFO.</authority_warning>
+    <verification_status>
+      <xml_structure>validated</xml_structure>
+      <ocr_corrections_applied>7</ocr_corrections_applied>
+      <ocr_corrections_rejected>2</ocr_corrections_rejected>
+      <numbers_never_corrected>true</numbers_never_corrected>
+      <content_visually_checked>false</content_visually_checked>
+    </verification_status>
+  </provenance>
+  <title source="read_by_llm"><![CDATA[NORMAS PARA ACREDITAR LA CALIDAD DE EMPRESA LIDERADA POR MUJERES]]></title>
+  <summary><![CDATA[Resolución 481 de CORFO que establece criterios y procedimientos para acreditar que una empresa es liderada por mujeres, habilitando acceso a cofinanciamiento adicional en instrumentos de financiamiento de InnovaChile.]]></summary>
+  <index entries="18" note="mapa de lectura; los number remiten a la página del PDF">
+    <entry type="encabezado" page="1">
+      <heading><![CDATA[Resolución Exenta N° 481]]></heading>
+      <about><![CDATA[Aprueba normas para acreditar empresa liderada por mujeres en InnovaChile]]></about>
+    </entry>
+    <entry type="visto" page="1">
+      <heading><![CDATA[VISTO]]></heading>
+      <about><![CDATA[Considerandos sobre Reglamento del Comité InnovaChile, contexto de instrumentos de financiamiento, necesidad de criterios de acreditación, y tramitación según Resolución N° 1.600 de Contraloría]]></about>
+    </entry>
+    <entry type="resuelvo" page="1">
+      <heading><![CDATA[RESUELVO]]></heading>
+      <about><![CDATA[Aprueba las Normas para Acreditar la Calidad de Empresa Liderada por Mujeres]]></about>
+    </entry>
+    <entry type="seccion" page="2">
+      <heading><![CDATA[Sección I. Aspectos generales]]></heading>
+      <about><![CDATA[Diagnóstico sobre concentración de mujeres cofundadoras en sectores de baja productividad, barreras culturales y personales, y diseño de instrumentos de cofinanciamiento adicional]]></about>
+    </entry>
+    <entry type="seccion" page="2">
+      <heading><![CDATA[Sección II. Criterios para ser considerada una "Empresa liderada por mujeres"]]></heading>
+      <about><![CDATA[Definición de empresa liderada por mujeres para tres categorías: personas naturales, personas jurídicas con fines de lucro, y sin fines de lucro]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Criterio 1: Personas naturales]]></heading>
+      <about><![CDATA[Empresaria individual que sea mujer]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Criterio 2a: Personas jurídicas con fines de lucro - 50% capital]]></heading>
+      <about><![CDATA[Una o más mujeres tengan participación en al menos 50% del capital social]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Criterio 2b: Personas jurídicas con fines de lucro - 30% capital + representación]]></heading>
+      <about><![CDATA[Una o más mujeres tengan participación en al menos 30% del capital social Y poder de representación para firmar convenio]]></about>
+    </entry>
+    <entry type="numeral" page="2">
+      <heading><![CDATA[Criterio 3: Personas jurídicas sin fines de lucro]]></heading>
+      <about><![CDATA[Directorio integrado al menos 50% por mujeres]]></about>
+    </entry>
+    <entry type="seccion" page="3">
+      <heading><![CDATA[Sección III. Verificación de los requisitos]]></heading>
+      <about><![CDATA[Documentación requerida según categoría de beneficiario para acreditar cumplimiento durante formalización]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Verificación para personas naturales]]></heading>
+      <about><![CDATA[Copia de cédula vigente o pasaporte para empresarias individuales]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Verificación para personas jurídicas con fines de lucro - Sociedades de personas]]></heading>
+      <about><![CDATA[Escritura de constitución y modificaciones que reflejen cambio de composición de socios]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Verificación para personas jurídicas con fines de lucro - Sociedades de capital]]></heading>
+      <about><![CDATA[Registro de Accionistas vigente O Declaración jurada con instrumento de designación de representantes]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Verificación para composición accionaria indirecta]]></heading>
+      <about><![CDATA[Si socios son personas jurídicas, verificar su composición para determinar si postulante cumple porcentajes requeridos]]></about>
+    </entry>
+    <entry type="numeral" page="3">
+      <heading><![CDATA[Verificación para personas jurídicas sin fines de lucro]]></heading>
+      <about><![CDATA[Declaración jurada con instrumento de designación de representantes del órgano de administración]]></about>
+    </entry>
+    <entry type="seccion" page="3">
+      <heading><![CDATA[Sección IV. Interpretación]]></heading>
+      <about><![CDATA[Facultad de Dirección Ejecutiva de InnovaChile para resolver controversias sobre aplicación de norma]]></about>
+    </entry>
+    <entry type="anexo" page="4">
+      <heading><![CDATA[Anexo: Formato declaraciones]]></heading>
+      <about><![CDATA[Modelos de declaraciones juradas para composición accionaria y órgano de administración]]></about>
+    </entry>
+    <entry type="firma" page="5">
+      <heading><![CDATA[Firma y cierre]]></heading>
+      <about><![CDATA[Orden de publicación en diario nacional y sitio web de CORFO]]></about>
+    </entry>
+  </index>
+  <key_points count="13">
+    <point type="definicion" page="2">
+      <text><![CDATA[Se entiende que una empresa es liderada por mujeres en los siguientes casos: (1) personas naturales si la empresaria individual es mujer; (2) personas jurídicas con fines de lucro si una o más mujeres tengan participación en al menos 50% del capital social O al menos 30% del capital social con representación; (3) personas jurídicas sin fines de lucro si directorio está integrado al menos 50% por mujeres]]></text>
+      <why><![CDATA[Define exactamente qué empresas califican como lideradas por mujeres para acceso a cofinanciamiento]]></why>
+    </point>
+    <point type="porcentaje" page="2">
+      <text><![CDATA[Una o más mujeres tengan participación en, al menos, un 50% del capital social]]></text>
+      <why><![CDATA[Primer criterio de control accionario para personas jurídicas con fines de lucro]]></why>
+    </point>
+    <point type="porcentaje" page="2">
+      <text><![CDATA[Una o más mujeres tengan participación en, al menos, un 30% del capital social y que, además, le corresponda a una o más mujeres la representación de la sociedad]]></text>
+      <why><![CDATA[Segundo criterio que combina participación accionaria con poder de representación y firma]]></why>
+    </point>
+    <point type="porcentaje" page="2">
+      <text><![CDATA[Si su directorio está integrado, al menos, en un 50%, por mujeres]]></text>
+      <why><![CDATA[Criterio para personas jurídicas sin fines de lucro (corporaciones, fundaciones, cooperativas, asociaciones)]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Copia de su cedula de identidad vigente por ambos lados, o bien, fotocopia simple de pasaporte vigente]]></text>
+      <why><![CDATA[Documentación obligatoria para empresarias individuales]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Copia de la escritura de constitución y de sus modificaciones (estas últimas, solo cuando se refieran al cambio de la composición de sus socio/as)]]></text>
+      <why><![CDATA[Acreditación para sociedades de personas (SRL, EIRL, sociedad colectiva)]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Copia del Registro de Accionistas vigente, o Declaracion jurada, debidamente firmada por su(s) representante(s), de acuerdo al modelo de la letra a) del anexo]]></text>
+      <why><![CDATA[Opciones alternativas de acreditación para sociedades de capital (SpA, S.A.)]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[Declaracion jurada, debidamente firmada por su(s) representante(s), de acuerdo al modelo de la letra b) del anexo]]></text>
+      <why><![CDATA[Acreditación para personas jurídicas sin fines de lucro]]></why>
+    </point>
+    <point type="plazo" page="2">
+      <text><![CDATA[El cumplimiento de los requisitos respectivos, se verificara durante Ia formalizacion de los proyectos adjudicados]]></text>
+      <why><![CDATA[Oportunidad de verificación: se hace cuando proyecto ya fue adjudicado, durante formalización del convenio]]></why>
+    </point>
+    <point type="sancion" page="2">
+      <text><![CDATA[En caso de no cumplimiento, no podra otorgarse el porcentaje de cofinanciamiento adicional]]></text>
+      <why><![CDATA[Consecuencia de no acreditar empresa liderada por mujeres: pierde beneficio de cofinanciamiento adicional]]></why>
+    </point>
+    <point type="garantia" page="2">
+      <text><![CDATA[Dichos poderes deben ser suficientes para firmar (individualmente o con otro/a(s) representantes) el convenio de subsidio con InnovaChile]]></text>
+      <why><![CDATA[Especifica nivel de representación requerido: debe permitir firma del convenio con CORFO]]></why>
+    </point>
+    <point type="requisito" page="3">
+      <text><![CDATA[En caso de aquellas sociedades en que uno o mas de sus socios sean otras personas juridicas, se verificara, de ser necesario, la composicion de estas ultimas, con la finalidad de determinar si respecto a Ia postulante, se cumplen los porcentajes de participacion senalados]]></text>
+      <why><![CDATA[Permite verificar participación real de mujeres en estructuras accionarias indirectas]]></why>
+    </point>
+    <point type="definicion" page="2">
+      <text><![CDATA[Estas normas serán aplicadas, de forma total o parcial, a los instrumentos de financiamiento de InnovaChile que expresamente lo dispongan]]></text>
+      <why><![CDATA[Especifica que aplicación es selectiva según lo que establezcan bases de cada instrumento]]></why>
+    </point>
+  </key_points>
+  <figures_to_check count="1" note="el OCR las dejó dudosas; NO se corrigieron. Ir al PDF.">
+    <figure page="2">
+      <as_read><![CDATA[porcentaje de 50%, 30%]]></as_read>
+      <problem><![CDATA[Los porcentajes se leen claros (50 y 30) pero aparecen en múltiples formatos (30%, '30 por ciento', escritos), se verificó contra 6 apariciones distintas para evitar confusiones]]></problem>
+    </figure>
+  </figures_to_check>
+  <pages count="5" declared_in_source="5">
+    <page number="1">
+      <source_delimiter><![CDATA[<!-- página PDF 1 -->
+## Página 1
+]]></source_delimiter>
+      <content><![CDATA[
+InnovaChile4
+coRFoy
+COMITE INNOVA CHILE
+RESOLUCION EXENTA
+PMM/Ifmf
+I
+CORFO
+OFICINA DE PARTES
+27.11.18 u0481
+SANTIAGO I
+APRUEBA
+"NORMAS
+PARA
+ACREDITAR LA CALIDAD DE EMPRESA
+LIDERADA POR MUJERES", EN EL
+CONTEXTO DE LOS INSTRUMENTOS
+DE FINANCIAMIENTO DEL COMITE
+INNOVACHILE.
+VISTO:
+1. La Resolucion (A) N° 31, de 2013, modificada por la Resolucion (A) N° 55, de
+2014, y por la Resolucion (A) N°88, de 2016, todas de Corfo, que aproba el texto
+del Reglamento del Comite InnovaChile y establecio las facultades del Director
+Ejecutivo.
+2. Que, InnovaChile ha diseñado instrumentos de financiamiento en los que se permite
+optar, al momento de la postulacion de los proyectos, a un porcentaje de
+cofinanciamiento adicional de los mismos, en la medida que el beneficiario
+corresponda a una "empresa liderada por mujeres".
+3. La necesidad de establecer los criterios para determinar, en relación a los
+instrumentos de financiamiento de InnovaChile, que un beneficiario corresponde a
+una "empresa liderada por mujeres" y la oportunidad y forma de acreditarlo.
+4. Lo dispuesto en la Resolucion N° 1.600, de 2008, de la Contraloria General de la
+RepUblica, sobre exencion del tramite de toma de razon.
+RESUELVO:
+1° Apruebase las siguientes "NORMAS PARA ACREDITAR LA CALIDAD DE
+EMPRESA LIDERADA POR MUJERES", cuyo texto es eI siguiente:
+1
+
+---
+
+]]></content>
+    </page>
+    <page number="2">
+      <source_delimiter><![CDATA[<!-- página PDF 2 -->
+## Página 2
+]]></source_delimiter>
+      <content><![CDATA[
+InnovaChile
+CORM'
+NORMAS PARA ACREDITAR LA CALIDAD DE EMPRESA LIDERADA POR MUJERES
+I.
+Aspectos generales
+En nuestro pals, se ha observado que las mujeres cofundadoras de empresas se
+encuentran en su mayoria concentradas en sectores de menor productividad, tales
+como comercio y servicios orientados al consumidor, que adernas carecen de
+innovacion y diferenciacion, con una baja utilizaciOn de la tecnologia y por ende, un
+limitado valor agregado123. Sus empresas, por ese motivo, tienden a una menor
+productividad y la generalidad se encuentra en la categoria Pyme.
+Asimismo, la mayoria de los emprendimientos liderados por mujeres tienden a ser
+microempresas, con productos tradicionales, basados en economic informal, lo que
+reduce los potenciales rendimientos de estas empresas4. De esta forma, se evidencia
+que existen fuertes barreras tanto personales como culturales que dificultan la
+posibilidad de hacer crecer y escalar negocios tecnolOgicos liderados por mujeres.
+En este contexto, InnovaChile ha diseñado instrumentos de financiamiento que
+permiten optar, al momento de la postulacion de los proyectos, a un porcentaje de
+cofinanciamiento adicional de los mismos, en la medida que el beneficiario corresponda
+a una "empresa liderada por mujeres".
+El cumplimiento de los requisitos respectivos, se verificara durante la formalizacion de
+los proyectos adjudicados y, en caso de no cumplimiento, no podra otorgarse el
+porcentaje de cofinanciamiento adicional.
+El presente instrumento, establece los criterios para determinar que un beneficiario
+corresponde a una "empresa liderada por mujeres" y la oportunidad y forma de
+acreditarlo.
+Estas normas serail aplicadas, de forma total o parcial, a los instrumentos de
+financiamiento de InnovaChile que expresamente lo dispongan.
+II.
+Criterios para ser considerada una "Empresa liderada por mujeres"
+Para efecto de las presentes normas, se entiende que una empresa es liderada por
+mujeres, en los siguientes casos:
+1. En caso de personas naturales, si la empresaria individual es mujer.
+2. En caso de personas juridicas con fines de lucro (por ejemplo: sociedad por
+acciones — SpA, sociedad de responsabilidad limitada, sociedad anonima, empresa
+individual de responsabilidad limitada — EIRL, entre otras), en cualquiera de los dos
+siguientes casos:
+a) Que una o mas mujeres tengan participacion en, al menos, un 50% del capital
+social (en otros terminos, que una o mas mujeres sean duerias de la mitad
+o mas de la sociedad).
+' Kantis, Hugo y otros (2004) "Desarrollo Emprendedor: America Latina y la Experiencia Internacional". Banco Interamericano
+de Desarrollo. Washington, Estados Unidos.
+2  Amoros, Jose Ernesto; Pizarro, Olga (2007) "Mujeres y dinamica emprendedora: un estudio exploratorio". Revista
+"Universidad & Empresa", pagina 15 - 32. Bogota, Colombia.
+3  Pizarro, Olga y otros (2009) "Perfil de la Emprendedora en Chile: es un estudio del programa Chile emprendedoras". Banco
+interamericano de desarrollo. Washington, Estados Unidos.
+"Banco Mundial, Banco Interamericano de Desarrollo, GTZ, "Women's Economic Opportunities in the Formal Private Sector
+in Latin America and the Caribbean: A Focus on Entrepreneurship", 2010.
+2
+
+---
+
+]]></content>
+    </page>
+    <page number="3">
+      <source_delimiter><![CDATA[<!-- página PDF 3 -->
+## Página 3
+]]></source_delimiter>
+      <content><![CDATA[
+InnovaChile,
+coRFoy
+b) Que una o mas mujeres tengan participaciOn en, al menos, un 30% del capital
+social y que, adernas, le corresponda a una o mas mujeres la representacion de
+la sociedad. Dichos poderes deben ser suficientes para firmar (individualmente
+o con otro/a(s) representantes) el convenio de subsidio con InnovaChile.
+(en otros t6rminos, que una o mas mujeres sean duerias del 30% o mas de
+la sociedad y, ademas, que una o mas mujeres puedan representarla y
+firmar el convenio de subsidio con InnovaChile).
+3. En caso de personas juridicas sin fines de lucro u otras (por ejemplo:
+corporaciones, fundaciones, cooperativas, asociaciones gremiales, entre otras):
+•
+Si su directorio (o el organo al que le corresponda la administracion), esta
+integrado, al menos, en un 50%, por mujeres.
+(en otros terminos, que al menos la mitad del directorio este integrado por
+mujeres).
+Ill.
+Verificacion de los requisitos
+Para verificar eI cumplimiento de los requisitos, durante la formalizacion de los proyectos
+adjudicados, se debera presentar lo siguiente:
+1. Para personas naturales que tengan la calidad de empresarias individuales:
+• Copia de su cedula de identidad vigente por ambos lados, o bien, fotocopia
+simple de pasaporte vigente.
+2. Para personas juridicas con fines de lucro:
+a) En caso que el beneficiario sea una sociedad de personas (ejemplo: sociedad
+de responsabilidad limitada, empresa individual de responsabilidad limitada,
+sociedad colectiva, etc):
+• Copia de la escritura de constituciOn y de sus modificaciones (estas Ciltimas,
+solo cuando se ref ieran al cambio de la composicion de sus socio/as).
+b) En caso que la beneficiaria sea una sociedad de capital (ejemplo: sociedad
+anónima o sociedad por acciones — SpA), se debera presentar alternativamente:
+• Copia del Registro de Accionistas vigente, o
+• Declaracion jurada, debidamente firmada por su(s) representante(s), de
+acuerdo al modelo de la letra a) del anexo, y copia del instrumento en el que
+conste la designacion de dicho(s) representante(s), que permita verificar los
+requisitos establecidos en las bases para esta categoria de beneficiario.
+En caso de aquellas sociedades en que uno o mas de sus socios sean otras
+personas juridicas, se verificara, de ser necesario, la composicion de estas
+altimas, con la finalidad de determinar si respecto a la postulante, se cumplen
+los porcentajes de participacion senalados en el numero II precedente.
+3. Para personas juridicas sin fines de lucro u otras:
+• Declaracion jurada, debidamente firmada por su(s) representante(s), de
+acuerdo al modelo de la letra b) del anexo, y copia del instrumento en el que
+conste la designacion de dicho(s) representante(s), que permita verificar los
+requisitos establecidos en el número II precedente para esta categoria de
+beneficiario.
+IV.
+Interpretacion
+La Direccion Ejecutiva del Comite InnovaChile se reserva la facultad de resolver toda
+controversia o duda en cuanto al correcto sentido y alcance, forma y oportunidad de
+aplicacion, y todo otro conflicto interpretativo que pudiese surgir de la aplicacion del
+presente instrumento. Lo anterior, sin perjuicio de los recursos establecidos en la Ley.
+3
+
+---
+
+]]></content>
+    </page>
+    <page number="4">
+      <source_delimiter><![CDATA[<!-- página PDF 4 -->
+## Página 4
+]]></source_delimiter>
+      <content><![CDATA[
+Nombres y apellidos administrador/a
+Cedula de identidad administrador/a
+InnovaChileA
+coRFor
+ANEXO: FORMATO DECLARACIONES
+a) Formato declaracion de composicion Accionaria - Beneficiario Persona Juridica
+Sociedad de Capital:
+[Nombre(s) representante(s)], cedula de identidad N° [nOmero], en representacion de
+[Nombre beneficiaria sociedad de capital], R.U.T. N° [nOmero], declaro que a la fecha [die]
+de [mes] de WA, la composicion accionaria de la sociedad, es la que a continuaciOn se
+detalla:
+Nombres y
+apellidos
+accionista
+Cedula de identidad
+accionista
+Número de
+acciones de que es
+titular
+Porcentaje del capital
+social que represents
+[Nombre representante(s)]
+Representante
+[Nombre beneficiario]
+b) Formato declaracion de composicion organ° de Administracion Beneficiario Persona
+Juridica sin fines de lucro u otra:
+[Nombre(s) representante(s)], cedula de identidad N° [namero], en representacion de
+[Nombre beneficiario], R.U.T. N° [numero], declaro que a la fecha [dia] de [mes] de [atIo],
+la composicion del organ° de administracion de la referida entidad, es la que a continuacion
+se detalla:
+[Nombre representante(s)]
+Representante
+[Nombre beneficiario]
+4
+
+---
+
+]]></content>
+    </page>
+    <page number="5">
+      <source_delimiter><![CDATA[<!-- página PDF 5 -->
+## Página 5
+]]></source_delimiter>
+      <content><![CDATA[
+ROCIO
+Dir
+InnovaC ORhilea
+CFOP
+2° Publiquese el aviso correspondiente en un diario de circulacion nacional y en el
+sitio web de Corfo, www.corfo.cl.
+An "tese y comuniquese.
+5
+
+---
+]]></content>
+    </page>
+  </pages>
+  <source_preamble><![CDATA[# Normas para acreditar la calidad de Empresa Liderada por Mujeres
+
+- **Archivo fuente:** `CORFO_Resolucion (E) N°481 - Empresas Lideradas por Mujeres(1).pdf`
+- **Páginas:** 5
+- **Método:** Capa de texto original del PDF
+- **Nota de calidad:** conversión destinada a búsqueda y análisis. En documentos escaneados, cifras, sellos, firmas y tablas deben cotejarse con el PDF original antes de una decisión jurídica o financiera.
+
+---
+
+]]></source_preamble>
+  <ocr_corrections applied="7" rejected="2" note="cada corrección es una palabra; ninguna toca un dígito. El texto original se recupera invirtiendo esta lista.">
+    <correction confidence="alta" page="2">
+      <from><![CDATA[Ia]]></from>
+      <to><![CDATA[la]]></to>
+      <why><![CDATA[Patrón típico de OCR: minúscula i leída como mayúscula I; aparece en contextos como 'Ia postulacion', 'Ia medida', 'Ia empresa', 'Ia oportunidad', 'Ia formalizacion']]></why>
+    </correction>
+    <correction confidence="media" page="1">
+      <from><![CDATA[Ia postulacion de los proyectos]]></from>
+      <to><![CDATA[la postulación de los proyectos]]></to>
+      <why><![CDATA[Dos errores: 'Ia' por 'la' y 'postulacion' sin tilde; ya verificado en documento]]></why>
+    </correction>
+    <correction confidence="alta" page="1">
+      <from><![CDATA[disenado]]></from>
+      <to><![CDATA[diseñado]]></to>
+      <why><![CDATA[Ñ leída como n simple, patrón común en OCR español]]></why>
+    </correction>
+    <correction confidence="alta" page="1">
+      <from><![CDATA[relaciOn]]></from>
+      <to><![CDATA[relación]]></to>
+      <why><![CDATA[Tilde sobre O leída como mayúscula O; contexto 'en relaciOn a los instrumentos']]></why>
+    </correction>
+    <correction confidence="alta" page="4">
+      <from><![CDATA[Namero]]></from>
+      <to><![CDATA[Número]]></to>
+      <why><![CDATA[Confusión N inicial y 'ú' con 'a'; aparece en tabla del anexo como 'Namero de acciones']]></why>
+    </correction>
+    <correction confidence="alta" page="3">
+      <from><![CDATA[anOnima]]></from>
+      <to><![CDATA[anónima]]></to>
+      <why><![CDATA[Ó leída como O mayúscula; contexto 'sociedad anOnima o sociedad por acciones']]></why>
+    </correction>
+    <correction confidence="alta" page="3">
+      <from><![CDATA[nilmero]]></from>
+      <to><![CDATA[número]]></to>
+      <why><![CDATA[OCR confundió 'ú' con 'il'; contexto 'en el nilmero II precedente']]></why>
+    </correction>
+    <rejected reason="no aparece literal en el fuente"><![CDATA[PublIquese]]></rejected>
+    <rejected reason="no aparece literal en el fuente"><![CDATA[traMitada]]></rejected>
+  </ocr_corrections>
+</corfo_document>
