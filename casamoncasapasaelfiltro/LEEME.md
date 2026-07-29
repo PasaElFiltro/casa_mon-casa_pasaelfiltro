@@ -1,7 +1,7 @@
 # Corpus CORFO Innova Región, etiquetado para lectura por máquina
 
 Este repositorio es un espacio de trabajo compartido entre dos equipos. Cualquiera
-de los dos —y cualquier instancia Claude que trabaje con ellos— puede leer, escribir
+de los dos —y cualquier instancia Claude/Sol que trabaje con ellos— puede leer, escribir
 y corregir acá.
 
 ## Por qué existe
